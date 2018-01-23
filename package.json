@@ -2,7 +2,6 @@
   "name": "hugo-rougon",
   "version": "1.0.0",
   "description": "A Hugo Theme for the Rougon Macquart website",
-  "main": "index.js",
   "author": "Regis Philibert",
   "license": "ISC",
   "scripts": {

@@ -114,11 +114,11 @@ module.exports = function (grunt) {
 
   // Default taskg
   grunt.registerTask('default', [
-    'sass:dist', 'copy:main', 'watch'
+    'sass:dist', 'copy:main'
   ]);
   // Stage task for stage environement
-  grunt.registerTask('stage', [
-    'sass:dist', 'copy:main'
+  grunt.registerTask('dev', [
+    'sass:dist', 'copy:main', 'watch'
   ]);
   grunt.registerTask('production', [
     'sass:dist', 'copy:main'
