@@ -1,0 +1,14 @@
+---
+title: Ramond (Madame)
+id: 76194
+author: admin
+type: personnage
+date: 2010-03-15T08:15:16+00:00
+excerpt: Le Docteur Pascal
+rm_character_novel:
+  - 75930
+rm_character_name_main: 'Ramond '
+rm_character_name_secondary: Madame
+
+---
+— Voir <a href="#/personnage/leveque-mademoiselle" target="_self">Lévêque (Mademoiselle)</a>.

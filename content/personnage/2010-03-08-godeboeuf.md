@@ -1,0 +1,13 @@
+---
+title: Godebœuf
+id: 76703
+author: admin
+type: personnage
+date: 2010-03-08T16:14:38+00:00
+excerpt: Le Ventre de Paris
+rm_character_novel:
+  - 75946
+rm_character_name_main: Godebœuf
+
+---
+— Marchand d&rsquo;herbes cuites rue Pirouette, dans la boutique de l&rsquo;ancienne charcuterie Gradelle [20]. _(Le Ventre de Paris.)_

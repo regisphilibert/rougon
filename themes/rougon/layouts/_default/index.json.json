@@ -1,0 +1,13 @@
+[
+    {{ range $i, $e := .Site.Pages }}
+        {{ if $i }}, {{ end }}
+            {
+                "permalink":"{{ .Permalink }}"
+                ,"title": "{{ .Title }}"
+                ,"type": "{{ .Type }}"
+                ,"locale" : "{{ .Language }}"
+                ,"search_string":"{{ lower .Title }}"
+            }
+    {{ end }}
+
+]

@@ -1,0 +1,13 @@
+---
+title: Comborel et Cie
+id: 76923
+author: admin
+type: personnage
+date: 2010-02-16T09:56:20+00:00
+excerpt: "L'Argent"
+rm_character_novel:
+  - 75932
+rm_character_name_main: Comborel et Cie
+
+---
+— Maison de transports maritimes pour l&rsquo;Algérie et la Tunisie. Entre dans le syndicat de la Compagnie générale des Paquebots réunis, fondée par Aristide Saccard [179]. _(c.)_

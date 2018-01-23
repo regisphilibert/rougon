@@ -1,0 +1,13 @@
+---
+title: Grandsire
+id: 76684
+author: admin
+type: personnage
+date: 2010-03-08T16:26:11+00:00
+excerpt: Le Rêve
+rm_character_novel:
+  - 75934
+rm_character_name_main: Grandsire
+
+---
+— Juge de paix du canton nord de Beaumont, cousin d&rsquo;Hubertine [17]. Il agit auprès de l&rsquo;Assistance publique pour que les Hubert obtiennent la tutelle officieuse d&rsquo;Angélique Marie [47]. _(Le Rêve.)_

@@ -1,0 +1,14 @@
+---
+title: Vuillaunie (Madame)
+id: 75957
+author: admin
+type: personnage
+date: 2010-03-17T07:49:01+00:00
+excerpt: Pot-Bouille
+rm_character_novel:
+  - 75940
+rm_character_name_main: 'Vuillaunie '
+rm_character_name_secondary: Madame
+
+---
+— Ressemblance physique avec son mari. Elle n&rsquo;a été mère qu&rsquo;à quarante-neuf ans. Ses idées sur l&rsquo;éducation des filles se résument en ceci qu&rsquo;une demoiselle en sait toujours de trop [84]. C&rsquo;est elle qui, en mariant sa fille, a exigé que le jeune ménage n&rsquo;ait qu&rsquo;un enfant. _(Pot-Bouille.)_
