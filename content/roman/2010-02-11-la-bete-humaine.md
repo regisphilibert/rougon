@@ -65,7 +65,7 @@ rm_item_head_image_copryrights: 'La Gare Saint-Lazare - Claude Monet'
   </h4>
   
   <p>
-    Roubeaud, monte à Paris avec sa femme Severine pour une affaire. Celle-ci est protégée depuis longtemps par le président Grandmorin, riche et influent dans la compagnie de chemin de fer et auquel Roubeaud doit sa place de sous-chef à la gare du Havre. Le mari découvre ce jour-là que Grandmorin à débauché sa femme alors enfant. Il ne croit pas pouvoir vivre avec cette vérité tant que le vieil homme est vivant.
+    Roubeau monte à Paris avec sa femme Severine pour une affaire. Celle-ci est protégée depuis longtemps par le président Grandmorin, riche et influent dans la compagnie de chemin de fer et auquel Roubeaud doit sa place de sous-chef à la gare du Havre. Le mari découvre ce jour-là que Grandmorin à débauché sa femme alors enfant. Il ne croit pas pouvoir vivre avec cette vérité tant que le vieil homme est vivant.
   </p>
   
   <h4>
