@@ -1,4 +1,5 @@
 static
+node_modules
 public
 themes/rougon/static
 themes/rougon/node_modules
