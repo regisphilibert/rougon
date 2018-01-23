@@ -23,6 +23,9 @@ $fontRem:18;
 body, html{
     height:100%;
 }
+a{
+ text-decoration: none;
+}
 body{
     font-family: $time;
     *{
