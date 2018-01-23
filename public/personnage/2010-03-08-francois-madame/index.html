@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            François <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                François <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Maraîchère à Nanterre. Veuve. Trente-cinq ans, un peu forte, teint rude, belle de sa vie en plein air et de sa virilité adoucie par des yeux noirs d&rsquo;une tendresse charitable; grand visage calme, serré au front par un foulard noir et jaune. Pas de famille, a eu un neveu qui a mal tourné et qui s&rsquo;est engagé. Madame François vient toutes les nuits à la Pointe Saint-Eustache, avec sa voiture de légumes traînée par Balthazar; elle est pleine de dédain pour Paris et le traite en ville très éloignée, tout à fait ridicule et méprisable. C&rsquo;est elle qui a ramassé Florent, la nuit où, exténué et mourant de faim, il était tombé en travers de l&rsquo;avenue de Neuilly. Quand il la revoit plus tard, elle lui fait l&rsquo;effet d&rsquo;une plante saine et robuste, qu&rsquo;il oppose en sa pensée aux belles filles des Halles, chairs suspectes, parées à l&rsquo;étalage [246]. <em>(Le Ventre de Paris.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

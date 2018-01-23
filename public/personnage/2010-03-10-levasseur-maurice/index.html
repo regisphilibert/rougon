@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Levasseur <span>, Maurice</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Levasseur <span>, Maurice</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fils du percepteur. Frère jumeau d&rsquo;Henriette. Celle-ci, plus virile que lui, l&rsquo;a élevé; il l&rsquo;aime passionnément. Blond, petit, avec un front très développé, un nez et un menton très menus, le visage fin, il a des yeux gris et caressants, un peu fous parfois. Venu à Paris pour y terminer son droit, il s&rsquo;est livré à mille sottises, à toute une dissipation de tempérament faible et exalté, jetant sans compter l&rsquo;argent au jeu et aux femmes. En juillet 1870, Maurice vient d&rsquo;être reçu avocat. il est pour la guerre, il la croit inévitable, nécessaire à l&rsquo;existence même des nations, la vie est une guerre de chaque seconde, la nature exige le combat continu, elle donne la victoire au plus digne [10].</p>
@@ -91,6 +101,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

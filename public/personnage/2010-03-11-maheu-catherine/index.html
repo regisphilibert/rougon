@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Maheu <span>, Catherine</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Maheu <span>, Catherine</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Deuxième enfant de Toussaint Maheu et de la Maheude. Hercheuse au Voreux. Fluette pour ses quinze ans, elle est rousse, elle a un visage blême, déjà gâté par les continuels lavages au savon noir, une bouche un peu grande, avec des dents superbes dans la pâleur chlorotique des gencives, de grosses lèvres d’un rosé pâle, de grands yeux d’une limpidité verdâtre d’eau de source [72]. Ses bras délicats sont d’une blancheur de lait, et ses pieds, habitués à courir dans la mine, sont bleuis, comme tatoués de charbon. Dans sa culotte de mineur, sa veste de toile et le béguin qui enserre son chignon, elle a l’air d’un petit homme, rien ne lui reste de son sexe qu’un dandinement léger des hanches [16]. Les promiscuités de la famille lui ont tout appris de l’homme et de la femme, mais elle est vierge de corps, et vierge enfant, retardée dans la maturité de son sexe par le milieu de mauvais air et de fatigue où elle vit [50]. Ses idées héréditaires de subordination et d’obéissance passive lui donnent une allure résignée et douée.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

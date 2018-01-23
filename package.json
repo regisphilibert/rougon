@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Regis Philibert",
   "license": "ISC",
+  "scripts": {
+    "build": "cd themes/rougon; grunt production; cd ../..; hugo"
+  },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "cssnano": "^3.6.2",

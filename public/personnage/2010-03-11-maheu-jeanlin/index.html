@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Maheu <span>, Jeanlin</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Maheu <span>, Jeanlin</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— troisième enfant de Toussaint Maheu et de la Maheude. Onze ans. On l’emploie au Voreux comme galibot. il gagne vingt sous par jour. Il est petit, il a les membres grêles, avec des articulations énormes, grossies par les scrofules, un masque de singe blafard et crépu, avec des yeux verts et de grandes oreilles. Dans sa précocité maladive, il semble avoir l’intelligence obscure et la vive adresse d’un avorton humain qui retourne à l’animalité d’origine [210]. Depuis longtemps, il exploite Bébert Levaque et Lydie Pierron ; avec celle-ci, il essaye, dans les coins noirs, l’amour que tous deux entendent et voient chez leurs parents, derrière les cloisons, par les fentes des portes; ils savent tout, mais ils ne peuvent guère, trop jeunes, tâtonnant, jouant pendant des heures à des jeux de petits chiens vicieux; Jeanlin appelle ça « faire papa et maman » [138].</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

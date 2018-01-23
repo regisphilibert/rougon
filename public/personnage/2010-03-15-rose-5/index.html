@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Rose
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Rose
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p><strong>—</strong> Fille du concierge de la sous-préfecture, à Sedan. Petite blonde, à l&rsquo;air délicat et joli. Travaille à la fabrique Delaherche. Le 31 août et le 1<sup>er</sup> <span style="font-family: Arial;"></span>septembre 1870, pendant que l&rsquo;armée succombe sous le fer, elle assiste aux va-et-vient des officiers de l&rsquo;état-major général. Son impression est qu&rsquo;ils ont tous l&rsquo;air d&rsquo;être fous, toujours du inonde qui arrive, et les portes qui battent, et des gens qui se fâchent, et d&rsquo;autres qui pleurent, et un vrai pillage dans la maison, les chefs buvant aux bouteilles, couchant dans les lits avec leurs bottes. Le maréchal de Mac-Mahon a bien dormi, tandis que l&rsquo;empereur, souffrant de son affreuse maladie, gémissait toute la nuit, criant à vous faire dresser les cheveux sur la tète ; de tout ce inonde, d&rsquo;ailleurs, c&rsquo;est encore lui le plus gentil et qui tient le moins de place, dans le coin où A se cache pour crier [256]. Le matin du 1<sup>er</sup>, avant de partir vers les avant-postes, il s&rsquo;est fait peindre la figure, pour ne pas promener, parmi son armée, l&rsquo;effroi de son masque blême, décomposé par la souffrance, au nez aminci, aux yeux troubles [220]. Dans l&rsquo;après-midi, Rose l&rsquo;a vu sortir encore et aller sous les obus, jusqu&rsquo;au pont de Meuse, puis lentement revenir, en fataliste résigné qui comprend que son destin lui refuse la mort d&rsquo;un soldat. Et lorsque Napoléon III, sous le coup du sort qui brise et emporte sa fortune, réclame un armistice pour mettre fin à l&rsquo;égorgement, c&rsquo;est la jeune fille qui fournit une nappe à l&rsquo;officier chargé de hisser le drapeau blanc.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

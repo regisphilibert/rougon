@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Muche
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Muche
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p><strong>—</strong> Fils de Louise Méhudin, la belle Normande, qui l’a mis au monde sept mois après la mort d’un fiancé, employé à la Halle. A grandi librement au milieu de la poissonnerie, exprimant ses admirations par un éternel « C’est rien muche ! » qui lui vaut son surnom. Est, à sept ans, un petit bonhomme joli comme un ange et grossier comme un roulier. Cheveux châtains crépus, beaux yeux tendres, bouche pure, il dit des mots gras à écorcher un gosier de gendarme. Son grand succès est de faire la maman Méhudin quand elle est en colère [149]. Attiré par la chaleur du poêle vers le bureau de l’inspection, il a intéressé Florent qui, dans son rêve secret de dévouement, veut l’instruire, retrouvant en lui son jeune frère Quenu au bon temps de la rue Royer-Collard. Muche, docile et aimant, s’attache à Florent et devient le trait d’union entre sa mère et son professeur ; les leçons continuent rue Pirouette, Muche étudie gravement, il apprend l’écriture sur des cahiers où Florent a tracé des modèles subversifs, formules lapidaires qui seront une lourde charge contre lui dans l’affaire du complot des Halles [335]. <em>(Le Ventre de Paris.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Baudu <span>, Jean</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Baudu <span>, Jean</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Frère de Denise et de Pépé. A travaillé à Valognes chez un ébéniste, un réparateur de meubles anciens, qui lui a appris la sculpture sur bois. Comme il avait fait une tête dans un morceau d&rsquo;ivoire, un monsieur s&rsquo;est intéressé à lui et lui a trouvé une place à Paris, chez un ivoirier du faubourg du Temple, où il sera logé et nourri. Quand les trois orphelins quittent Valognes, Jean a seize ans, il a la beauté d&rsquo;une fille, une beauté qu&rsquo;il semble avoir volée à sa sœur, la peau éclatante, les cheveux roux et frisés, les lèvres et les yeux mouillés de tendresse. Le départ a été précipité par une escapade amoureuse du jeune homme, des lettres écrites à une fillette noble de la ville, des baisers échangés par-dessus un mur. A Paris, cet enfant si beau et si gai, plein d&rsquo;insouciance, adoré de toutes les femmes, exploite longtemps l&rsquo;exquise bonté de Denise; pour piller ses petites économies, il raconte des aventures, il invente des dangers extraordinaires. Jean se range à vingt-trois ans, aimant cette fois la nièce d&rsquo;un pâtissier très riche, qui n&rsquo;accepte pas même des bouquets de violettes. Denise le marie et fait les frais d&rsquo;installation du ménage. A cette époque, carré des épaules, dominant sa sœur de toute la tête, il garde sa beauté de femme avec sa chevelure blonde, envolée sous le coup de vent des ouvriers artistes. </p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

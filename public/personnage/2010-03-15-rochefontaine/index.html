@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Rochefontaine
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Rochefontaine
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p><strong>—</strong> Propriétaire des ateliers de construction de Châteaudun. Grand garçon intelligent et actif, très riche, trente-huit ans à peine, les cheveux ras, la barbe taillée carrément, mise correcte sans recherche, froideur brusque, voix brève, autoritaire. Tout en lui dit l&rsquo;habitude du commandement, l&rsquo;obéissance dans laquelle il tient les douze cents ouvriers de son usine. C&rsquo;est un libre-échangiste enragé, il veut que le pain coûte bon marché pour n&rsquo;avoir pas à augmenter les salaires de son personnel. Tout prêt à servir l’Empire, mais blessé de n&rsquo;avoir pu obtenir l&rsquo;appui du préfet aux élections, il s&rsquo;est obstiné à se poser en candidat indépendant, mais ce titre lui a enlevé toute chance, les habitants des campagnes l&rsquo;ont traité en ennemi publie, du moment qu&rsquo;il n&rsquo;était pas du côté du manche [143]. Plus tard, par suite de la disgrâce de M. de Chédeville, il devient candidat officiel, ses rudesses en imposent aux paysans qui marchent plus que jamais avec l&rsquo;autorité et, du moment où il a été désigné par l&rsquo;empereur, son libre-échangisme, pourtant funeste à la terre, ne l&rsquo;empêche pas d&rsquo;être élu [364]. <em>(La Terre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

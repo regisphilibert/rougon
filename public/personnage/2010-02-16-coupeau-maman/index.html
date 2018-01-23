@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Coupeau <span>, Maman</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Coupeau <span>, Maman</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Mère de madame Lerat, de madame Lorilleux et de Coupeau. Ancienne giletière, fait des ménages à cause de ses yeux qui s&rsquo;en vont [52]. C&rsquo;est une grosse femme dont les enfants s&rsquo;entendent mat et qui cherche à raccommoder tout le monde, heureuse de trouver cent sous chez les uns et chez les antres [138]. A soixante-sept ans, ses yeux sont complètement perdus. Gervaise la recueille [202]. Elle aime les bons morceaux, boit la goutte en compagnie de sa belle-fille, s&rsquo;entend bien avec elle, puis, hostile au fond, elle en dit pis que pendre, se plaint constamment aux Lorilleux. parvient à faire battre toute la famille [353], assiste à la déchéance du ménage Coupeau et se charge de tout porter au clou, où les employés la connaissent sous le nom de la mère Quatre-Francs [364]. Un asthme qui la met au lit pendant deux ou trois semaines tous les ans finit par remporter; elle meurt une nuit où sou fils est rentré ivre mort et elle est ensevelie par Gervaise et Lantier [377]. <em>(L&rsquo;Assommoir.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

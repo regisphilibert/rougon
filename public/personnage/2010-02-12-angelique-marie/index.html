@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Angélique Marie
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-le-reve/">Le Rêve</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Angélique Marie
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-le-reve/">Le Rêve</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille non reconnue de Sidonie Rougon. Père inconnu. Elle est née à Paris, le 22 janvier 1851, quinze mois après la mort du mari de Sidonie. La sage-femme Foucart l&rsquo;a déposée le 23 du même mois aux Enfants-Assistés de la Seine; elle y a été inscrite sous le numéro matricule 1634 et, faute de nom, a reçu les prénoms d&rsquo;Angélique Marie. Le 25 janvier, l&rsquo;enfant a été confiée à la nourrice Françoise Hamelin, maman Nini, qui l&rsquo;a emportée dans la Nièvre, où elle a grandi en pleine campagne, conduisant la Rousse aux prés, marchant pieds nus, sur la route plate de Soulanges. Au bout de neuf ans, le 20 juin 1860, comme il fallait lui apprendre un état, elle est passée aux mains d&rsquo;une ouvrière fleuriste, Thérèse Franchomme, née Rabier, cousine par alliance de maman Nini. Thérèse est morte six mois après chez son frère, un tanneur établi à Beaumont, et Angélique Marie, affreusement traitée par les Rabier, s&rsquo;est enfuie, une nuit de décembre, le lendemain de Noël, emportant comme un trésor, cachant avec un soin jaloux le seul bien qu&rsquo;elle possédât, son livret d&rsquo;enfant assisté! Habillée de loques, la tête enveloppée d&rsquo;un lambeau de foulard, les pieds nus dans de gros souliers d&rsquo;homme, elle a passé la nuit sous la neige, adossée à un pilier de la cathédrale et serrée contre la statue de sainte Agnès, la Vierge martyre, fiancée à Jésus. Au matin, la ville est couverte d&rsquo;un grand linceul blanc, toutes les Saintes du portail sont vêtues de neige immaculée, et l&rsquo;enfant misérable, blanche de neige, elle aussi, raidie à croire qu&rsquo;elle devient de pierre, ne se distingue plus des grandes Vierges.</p>
@@ -91,6 +101,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

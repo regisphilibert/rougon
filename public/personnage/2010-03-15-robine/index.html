@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Robine
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Robine
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p><strong>—</strong> Fait partie du groupe Gavard. Cinquante ans, air pensif et doux, avec un chapeau douteux et un grand pardessus marron. Le menton appuyé sur la pomme d&rsquo;ivoire d&rsquo;un gros jonc, il a la bouche tellement perdue au fond d&rsquo;une forte barbe, que sa face semble muette et sans lèvres [128]. Ou ne l&rsquo;a jamais vu sans chapeau sur la tête. Robine est le silencieux du groupe. Il écoute les autres jusqu&rsquo;à minuit, mettant quatre heures à vider sa chope, regardant successivement ceux qui parlent comme s&rsquo;il entendait avec les yeux. Gavard le considère comme un homme très fort. Il habite rue Saint-Denis, ne fait absolument rien et vit d&rsquo;on ne sait quoi. Son silence perpétuel l&rsquo;empêche d&rsquo;être compromis dans le complot des Halles, mais il assiste à l&rsquo;audience, où Florent l&rsquo;aperçoit, s&rsquo;en allant doucement au milieu de la foule [355]. <em>(Le Ventre de Paris)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

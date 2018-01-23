@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Maheu <span>, Zacharie</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Maheu <span>, Zacharie</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fils aîné de Toussaint et de la Maheude. Vingt et un ans. Maigre, dégingandé, il a la ligure longue, salie de quelques rares poils de barbe, avec les cheveux jaunes et la pâleur anémique de toute la famille [16]. Il est haveur et travaille à la même taille que son père, mais il se moque de la besogne, aime le plaisir et fréquente avec son ami Mouquet le café-concert du Volcan [136]. Zacharie a fait deux enfants à Philomène Levaque, on finit par le marier avec elle [181]. La grève ne l’intéresse guère, il fait de longues parties de crosse avec Mouquet. [310]. Mais soudain, lorsque sa sœur Catherine est ensevelie dans le Voreux, une violente révolution s’opère en lui, il est au premier rang de l’équipe des recherches; avant tous les autres, il entend le rappel des mineurs, battu au loin parles emmurés ; il s’acharne à l’abatage, volant le tour de ses camarades, refusant de lâcher la rivelaine; c’est une hâte fébrile, un besoin farouche, un enragement victorieux devant la houille qui résiste. Le neuvième jour, dans sa précipitation, il commet l’imprudence d’ouvrir sa lampe et une soudaine explosion de grisou le réduit en un charbon noir, calciné, méconnaissable [546].<em>(Germinal.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

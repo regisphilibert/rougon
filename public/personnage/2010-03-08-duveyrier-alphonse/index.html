@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Duveyrier <span>, Alphonse</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Duveyrier <span>, Alphonse</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>—Conseiller à la Cour d&rsquo;appel. Issu d&rsquo;une vieille famille bourgeoise, fils d&rsquo;un président de cour, a été attaché au parquet dès sa sortie de l&rsquo;école, plus tard juge suppléant à Paris, décoré, conseiller avant quarante-cinq ans. Pas plus fort qu&rsquo;un autre, il a été poussé par tout le monde. Duveyrier est grand et maigre. Il a la face rasée, un menton pointu et des yeux obliques ; sa peau est marquée de larges plaques rouges, indiquant un sang mauvais, toute une âcreté brûlant à fleur de peau [104]. Marié à Clotilde Vabre avec qui il habite dans la maison du beau-père, rue de Choiseul, ses gros appétits de mâle ont été déçus parle dégoût physique qu&rsquo;il inspire à sa femme. Aussi a-t-il toujours quelque maîtresse, logée par précaution dans des quartiers lointains, au bout des lignes d&rsquo;omnibus, et chez qui il va une fois par semaine, régulièrement, ainsi qu&rsquo;un employé se rend à son bureau [166].</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

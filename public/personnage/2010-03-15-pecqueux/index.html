@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Pecqueux
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Pecqueux
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Chauffeur de la Compagnie de l&rsquo;Ouest. Marié à la mère Victoire, ancienne nourrice de Séverine Aubry. C&rsquo;est un grand gaillard de quarante-trois ans, maigre avec de gros os, la face cuite par le feu et par la fumée ; ses yeux gris sous le front bas, sa bouche large dans une mâchoire saillante, rient d&rsquo;un continuel rire de noceur. Natif d&rsquo;un village près de Rouen, il est entré tout jeune dans la Compagnie, comme ouvrier ajusteur. Puis, à trente ans, s&rsquo;ennuyant à l&rsquo;atelier, il a voulu être chauffeur, pour devenir mécanicien. C&rsquo;est alors qu&rsquo;il a épousé Victoire, du même village que lui. Mais les années s&rsquo;écoulent, il reste chauffeur, gagnant, tant pour les primes que pour le fixe, deux mille huit cents francs par an, et mangeant tout en bombance, aux deux boots de la ligne; jamais, maintenant, il ne passera mécanicien, car il est sans conduite, sans bonne tenue, buveur, coureur de femmes, et devient même à craindre lorsqu&rsquo;il est ivre, car il se change alors en vraie bête brute, capable d&rsquo;un mauvais coup.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

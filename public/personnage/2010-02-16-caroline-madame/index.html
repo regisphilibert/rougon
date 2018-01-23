@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Caroline <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Caroline <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Sœur de l&rsquo;ingénieur Georges Hamelin. Orpheline à dix-huit ans, elle a donné des leçons, soutenant son frère entré à Polytechnique, l&rsquo;adorant, faisant le rêve de ne le quitter jamais. La bonne grâce et l&rsquo;intelligence de la jeune fille ont conquis Durieu, un brasseur millionnaire; il l&rsquo;a épousée, mais au bout de quelques années de mariage, elle a du exiger une séparation pour ne pas être tuée par ce mari qui buvait et la poursuivait, avec un couteau à la main, dans des crises d&rsquo;imbécile jalousie. Elle avait alors vingt-six ans et s&rsquo;est retrouvée pauvre, n&rsquo;ayant voulu recevoir aucune pension de l&rsquo;homme qu&rsquo;elle quittait. Rendue ainsi à son frère, elle est partie avec lui pour l&rsquo;Égypte, et a donné des leçons à Alexandrie pendant qu&rsquo;il parcourait la contrée; ils sont allés de là en Syrie, ont visité les Lieux Saints et sont enfin revenus en France, lui avec un portefeuille débordant d&rsquo;idées et de plans, elle avec des, aquarelles sans prétention où elle avait fixé des vues de là-bas, tous deux frémissants d&rsquo;enthousiasme pour les pays traversés. Et ils se débattent à Paris, victimes d&rsquo;une malchance noire, échoués dans un petit appartement de l&rsquo;hôtel d&rsquo;Orviedo, où ils vont se lier avec Aristide Saccard.</p>
@@ -87,6 +97,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

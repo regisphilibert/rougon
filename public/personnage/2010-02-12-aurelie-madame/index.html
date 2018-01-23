@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Aurélie <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Aurélie <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Première du rayon de confection, au Bonheur des Dames. Son père, concierge rue Cuvier, était un petit tailleur alsacien. Elle a épousé Lhomme, un locataire de la maison, puis elle a voulu monter un atelier de confection à son compte et s&rsquo;est aigrie, sans cesse traquée par la mauvaise chance, exaspérée de se sentir des épaules à porter la fortune et de n&rsquo;aboutir qu&rsquo;à des catastrophes. Le Bonheur des Dames lui a enfin donné le succès; elle a fondé dans cette maison la dynastie des Lhomme, poussant son mari au poste de premier caissier, obtenant une caisse pour son fils Albert, un être incapable et malfaisant dont on n&rsquo;avait rien pu faire, jusque-là. Et, par fierté, elle renie pour elle-même le nom de Lhomme; le personnel doit l&rsquo;appeler madame Aurélie. Hors du magasin, la femme, le mari, le fils vivent chacun à sa guise.</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

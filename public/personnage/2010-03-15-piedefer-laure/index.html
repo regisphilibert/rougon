@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Piédefer <span>, Laure</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Piédefer <span>, Laure</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Tient une table d&rsquo;hôte rue des Martyrs. C&rsquo;est une dame de cinquante ans, aux formes débordantes, sanglée dans des ceintures et des corsets. La bonne, au contraire, est une grande maigre, ravagée, aux paupières noires, aux regards flambant d&rsquo;un feu sombre [278]. Laure Piédefer fait manger pour trois francs les petites femmes dans l&rsquo;embarras; toutes la baisent sur la bouche avec une familiarité tendre [84] et ce monstre, les yeux mouillés, tâche, en se partageant, de ne pas faire de jalouses. Il y a, dans les trois salons, une centaine de clientes, mêlées au hasard des tables, la plupart touchant à la quarantaine, énormes, avec des empâtements de chairs, des bouffissures de vice noyant les bouches molles; et, au milieu de ces ballonnements de gorges et de ventres, apparaissent quelques jolies filles minces, l&rsquo;air encore ingénu sous l&rsquo;effronterie du geste, des débutantes levées dans un bastringue et amenées là par une cliente [278]. <em>(Nana.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

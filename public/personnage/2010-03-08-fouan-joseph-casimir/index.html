@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Fouan <span>, Joseph-Casimir</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Fouan <span>, Joseph-Casimir</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Père de Marianne, de Louis, de Michel et de Laure. Est né en 1766. Appartient à une famille qui a poussé et grandi, depuis des siècles, comme une végétation entêtée et vivace, en un coin de Beauce. Anciens serfs des Rognes-Bouqueval, les Fouan ont dû être affranchis sous Philippe le Bel. Ils sont devenus propriétaires, un arpent, deux peut-être, achetés au seigneur dans l&rsquo;embarras. Puis, en une lutte de quatre cents ans, ils ont défendu et arrondi ce bien dérisoire, sans cesse remis en question, écrasé d&rsquo;impôts. De longues générations de Fouan ont engraissé le sol et, lors de la révolution de 89, le Fouan d&rsquo;alors, Joseph-Casimir, possède vingt et un arpents, conquis en quatre siècles sur l&rsquo;ancien domaine seigneurial. Il a cent écus à peine de côté et, trop prudent pour emprunter, craignant aussi un retour des nobles, il ne prend aucune part à ces ventes de biens nationaux qui devaient enrichir tant de bourgeois. Joseph-Casimir reste dès lors inconsolable d&rsquo;avoir vu les terres des. Rognes-Bouqueval passer aux mains du citadin Isidore Hourdequin, plus audacieux que lui. Devenu vieux, il partage les vingt et un arpents entre trois de ses enfants, restés à Rognes, Marianne, Louis et Michel, et il dédommage en argent sa fille cadette, Laure [31]. <em>(La Terre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

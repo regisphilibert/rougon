@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Puech
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Puech
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Père de Félicité Puech. Marchand d&rsquo;huile à Plassans, principal associé de la maison Puech et Lacamp, située dans une des ruelles les plus noires du vieux quartier. Cette maison est à la veille de sombrer, lorsque Pierre Rougon demande la main de Félicité, apportant avec lui cinquante mille francs qui rétabliront rapidement un crédit fort ébranlé [65]. Puech, heureux d&rsquo;être sauvé de la faillite, donne sa fille, reste encore cinq ans dans l&rsquo;affaire, passe la main à Rougon, et se retire en même temps que Lacamp, satisfaits tous deux d&rsquo;avoir amassé quelques rentes [68]. Puech possède à ce moment une quarantaine de mille francs qu&rsquo;il met égoïstement en viager pour mieux dorloter ses vieux jours; il meurt vers 1845, ne laissant pas un sou à Félicité consternée [69]. <em>(La Fortune des Rougon.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

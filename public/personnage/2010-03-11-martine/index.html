@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Martine
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-le-docteur-pascal/">Le Docteur Pascal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Martine
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-le-docteur-pascal/">Le Docteur Pascal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Vieille servante de Pascal Rougon, devenue la vraie maîtresse de la maison, depuis près de trente ans qu’elle est au service du docteur. A soixante ans passés, elle garde un air jeune, elle est active et silencieuse, dans son éternelle robe noire et sa coiffe blanche qui la font ressembler à une religieuse, avec sa petite figure blême et reposée, où semblent s’être éteints ses yeux couleur de cendre [6] C’est elle qui a élevé Clotilde Rougon, dont la tendre affection pour le docteur excitera plus tard sa jalousie. Brûlée d’une flamme dévote, Martine, qui adore son maître, voudrait le forcer à faire sa paix avec Dieu, mais Clotilde, d’abord sa complice, a échappé aux influences religieuses pour se donner entièrement à Pascal, et Martine, béante devant ce qu’elle voit, n’a plus que la ressource de prier, pour tenter d’arracher le maître à l’enfer. Son avarice est sordide; pourtant, lorsque Clotilde a quitté la maison et que Martine reste seule en présence du docteur Pascal ruiné, la vieille servante trouve, dans son amour de chien docile, l’héroïsme extraordinaire de sortir son propre argent, heureuse de nourrir le savant sans qu’il se doute que sa vie vient d’elle [310]. N’aimant que lui pour le bonheur de l’aimer, d’être avec lui et de le servir [330], Martine est affolée par sa mort soudaine et, pour le sauver de la damnation, pour lui gagner le paradis, elle aide madame Félicité à anéantir l’œuvre diabolique. Puis, comme rien ne la retient plus à la maison, comme elle ne veut servir personne après monsieur, pas même l’enfant que l’on attend et qui vient de lui, elle va vivre à Sainte-Marthe, dans un trou perdu, reprise de sa fureur d’avarice [371]. <em>(Le Docteur Pascal.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

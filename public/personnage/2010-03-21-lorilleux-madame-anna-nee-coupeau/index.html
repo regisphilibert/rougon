@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580592">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Lorilleux <span>, Madame Anna</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Lorilleux <span>, Madame Anna</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Femme de Lorilleux. Sœur de madame Lerat et de Coupeau. Elle a trente ans à l&rsquo;époque du mariage de son frère. C&rsquo;est une petite femme rousse, assez forte, paraissant plus que son âge, l&rsquo;air revêche, malpropre avec ses cheveux queue de vache roulés sur sa camisole défaite [68]. Vexée du mariage de Coupeau, qui lui enlève le bénéfice du déjeuner quotidien de son frère, elle est immédiatement hostile à Gervaise, qu&rsquo;elle invente d&rsquo;appeler la Banban [92]. D&rsquo;une jalousie aigre, elle est ravie de l&rsquo;accident de Coupeau qui va dévorer les économies du jeune ménage, comme plus tard elle applaudira à l&rsquo;inconduite de Nana qui doit achever de déconsidérer les parents. Elle remplit le quartier de ses potins venimeux, se réconcilie de temps en temps avec Gervaise pour amasser de nouveaux griefs, accepte d&rsquo;être la marraine de Nana en faisant sonner bien haut sa maigre générosité et, dans la débandade de la famille, continue à mener avec Lorilleux une existence d&rsquo;araignées maigres, à dégoûter du travail [416]. Elle éprouve une grosse jouissance d&rsquo;égoïsme à voir la Banban mourant de faim dans la soupente du père Bru. <em>(L&rsquo;Assommoir.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

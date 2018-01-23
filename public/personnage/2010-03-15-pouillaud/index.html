@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Pouillaud
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-loeuvre/">L&amp;rsquo;Œuvre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Pouillaud
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-loeuvre/">L&amp;rsquo;Œuvre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Un condisciple de Claude Lantier et de Pierre Sandoz au collège de Pîassans. C&rsquo;était un farceur émérite : il a transformé, un jour, en chambre ardente, l&rsquo;armoire du professeur Lalubie; une autre fois, il a attaché tous les pots de chambre du dortoir à une même corde qui passait sous les lits, puis au matin, un matin de grandes vacances, il s&rsquo;est mis à tirer en fuyant par le corridor et par les trois étages de l&rsquo;escalier, avec cette effroyable queue de faïence, qui bondissait et volait en éclats derrière lui [38]. Mais ces folies de collégien ne l&rsquo;empêchent pas d&rsquo;avoir, dès l&rsquo;âge de vingt ans, toute la gourme imbécile d&rsquo;un bourgeois qui se range, il fait son droit, reprend l&rsquo;étude d&rsquo;avoué de son père, et plus tard, devenu très grave, il a des ennuis pour s&rsquo;être laissé pincer avec des petites gueuses de douze ans [448]. <em>(L&rsquo;Œuvre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

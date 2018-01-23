@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -61,17 +70,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Larsonneau
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, <span><a href="http://example.org/roman/2010-02-11-la-curee/">La Curée</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Larsonneau
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, <span><a href="http://example.org/roman/2010-02-11-la-curee/">La Curée</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Usurier mondain, grand bellâtre à gants jaunes. Il a débuté comme employé de l&rsquo;Hôtel de Ville, furetant dans les coins, à l&rsquo;affût des bonnes affaires, mais, surpris le nez dans les tiroirs du préfet, il a été congédié. Établi agent d&rsquo;affaires rue Saint-Jacques, il est d&rsquo;abord l&rsquo;homme de paille d&rsquo;Aristide Saccard [92], contre qui il a le soin, dès la première affaire, de garder une arme dangereuse [101]. Il s&rsquo;installe rue de Rivoli, prend le titre d&rsquo;agent d&rsquo;expropriation, gagne de l&rsquo;argent dans les percements de voies nouvelles et devient un viveur élégant [186], connu dans le monde interlope sous le nom amical de « grand Lar », s&rsquo;abouchant avec les mangeuses de fortunes et offrant ses coûteux services aux fils de famille. Resté le complice de Saccard, de qui il tire trente mille francs par un chantage [253], il devient riche après l&rsquo;affaire des terrains de Charonne et ouvre une maison de banque, ayant su, dit-il, ramasser les pièces de cent sous que son maître Aristide était si fort à faire pleuvoir [336]. <em>(La Curée.)</em></p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

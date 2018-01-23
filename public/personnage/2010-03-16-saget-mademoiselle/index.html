@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Saget <span>, Mademoiselle</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Saget <span>, Mademoiselle</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-le-ventre-de-paris/">Le Ventre de Paris</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Petite vieille habitant, depuis quarante ans, rue Pirouette, la même maison que les Méhudin. A dit un jour qu&rsquo;elle est née à Cherbourg, on ignore tout le reste. C&rsquo;est une mauvaise langue extraordinaire, redoutée de tout le quartier. Elle s&rsquo;est logé dans la tète l&rsquo;histoire complète des maisons, des étages, des gens. Longtemps, Florent reste pour elle un mystère qui la mine, car il y a là une intolérable lacune dans sa connaissance des faits et gestes de tous. Elle se livre aux machinations les plus savantes, brouillant et réconciliant les gens, se répandant en potins venimeux qui se colportent à tous les coins dés Halles. Pour obtenir quelques aliments gratis, elle flatte les colères et les passions des marchandes et voue une — violente haine à Gavard, parce qu&rsquo;il l&rsquo;a vue achetant des rogatons et qu&rsquo;il a colporté partout cette humiliante nouvelle. Un mot soutiré à la petite Pauline Quenu lui apprend enfin le passé de Florent, elle tient alors sa vengeance contre l&rsquo;insolent Gavard et contre ce forçat qui avait osé l&rsquo;intriguer si longtemps. Mademoiselle Saget devient la cheville ouvrière de la dénonciation, surexcitant Lisa, madame Lecœur et les autres, écrivant elle-même à la préfecture et assistant, dans une triomphante joie, à l&rsquo;arrestation des deux conspirateurs. La Sarriette qu&rsquo;elle a suivie chez Gavard la récompense de son zèle par un don de cinquante francs [347]. <em>(Le Ventre de Paris.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

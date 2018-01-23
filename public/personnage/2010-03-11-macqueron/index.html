@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Macqueron
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Macqueron
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Épicier-cabaretier à Rognes. Conseiller municipal et adjoint au maire. Grosse face moustachue. A gagné des rentes en spéculant sur les petits vins de Montigny et est tombé à la paresse, chassant, pêchant, faisant le bourgeois. Reste très sale, vêtu de loques, pendant que sa fille porte des corsages de velours. Macqueron fermerait volontiers boutique, car il devient vaniteux, avec de sourdes ambitions, mais il laisse sa femme tenir le cabaret pour ennuyer son ennemi, le buraliste Lengaigne, qui vend aussi à boire [55]. Zélé bonapartiste, se mettant en avant pour la réparation de la cure, devenant l’agent du candidat officiel Rochefontaine, il parvient à renverser le maire Alexandre Hourdequin et à prendre sa succession [375]. Mais ce triomphe est sans lendemain, grâce à une dénonciation de Lengaigne qui révèle aux rats-de-cave une grosse fraude du nouveau maire et oblige celui-ci à donner sa démission [451]. <em>(La Terre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

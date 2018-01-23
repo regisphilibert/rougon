@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Desrumaux <span>, Baron</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Desrumaux <span>, Baron</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Un des chercheurs qui, au XVIII<sup>e</sup> siècle, ont développé l&rsquo;industrie de la houille dans le nord de la France. D&rsquo;une intelligence héroïque, il s&rsquo;est débattu sans faiblir, au milieu de continuels obstacles : premières recherches infructueuses, fosses nouvelles abandonnées au bout de longs mois de travail, éboulements qui comblaient les trous, inondations subites qui noyaient les ouvriers, centaines de mille francs jetées dans la terre ; puis, les tracas de l&rsquo;administration, les paniques des actionnaires, la lutte avec les seigneurs terriens, résolus à ne pas reconnaître les concessions royales, si l&rsquo;on refusait de traiter d&rsquo;abord avec eux. Il a fondé la société Desmuraux, Fauquenoix et C<sup>ie</sup>, pour exploiter la concession de Montsou; deux concessions voisines, celles de Cougny et de Joiselle, ont été réunies à cette dernière le 25 août 1760 et dès lors, la Compagnie des mines de Montsou s&rsquo;est trouvée créée, telle qu&rsquo;elle existe encore aujourd&rsquo;hui. Le capital a été divisé en deux cent quatre-vingt-huit deniers de dix mille francs chacun. Dans le partage, le baron Desrumaux a eu soixante-quinze deniers et en a fait prendre un par son régisseur. Honoré Grégoire [83]. <em>(Germinal.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Gouraud <span>, Baron</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-curee/">La Curée</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Gouraud <span>, Baron</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-curee/">La Curée</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— sénateur du second Empire. Etant fournisseur de la grande armée, a été fait baron par Napoléon l<sup>er</sup>, puis il est devenu pair de France sous la Restauration et sous la monarchie de Juillet, et a été mis au Sénat par Napoléon III. À soixante-dix-huit ans, cet adorateur du trône a un ventre énorme, une face de bœuf, une allure d&rsquo;éléphant [96] ; déjà coquin à l&rsquo;époque où il nourrissait de vivres avariés les troupes impériales, il met la main dans toutes les grandes affaires et vend majestueusement son influence. Ce vieillard, à qui aucune infamie n&rsquo;est étrangère, se plaît à de monstrueuses débauches qui l&rsquo;ont mis en relations avec Sidonie Rougon. C&rsquo;est par celle-ci qu&rsquo;Aristide Saccard parvient à Gouraud et l&rsquo;intéresse à son jeu. Dans les dernières années, le vieux baron devient podagre [279]. <em>(La Curée.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

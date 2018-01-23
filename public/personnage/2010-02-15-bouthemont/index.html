@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Bouthemont
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Bouthemont
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fils du marchand de nouveautés. Ayant réussi dans les soies à Paris, il a refusé de retourner auprès de son père, plaisantant la routine commerciale de la province, faisant à chaque passage sonner ses gains, qui bouleversent Montpellier. C&rsquo;est un jeune homme à fortes épaules, il a une face ronde de joyeux compère, avec une barbe d&rsquo;un noir d&rsquo;encre et de beaux yeux marrons [45]. Noceur, braillard, il a une amabilité un peu grosse, un rire bon enfant où il y a un amour brutal de la femme [127]. Entré au Bonheur des Dames comme premier à la soierie, médiocre pour la vente, mais n&rsquo;ayant pas son pareil pour l&rsquo;achat, il jouit d&rsquo;une liberté absolue, et mène son rayon comme il l&rsquo;entend, pourvu que chaque année le chiffre d&rsquo;affaires soit augmenté dans une proportion fixée d&rsquo;avance. Pris en affection par Octave Mouret, devenu le confident du patron et d&rsquo;Henriette Desforges, il sait plaire à celle-ci et, dès qu&rsquo;il se sent miné au magasin, il obtient son concours pour une commandite du baron Hartmann [393].</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

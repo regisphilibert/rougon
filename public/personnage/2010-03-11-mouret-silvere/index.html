@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Mouret <span>, Silvère</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Mouret <span>, Silvère</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Troisième enfant d’Ursule Macquart et du chapelier Mouret. Frère de Francois et d’Hélène. Né à Marseille, en 1834, orphelin à six ans, il vient à Plassans avec François. Accueilli de mauvaise grâce par l’oncle Pierre Rougon, Silvère grandit dans les larmes, comme un malheureux abandonné, jusqu’au jour où sa grand’mère Adélaïde Fouque, ayant pitié de lui, l’emmène en son louis de l’impasse Saint-Mittre. C’est alors une heureuse vie pour l’enfant, en qui la vieille femme, pleine de tendresse contenue, trouve une lointaine ressemblance avec le grand-père Macquart. Silvère la cajole, il invente pour elle le nom caressant de tante Dide; d’abord effrayé des crises nerveuses qui la secouent périodiquement, il s’habitue à ces fureurs incompréhensibles, il est pris de pitié devant la douloureuse aïeule victime de maux inconnus, il la soigne doucement et l’aime d’une affection silencieuse et attendrie [165].</p>
@@ -87,6 +97,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

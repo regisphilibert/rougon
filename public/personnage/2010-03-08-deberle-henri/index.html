@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Deberle <span>, Henri</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-une-page-damour/">Une Page d&amp;rsquo;Amour</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Deberle <span>, Henri</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-une-page-damour/">Une Page d&amp;rsquo;Amour</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Docteur en médecine. Mari de Juliette Letellier. Père de Lucien. Trente-cinq ans, figure rasée un peu longue, œil fin, lèvres minces [13]. Riche et déjà célèbre. Son père, que tout Passy vénérait, lui a laissé un million et demi et une clientèle superbe. Il est propriétaire de l&rsquo;hôtel qu&rsquo;il habite rue Vineuse et de la maison voisine, dont madame Grandjean est locataire; l&rsquo;abbé Jouve le cite comme un homme d&rsquo;un caractère droit, d&rsquo;un cœur charitable, très bon père et très bon mari, donnant les meilleurs exemples [33]. Marié à une Parisienne évaporée, le docteur Deberle est séduit par la sculpturale beauté d&rsquo;Hélène Grandjean. C&rsquo;est une crise d&rsquo;amour qui naît dès la première rencontre au chevet de Jeanne, s&rsquo;accroît lors des visites charitables chez la mère Fétu et se développe dans le contact quotidien ; c&rsquo;est un coup de désir irrésistible qui entraîne vers lui madame Grandjean et la lui livre enfin, consentante, dans la chambre même que Matignon avait préparée pour y abriter ses propres amours avec madame Deberle. La terrible crise de jalousie de la petite Jeanne, son agonie, sa mort, séparent à jamais les amants d&rsquo;un jour. Deberle, resté bon mari, va oublier ce drame en Italie avec sa femme, qui lui donne bientôt un second enfant, une petite fille rose et grasse [399]. <em>(Une Page d&rsquo;Amour.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

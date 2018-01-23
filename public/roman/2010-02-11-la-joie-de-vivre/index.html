@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -136,7 +145,7 @@
 </div>
 <div class="main rm-container">
     <div class="item-desc">
-        <span><a href="http://example.org/personnage/2010-02-16-chanteau/">Chanteau</a></span>, <span><a href="http://example.org/personnage/2010-02-16-chanteau-lazare/">Chanteau (Lazare)</a></span>, <span><a href="http://example.org/personnage/2010-03-10-la-vigniere-eugenie-de/">La Vignière (Eugénie de)</a></span>, <span><a href="http://example.org/personnage/2010-03-10-lantier-claude/">Lantier (Claude)</a></span>, <span><a href="http://example.org/personnage/2010-03-15-quenu-pauline/">Quenu (Pauline)</a></span>, <span><a href="http://example.org/personnage/2010-03-16-thibaudier-louise/">Thibaudier (Louise)</a></span>, <span><a href="http://example.org/personnage/2010-03-17-veronique/">Véronique</a></span>, 
+        <span><a href="http://example.org/personnage/2010-02-16-chanteau/">Chanteau</a></span>, <span><a href="http://example.org/personnage/2010-02-16-chanteau-lazare/">Chanteau (Lazare)</a></span>, <span><a href="http://example.org/personnage/2010-03-10-la-vigniere-eugenie-de/">La Vignière (Eugénie de)</a></span>, <span><a href="http://example.org/personnage/2010-03-10-lantier-claude/">Lantier (Claude)</a></span>, <span><a href="http://example.org/personnage/2010-03-15-quenu-pauline/">Quenu (Pauline)</a></span>, <span><a href="http://example.org/personnage/2010-03-16-thibaudier-louise/">Thibaudier (Louise)</a></span>, <span><a href="http://example.org/personnage/2010-03-17-veronique/">Véronique</a></span>
     </div>
     <div class="rm-content">
         <p>Résumé et structure de l&rsquo;oeuvre.</p>
@@ -166,139 +175,139 @@
         <div class="rm-widget widget-chars desktop-block">
             <ul>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-12-adele-3/">Adèle</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-15-bouland-madame/">Bouland (Madame)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-15-boutigny/">Boutigny</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-16-cazenove-docteur/">Cazenove (Docteur)</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-02-16-chanteau/">Chanteau</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-02-16-chanteau-lazare/">Chanteau (Lazare)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-16-chanteau-madame/">Chanteau (Madame)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-16-chanteau-paul/">Chanteau (Paul)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-16-chanteau-pere/">Chanteau (Père)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-02-16-cuche-famille/">Cuche (Famille)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-08-davoine/">Davoine</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-08-delorme/">Delorme</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-08-gonin-famille/">Gonin (Famille)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-09-herbelin/">Herbelin</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-09-horteur-abbe/">Horteur (Abbé)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-09-houtelard-famille/">Houtelard (Famille)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-10-la-vigniere-chevalier-de/">La Vignière (Chevalier de)</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-03-10-la-vigniere-eugenie-de/">La Vignière (Eugénie de)</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-03-10-lantier-claude/">Lantier (Claude)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-10-liardin/">Liardin</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-10-loulou/">Loulou</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-10-leonie-2/">Léonie</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-11-malivoire/">Malivoire</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-11-martin/">Martin</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-11-mathieu-2/">Mathieu</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-11-minouche/">Minouche</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-15-naudet/">Naudet</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-15-prouane-famille/">Prouane (Famille)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-15-quenu-madame/">Quenu (Madame)</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-03-15-quenu-pauline/">Quenu (Pauline)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-16-thibaudier/">Thibaudier</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-03-16-thibaudier-louise/">Thibaudier (Louise)</a>
                 </li>
                 
-                <li>
+                <li class="">
                     <a href="http://example.org/personnage/2010-03-16-tourmal-famille/">Tourmal (Famille)</a>
                 </li>
                 
-                <li>
+                <li class="bold">
                     <a href="http://example.org/personnage/2010-03-17-veronique/">Véronique</a>
                 </li>
                 
@@ -310,6 +319,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

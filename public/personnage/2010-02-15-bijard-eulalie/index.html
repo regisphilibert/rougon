@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Bijard <span>, Eulalie</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Bijard <span>, Eulalie</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille, aînée des Bijard A deux ans, la petite Lalie a déjà de la raison comme une femme; on peut la laisser seule, elle lie pleure pas, elle lie jolie jamais avec les allumettes [1831. A quatre ans, elle a un large regard noir, d&rsquo;une fixité pleine de pensées, devant les brutalités paternelles, et elle tient dans ses bras, sans une larme, comme pour la protéger, a petite sœur Henriette A huit ans, quand sa mère morte sous les coups, elle dirige le ménage comme une grande personne, Henriette et le petit Jules sont devenus ses enfants, et c&rsquo;est son tour d&rsquo;être la victime de l&rsquo;alcoolique Bijard. Cette innocente martyrisée se retient de crier pour lie pas révolutionner la maison, elle défend son père, assurant qu&rsquo;il n&rsquo;aurait pas été méchant s&rsquo;il n&rsquo;avait pas bu, pardonnant parce qu&rsquo;on doit pardonner aux fous [425]. Elle meurt sous les mauvais traitements et la fatigue, restant jusqu&rsquo;à son dernier râle la petite maman de tout son monde [518]. <em>(L&rsquo;Assommoir.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

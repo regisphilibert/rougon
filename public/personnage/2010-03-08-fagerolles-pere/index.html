@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Fagerolles père
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-loeuvre/">L&amp;rsquo;Œuvre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Fagerolles père
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-loeuvre/">L&amp;rsquo;Œuvre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fabricant de zinc d&rsquo;art, rue Vieille-du-Temple, dans une antique demeure sombre, qui avance sur les autres. C&rsquo;est un gros homme blême. Ses ateliers sont au rez-de-chaussée; pour abandonner aux magasins d&rsquo;échantillons les deux grandes pièces du premier étage, éclairées sur la rue, il occupe, sur la cour, un petit logement obscur, d&rsquo;un étouffement de cave. D&rsquo;abord, il a fait de son fils un dessinateur d&rsquo;ornements, pour l&rsquo;usage de sa fabrique; puis, lorsque le gamin s&rsquo;est révélé avec des ambitions plus hautes, s&rsquo;attaquant à la peinture, parlant de l&rsquo;Ecole, il y a eu des querelles, des gifles, une série de brouilles et de raccommodements. Même lorsque Henri a remporté ses premiers succès, son père, résigné à le laisser libre, l&rsquo;a traité durement, en garçon qui gâtait sa vie [74]. Plus tard, travaillé du désir de la décoration, le fabricant oublie son opposition de jadis; il présente, comme un titre de plus, son fils arrivé à la notoriété [258]. (L&rsquo;Œuvre.)</p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

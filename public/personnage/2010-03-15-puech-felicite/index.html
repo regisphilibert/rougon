@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -63,17 +72,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Puech <span>, Félicité</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-03-08-la-conquete-de-plassans/">La Conquête de Plassans</a></span>, <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, <span><a href="http://example.org/roman/2010-02-11-le-docteur-pascal/">Le Docteur Pascal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Puech <span>, Félicité</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-03-08-la-conquete-de-plassans/">La Conquête de Plassans</a></span>, <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, <span><a href="http://example.org/roman/2010-02-11-le-docteur-pascal/">Le Docteur Pascal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille du marchand d&rsquo;huile. Née en 1791, elle est à dix-neuf ans une petite femme noire, maigre, la gorge plate, les épaules pointues, le visage en museau de fouine, avec des cheveux superbes. Douée d&rsquo;une intelligence très remarquable, elle a une physionomie de naine futée où se retrouvent les traits d&rsquo;un noble du quartier Saint-Marc, M. de Garnavant, qui, selon la chronique, serait son véritable père [66]. Résignée à n&rsquo;être qu&rsquo;un laideron, Félicité, douée du génie de l&rsquo;intrigue, pleine d&rsquo;une ambition active et envieuse, s&rsquo;est juré d&rsquo;éblouir un jour cette ville où elle végète tristement, au fond d&rsquo;une boutique, dans la plus complète médiocrité. Elle poursuivra ce but jusqu&rsquo;au bout, se servant de son mari, Pierre Rougon, comme d&rsquo;un instrument, luttant avec opiniâtreté contre une persistante malchance, gardant la foi la plus âpre en son étoile, prête à tout pour assouvir son besoin de domination.</p>
@@ -101,6 +111,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

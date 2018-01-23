@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580592">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -61,17 +70,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Macquart <span>, Gervaise</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Macquart <span>, Gervaise</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Seconde Fille d’<a href="#/personnage/macquart-antoine/">Antoine Macquart</a> et de <a href="#/personnage/gavaudan-josephine/">Joséphine Gavaudan</a>. Sœur de <a href="#/personnage/macquart-lisa/">Lisa</a> et de <a href="#/personnage/macquart-jean/">Jean</a>. Mère de <a href="#/personnage/lantier-claude/">Claude</a>, <a href="#/personnage/lantier-jacques/">Jacques</a>, <a href="#/personnage/lantier-etienne/">Etienne Lantier</a> et d’<a href="#/personnage/nana/">Anna Coupeau</a>. Née à Plassans en 1828, conçue dans l’ivresse, Gervaise a la cuisse droite déviée et amaigrie, reproduction héréditaire des brutalités paternelles. Chétive, toute pâle, elle est mise au régime de l’anisette par sa mère, qui adore cette liqueur. Devenue grande fille, elle est restée chétive, fluette, avec une délicieuse tête de poupée, une petite face ronde et blême d’une exquise délicatesse. Son infirmité est presque une grâce, sa taille fléchit doucement à chaque pas, dans une sorte de balancement cadencé [150]. Des huit ans, elle gagnait dix sous par jour en cassant des amandes chez un négociant voisin ; entrée ensuite en apprentissage chez une blanchisseuse, elle reçoit comme ouvrière deux francs par jour ; tout son argent passe dans la poche de son père, qui godaille au dehors. A quatorze ans, Gervaise a de son amant, l’ouvrier tanneur <a href="#/personnage/lantier-auguste/">Lantier</a>, un premier fils, <a href="#/personnage/lantier-claude/">Claude</a>, puis deux autres, qui sont recueillis par leur grand’mère paternelle, sans que <a href="#/personnage/macquart-antoine/">Macquart</a> consente à faire une démarche qui réglerait la situation et le priverait du salaire de sa fille. Celle-ci vit ainsi, exploitée par son père, engrossée par son amant, s’habituant à boire avec sa mère des verres de liqueur qui la soûlent à petites doses. Au début de 1851, madame Lantier et <a href="#/personnage/gavaudan-josephine/">Joséphine Macquart</a> étant mortes, Lantier retire Gervaise des mains de son père et l’emmène à Paris avec deux des enfants. (La Fortune des Rougon)</p>
@@ -101,6 +111,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

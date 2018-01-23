@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Brûlé <span>, La</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Brûlé <span>, La</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Mère de la Pierronne. C&rsquo;est la veuve d&rsquo;un haveur mort à la mine ; elle a juré de ne jamais donner sa fille à un charbonnier, elle l&rsquo;a envoyée en fabrique et ne décolère plus depuis qu&rsquo;elle l&rsquo;a vue, sur le tard, épouser Pierron. Tous trois vivent au coron des Deux cent quarante et, dans le bonheur du ménage, la Brûlé hurle avec un enragement de vieille révolutionnaire, ayant à venger contre les patrons la mort de son homme [110]. Elle est terrible, avec ses yeux de chat-huant, son nez en bec d&rsquo;aigle et sa bouche serrée comme la bourse d&rsquo;un avare [70]. Son rendre l&rsquo;indigne par sa lâcheté devant les chefs. Cribleuse au Voreux. elle est une des plus acharnées pendant la grève ; devant la troupe, elle vomit l&rsquo;injure, elle donne le signal de la lutte à coups de brique contre. les soldats impossibles [484] et, à la première décharge, elle s&rsquo;abat toute raide et craquante comme un fagot de bois sec, en bégayant un dernier juron dans le gargouillement du sang [487] <em>(Germinal.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Delhomme
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Delhomme
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Mari de Fanny. Gendre du père Fouan. Beau-frère de Jésus-Christ et de Buteau. A trente-neuf ans, il est rose et placide, il a une large face de terre cuite rasée soigneusement, trouée de deux gros yeux bleu faïence, d&rsquo;une fixité de bœuf au repos. Se laisse conduire en toutes choses par sa femme, est d&rsquo;esprit borné, mais si calme, si droit, que souvent, à Rognes, on le prend pour arbitre. Avec ses vingt hectares de biens, ses dix arpents de vignes, il est le plus riche du pays. D&rsquo;abord conseiller municipal, il finit par devenir maire. En politique, il a une seule idée, celle que le gouvernement soit solide pour faire aller les affaires; afin de ne pas se tromper, le mieux à son avis est d&rsquo;envoyer à l&rsquo;empereur le député qu&rsquo;il demande [369]. Delhomme voit d&rsquo;un bon œil son fils Nénesse devenir tenancier d&rsquo;une maison publique, métier qui rapporte gros. <em>(La Terre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

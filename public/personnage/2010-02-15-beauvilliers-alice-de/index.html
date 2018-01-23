@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Beauvilliers <span>, Alice de</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Beauvilliers <span>, Alice de</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille du comte. Ressemble à sa mère, moins l&rsquo;aristocratique noblesse. Chétive, le cou allongé jusqu&rsquo;à la disgrâce, n&rsquo;ayant plus que le charme pitoyable d&rsquo;une fin de grande race, elle est, à vingt-cinq ans, si appauvrie qu&rsquo;on la prendrait pour une fillette, sans le teint gâté et les traits déjà tirés du visage. Avec son air d&rsquo;insignifiance mélancolique, elle n&rsquo;est point sotte, elle aspire ardemment à la vie, à un homme qui l&rsquo;aimerait, à du bonheur, mais ne voulant pas désoler sa mère, elle feint d&rsquo;avoir renoncé à tout. Pour aider au train de maison réduit à un décor extérieur, elle peint des aquarelles bâclées à la douzaine et vendues en cachette. Et cette vierge, qu&rsquo;émacie l&rsquo;attente vaine du mariage, retrouve soudain une jeunesse dans l&rsquo;affolement de la Banque Universelle, elle s&rsquo;anime, elle est vibrante devant le droit qui s&rsquo;ouvre pour elle d&rsquo;avoir un mari et des enfants, cette joie que se permet la dernière pauvresse des rues.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

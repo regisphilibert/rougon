@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Hennebeau <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Hennebeau <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Femme du directeur des mines de Montsou. C&rsquo;est ta fille d&rsquo;un riche filateur d&rsquo;Arras. Elevée dans le respect de l&rsquo;argent, elle méprise ce mari qui, dans les premières années, gagnait des appointements médiocres et dont elle n&rsquo;a tiré aucune des satisfactions vaniteuses, rêvées en pension. D&rsquo;une sensualité de blonde gourmande, mais froide avec son mari, elle a eu des amants ; les dix ans qu&rsquo;elle a passés à Paris ont été emplis par une grande passion, une liaison publique avec un homme, dont l&rsquo;abandon a failli la tuer [224]. A Montsou, elle tombe en une langueur d&rsquo;ennui et se fait consoler par le neveu de son mari, l&rsquo;ingénieur Paul Négrel, à qui elle se livre et qu&rsquo;elle s&rsquo;amuse à vouloir marier ; dans ses rapports avec lui, elle ne voit qu&rsquo;un joujou de récréation, elle y met ses tendresses dernières de femme oisive et finie [226].</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

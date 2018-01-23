@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Cazenove <span>, Docteur</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-joie-de-vivre/">La Joie de Vivre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Cazenove <span>, Docteur</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-joie-de-vivre/">La Joie de Vivre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Ancien chirurgien de marine. Sec et vigoureux, œil clair. Esprit scientifique. A servi trente ans [7] et s&rsquo;est retiré à Arromanches, où un oncle lui a laissé une maison. Ami des Chanteau, depuis qu&rsquo;il a guéri la femme d&rsquo;une foulure inquiétante [41]. Dîne chez eux tous les samedis avec l&rsquo;abbé Horteur. Dès le début, a pénétré le caractère de Pauline, dont il du : « Voilà une gamine qui est née pour les autres » [43]. _<em>Plus tard, il cherche à l&rsquo;éclairer, à la défendre contre l&rsquo;exploitation dont elle est la victime, volontaire [146]. Lorsque Pauline est émancipée, il est nommé curateur et continue ses conseils impuissants. Resté l&rsquo;ami des Chanteau, il les soigne tous, même le vieux chien Mathieu, abandonné par le vétérinaire. C&rsquo;est lui qui opère le laborieux accouchement de Louise Chanteau [383]. </em>(La Joie de vivre.)_</p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

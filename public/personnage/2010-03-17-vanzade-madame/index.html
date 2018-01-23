@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580592">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Vanzade <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-loeuvre/">L&amp;rsquo;Œuvre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Vanzade <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-loeuvre/">L&amp;rsquo;Œuvre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— La veuve d&rsquo;un général. C&rsquo;est une vieille dame très riche, presque aveugle, impotente. Elle habite à Passy un petit hôtel silencieux et fermé, où l&rsquo;existence passe régulière, avec le tic tac affaibli des vieilles horloges ; les deux serviteurs antiques, une cuisinière et un valet de chambre, sont depuis quarante ans dans la famille ; de loin en loin, vient une visite, quelque général octogénaire, si desséché qu&rsquo;il pèse à peine sur le tapis; c&rsquo;est la maison des ombres, le soleil s&rsquo;y meurt en lueurs de veilleuse, à travers les lames des persiennes [121]. C&rsquo;est à madame Vanzade qu&rsquo;une ancienne amie, la mère des Saints-Anges, envoie, comme demoiselle de compagnie, l&rsquo;ardente Christine Hallegrain, qui devra lire interminablement des livres de piété ; mais, étouffant dans cette demeure close et rigide, Christine finit par s&rsquo;enfuir, quoique sa maîtresse la traite doucement, la comble de cadeaux et l&rsquo;appelle sa fille [122]. Madame Vanzade meurt quatre ans après et ses millions, qui eussent peut-être doté Christine, passent aux hospices, sauf une rente que les deux vieux serviteurs mangent en petits bourgeois [289].<em>(L&rsquo;Œuvre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

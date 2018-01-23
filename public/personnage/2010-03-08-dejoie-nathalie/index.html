@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Dejoie <span>, Nathalie</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Dejoie <span>, Nathalie</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille des Dejoie. C&rsquo;est une fleur blonde du pavé parisien, de grâce chétive, avec de larges yeux sous les petits frisons de ses cheveux pâles. Elle a un regard tranquille et froid, d&rsquo;une extraordinaire limpidité d&rsquo;égoïsme. L&rsquo;enfant s&rsquo;est laissé adorer par son père, en idole heureuse, sage encore à dix-huit ans parce qu&rsquo;elle n&rsquo;a eu aucun intérêt à ne pas l&rsquo;être [135], incapable d&rsquo;une chute sotte tant qu&rsquo;elle a espéré une dot, un mariage, un comptoir dans une petite boutique où elle trônerait. Nathalie doit épouser le fils d&rsquo;un cartonnier, Théodore, lorsque le jeu de Bourse aura complété la petite dot qu&rsquo;on exige. Comme son père. elle se passionne pour la spéculation, elle caquette ainsi qu&rsquo;une pie vaniteuse, empêchant Dejoie de vendre quand il en serait temps, rêvant des rentes [297]. Après la débâcle, furieuse de son mariage manqué, ne voulant pas continuer une existence de sans-le-sou, elle prend froidement ses bottines et son chapeau et, sans rien dire, file avec un monsieur d&rsquo;en face, un monsieur très bien, dont elle a fait là connaissance [384]. <em>(L&rsquo;Argent.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

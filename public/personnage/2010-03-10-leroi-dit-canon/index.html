@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Leroi, dit Canon
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Leroi, dit Canon
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-terre/">La Terre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Ouvrier charpentier. A lâché Paris à la suite d&rsquo;histoires ennuyeuses et préfère vivre à la campagne, roulant de village en village, faisant huit jours ici, huit jours plus loin, allant d&rsquo;une ferme à une autre, lorsque les patrons ne veulent plus de lui. Le travail ne marchant pas, il mendie le long des routes, il vit de légumes et de fruits volés, heureux qu&rsquo;on lui permette de dormir dans une meule. En loques, très sale, très laid, ravagé de misère et de vices, le visage si maigre et si blême, hérissé d&rsquo;une barbe noire, que les femmes, rien qu&rsquo;à le voir, ferment leur porte. De passage à Rognes, Canon est devenu l&rsquo;ami de Jésus-Christ, il tient des discours abominables, parlant de couper le cou aux riches, traitant les paysans de culs terreux, leur expliquant la révolution sociale qui doit donner le bonheur à tous [371]. Il blague Jésus-Christ à cause de ses idées rétrogrades, vieilles de cent ans, mais trouve son maître dans Leque, le maître d&rsquo;école anarchiste plein de dédain pour le socialisme autoritaire et scientifique, appris par Canon dans les faubourgs parisiens [471]. <em>(La Terre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

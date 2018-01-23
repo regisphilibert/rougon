@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Bouroche
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Bouroche
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Médecin-major au 106<sup>e</sup> de ligne (colonel de Vineuil). Gros homme à la tête puissante, au mufle de lion [112]. A Reims, le 22 août, rencontrant l&rsquo;empereur entouré d&rsquo;une brillante escorte, il a vu à fond, de son coup d&rsquo;œil de praticien, celte face très pâle et déjà tirée, ces yeux vacillants, comme troublés et pleins d&rsquo;eau, et d&rsquo;un mot il à arrêté son diagnostic : Foutu [72]. rendant la bataille de Sedan, il installe son ambulance dans la fabrique Delaherche, qui s&rsquo;encombre bientôt de blessés ; c&rsquo;est un déchargement affreux de pauvres gens, les uns d&rsquo;une pâleur verdâtre, les autres violacés de congestion [326]. Les opérations se succèdent, les minces couteaux d&rsquo;acier luisent, les scies ont à peine un petit bruit de râpe, le sang coule par jets brusques, c&rsquo;est un va-et-vient rapine d&rsquo;amputés [327]. Derrière un massif de cytises, on a établi le charnier où sont jetés les morts, raidis dans le dernier râle ; et près des cadavres, pêle-mêle, des jambes et des bras coupés s&rsquo;entassent aussi, tout ce qu&rsquo;on rogne, tout ce qu&rsquo;on abat sur les tables d&rsquo;opération [336].</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

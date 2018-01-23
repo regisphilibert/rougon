@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Quittard <span>, Auguste</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Quittard <span>, Auguste</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fils de Françoise. Un pauvre gamin de dix ans, si malade d&rsquo;une fièvre typhoïde qu&rsquo;il n&rsquo;est pas transportable. Resté à Bazeilles, il est dans un lit très blanc, sa face est empourprée de fièvre et, pendant les affres de la bataille, il regarde fixement sa mère de ses yeux de flamme [215]. Lorsqu&rsquo;elle est morte, tuée par un obus, et que des mouches déjà volent et se posent sur sa tête, le petit Auguste, pris du délire, appelle, demande à boire, d&rsquo;une voix basse et suppliante: « Mère, réveille-toi, réveille-toi&#8230; J&rsquo;ai soif, j&rsquo;ai bien soif. » [223]. Il meurt brûlé dans son lit, quand les Bavarois, pris de folie furieuse, descendus à une guerre de sauvages, enragés par la longueur de la lutte, allument le village avec des torches et font de Bazeilles un brasier pour venger leurs morts, leur tas de morts sur lesquels ils marchent [293]. <em>(La Débacle.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

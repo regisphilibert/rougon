@@ -20,7 +20,7 @@ module.exports = function (grunt) {
 
     config: {
       src: {
-        root: 'src',
+        root: 'themes/rougon/src',
         //fonts: '<%= config.src.root %>/fonts/{,*/}*.{woff,woff2,ttf,eot,svg}',
         //html: '<%= config.src.root %>/pug',
         images: '<%= config.src.root %>/images/',
@@ -28,7 +28,7 @@ module.exports = function (grunt) {
         styles: '<%= config.src.root %>/sass'
       },
       dist: {
-        root: 'static',
+        root: 'hemes/rougon/static',
         //fonts: '<%= config.dist.root %>/fonts',
         html: '../../production',
         //images: '<%= config.dist.root %>/img',

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Hugon <span>, Georges</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Hugon <span>, Georges</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fils cadet de madame Hugon. Un jeune homme de dix-sept ans, aux beaux yeux de chérubin. Il est joli, sans un poil de barbe. La vue de Nana presque nue, dans son rôle de la <em>Blonde Vénus,</em> l&rsquo;a enflammé; il se présente chez elle, l&rsquo;amusé par sa figure gamine et son ardeur précoce et _se met à vivre dans l&rsquo;ombre de ta jolie fille. Elle l&rsquo;appelle Zizi. Un jour qu&rsquo;il est venu la rejoindre à la Mignotte et que, trempé jusqu&rsquo;aux os, il a dû revêtir une chemise, un pantalon et un peignoir de l&rsquo;actrice [192], leur jeu ressemble à celui de deux amies qui se taquinent et, sans presque s&rsquo;en apercevoir, Nana devient sa maîtresse. Le hasard malheureux d&rsquo;une rencontre a appris à madame Hugon l&rsquo;inconduite de son fils, elle l&rsquo;a enfermé aux Fondettes, mais quelques mois de réclusion ne font qu&rsquo;exaspérer les sens de Georges; il se soulage chaque semaine dans des pages brûlantes, auxquelles Nana répond par la plume de Fontan [282].</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Hugon <span>, Philippe</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Hugon <span>, Philippe</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— L&rsquo;aîné de madame Hugon. Un grand gaillard qui, après s&rsquo;être engagé par un coup de tête, est arrivé très vite au grade de lieutenant [78]. Il est très grand, très fort, gai, un peu brutal [348]. D&rsquo;abord en garnison à Bourges, puis à Vincennes, il a été imprudemment chargé par sa mère d&rsquo;aller reprendre son jeune frère Georges, englué chez Nana. Celle-ci séduit immédiatement Philippe, qui en arrive bientôt aux pires folies. Tout en étant pour lui une maîtresse désintéressée, ne demandant jamais de fonds, elle lui vide les poches à chaque visite, car la maison est constamment à court d&rsquo;argent. Ce sont de petits prêts qui s&rsquo;accumulent, et comme madame Hugon, pour obliger ses fils à la vertu, lient sa bourse fermée, comme Philippe est devenu capitaine-trésorier, il puise dans la caisse du régiment. Dès ce moment, il maigrit, il est distrait, il a une ombre de tristesse sur la face, mais un regard de Nana suffit à le transfigurer, dans une sorte d&rsquo;extase sensuelle [457]. Longtemps, ses fraudes ont réussi grâce aux négligences du conseil d&rsquo;administration; il finit cependant par être arrêté, après avoir volé douze mille francs à l&rsquo;Etat [461]. Quelques mois après, à jamais déshonoré, il sort de prison et retrouve sa mère au lit de mort du pauvre Georges, autre victime de l&rsquo;insouciante Mouche d&rsquo;Or. <em>(Nana.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Bonnemort
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Bonnemort
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p><strong>—</strong> De son vrai nom Vincent Maheu. Petit-fils de Guillaume, fils de Nicolas, père de Toussaint. Il a aujourd&rsquo;hui cinquante-huit ans et n&rsquo;en avait pas huit lorsqu&rsquo;il est descendu dans la mine. Il a été d&rsquo;abord galibot, puis hercheur quand il a eu la force de rouler, puis haveur jusqu&rsquo;à dix-huit ans ; ensuite, à cause de ses jambes, on l&rsquo;a mis de la coupe à terre, remblayeur, raccommodeur, jusqu&rsquo;au moment où l&rsquo;on a dû le sortir du fond, parce que le médecin a dit qu&rsquo;il allait y rester. Alors, après quarante-cinq années de mine, on a fait de lui un charretier, il travaille de nuit depuis cinq ans à la fosse du Voreux et gagne quarante sous ; encore deux ans, et il pourra prétendre à une pension de cent quatre-vingts francs. C&rsquo;est Guillaume, son grand-père, qui a découvert à Réquillart une mine de charbon gras; son père, deux de ses oncles, trois de ses frères, plus tard, y ont laissé leur peau; son fils Toussaint y crève maintenant, et ses petits-fils, et tout son monde. Cent six ans d&rsquo;abatage dans la famille, les mioches après les vieux, pour le même patron. Lui, on l&rsquo;a retiré trois fois de la mine en morceaux, une fois avec tout le poil roussi une autre avec de la terre jusque dans le gésier, la troisième avec le ventre gonflé d&rsquo;eau comme une grenouille ; alors comme il tic voulait pas crever, on l&rsquo;a appelé Bonnemort, pour rire [8].</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

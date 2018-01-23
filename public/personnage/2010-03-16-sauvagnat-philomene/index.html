@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Sauvagnat <span>, Philomène</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Sauvagnat <span>, Philomène</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Sœur du chef de dépôt. C&rsquo;est une grande femme sèche, encore jeune pour ses trente-deux ans, anguleuse, la poitrine plaie, la chair brûlée de continuels désirs: elle a la tête longue, aux yeux flambants, d&rsquo;une cavale maigre et hennissante. On l&rsquo;accuse de boire. Tous les hommes de la gare ont défilé chez elle. Puis, il y a eu entre Philomène et le chauffeur Pecqueux une vraie rencontre : elle, assouvie enfin, au bras de ce grand diable rigoleur; lui, changé de sa femme trop grasse [81]. Longtemps, elle a été en mauvais termes avec Séverine Roubaud, contre qui elle soutenait lus prétentions de madame Lebleu. Mais Pecqueux, pour être agréable à son mécanicien, a fait cesser la brouille; Philomène, mêlée à l&rsquo;amour de Séverine et de Jacques Lantier, s&rsquo;est éprise de celui-ci, elle s&rsquo;est frottée à lui comme une maigre chatte amoureuse et a fini par l&rsquo;avoir [379], excitant en Pecqueux une jalousie sanguinaire [413]. <em>(La Bête humaine.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

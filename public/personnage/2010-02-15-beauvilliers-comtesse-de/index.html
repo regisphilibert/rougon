@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Beauvilliers <span>, Comtesse de</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Beauvilliers <span>, Comtesse de</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Femme du comte. Mère de Ferdinand et d&rsquo;Alice. A beaucoup souffert de son mari, dont elle ne s&rsquo;est jamais plainte. C&rsquo;est une grande femme maigre de soixante ans, toute blanche, au grand nez droit, aux lèvres minces, au cou particulièrement long; elle a l&rsquo;air d&rsquo;un cygne très ancien, d&rsquo;une douceur désolée. Elle occupe avec sa fille, rue Saint-Lazare, une ancienne maison de plaisance, la Folie-Beauvilliers, attenante à l&rsquo;hôtel d&rsquo;Orviedo; c&rsquo;est, avec la ferme des Aublets, près de Vendôme, la dernière épave d&rsquo;une immense fortune. La ferme rapporte environ quinze mille francs de rente, mais la maison de Paris, écrasée d&rsquo;hypothèques, menacée d&rsquo;une mise en vente si l&rsquo;on ne paie pas les intérêts, mange la plus grosse part du revenu. Aussi madame de Beauvilliers doit-elle racheter par de sordides économies le luxe extérieur auquel la condamne l&rsquo;orgueil de sa condition. Soucieuse de se tenir debout à son rang, rêvant de marier sa fille à un homme d&rsquo;égale noblesse et de faire de son fils un soldat, elle vit dans un douloureux et puéril héroïsme quotidien. Mais un grand espoir va lui venir.</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

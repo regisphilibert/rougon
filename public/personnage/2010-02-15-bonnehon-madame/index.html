@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Bonnehon <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Bonnehon <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Sœur du président Grandmorin. Mariée à un industriel qui lui a apporté une grosse fortune, déjà fort riche par elle-même, elle est devenue veuve à l&rsquo;âge de trente ans. Dans le château de Doinville qui lui appartient, elle a mené une existence aimable, toute pleine de coups de cœur, mais si correcte et si franche d&rsquo;apparence, qu&rsquo;elle est restée l&rsquo;arbitre de la société rouennaise. On l&rsquo;adore à Doinville, elle a fait du château un lieu de délices [14]. Par occasion et par goût, elle a aimé dans la magistrature. Grande, forte, avec de magnifiques cheveux blonds, belle encore, malgré ses cinquante-cinq ans, d&rsquo;une beauté opulente de déesse vieillie, elle n&rsquo;est pas encore calmée. On lui prête une tendresse maternelle pour le jeune substitut Chaumette, il lui reste toujours un vieil ami, le conseiller Desbazeilles, et elle conserve sa royauté, par sa bonne grâce, malgré la vieillesse menaçante. Pourtant, il vient de lui naître une rivale beaucoup plus jeune, dans la personne de madame Leboucq, et cela lui donne une pointe de mélancolie [114]. Madame Bonnehon a une excellente opinion des Roubaud et la rapacité de sa nièce Berthe Grandmorin lui semble fort blâmable : comme elle a toujours été très riche, elle se montre d&rsquo;un désintéressement absolu, affectant de mettre l&rsquo;unique raison de vivre dans la beauté et dans l&rsquo;amour [116]. Pour l&rsquo;honneur de la famille, elle souhaite qu&rsquo;on fasse le moins de bruit possible autour de l&rsquo;assassinat du président [400]. <em>(La Bête humaine.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Garçonnet
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Garçonnet
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Maire de Plassans. Légitimiste placé en 1849 à la tête de la municipalité. Fort riche, délicat, coquet, a fait installer à la mairie, derrière son cabinet officiel, un élégant réduit. Il est très lié avec le clergé et voit sans enthousiasme un coup d&rsquo;Etat bonapartiste; néanmoins il fait afficher les dépêches du nouveau gouvernement [123] et est arrêté dans la nuit du 7 décembre, à la mairie, parles insurgés [187] qui le traitent avec douceur [256], l&rsquo;emmènent comme otage et l&rsquo;enferment dans l&rsquo;auberge de la Mute blanche, à Saint-Roure [259]. Délivré le 12 par les troupes de l&rsquo;ordre [267], il rentre en carriole à Plassans avec les autres libérés [361] et offre un dîner d&rsquo;apparat au préfet, M. de Blériot, et au colonel Masson [312] qui viennent de noyer l&rsquo;insurrection dans le sang. <em>(La Fortune des Rougon.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

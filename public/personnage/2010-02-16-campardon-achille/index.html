@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Campardon <span>, Achille</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Campardon <span>, Achille</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Architecte. Il a vécu d&rsquo;abord à Plassans, puis à Paris et habite rue de Choiseul, dans l&rsquo;immeuble Vabre, au troisième sur la rue, une maison pleine de toutes les pourritures bourgeoises. Gros monsieur blond, quarante-deux ans. Il s&rsquo;est fait une tête d&rsquo;artiste, les cheveux en coup de vent, la barbe taillée à la Henri IV, mais il a le crâne plat et la mâchoire carrée d&rsquo;un bourgeois d&rsquo;esprit borné, aux appétits voraces. Tout en affectant de se moquer de la morale, il s&rsquo;est sournoisement poussé par les prêtres, il a su se faire nommer architecte diocésain à Evreux pour acquérir le titre d&rsquo;architecte du gouvernement et, finalement, a obtenu une grosse commande à Saint-Roch. Il est décoré un peu plus tard, grâce à la protection de l&rsquo;abbé Mauduit.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

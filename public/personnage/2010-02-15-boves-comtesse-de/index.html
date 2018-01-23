@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Boves <span>, Comtesse de</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Boves <span>, Comtesse de</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Femme du comte. Vient de dépasser la quarantaine. C&rsquo;est une femme superbe, à encolure de déesse, avec une grande face régulière et de larges yeux dormants. Elle a été épousée pour elle-même, n&rsquo;apportant à son mari que sa beauté de Junon [81]. Serrée d&rsquo;argent, toujours torturée d&rsquo;une envie trop grosse, elle parcourt les grands magasins, trouvant une joie sensuelle à faire sortir des cartons toutes sortes de dentelles pour les voir et les toucher, mettant des doigts tremblants de désir dans les flots montants de guipures, de malines, de valenciennes, de chantillys. La névrose des grands bazars fait son œuvre en la poussant au vol, même sans besoin, car sa complaisance a rendu au ménage les ressources que le mari dépensait au dehors. Maintenant, elle vole pour voler, comme on aime pour aimer, sous le coup de fouet du désir [509]. Elle est prise en flagrant délit [506]. </p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

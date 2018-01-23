@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Beaudoin
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Beaudoin
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-debacle/">La Débâcle</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Capitaine au 106<sup>e</sup> de ligne (colonel de Vineuil). Un bel officier, d&rsquo;allure fine et correcte. Sorti de Saint-Cyr, appuyé par plusieurs salons, ayant une très jolie voix de ténor à laquelle il doit beaucoup déjà, bonapartiste convaincu, le capitaine Beaudoin est promis au plus bel avancement. D&rsquo;ailleurs, il n&rsquo;est pas inintelligent, bien que ne sachant rien de son métier. Il n&rsquo;a pas su se faire aimer de ses hommes, on le trouve trop jeune et trop dur, un pète-sec. Rochas, son lieutenant, sorti du rang, ne peut le souffrir. Dans la marche vers la Meuse, le convoi s&rsquo;est égaré, Beaudoin a perdu ses bagages; il ne dérage pas, les lèvres pincées, le visage pâle, bien moins indigné de ne point manger que de ne pouvoir changer de chemise. Depuis les premières défaites, il a l&rsquo;air absolument choqué, le désastre lui semble surtout inconvenant. II arrive dans Sedan pitoyable, l&rsquo;uniforme souillé, la face et les mains noires.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

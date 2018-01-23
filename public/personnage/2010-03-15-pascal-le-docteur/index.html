@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -63,17 +72,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Pascal <span>, Le Docteur</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-faute-de-labbe-mouret/">La Faute de l&amp;rsquo;abbé Mouret</a></span>, <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, <span><a href="http://example.org/roman/2010-02-11-le-docteur-pascal/">Le Docteur Pascal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Pascal <span>, Le Docteur</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-faute-de-labbe-mouret/">La Faute de l&amp;rsquo;abbé Mouret</a></span>, <span><a href="http://example.org/roman/2010-03-22-la-fortune-des-rougon/">La Fortune des Rougon</a></span>, <span><a href="http://example.org/roman/2010-02-11-le-docteur-pascal/">Le Docteur Pascal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Second fils de Pierre Rougon et de Félicité Puech. Frère d&rsquo;Eugène, Aristide, Sidonie et Marthe. Né à Plassans en 1813, il ne parait pas appartenir à la famille. Grand, le visage doux et sévère, il a une droiture d&rsquo;esprit, un amour de l&rsquo;étude, un besoin de modestie, une sobriété, un beau mépris de la fortune qui l&rsquo;isolent complètement, au milieu des appétits désordonnés qui l&rsquo;entourent. Après de brillantes éludes médicales à Paris, il rentre à Plassans, s&rsquo;enferme en une petite maison claire de la ville neuve, s&rsquo;absorbe amoureusement dans des découvertes scientifiques, se contentant des quelques malades que le hasard lui envoie, gagnant juste de quoi vivre. Sans qu&rsquo;on s&rsquo;en doute autour de lui, il adresse d&rsquo;intéressants mémoires à l&rsquo;Académie des Sciences et devient un homme très connu et très écoulé du monde savant [79]. Plein de perspicacité, il a, dès longtemps, entrevu l&rsquo;avenir des Rougon-Macquart et, du fond de son laboratoire, il observe curieusement leurs évolutions. <em>(La Fortune des Rougon.)</em></p>
@@ -103,6 +113,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

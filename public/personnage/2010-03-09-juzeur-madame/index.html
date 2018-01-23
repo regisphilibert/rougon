@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Juzeur <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Juzeur <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Locataire de l&rsquo;immeuble Vabre, rue de Choiseul. Habite un appartement au troisième sur la cour. C&rsquo;est une veuve de trente-deux ans, une dévote aux yeux clairs, toute pleine de réticences et de sous-entendus; elle sourit avec quittée après dix jours de mariage et, dans son infortune, elle a la passion de travailler à la félicité des autres femmes, s&rsquo;occupant de toutes les histoires tendres de la maison, rôdant autour des intrigues amoureuses en petite femme discrète confessant les amants et se frôlant à eux. Madame Juzeur, qui respecte les prescriptions de l&rsquo;église, se refuse toujours au seul acte défendu, mais elle permet les caresses les plus vives et les plus secrètes, mettant l&rsquo;honneur et l&rsquo;estime de soi-même en un seul point, ayant la coquetterie de tenir toujours les hommes et ne les satisfaisant jamais, éprouvant une savante jouissance personnelle à se faire manger de baisers partout, sans le coup de bâton de l&rsquo;assouvissement final [274]. Et le moment venu, elle sait se dégager d&rsquo;un brusque mouvement de vigueur nerveuse, trouvant ça meilleur, s&rsquo;y entêtant, prétendant ainsi rester honnête, puisque pas un homme ne peut se flatter de l&rsquo;avoir eue, depuis le lâche abandon de son mari. C&rsquo;est madame Tout-ce-que-vous-voudrez-mais-pas-ça [273]. <em>(Pot-Bouille.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

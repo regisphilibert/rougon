@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Jantrou
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Jantrou
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Rédacteur en chef de <em>l&rsquo;Espérance.</em> C&rsquo;est un ancien professeur, venu de Bordeaux à Paris, obligé de quitter l&rsquo;Université, à la suite d&rsquo;une histoire louche. Beau garçon, avec sa large barbe noire et sa calvitie précoce, d&rsquo;ailleurs intelligent et aimable, il est débarqué à la Bourse vers vingt-huit ans, s&rsquo;y est traîné et sali pendant dix ans comme remisier, n&rsquo;y gagnant guère que l&rsquo;argent nécessaire à ses vices, essuyant les rebuffades des clients, traité à coups de pied par le comte de Ladricourt. Plus tard, tout à fait chauve, se désolant ainsi qu&rsquo;une fille dont les rides menacent le gagne-pain, attendant toujours l&rsquo;occasion qui doit le lancer au succès, à la fortune, Jantrou répète qu&rsquo;il faut être un coquin pour réussir à la Bourse et il met dans celte parole la rancune d&rsquo;un homme qui n&rsquo;a pas eu la coquinerie chanceuse [21].</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

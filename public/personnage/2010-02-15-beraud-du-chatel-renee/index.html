@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Béraud Du Châtel <span>, Renée</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-curee/">La Curée</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Béraud Du Châtel <span>, Renée</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-curee/">La Curée</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille aînée du président Béraud Du Châtel. Femme d&rsquo;Aristide Rougon, dit Saccard. Née à Paris en 1836, elle avait huit ans lorsque sa mère est morte. Elle reste pendant onze ans pensionnaire chez les Dames de la Visitation, grandissant loin du foyer paternel, se faisant une éducation fantasque, perdant peu à peu les vertus de sa race et glissant à des désirs inavouables, à des curiosités vicieuses qui, vers l&rsquo;âge de dix-neuf ans, pendant des vacances, chez sa bonne amie Adeline, la livreront sans défense à un viol brutal. Elle s&rsquo;éveillera pleine de mépris pour elle-même, perdue au bien et disposée, dans un amour des choses logiques hérité de son père, à aller jusqu&rsquo;au bout d&rsquo;une dépravation beaucoup plus cérébrale que charnelle, à satisfaire toujours un insatiable besoin de savoir et de sentir. Pour dissimuler sa faute, on l&rsquo;a mariée avec Aristide Saccard et elle se trouve bientôt lancée dans le monde interlope du second Empire. Une fausse couche heureuse a supprimé l&rsquo;enfant qu&rsquo;on redoutait.</p>
@@ -87,6 +97,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

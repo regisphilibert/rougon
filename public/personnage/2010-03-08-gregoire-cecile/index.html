@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Grégoire <span>, Cécile</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Grégoire <span>, Cécile</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille de Léon Grégoire.  Elle n&rsquo;est pas jolie, trop saine, trop bien portante, mûre à dix-huit ans, mais elle a une chair superbe, une fraîcheur de lait, avec ses cheveux châtains, sa face ronde au petit nez volontaire, noyé entre les joues [82]. Ses parents ne trouvent rien de trop beau pour elle [85]. Elle a été élevée à la Piolaine, dans une ignorance heureuse, dans des caprices d&rsquo;enfant, ayant une maîtresse de piano et des professeurs, mais jetant le livre par la fenêtre, dés qu&rsquo;une question l&rsquo;ennuie. Les Grégoire la chargent de leurs aumônes ; cela rentre dans leur idée d&rsquo;une belle éducation, il faut être charitable, ils disent eux-mêmes que leur maison est la maison du bon Dieu. Du reste, ils se flattent de faire la charité avec intelligence et, pour ne pas encourager le vice, ils ne donnent jamais d&rsquo;argent, leurs aumônes sont toujours en nature, car c&rsquo;est un fait connu, dès qu&rsquo;un pauvre a deux sous, il les boit [100].</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

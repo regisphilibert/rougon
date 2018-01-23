@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Lantier <span>, Jacques</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Lantier <span>, Jacques</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-bete-humaine/">La Bête Humaine</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Second fils de Gervaise Macquart et d&rsquo;Auguste Lantier. Il avait six ans quanti ses parents ont quitté Plassans avec Claude et Étienne, le laissant à sa marraine, tante Phasie, qui lui a fait suivre les cours de l&rsquo;école des Arts et Métiers. Après deux ans passés au chemin de fer d&rsquo;Orléans, il est devenu mécanicien de première classe à la Compagnie de l&rsquo;Ouest, gagnant avec le fixe et les primes plus de quatre mille francs, ne rêvant rien au delà. A vingt-six ans, il est grand, très brun, beau garçon, avec un visage rond et régulier, que gâtent des mâchoires trop fortes ; il a des yeux larges et noirs ; ses cheveux plantés dru frisent, ainsi que ses moustaches, si épaisses, si brunes, qu&rsquo;elles augmentent la pâleur de son teint; on dirait un monsieur, à sa peau fine, bien rosée sur les joues, si l&rsquo;on ne trouvait d&rsquo;autre part l&rsquo;empreinte indélébile du métier, les graisses qui jaunissent déjà ses mains de mécanicien, des mains pourtant restées petites et souples.</p>
@@ -89,6 +99,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

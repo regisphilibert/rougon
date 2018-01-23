@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Vabre <span>, Clotilde</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Vabre <span>, Clotilde</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille du notaire Vabre. Femme de Duveyrier. Elle est grande et belle, avec de magnifiques cheveux noirs, un visage long. d&rsquo;une pâleur et d&rsquo;un froid de neige, des yeux gris. Clotilde a une passion exagérée pour la musique, sans aucun autre besoin d&rsquo;esprit ni de chair. A son piano, elle est comme une écuyère sur son cheval, mais cet enthousiasme qui fait de la maison un enfer pour Duveyrier, n&rsquo;est qu&rsquo;à fleur de peau: Clotilde chante avec une expression passionnée, qu&rsquo;elle laisse tomber comme un masque dès la fin du morceau [236]. La jeune femme, qui possédait cent mille francs par sa mère, devait apporter en outre une dot de quatre-vingt mille francs, mais le père n&rsquo;en a versé que dix mille; les Duveyrier attendent toujours le reste, ils ont même recueilli le vieux Vabre, voulant l&rsquo;avoir sous la main, l&rsquo;intéressant à leur fils Gustave qu&rsquo;ils rêvent de faire avantager dans la succession.</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

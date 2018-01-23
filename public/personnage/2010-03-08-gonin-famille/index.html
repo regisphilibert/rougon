@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Gonin <span>, Famille</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-la-joie-de-vivre/">La Joie de Vivre</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Gonin <span>, Famille</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-la-joie-de-vivre/">La Joie de Vivre</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Pêcheurs habitant Bonneville. La famille se compose du mari, de la femme et d&rsquo;une fillette [29]. Très à leur aise, ils recueillent Cuche lorsque la maison de celui-ci est détruite par la mer. Cousin de la femme Gonin, Cuche devient bientôt son amant, tandis que Gonin tombé en paralysie, roué de coups par l&rsquo;un et par l&rsquo;autre, passe les jours et les nuits dans un vieux coffre à bois [128]. La petite Gonin, gentille blondinette, secourue par Pauline Quenu, traîne avec les gamins du pays et accouche à treize ans et demi d&rsquo;un enfant qu&rsquo;on croit être du fils Cuche [333]. La jeune mère est si frêle, si peu formée, qu&rsquo;elle semble une sœur aînée promenant sa cadette. La femme Gonin et Cuche tombent sur elle et la brutalisent, disant que, quand on fait la vie, ça doit rapporter au lieu de coûter. Quant au vieil infirme, il meurt un matin dans son coffre à charbon, si noir de coups que la police parle de s&rsquo;en mêler [428]. <em>(La Joie de vivre.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

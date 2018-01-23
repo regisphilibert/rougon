@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Souvarine
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Souvarine
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Machineur à la fosse du Voreux, logé chez Rasseneur. Il est Russe. C&rsquo;est le dernier-né d&rsquo;une famille noble du gouvernement de Toula. A Saint-Pétersbourg, où il faisait sa médecine, la passion socialiste l&rsquo;a décidé à apprendre un métier manuel, celui de mécanicien, pour se mêler au peuple, le connaître et l&rsquo;aider en frère. C&rsquo;est de ce métier qu&rsquo;il vit maintenant, après s&rsquo;être enfui à la suite d&rsquo;un attentat contre la vie de l&rsquo;empereur ; pendant un mois, il a vécu dans la cave d&rsquo;un fruitier, creusant une mine au travers de la rue, chargeant des bombes sons la continuelle menace de sauter avec la maison [156]. Une fois déjà, il avait failli être pris dans une autre affaire, une explosion sous la voie ferrée; plusieurs conjurés et sa maîtresse Annouchka avaient été pendus sous ses yeux [509]. Renié par sa famille, sans argent, mis comme étranger à l&rsquo;index des ateliers Français qui voient en lui un espion, il allait mourir de faim lorsque la Compagnie de Montsou l&rsquo;a embauché, dans une heure de presse. Depuis un an, il travaille là en bon ouvrier, sobre, silencieux, faisant une semaine le service de jour et une semaine le service de nuit, si exact que les chefs le citent en exemple [156].</p>
@@ -87,6 +97,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

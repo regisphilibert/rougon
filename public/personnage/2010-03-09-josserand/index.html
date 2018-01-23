@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Josserand
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Josserand
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Mari d&rsquo;Eléonore Bachelard. Père de Léon, Saturnin, Hortense et Berthe. Gros yeux bleus aux regards éteints, boucles de cheveux grisonnants, voix lente et fatiguée, visage comme trempé et effacé par trente-cinq ans de bureau. Josserand est un vieil honnête homme qui s&rsquo;impose une vie de martyre pour satisfaire aux exigences dépensières de sa femme. Caissier des frères Bernheim, à la cristallerie Saint-Joseph, avec appointements de huit mille francs par an, il passe les nuits à faire des bandes à trois francs le mille, pendant que sa femme et ses filles battent les salons avec des fleurs dans les cheveux [31]. Eléonore le domine, il subit le chapitre intarissable de ses espoirs brisés, consent par faiblesse à des capitulations de conscience qui l&rsquo;emplissent d&rsquo;angoisse, marie sa fille Berthe sous la promesse illusoire d&rsquo;une dot inexistante et subit ensuite le déchirement de voir le ménage de la jeune femme gâché comme le sien. Une décomposition du sang l&rsquo;emporte bientôt, il agonise devant les âpres querelles de sa femme et de ses filles, étranglé par la tranquille inconscience des seules créatures qu&rsquo;il ait aimées [452]. <em>(Pot-Bouille.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

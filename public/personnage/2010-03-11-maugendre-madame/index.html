@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Maugendre <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Maugendre <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— originaire de Marseille, sœur du capitaine Chave. Sèche, active, elle a travaillé comme son mari et gagné sa part de la fortune. Elle voit avec inquiétude Maugendre se lancer dans les spéculations de Bourse, car elle a toujours professé contre le jeu une haine de bonne ménagère. Mais, si des angoisses l’agitent, elle a les yeux enflammés au moindre gain [203]. Un jour, elle devient plus enfiévrée, plus âpre que son mari, c’est elle qui le gourmande de sa timidité; acharnée aux grands coups de hasard, elle s’exalte sur les renseignements de la <em>Cote financière,</em> une vieille feuille honnête qui inspire confiance à tous les rentiers, mais qui a été achetée par Saccard [301]. Et madame Maugendre, si prudente autrefois, si économe, la terreur de ses bonnes, toujours sur leurs talons, à éplucher leurs comptes, ne parle plus que par centaines de mille francs [386]. Après la ruine, elle et son mari sont secourus par le gendre qu’ils avaient méprisé, et qui les installe à Clichy, dans un rez-de-chaussée, avec jardin pas cher [388]. <em>(L’Argent.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

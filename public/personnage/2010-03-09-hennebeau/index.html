@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Hennebeau
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Hennebeau
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Directeur général de la Compagnie des mines de Montsou, comprenant dix-neuf fosses, dont treize pour l&rsquo;exploitation, le Voreux, la Victoire, Crévecœur, Mirou, Saint-Thomas, Madeleine, Feutry-Cantel, d&rsquo;autres encore, et six pour l&rsquo;épuisement, et l&rsquo;aérage, comme Réquillart, dix mille ouvriers, des concessions qui s&rsquo;étendent sur soixante-sept communes, une extraction de cinq mille tonnes par jour, un chemin de fer reliant toutes les fosses [11]. Le tout appartient a des actionnaires, des gens que les mineurs n&rsquo;ont jamais vus. Né dans les Ardennes, M. Hennebeau a eu les commencements difficiles d&rsquo;un garçon pauvre, jeté orphelin sur le pavé de Paris. Après avoir suivi péniblement les cours de l&rsquo;Ecole des mines, il est à vingt-quatre ans parti pour la Grand&rsquo;Combe, comme ingénieur du puits Sainte-Barbe; trois ans plus tard, il devient ingénieur divisionnaire dans le Pas-de-Calais, aux fosses de Maries, et c&rsquo;est là qu&rsquo;il se marie. Le ménage habite la même petite ville de province pendant quinze ans; un désaccord physique et moral a grandi entre les époux, Hennebeau adore sa femme qui le dédaigne. Après avoir ignoré le premier amant, il obtient un poste à Paris, croyant reconquérir ainsi l&rsquo;épouse, mais Paris achève la séparation ; les dix ans que madame Hennebeau y passe, dans la luxueuse folie de l&rsquo;époque, sont emplis par une grande passion devant laquelle le mari se résigne, désarmé par la tranquille inconscience de cette femme qui prend son bonheur où elle le trouve. Puis, quand l&rsquo;amant disparaît, laissant sa maîtresse malade de chagrin, Hennebeau accepte la direction des mines de Montsou; il espère encore la corriger là-bas, dans ce désert des pays noirs [224].</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

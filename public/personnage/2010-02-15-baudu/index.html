@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Baudu
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Baudu
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Mari d&rsquo;Elisabeth Hauchecorne. Père de Geneviève. Oncle de Denise, Jean et Pépé Baudu. Entré comme simple commis au Vieil Elbeuf avec sept francs dans sa poche, il a fini par épouser la fille de Hauchecorne, le patron, à qui il a succédé. Dans les années de prospérité, le ménage Baudu a élevé six enfants : trois sont morts à vingt ans, le quatrième a mal tourné, le cinquième est officier, il ne reste que Geneviève. Cette famille a coûté gros et Baudu s&rsquo;est achevé en achetant à Rambouillet une grande baraque de maison, une antique bâtisse où il rêve de se retirer et qu&rsquo;on est forcé de réparer continuellement; ses gains passent là, il n&rsquo;a eu que ce vice, dans sa probité méticuleuse, obstinée aux antiques usages. Le Vieil Elbeuf souffre de la terrible crise déterminée par les grands magasins. La boutique, pleine d&rsquo;humidité, est écrasée sous un plafond bas et enfumé ; elle a un entresol aux baies de prison et une arrière-salle qui ouvre sur un fond de puits; c&rsquo;est une odeur de vieux, un demi-jour, où tout l&rsquo;ancien commerce, bonhomme et simple, semble pleurer d&rsquo;abandon, alors que, de l&rsquo;autre côté de la rue, le Bonheur des Dames donne l&rsquo;impression d&rsquo;une machine fonctionnant à haute pression, avec ses vitrines échauffées et comme vibrantes de la vie intérieure .</p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

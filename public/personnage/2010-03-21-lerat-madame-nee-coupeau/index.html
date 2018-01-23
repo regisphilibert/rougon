@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580592">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -61,17 +70,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Lerat <span>, Madame</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Lerat <span>, Madame</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Sœur aînée de madame Lorilleux et de Coupeau. Grande, sèche, parlant du nez [86]. C&rsquo;est mie veuve de trente-six ans, qui habite la rue des Moines, aux Batignolles, et travaille dans les fleurs [52]. Elle mène une vie d&rsquo;ouvrière cloîtrée dans son train-train et n&rsquo;a jamais vu le nez d&rsquo;un homme chez elle depuis son veuvage, mais elle montre une préoccupation continuelle de l&rsquo;ordure, une manie de mots à double entente et d&rsquo;allusions polissonnes [106]. De meilleure composition que sa sœur, elle vit en bons termes avec Gervaise, et lorsque la petite Nana est en âge d&rsquo;apprendre un métier, elle la fait entrer dans une maison de fleurs de la rue du Caire, chez Titreville, où elle est première. Chargée de surveiller la petite, elle s&rsquo;acquitte mal de la commission, s&rsquo;allumant aux premières aventures de Nana [167]. <em>(L&rsquo;Assommoir.)</em></p>
@@ -85,6 +95,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

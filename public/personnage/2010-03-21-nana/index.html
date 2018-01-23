@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580592">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -61,17 +70,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Nana
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Nana
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, <span><a href="http://example.org/roman/2010-02-11-nana/">Nana</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille de Gervaise Macquart et de Coupeau. Mère de Louis Coupeau dit Louiset. Née à Paris, rue Neuve de la Goutte-d&rsquo;Or, le 30 avril 1852. On l&rsquo;appelle Nana à cause de son prénom d&rsquo;Anna qu&rsquo;elle tient de sa marraine, madame Lorilleux [130]. A six ans, elle va dans une petite pension rue Polonceau; c&rsquo;est déjà une vaurienne finie, insupportable en classe; elle règne sur tous les galopins du quartier et grandit sous les mauvais exemples du ménage, le père ivrogne, la mère se partageant entre Coupeau et Lantier [347]. A treize ans, déjà remplie de vice, elle fait sa première communion et entre comme apprentie fleuriste dans un atelier de la rue du Caire [413] où s&rsquo;achève sa démoralisation. Elle n&rsquo;a aucun goût pour le travail, est mal embouchée, méprise profondément ses parents et se galvaude dans le quartier. Ouvrière, elle gagne deux francs par jour; c&rsquo;est déjà une belle fille blonde, très blanche de chair, très grasse, très dodue; elle a une peau veloutée de pêche, un nez drôle, un bec rose, des yeux luisants [451]. Devenue très coquette, elle se fait suivre par un vieux roquentin, fabricant de boutons en os boulevard de la Villette et, comme l&rsquo;existence est devenue impossible chez les Coupeau, elle lâche définitivement l&rsquo;atelier et file un beau jour avec son vieux [475]. Retrouvée dans un bastringue, elle rentre pour quelques jours à la maison, puis elle disparaît définitivement, ayant eu la chance de rencontrer un vicomte qui l&rsquo;a mise dans la soie [502]. (L&rsquo;Assommoir.)</p>
@@ -99,6 +109,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

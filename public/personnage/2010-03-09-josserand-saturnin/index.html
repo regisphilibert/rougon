@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580594">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670148">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Josserand <span>, Saturnin</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Josserand <span>, Saturnin</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-pot-bouille/">Pot-Bouille</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Second fils des Josserand. Grand garçon de vingt-cinq ans, dégingandé, aux yeux étranges, resté enfant à la suite d&rsquo;une fièvre cérébrale. Sans être fou, il terrifie la maison par des crises de violence aveugle, lorsqu&rsquo;on le contrarie. Seule, Berthe le dompte, il s&rsquo;est pris pour elle d&rsquo;une adoration où il entre de tous les amours [46] ; sa sœur est une idole qu&rsquo;il entoure d&rsquo;un culte jaloux. Desfureurs l&rsquo;agitent lorsqu&rsquo;il comprend qu&rsquo;on veut la marier, on doit par prudence le mettre à l&rsquo;Asile des Moulineaux où il accepte de partir, tenant la main de Berthe et croyant faire une partie do campagne. Avec la même docilité, il s&rsquo;est laissé dépouiller d&rsquo;une somme de trois mille francs, léguée par une tante et qui sert aux frais de la noce. Renvoyé de l&rsquo;Asile un peu plus tard parce que sa folie n&rsquo;est pas assez caractérisée, il a été recueilli par Berthe, dont il devient le garde du corps, poursuivant le mari d&rsquo;une haine féroce d&rsquo;amant contrarié [305], s&rsquo;éprenant d&rsquo;Octave Mouret par hostilité pour Vabre, se fâchant contre Octave qui semble tourner autour d&rsquo;autres femmes, ne rêvant toujours que le bonheur de Berthe et semblant goûter l&rsquo;amour dans cette chair de femme qu&rsquo;il sent sienne, sous la poussée de l&rsquo;instinct [303]. <em>(Pot-Bouille.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

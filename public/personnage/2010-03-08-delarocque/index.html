@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580595">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670149">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Delarocque
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Delarocque
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-largent/">L&amp;rsquo;Argent</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Procureur général, plus tard ministre de la justice. Grand homme jaune, glacial et osseux, à la haute taille solennelle, à la face rase, coupée de plis profonds, d&rsquo;une austère sévérité. Sonnez dur, en bec d&rsquo;aigle, semble sans défaillante comme sans pardon. Mais, derrière le masque professionnel, il y a en lui un furieux mâle aux appétits d&rsquo;ogre. Amant de la baronne Sandorff, il a loué, pour la posséder à son aise, un petit rez-de-chaussée de la rue Caumartin, près de la rue Saint-Nicolas, et il fournit à cette femme les fonds que lui refuse un mari avare. Peu généreux d&rsquo;ailleurs, il ne donne pas assez à la baronne pour payer ses différences de Bourse, il est trompé au profit d&rsquo;Aristide Saccard, surprend les amants grâce à la trahison d&rsquo;une femme de chambre, et c&rsquo;est, entre Saccard et lui, une querelle de charretiers ivres, des mots abominables qu&rsquo;ils se lancent comme des crachats, avec un besoin croissant de l&rsquo;ordure [233]. Devenu ministre, Delcambre fera lourdement sentir sa rancune à Saccard, surpris en marge du code, dans la débâcle de la Banque Universelle [377]. <em>(L&rsquo;Argent.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

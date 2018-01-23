@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580593">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670147">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Pierron <span>, Lydie</span>
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Pierron <span>, Lydie</span>
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-germinal/">Germinal</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Fille de Pierron. Une chétive fillette de dix ans, déjà hercheuse au Voreux. Ereintée, boueuse, raidissant ses bras et ses jambes d&rsquo;insecte pour pousser sa berline, elle est, au fond de la mine, pareille à une maigre fourmi noire en lutte contre un fardeau trop lourd [60]. Détestée de la Pierronne, elle empoche en gifles fréquentes les vivacités de la famille [110]. Devant son ami Jeanlin Maheu, elle éprouve une peur et une tendresse de petite femme battue ; elle joue à faire « papa et maman » avec lui ; quand il t&rsquo;emmène, elle galope, elle se laisse prendre avec le tremblement délicieux dé l&rsquo;instinct, souvent fâchée, mais cédant toujours, dans l&rsquo;attente de quelque chose qui ne vient point [138]. Comme Bébert Levaque, elle est exploitée par Jeanlin, elle est de toutes les parties de maraude, et elle en partage tous les risques sans profit. Au tyrannique Jeanlin, elle finit par préférer de beaucoup le doux et câlin Bébert, son compagnon de peine ; elle voudrait bien être serrée dans ses bras [302]. Mais pendant la grève de Montsou, an feu de peloton arrête l&rsquo;idylle commençante et Lydie est tuée raide par une balle, devant la fosse du Voreux [487].<em>(Germinal.)</em></p>
@@ -81,6 +91,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

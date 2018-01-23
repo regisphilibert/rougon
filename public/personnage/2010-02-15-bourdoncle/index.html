@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580596">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670150">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Bourdoncle
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Bourdoncle
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-au-bonheur-des-dames/">Au Bonheur des Dames</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Un des intéressés du Bonheur des Dames. Jeune homme grand et maigre, aux lèvres minces, au nez pointu, très correct d&rsquo;ailleurs, avec ses cheveux lisses, où des mèches grises se montrent déjà. C&rsquo;est le fils d&rsquo;un fermier pauvre des environs de Limoges. Il a débuté jadis au Bonheur en même temps qu&rsquo;Octave Mouret. Très intelligent, très actif, il semblait devoir supplanter aisément son camarade, moins sérieux, mais il n&rsquo;apportait pas le coup de génie de ce Provençal passionné. Par un instinct d&rsquo;homme sage, il s&rsquo;est incliné devant lui, obéissant, et cela, sans lutte, dès le commencement. Un des premiers, il a suivi le conseil de Mouret en mettant de l&rsquo;argent dans la maison, et peu à peu il est devenu un des lieutenants du patron, le plus cher et le plus écouté ; parmi les intéressés, c&rsquo;est lui qui est chargé de la surveillance générale [38]. Mouret, qui tient à sa réputation d&rsquo;homme aimable, lui confie volontiers les exécutions ; au temps de la morte-saison, Bourdoncle est célèbre par ses « passez à la caisse », qui tombent comme un coup de hache et déciment les rayons [185].</p>
@@ -83,6 +93,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>

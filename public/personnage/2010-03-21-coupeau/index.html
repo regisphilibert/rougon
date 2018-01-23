@@ -14,8 +14,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="http://example.org//css/style.css?1516580592">
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link rel="stylesheet" href="http://example.org//css/main.css?1516670146">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
+        <script
+          src="https://code.jquery.com/jquery-2.2.4.min.js"
+          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+          crossorigin="anonymous"></script>
+        <script type="text/javascript" src="http://example.org/js/typeahead.bundle.min.js"></script>
+        
     </head>
     <body>
         
@@ -31,7 +37,10 @@
             </h1>
         </a>
         <img class="header-image" src="http://example.org/images/header_image.jpg" alt="">
-
+        <div class="search">
+            <input type="text" class="main-autocomplete" placeholder="Rechercher">
+            <i class="fas fa-search icon-search"></i>
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -59,17 +68,18 @@
 
 
 
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title">
-            Coupeau
-        </h1>
-    </div>
-    <div class="item-desc">
-        <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
-    </div>
-</div>
 <div class="main rm-container">
+    <div class="single-head">
+        <div class="item-title-wrapper">
+            <h1 class="item-title">
+                Coupeau
+            </h1>
+        </div>
+        <div class="item-desc">
+            <span><a href="http://example.org/roman/2010-02-11-lassommoir/">L&amp;rsquo;Assommoir</a></span>, 
+        </div>
+    </div>
+
     <div class="rm-content rm-html">
         <div class="item-content">
             <p>— Né en 1824 à Paris, 22, rue de la Goutte-d&rsquo;Or [53]. Fils de maman Coupeau, frère de madame Lerat et de madame Lorilleux. Mari de Gervaise Macquart. Père d&rsquo;Anna Coupeau, dite Nana. Ouvrier zingueur. A vingt-six ans, c&rsquo;est un garçon très propre, à la mâchoire inférieure saillante, au nez légèrement écrasé, il a de beaux yeux marrons, la face d&rsquo;un chien joyeux et bon enfant. Sa grosse chevelure frisée se tient tout. debout. [40]. De caractère faible, tremblant devant les Lorilleux, il vit sans se soucier de l&rsquo;avenir, il a une drôlerie gouailleuse d&rsquo;ouvrier parisien, c&rsquo;est un bon sujet, très sobre, on le surnomme Cadet-Cassis parce qu&rsquo;il prend généralement du cassis, quand les camarades le mènent de force chez le marchand de vin [52]. Son père, ouvrier zingueur comme lui, s&rsquo;est écrabouillé la tête un jour de ribotte en tombant de la gouttière du n&deg; 25 de la rue Coquenard et ce souvenir rend sage toute la famille [48].</p>
@@ -89,6 +99,6 @@
             </div>
             <div rm-footer></div>
         </div>
-        <script src="js/min/rmFoot.min.js"></script>
+       <script type="text/javascript" src="http://example.org/js/main.js"></script>
     </body>
 </html>
