@@ -6,7 +6,7 @@
   "author": "Regis Philibert",
   "license": "ISC",
   "scripts": {
-    "build": "grunt production; hugo"
+    "build": "grunt production; hugo_0.33"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
