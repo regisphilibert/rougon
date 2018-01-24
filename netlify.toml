@@ -1,12 +1,7 @@
 [build]
     publish = "public"
     command = "npm run rougon"
+    HUGO_VERSION = "0.33"
 
 [context.production.environment]
     HUGO_VERSION = "0.33"
-
-[context.deploy-preview.environment]
-	HUGO_VERSION = "0.33"
-
-[context.stage.environment]
-	HUGO_VERSION = "0.33"
