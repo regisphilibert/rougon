@@ -9,3 +9,7 @@ outputs:
   home:
     - html
     - json
+
+blackfriday:
+  extensions: ["hardLineBreak"]
+  hrefTargetBlank: true

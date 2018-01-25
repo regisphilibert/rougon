@@ -1,9 +1,13 @@
 ---
-title: 'L&rsquo;Œuvre'
+title: L'Œuvre
 id: 75936
 author: admin
 type: roman
 date: 2010-02-11T08:41:00+00:00
+menu:
+  main:
+    weight: 14
+    parent: novels
 rm_novel_year: 1886
 rm_novel_characters:
   - 75981

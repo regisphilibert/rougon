@@ -2,14 +2,14 @@
     <div class="main rm-container">
         <div class="rm-loop">
 		{{ range where (.Data.Pages.ByParam "Params.rm_novel_year") "Section" "roman"  }}
-			<a href="{{ .Permalink }}">
-                <article class="rm-item {{ .Type }}">
+			<article class="rm-item {{ .Type }}">
+                <a href="{{ .Permalink }}">
                     <h2 class="item-title">{{ .Title }} <small>{{ .Params.rm_novel_year }}</small></h2>
                     <div class="item-desc tablet-block desktop-block">
                         {{ len .Params.rm_novel_characters}} personnages.
                     </div>
-                </article>
-            </a>
+                </a>
+            </article>
 		{{ end }}
         </div>
     </div>

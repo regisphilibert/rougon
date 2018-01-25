@@ -17,17 +17,21 @@
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
             <i class="fa fa-bars rm-menu-icon"></i>
+            {{ $currentPage := . }}
             <div class="main-mav">
                 <ul>
-                    <li class="child ou pas">
-                        <a href="">Une Page</a>
-                    </li>
-                    <li class="child ou pas">
-                        <a href="">Deux Pages</a>
-                    </li>
-                    <li class="child ou pas">
-                        <a href="">Trois Pages</a>
-                    </li>
+                    {{ range .Site.Menus.main }}
+                        <li class='{{ cond ($currentPage.HasMenuCurrent "main" .) "active" "" }}'>
+                            <a href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                        {{ if .HasChildren }}
+                            {{ range .Children }}
+                            <li class='{{ cond ($currentPage.HasMenuCurrent "main" .) "active" "" }} child'>
+                                <a href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
                 </ul>
             </div>
         </div>

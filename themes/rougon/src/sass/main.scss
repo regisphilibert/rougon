@@ -377,8 +377,17 @@ header{
     .rm-item{
         color:$black;
         padding:20px 30px 30px 30px;
+        margin-bottom:1.5em;
+        .item-title{
+            padding-left:0;
+            padding-right:0;
+        }
         &:hover{
             background-color:$gray;
+        }
+        & > a:first-child{
+            display: block;
+            color:#000;
         }
     }
 }
@@ -443,7 +452,7 @@ header{
 
 .item-title{
     font-weight: normal;
-    font-size:42/$fontRem;
+    font-size:42rem/$fontRem;
     line-height: 1.15em;
     margin: 0;
     padding:15px;

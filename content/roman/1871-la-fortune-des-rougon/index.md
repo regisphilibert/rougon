@@ -4,6 +4,15 @@ id: 75928
 author: admin
 type: roman
 date: 2010-03-22T09:36:55+00:00
+menu:
+  main:
+    weight: 1
+    parent: novels
+resources:
+  - src: '**header.*'
+    params:
+      copy: Le député Baudin sur la barricade - Méjanel La Fortune des Rougon 1871
+
 excerpt: "Ce roman sert d'introduction à toute l'oeuvre. Il montre certains membres de la famille dont je veux écrire l'histoire, au début de leur carrière, fondant leur fortune sur le coup d'Etat, comptant sur l'Empire qu'ils prévoient pour contenter leurs appétits. - Émile Zola"
 rm_novel_year: 1871
 rm_novel_characters:

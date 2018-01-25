@@ -1,9 +1,14 @@
 ---
-title: 'La Faute de l&rsquo;abbé Mouret'
+title: La Faute de l'abbé Mouret
 id: 75945
 author: admin
 type: roman
 date: 2010-02-11T10:38:34+00:00
+menu:
+  main:
+    weight: 05
+    parent: novels
+
 rm_novel_year: 1875
 rm_novel_characters:
   - 75959

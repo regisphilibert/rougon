@@ -2,18 +2,11 @@
 {{ range .Params.rm_novel_characters }}
 {{ $.Scratch.Add "chars" (slice (int .))}}
 {{ end }}
-<div class="single-head">
-    <div class="item-title-wrapper">
-        <h1 class="item-title with-image image-loaded">
-            <img ng-show="local.head_image" class="background-image" src="{{ .Site.BaseURL }}/images/{{ .Params.rm_item_head_image }}" alt="">
-            <div class="background-image-copyrights">{{ .Params.rm_item_head_image_copryrights }}</div>
-            {{ .Title }} <small>{{ .Params.rm_novel_year }}</small>
-        </h1>
-    </div>
-</div>
+{{ $chars := where (where .Site.Pages.ByTitle "Params.id" "in" (.Scratch.Get "chars")) "Params.rm_character_main" 1 }}
+{{ partial "single/header.html" . }}
 <div class="main rm-container">
     <div class="item-desc">
-        {{ range $index, $element := where (where .Site.Pages.ByTitle "Params.id" "in" ($.Scratch.Get "chars")) "Params.rm_character_main" 1 }}{{ if $index }}, {{end}}<span><a href="{{ .Permalink }}">{{ trim .Title " "}}</a></span>{{ end }}
+        {{ partial "personnage/list.html" (dict "chars" $chars "sep" ", ")}}
     </div>
     <div class="rm-content">
         {{ .Content }}

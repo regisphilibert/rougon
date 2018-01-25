@@ -4,6 +4,15 @@ id: 75947
 author: admin
 type: roman
 date: 2010-02-11T10:34:25+00:00
+resources:
+  - src: '**header.*'
+    params:
+      copy: La salle à manger de la Princesse Mathilde - Charles Giraud
+
+menu:
+  main:
+    weight: 02
+    parent: novels
 rm_novel_year: 1872
 rm_novel_characters:
   - 75994

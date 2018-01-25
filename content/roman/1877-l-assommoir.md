@@ -1,9 +1,13 @@
 ---
-title: 'L&rsquo;Assommoir'
+title: L'Assommoir
 id: 75943
 author: admin
 type: roman
 date: 2010-02-11T08:39:28+00:00
+menu:
+  main:
+    weight: 07
+    parent: novels
 rm_novel_year: 1877
 rm_novel_characters:
   - 75948

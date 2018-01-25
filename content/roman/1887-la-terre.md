@@ -4,6 +4,10 @@ id: 75935
 author: admin
 type: roman
 date: 2010-02-11T10:41:06+00:00
+menu:
+  main:
+    weight: 15
+    parent: novels
 rm_novel_year: 1887
 rm_novel_characters:
   - 75969

@@ -1,0 +1,14 @@
+{{ $header := .Resources.GetMatch "**header.*" }}
+<div class="single-head">
+    <div class="item-title-wrapper">
+        <h1 class="item-title {{ with $header }}with-image image-loaded{{ end }}">
+            {{ with $header }}
+                <img class="background-image" src="{{ .Permalink }}" alt="">
+                {{ with .Params.copy }}
+                <div class="background-image-copyrights">{{ . }}</div>
+                {{ end }}
+            {{ end }}
+            {{ .Title }}
+        </h1>
+    </div>
+</div>

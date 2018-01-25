@@ -1,0 +1,26 @@
+{{ define "main" }}
+    <div class="main rm-container">
+        <div class="rm-loop">
+		{{ range .Data.Pages.ByParam "Params.rm_novel_year" }}
+            {{ $pageScratch := .Scratch }}
+            {{ range .Params.rm_novel_characters }}
+                {{ $pageScratch.Add "chars" (slice (int .)) }}
+            {{ end }}
+            {{ $chars := where (where .Site.Pages.ByTitle "Params.id" "in" ($pageScratch.Get "chars")) "Params.rm_character_main" 1 }}
+			<article class="rm-item roman">
+                <a href="{{ .Permalink }}">
+                    <h2 class="item-title">{{ .Title }} <small>{{ .Params.rm_novel_year }}</small></h2>
+                    <div class="item-desc tablet-block desktop-block">
+                        {{ partial "personnage/list.html" (dict "chars" $chars "sep" " . ")}}
+                    </div>
+                    {{ with .Params.excerpt }}
+                    <div class="item-content">
+                        {{ . }}
+                    </div>
+                    {{ end }}
+                </a>
+            </article>
+		{{ end }}
+        </div>
+    </div>
+{{ end }}

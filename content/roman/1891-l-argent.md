@@ -1,9 +1,13 @@
 ---
-title: 'L&rsquo;Argent'
+title: L'Argent
 id: 75932
 author: admin
 type: roman
 date: 2010-02-11T09:41:22+00:00
+menu:
+  main:
+    weight: 18
+    parent: novels
 rm_novel_year: 1891
 rm_novel_characters:
   - 76071

@@ -1,9 +1,14 @@
 ---
-title: 'Une Page d&rsquo;Amour'
+title: Une Page d'Amour
 id: 75942
 author: admin
 type: roman
 date: 2010-02-11T09:40:01+00:00
+menu:
+  main:
+    weight: 08
+    parent: novels
+
 rm_novel_year: 1878
 rm_novel_characters:
   - 76036
