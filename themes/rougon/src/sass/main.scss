@@ -1,5 +1,3 @@
-@import "rm-reset.css";
-
 $time : "Time New Roman", "Time", serif;
 $helvetica : "Helvetica", "Helvetica Neue", sans-serif;
 $helveticaLight : "Helvetica Light", sans-serif;
@@ -553,9 +551,6 @@ i[class*='icon']{
     background-position: center;
     width:18px;
     height:18px;
-    &.icon-search{
-        background-image: url(img/icon-magnify.png);
-    }
 }
 
 .clearfix{
