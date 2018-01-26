@@ -1,18 +1,16 @@
 [build]
     publish = "public"
     command = "npm run rougon"
-    HUGO_VERSION = "0.33"
 
 [context.production.environment]
-    HUGO_VERSION = "0.33"
+    HUGO_VERSION = "0.34"
     HUGO_ENV = "production"
 
 [context.deploy-preview.environment]
-	HUGO_VERSION = "0.33"
+	HUGO_VERSION = "0.34"
 
 [context.branch-deploy.environment]
-  	HUGO_VERSION = "0.33"
+  	HUGO_VERSION = "0.34"
 
 [context.stage.environment]
-	HUGO_BASEURL = "https://stage.rougon-macquart.com/"
 	HUGO_ENV = "stage"

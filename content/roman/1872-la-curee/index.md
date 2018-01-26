@@ -4,6 +4,7 @@ id: 75947
 author: admin
 type: roman
 date: 2010-02-11T10:34:25+00:00
+weight: 2
 resources:
   - src: '**header.*'
     params:

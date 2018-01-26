@@ -1,4 +1,5 @@
-baseURL: https://rougon-macquart.com/
+baseURL: /
+relativeURLs: true
 languageCode: fr-FR
 title: Les Rougon-Macquart
 theme: "rougon"

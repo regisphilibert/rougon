@@ -4,6 +4,7 @@ id: 75944
 author: admin
 type: roman
 date: 2010-02-11T10:39:07+00:00
+weight: 6
 menu:
   main:
     weight: 06
