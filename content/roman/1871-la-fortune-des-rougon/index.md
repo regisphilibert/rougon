@@ -4,9 +4,9 @@ id: 75928
 author: admin
 type: roman
 date: 2010-03-22T09:36:55+00:00
+weight: 1
 menu:
   main:
-    weight: 1
     parent: novels
 resources:
   - src: '**header.*'

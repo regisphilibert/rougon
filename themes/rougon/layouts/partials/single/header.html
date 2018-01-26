@@ -1,5 +1,13 @@
-{{ $header := .Resources.GetMatch "**header.*" }}
+{{ $header := .Resources.GetMatch "**header*" }}
 <div class="single-head">
+    <div class="item-navigation">
+        {{ if .PrevInSection }}
+        <a class="item-navigation__next" href="{{.PrevInSection.Permalink}}"></a>
+        {{ end }}
+        {{ if .NextInSection }}
+        <a class="item-navigation__prev" href="{{.NextInSection.Permalink}}"></a>
+        {{ end }}
+    </div>
     <div class="item-title-wrapper">
         <h1 class="item-title {{ with $header }}with-image image-loaded{{ end }}">
             {{ with $header }}

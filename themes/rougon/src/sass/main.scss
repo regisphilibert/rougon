@@ -397,6 +397,7 @@ header{
 *********************************************/
 .single-head{
     overflow: hidden;
+    position:relative;
     .item-title, .item-desc{
         @extend .rm-container;
     }
@@ -445,6 +446,42 @@ header{
         @media screen and (min-width:$desktop){
             &.image-loaded{
                 padding-top:90px;
+            }
+        }
+    }
+}
+
+@media(min-width:1500px){
+    .item-navigation{
+        position:absolute;
+        top:0;
+        height:0;
+        width:100%;
+        a{
+            display: block;
+            position: absolute;
+            top:0;
+            height:100px;;
+            width:calc((100vw - 1300px) / 2);
+            color:inherit;
+            text-align: center;
+            font-family: $time;
+            font-size: 2em;
+            &:before{
+                display: inline-block;
+
+            }
+        }
+        .item-navigation__prev{
+            left:0;
+            &:before{
+                content:"<"
+            }
+        }
+        .item-navigation__next{
+            right:0;
+            &:before{
+                content:">"
             }
         }
     }
