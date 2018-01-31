@@ -14,4 +14,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Maxime
 
 ---
-**—** Voir <a href="#/personnage/saccard-maxime/" target="_self">SACCARD (Maxime)</a>.
+**—** Voir <a href="/personnage/saccard-maxime/" target="_self">SACCARD (Maxime)</a>.

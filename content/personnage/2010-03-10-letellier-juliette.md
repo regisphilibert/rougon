@@ -10,4 +10,4 @@ rm_character_name_main: 'Letellier '
 rm_character_name_secondary: Juliette
 
 ---
-— Voir <a href="#/personnage/deberle-madame-juliette-nee-letellier/" target="_self">DEBERLE (Madame)</a>.
+— Voir <a href="/personnage/deberle-madame-juliette-nee-letellier/" target="_self">DEBERLE (Madame)</a>.

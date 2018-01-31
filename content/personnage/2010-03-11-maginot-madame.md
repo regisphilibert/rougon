@@ -11,4 +11,4 @@ rm_character_name_main: 'Maginot '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/vineuil-gilberte-de/" target="_self">VINEUIL (Gilberte de)</a>.
+— Voir <a href="/personnage/vineuil-gilberte-de/" target="_self">VINEUIL (Gilberte de)</a>.

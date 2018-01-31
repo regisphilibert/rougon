@@ -11,4 +11,4 @@ rm_character_name_main: 'Roubaud '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/aubry-severine/" target="_self">AUBRY (Séverine)</a>.
+— Voir <a href="/personnage/aubry-severine/" target="_self">AUBRY (Séverine)</a>.

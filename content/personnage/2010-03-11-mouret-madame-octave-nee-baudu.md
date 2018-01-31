@@ -12,4 +12,4 @@ rm_character_name_secondary: Madame Octave
 rm_character_name_precision: née BAUDU
 
 ---
-— Voir <a href="#/personnage/baudu-denise/" target="_self">BAUDU (Denise)</a>.
+— Voir <a href="/personnage/baudu-denise/" target="_self">BAUDU (Denise)</a>.

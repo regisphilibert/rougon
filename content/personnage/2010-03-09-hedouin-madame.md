@@ -12,4 +12,4 @@ rm_character_name_main: 'Hédouin '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/deleuze-caroline" target="_self">DELEUZE (Caroline)</a>.
+— Voir <a href="/personnage/deleuze-caroline" target="_self">DELEUZE (Caroline)</a>.

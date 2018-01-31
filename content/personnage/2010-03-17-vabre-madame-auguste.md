@@ -11,4 +11,4 @@ rm_character_name_main: 'Vabre '
 rm_character_name_secondary: Madame Auguste
 
 ---
-— Voir <a href="#/personnage/josserand-berthe/" target="_self">JOSSERAND (Berthe)</a>.
+— Voir <a href="/personnage/josserand-berthe/" target="_self">JOSSERAND (Berthe)</a>.

@@ -11,4 +11,4 @@ rm_character_name_main: 'Pichon '
 rm_character_name_secondary: Madame Jules
 
 ---
-— Voir <a href="#/personnage/vuillaunie-marie/" target="_self">VUILLAUNIE (Marie)</a>.
+— Voir <a href="/personnage/vuillaunie-marie/" target="_self">VUILLAUNIE (Marie)</a>.

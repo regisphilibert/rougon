@@ -11,4 +11,4 @@ rm_character_name_main: 'Lantier '
 rm_character_name_secondary: Madame Claude
 
 ---
-— Voir <a href="#/personnage/hallegrain-christine/" target="_self">HALLEGRAIN (Christine)</a>.
+— Voir <a href="/personnage/hallegrain-christine/" target="_self">HALLEGRAIN (Christine)</a>.

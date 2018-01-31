@@ -11,4 +11,4 @@ rm_character_name_main: 'Hautecœur '
 rm_character_name_secondary: Marquise Jean XII de
 
 ---
-_—_ Voir <a href="#/personnage/valencay-paule-de" target="_self">VALENÇAY (Paule de)</a>.
+_—_ Voir <a href="/personnage/valencay-paule-de" target="_self">VALENÇAY (Paule de)</a>.

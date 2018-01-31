@@ -9,7 +9,10 @@ menu:
   main:
     weight: 08
     parent: novels
-
+resources:
+  - src: '**header.*'
+    params:
+      copy: Rue de Paris et temps de pluie - Gustave Caillebotte
 rm_novel_year: 1878
 rm_novel_characters:
   - 76036

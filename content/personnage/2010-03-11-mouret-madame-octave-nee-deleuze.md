@@ -13,4 +13,4 @@ rm_character_name_secondary: Madame Octave
 rm_character_name_precision: née DELEUZE
 
 ---
-— Voir <a href="#/personnage/deleuze-caroline/" target="_self">DELEUZE (Caroline)</a>.
+— Voir <a href="/personnage/deleuze-caroline/" target="_self">DELEUZE (Caroline)</a>.

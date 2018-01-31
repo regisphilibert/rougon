@@ -13,4 +13,4 @@ rm_character_name_secondary: Madame Aristide
 rm_character_name_precision: née SICARDOT.
 
 ---
-— Voir <a href="#/personnage/sicardot-angele" target="_self">SICARDOT (Angèle)</a>.
+— Voir <a href="/personnage/sicardot-angele" target="_self">SICARDOT (Angèle)</a>.

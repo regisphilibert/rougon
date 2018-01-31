@@ -11,4 +11,4 @@ rm_character_name_main: 'La Rouquette '
 rm_character_name_secondary: Mademoiselle de
 
 ---
-— Voir <a href="#/personnage/llorentz-madame-de" target="_self">LLORENTZ (Madame de)</a>.
+— Voir <a href="/personnage/llorentz-madame-de" target="_self">LLORENTZ (Madame de)</a>.

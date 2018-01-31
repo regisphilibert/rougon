@@ -12,4 +12,4 @@ rm_character_name_main: 'Saccard '
 rm_character_name_secondary: Madame Aristide
 
 ---
-— Voir <a href="#/personnage/sicardot-angele/" target="_self">SICARDOT (Angèle)</a>.
+— Voir <a href="/personnage/sicardot-angele/" target="_self">SICARDOT (Angèle)</a>.

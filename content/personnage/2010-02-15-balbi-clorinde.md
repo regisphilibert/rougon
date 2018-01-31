@@ -11,4 +11,4 @@ rm_character_name_main: 'Balbi '
 rm_character_name_secondary: Clorinde
 
 ---
-— Voir <a title="Clorinde" href="#/personnage/clorinde/" target="_self">CLORINDE</a>
+— Voir <a title="Clorinde" href="/personnage/clorinde/" target="_self">CLORINDE</a>

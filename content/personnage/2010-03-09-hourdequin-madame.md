@@ -10,4 +10,4 @@ rm_character_name_main: 'Hourdequin '
 rm_character_name_secondary: Madame
 
 ---
-— Voir ****<a href="#/personnage/BAILLEHACHE-mademoiselle/" target="_self">BAILLEHACHE (Mademoiselle)</a>.
+— Voir ****<a href="/personnage/BAILLEHACHE-mademoiselle/" target="_self">BAILLEHACHE (Mademoiselle)</a>.

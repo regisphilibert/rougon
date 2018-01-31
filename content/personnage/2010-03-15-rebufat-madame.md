@@ -11,4 +11,4 @@ rm_character_name_main: 'Rébufat '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/chantegreil-eulalie/" target="_self">CHANTEGREIL (Eulalie)</a>.
+— Voir <a href="/personnage/chantegreil-eulalie/" target="_self">CHANTEGREIL (Eulalie)</a>.

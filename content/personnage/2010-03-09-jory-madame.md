@@ -11,4 +11,4 @@ rm_character_name_main: 'Jory '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/jabouille-mathilde/" target="_self">JABOUILLE (Mathilde)</a>.
+— Voir <a href="/personnage/jabouille-mathilde/" target="_self">JABOUILLE (Mathilde)</a>.

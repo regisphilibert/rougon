@@ -12,4 +12,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Clotilde
 
 ---
-— Voir <a href="#/personnage/saccard-clotilde/" target="_self">SACCARD (Clotilde)</a>.
+— Voir <a href="/personnage/saccard-clotilde/" target="_self">SACCARD (Clotilde)</a>.

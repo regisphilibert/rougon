@@ -11,4 +11,4 @@ rm_character_name_main: 'Vaucogne '
 rm_character_name_secondary: Madame Hector
 
 ---
-— Voir <a href="#/personnage/badeuil-estelle/" target="_self">BADEUIL (Estelle)</a>.
+— Voir <a href="/personnage/badeuil-estelle/" target="_self">BADEUIL (Estelle)</a>.

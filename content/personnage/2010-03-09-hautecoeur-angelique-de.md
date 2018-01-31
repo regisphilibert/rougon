@@ -11,4 +11,4 @@ rm_character_name_main: 'Hautecœur '
 rm_character_name_secondary: Angélique de
 
 ---
-— Voir <a href="#/personnage/angelique-marie" target="_self">ANGELIQUE MARIE</a>.
+— Voir <a href="/personnage/angelique-marie" target="_self">ANGELIQUE MARIE</a>.

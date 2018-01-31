@@ -26,15 +26,15 @@ Madame Denise Mouret a deux enfants, une fille d&rsquo;abord, puis un garçon. C
 
 _(1) Denise Baudu, saine et équilibrée, mariée à Octave Mouret, veuf de madame Hédouin. (Arbre généalogique des Rougon-Macquart)._
 
- [1]: #/personnage/baudu-jean/
- [2]: #/personnage/baudu-pepe/
- [3]: #/personnage/cornaille/
- [4]: #/personnage/baudu/
- [5]: #/personnage/aurelie-madame/
- [6]: #/personnage/cugnot-pauline/
- [7]: #/personnage/jouve/
- [8]: #/personnage/bourras/
- [9]: #/personnage/mouret-octave/
+ [1]: /personnage/baudu-jean/
+ [2]: /personnage/baudu-pepe/
+ [3]: /personnage/cornaille/
+ [4]: /personnage/baudu/
+ [5]: /personnage/aurelie-madame/
+ [6]: /personnage/cugnot-pauline/
+ [7]: /personnage/jouve/
+ [8]: /personnage/bourras/
+ [9]: /personnage/mouret-octave/
  [10]: personnages/mouret-octave/
- [11]: #/personnage/hutin/
- [12]: #/personnage/robineau/
+ [11]: /personnage/hutin/
+ [12]: /personnage/robineau/

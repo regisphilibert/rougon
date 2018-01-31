@@ -12,4 +12,4 @@ rm_character_name_secondary: Madame Jules
 ---
 — Voir [VINEUIL (Gilberte de)][1].
 
- [1]: #/personnage/vineuil-gilberte-de
+ [1]: /personnage/vineuil-gilberte-de

@@ -11,4 +11,4 @@ rm_character_name_main: 'Weiss '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/levasseur-henriette/" target="_self">LEVASSEUR (Henriette)</a>.
+— Voir <a href="/personnage/levasseur-henriette/" target="_self">LEVASSEUR (Henriette)</a>.

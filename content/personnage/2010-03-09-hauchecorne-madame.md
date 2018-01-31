@@ -10,4 +10,4 @@ rm_character_name_main: 'Hauchecorne '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/finet-desiree/" target="_self">FINET (Désirée)</a>.
+— Voir <a href="/personnage/finet-desiree/" target="_self">FINET (Désirée)</a>.

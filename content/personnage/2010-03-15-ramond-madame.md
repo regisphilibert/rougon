@@ -11,4 +11,4 @@ rm_character_name_main: 'Ramond '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/leveque-mademoiselle" target="_self">Lévêque (Mademoiselle)</a>.
+— Voir <a href="/personnage/leveque-mademoiselle" target="_self">Lévêque (Mademoiselle)</a>.

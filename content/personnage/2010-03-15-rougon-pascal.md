@@ -13,4 +13,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Pascal
 
 ---
-— Voir <a href="#/personnage/pascal-le-docteur/" target="_self">PASCAL (Le Docteur)</a>.
+— Voir <a href="/personnage/pascal-le-docteur/" target="_self">PASCAL (Le Docteur)</a>.

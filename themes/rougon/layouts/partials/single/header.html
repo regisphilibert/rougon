@@ -16,7 +16,8 @@
                 <div class="background-image-copyrights">{{ . }}</div>
                 {{ end }}
             {{ end }}
-            {{ .Title }}
+            {{ .Title }} {{ with .Params.rm_novel_year }}<small>{{ . }}</small>{{ end }}
         </h1>
+
     </div>
 </div>

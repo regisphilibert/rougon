@@ -13,4 +13,4 @@ rm_character_name_secondary: Madame
 ---
 — Voir [MOURET (Hélène)][1].
 
- [1]: #/personnage/mouret-helene/
+ [1]: /personnage/mouret-helene/

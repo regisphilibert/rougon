@@ -12,4 +12,4 @@ rm_character_name_secondary: Madame Aristide
 rm_character_name_precision: née BÉRAUD DU CHATEL
 
 ---
-— Voir <a href="#/personnage/beraud-du-chatel-renee/" target="_self">BÉRAUD DU CHATEL (Renée)</a>.
+— Voir <a href="/personnage/beraud-du-chatel-renee/" target="_self">BÉRAUD DU CHATEL (Renée)</a>.

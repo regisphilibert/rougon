@@ -11,4 +11,4 @@ rm_character_name_main: 'Misard '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/phasie-tante/" target="_self">PHASIE (Tante)</a>.
+— Voir <a href="/personnage/phasie-tante/" target="_self">PHASIE (Tante)</a>.

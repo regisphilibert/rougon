@@ -11,4 +11,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Madame Eugène
 
 ---
-— Voir <a href="#/personnage/beulin-dorcheres-veronique" target="_self">BEULIN D&rsquo;ORCHÈRES (Véronique)</a>.
+— Voir <a href="/personnage/beulin-dorcheres-veronique" target="_self">BEULIN D&rsquo;ORCHÈRES (Véronique)</a>.

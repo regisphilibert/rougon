@@ -13,4 +13,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Madame Pierre
 
 ---
-— Voir <a href="#/personnage/puech-felicite/" target="_self">PUECH (Félicité)</a>.
+— Voir <a href="/personnage/puech-felicite/" target="_self">PUECH (Félicité)</a>.

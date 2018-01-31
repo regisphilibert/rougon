@@ -11,4 +11,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Madame Maxime
 
 ---
-— Voir <a href="#/personnage/mareuil-louise-de/" target="_self">MAREUIL (Louise de)</a>.
+— Voir <a href="/personnage/mareuil-louise-de/" target="_self">MAREUIL (Louise de)</a>.

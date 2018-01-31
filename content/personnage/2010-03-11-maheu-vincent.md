@@ -11,4 +11,4 @@ rm_character_name_main: 'Maheu '
 rm_character_name_secondary: Vincent
 
 ---
-— Voir <a href="#/personnage/bonnemort/" target="_self">BONNEMORT</a><span style="font-size: xx-small;">.</span>
+— Voir <a href="/personnage/bonnemort/" target="_self">BONNEMORT</a><span style="font-size: xx-small;">.</span>

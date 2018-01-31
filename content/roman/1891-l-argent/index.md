@@ -9,6 +9,10 @@ menu:
   main:
     weight: 18
     parent: novels
+resources:
+  - src: '**header.*'
+    params:
+      copy:
 rm_novel_year: 1891
 rm_novel_characters:
   - 76071

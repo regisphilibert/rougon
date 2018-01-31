@@ -11,4 +11,4 @@ rm_character_name_main: 'Tronche '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/faujas-olympe/" target="_self">FAUJAS (Olympe)</a>.
+— Voir <a href="/personnage/faujas-olympe/" target="_self">FAUJAS (Olympe)</a>.

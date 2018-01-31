@@ -9,6 +9,10 @@ menu:
   main:
     weight: 07
     parent: novels
+resources:
+  - src: '**header.*'
+    params:
+      copy: Gervaise - René Clément
 rm_novel_year: 1877
 rm_novel_characters:
   - 75948

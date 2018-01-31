@@ -7,8 +7,11 @@ date: 2010-02-11T09:41:38+00:00
 weight: 20
 menu:
   main:
-    
     parent: novels
+resources:
+  - src: '**header.*'
+    params:
+      copy:
 rm_novel_year: 1893
 rm_novel_characters:
   - 75978

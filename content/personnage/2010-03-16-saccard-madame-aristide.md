@@ -11,4 +11,4 @@ rm_character_name_main: 'Saccard '
 rm_character_name_secondary: Madame Aristide
 
 ---
-— Voir <a href="#/personnage/beraud-du-chatel-renee/" target="_self">BÉRAUD DU CHATEL (Renée)</a>.
+— Voir <a href="/personnage/beraud-du-chatel-renee/" target="_self">BÉRAUD DU CHATEL (Renée)</a>.

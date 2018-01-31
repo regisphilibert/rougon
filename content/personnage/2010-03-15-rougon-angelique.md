@@ -11,4 +11,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Angélique
 
 ---
-— Voir <a href="#/personnage/angelique-marie/" target="_self">ANGÉLIQUE MARIE</a>.
+— Voir <a href="/personnage/angelique-marie/" target="_self">ANGÉLIQUE MARIE</a>.

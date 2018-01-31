@@ -12,4 +12,4 @@ rm_character_name_secondary: Madame
 rm_character_name_precision: .
 
 ---
-— Voir <a href="#/personnage/grande-la/" target="_self">GRANDE (La)</a>.
+— Voir <a href="/personnage/grande-la/" target="_self">GRANDE (La)</a>.

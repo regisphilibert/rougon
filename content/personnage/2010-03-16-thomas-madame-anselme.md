@@ -12,4 +12,4 @@ rm_character_name_main: 'Thomas '
 rm_character_name_secondary: Madame Anselme
 
 ---
-— Voir <a href="#/personnage/megot-justine/" target="_self">MÉGOT (Justine)</a>.
+— Voir <a href="/personnage/megot-justine/" target="_self">MÉGOT (Justine)</a>.

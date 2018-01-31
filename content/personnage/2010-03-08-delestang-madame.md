@@ -12,4 +12,4 @@ rm_character_name_secondary: Madame
 ---
 — Voir [CLORINDE][1].
 
- [1]: #/personnage/clorinde/
+ [1]: /personnage/clorinde/

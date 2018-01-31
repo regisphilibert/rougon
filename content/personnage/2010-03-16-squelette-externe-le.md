@@ -11,4 +11,4 @@ rm_character_name_main: 'Externe '
 rm_character_name_secondary: Le
 
 ---
-— Voir <a href="#/personnage/mimi-la-mort/" target="_self">MIMI-LA-MORT</a>.
+— Voir <a href="/personnage/mimi-la-mort/" target="_self">MIMI-LA-MORT</a>.

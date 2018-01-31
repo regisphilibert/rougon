@@ -11,4 +11,4 @@ rm_character_name_main: 'Jordan '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/maugendre-marcelle/" target="_self">MAUGENDRE (Marcelle)</a>.
+— Voir <a href="/personnage/maugendre-marcelle/" target="_self">MAUGENDRE (Marcelle)</a>.

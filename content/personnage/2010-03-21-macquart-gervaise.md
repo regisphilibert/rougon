@@ -33,21 +33,21 @@ Son fils Étienne lui envoyait de temps à autre une pièce de cent sous, lorsqu
 
 _(l) Gervaise Macquart, née en 1828; a trois garçons d’un amant, Lantier, dont l’ascendance compte des paralytiques, qui l’emmène à Paris et l’y abandonne; épouse, en 1832, un ouvrier, Coupeau, de famille alcoolique, dont elle a une fille; meurt de misère et d’ivrognerie, en 1869._ [Élection du père, conçue dans l’ivresse. Boiteuse.] _Blanchisseuse. (Arbre généalogique des Rougon-Macquart.)_
 
- [1]: #/personnage/macquart-antoine/
- [2]: #/personnage/gavaudan-josephine/
- [3]: #/personnage/macquart-lisa/
- [4]: #/personnage/macquart-jean/
- [5]: #/personnage/lantier-claude/
- [6]: #/personnage/lantier-jacques/
- [7]: #/personnage/lantier-etienne/
- [8]: #/personnage/nana/
- [9]: #/personnage/lantier-auguste/
- [10]: #/personnage/fauconnier-madame/
- [11]: #/personnage/coupeau/
- [12]: #/personnage/goujet/
- [13]: #/personnage/lorilleux-madame/
- [14]: #/personnage/lantier/
- [15]: #/personnage/coupeau-maman/
- [16]: #/personnage/augustine-2/
- [17]: #/personnage/virginie-la-grande/
- [18]: #/personnage/bazouge/
+ [1]: /personnage/macquart-antoine/
+ [2]: /personnage/gavaudan-josephine/
+ [3]: /personnage/macquart-lisa/
+ [4]: /personnage/macquart-jean/
+ [5]: /personnage/lantier-claude/
+ [6]: /personnage/lantier-jacques/
+ [7]: /personnage/lantier-etienne/
+ [8]: /personnage/nana/
+ [9]: /personnage/lantier-auguste/
+ [10]: /personnage/fauconnier-madame/
+ [11]: /personnage/coupeau/
+ [12]: /personnage/goujet/
+ [13]: /personnage/lorilleux-madame/
+ [14]: /personnage/lantier/
+ [15]: /personnage/coupeau-maman/
+ [16]: /personnage/augustine-2/
+ [17]: /personnage/virginie-la-grande/
+ [18]: /personnage/bazouge/

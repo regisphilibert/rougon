@@ -13,4 +13,4 @@ rm_character_name_main: 'Dide '
 rm_character_name_secondary: Tante
 
 ---
-— Voir <a href="#/personnage/fouque-adelaide-dite-tante-dide/" target="_self">FOUQUE (Adélaïde)</a>.
+— Voir <a href="/personnage/fouque-adelaide-dite-tante-dide/" target="_self">FOUQUE (Adélaïde)</a>.

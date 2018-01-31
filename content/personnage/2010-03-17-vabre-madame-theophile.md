@@ -11,4 +11,4 @@ rm_character_name_main: 'Vabre '
 rm_character_name_secondary: Madame Théophile
 
 ---
-— Voir <a href="#/personnage/louhette-valerie/" target="_self">LOUHETTE (Valérie)</a>.
+— Voir <a href="/personnage/louhette-valerie/" target="_self">LOUHETTE (Valérie)</a>.

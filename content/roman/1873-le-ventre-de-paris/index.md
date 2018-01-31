@@ -9,7 +9,10 @@ menu:
   main:
     weight: 03
     parent: novels
-
+resources:
+  - src: '**header.*'
+    params:
+      copy: Les Halles - Léon Lhermitte
 rm_novel_year: 1873
 rm_novel_characters:
   - 75982

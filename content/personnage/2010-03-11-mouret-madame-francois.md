@@ -12,4 +12,4 @@ rm_character_name_main: 'Mouret '
 rm_character_name_secondary: Madame François
 
 ---
-— Voir <a href="#/personnage/rougon-marthe/" target="_self">ROUGON (Marthe)</a>.
+— Voir <a href="/personnage/rougon-marthe/" target="_self">ROUGON (Marthe)</a>.

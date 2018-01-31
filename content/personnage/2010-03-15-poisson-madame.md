@@ -11,4 +11,4 @@ rm_character_name_main: 'Poisson '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/virginie-la-grande/" target="_self">VIRGINIE (La Grande)</a>.
+— Voir <a href="/personnage/virginie-la-grande/" target="_self">VIRGINIE (La Grande)</a>.

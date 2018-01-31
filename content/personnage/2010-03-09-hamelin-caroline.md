@@ -11,4 +11,4 @@ rm_character_name_main: 'Hamelin '
 rm_character_name_secondary: Caroline
 
 ---
-— Voir <a href="#/personnage/caroline-madame/" target="_self">CAROLINE (Madame)</a>.
+— Voir <a href="/personnage/caroline-madame/" target="_self">CAROLINE (Madame)</a>.

@@ -11,4 +11,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Victor
 
 ---
-— Voir <a href="#/personnage/saccard-victor/" target="_self">SACCARD (Victor)</a>.
+— Voir <a href="/personnage/saccard-victor/" target="_self">SACCARD (Victor)</a>.

@@ -11,4 +11,4 @@ rm_character_name_main: 'Lhomme '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/aurelie-madame/" target="_self">AURÉLIE (Madame)</a>.
+— Voir <a href="/personnage/aurelie-madame/" target="_self">AURÉLIE (Madame)</a>.

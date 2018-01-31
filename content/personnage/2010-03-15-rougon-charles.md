@@ -12,4 +12,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Charles
 
 ---
-— Voir <a href="#/personnage/saccard-charles/" target="_self">SACCARD (Charles)</a>.
+— Voir <a href="/personnage/saccard-charles/" target="_self">SACCARD (Charles)</a>.

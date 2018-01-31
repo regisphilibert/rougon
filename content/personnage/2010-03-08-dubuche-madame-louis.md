@@ -11,4 +11,4 @@ rm_character_name_main: 'Dubuche '
 rm_character_name_secondary: Madame Louis
 
 ---
-—Voir <a href="#/personnage/margaillan-regine/" target="_self">MARGAILLAN (Régine)</a>.
+—Voir <a href="/personnage/margaillan-regine/" target="_self">MARGAILLAN (Régine)</a>.

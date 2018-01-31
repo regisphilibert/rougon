@@ -11,4 +11,4 @@ rm_character_name_main: 'Mouret '
 rm_character_name_secondary: Madame Ursule
 
 ---
-— Voir <a href="#/personnage/macquart-ursule/" target="_self">MACQUART (Ursule)</a>.
+— Voir <a href="/personnage/macquart-ursule/" target="_self">MACQUART (Ursule)</a>.

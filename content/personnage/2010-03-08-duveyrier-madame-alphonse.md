@@ -13,4 +13,4 @@ rm_character_name_secondary: Madame Alphonse
 ---
 — Voir [VABRE (Clotilde)][1].
 
- [1]: #/personnage/vabre-clotilde
+ [1]: /personnage/vabre-clotilde

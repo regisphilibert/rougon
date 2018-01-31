@@ -11,4 +11,4 @@ rm_character_name_main: 'Macquart '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/gavaudan-josephine/" target="_self">GAVAUDAN (Joséphine)</a>.
+— Voir <a href="/personnage/gavaudan-josephine/" target="_self">GAVAUDAN (Joséphine)</a>.

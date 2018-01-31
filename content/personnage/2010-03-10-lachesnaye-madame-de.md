@@ -11,4 +11,4 @@ rm_character_name_main: 'Lachesnaye '
 rm_character_name_secondary: Madame de
 
 ---
-— Voir <a href="#/personnage/grandmorin-berthe/" target="_self">GRANDMORIN (Berthe)</a>.
+— Voir <a href="/personnage/grandmorin-berthe/" target="_self">GRANDMORIN (Berthe)</a>.

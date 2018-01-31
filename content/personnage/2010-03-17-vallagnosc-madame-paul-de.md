@@ -11,4 +11,4 @@ rm_character_name_main: 'Vallagnosc '
 rm_character_name_secondary: Madame Paul De
 
 ---
-— Voir <a href="#/personnage/boves-blanche-de/" target="_self">BOVES (Blanche De)</a>.
+— Voir <a href="/personnage/boves-blanche-de/" target="_self">BOVES (Blanche De)</a>.

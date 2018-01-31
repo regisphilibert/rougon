@@ -11,4 +11,4 @@ rm_character_name_main: 'Rambaud '
 rm_character_name_secondary: Madame
 
 ---
-— Voir <a href="#/personnage/mouret-helene/" target="_self">MOURET (Hélène)</a>.
+— Voir <a href="/personnage/mouret-helene/" target="_self">MOURET (Hélène)</a>.

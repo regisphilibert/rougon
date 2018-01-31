@@ -13,4 +13,4 @@ rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Aristide
 
 ---
-— Voir <a href="#/personnage/saccard-aristide/" target="_self">SACCARD (Aristide)</a>.
+— Voir <a href="/personnage/saccard-aristide/" target="_self">SACCARD (Aristide)</a>.
