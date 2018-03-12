@@ -7,8 +7,8 @@ date: 2010-03-17T07:13:29+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Vabre '
-rm_character_name_secondary: Clotilde
+main_name: 'Vabre '
+secondary_name: Clotilde
 
 ---
 — Fille du notaire Vabre. Femme de Duveyrier. Elle est grande et belle, avec de magnifiques cheveux noirs, un visage long. d&rsquo;une pâleur et d&rsquo;un froid de neige, des yeux gris. Clotilde a une passion exagérée pour la musique, sans aucun autre besoin d&rsquo;esprit ni de chair. A son piano, elle est comme une écuyère sur son cheval, mais cet enthousiasme qui fait de la maison un enfer pour Duveyrier, n&rsquo;est qu&rsquo;à fleur de peau: Clotilde chante avec une expression passionnée, qu&rsquo;elle laisse tomber comme un masque dès la fin du morceau [236]. La jeune femme, qui possédait cent mille francs par sa mère, devait apporter en outre une dot de quatre-vingt mille francs, mais le père n&rsquo;en a versé que dix mille; les Duveyrier attendent toujours le reste, ils ont même recueilli le vieux Vabre, voulant l&rsquo;avoir sous la main, l&rsquo;intéressant à leur fils Gustave qu&rsquo;ils rêvent de faire avantager dans la succession.

@@ -7,7 +7,7 @@ date: 2010-03-08T16:33:29+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: Guillaume
+main_name: Guillaume
 
 ---
 — Paysan de Rognes. Possède une pièce de terre à côté de la cahute de Jésus-Christ [218]. _(La Terre.)_

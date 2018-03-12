@@ -10,9 +10,9 @@ novel:
   - fortune
   - terre
   - docteur
-rm_character_name_main: 'Macquart '
-rm_character_name_secondary: Jean
-rm_character_main: 1
+main_name: 'Macquart '
+secondary_name: Jean
+main: 1
 
 ---
 — Troisième enfant d’Antoine Macquart et de Joséphine Gavaudan. Frère de Lisa et de Gervaise. Né à Plassans en 1831, c’est un fort gaillard, tenant de sa mère, sans avoir sa ressemblance physique. Visage aux traits réguliers, avec la froideur grasse d’une nature sérieuse et peu intelligente. Grandit avec la volonté tenace de se faire un jour une position indépendante [150]. Il apprend le métier de menuisier et, dès les premières payes, est dépouille par son père qui le traite en jeune fille et ne lui laisse pas un centime [153]. Quand on s’assomme dans le ménage, Jean se lève pour séparer son père et sa mère [155]. Lorsque celte dernière meurt, le jeune homme, las d’être exploité, quitte la maison [179]. _(La Fortune des Rougon.)_

@@ -7,8 +7,8 @@ date: 2010-03-15T07:33:50+00:00
 excerpt: "L'Œuvre"
 novel:
   - oeuvre
-rm_character_name_main: 'Piédefer '
-rm_character_name_secondary: Zoé
+main_name: 'Piédefer '
+secondary_name: Zoé
 rm_character_name_precision: .
 
 ---

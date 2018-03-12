@@ -7,8 +7,8 @@ date: 2010-03-17T07:44:12+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: 'Vineuil '
-rm_character_name_secondary: Gilberte De
+main_name: 'Vineuil '
+secondary_name: Gilberte De
 
 ---
 — Fille du commandant. Mariée en premières noces à Maginot et en secondes noces à Jules Delaherche. Quand elle avait neuf ans, son père, inquiet de l&rsquo;entendre tousser, l&rsquo;a envoyée dans une ferme, prés du Chêne-Populeux, où elle a connu Henriette Letellier. Elle était déjà d&rsquo;une coquetterie turbulente, elle jouait la comédie, voulait toujours faire la reine, drapée dans tous les chiffons qu&rsquo;elle trouvait, gardant le papier d&rsquo;argent du chocolat pour s&rsquo;en fabriquer des bracelets et des couronnes. Plus tard, elle reste la même, lorsque, à vingt ans, elle épouse un inspecteur des forêts, Maginot. Méziéres lui déplaisant par sa tristesse, elle continue d&rsquo;habiter Charleviile, dont elle aime la vie large, égayée de fêtes. Son père est mort, Maginot est un mari pacifique, Gilberte jouit d&rsquo;une liberté entière. Dans le flot d&rsquo;uniformes où, grâce aux anciennes relations paternelles, elle a vécu à cette époque, son seul amant a été le capitaine Beaudoin. Sans méchanceté perverse, adorant simplement le plaisir, elle a cédé à son irrésistible besoin d&rsquo;être belle et gaie [262]. En 1869, devenue veuve, et malgré les histoires qu&rsquo;on chuchote sur son compte, elle trouve un second mari, Jules Delaherche.

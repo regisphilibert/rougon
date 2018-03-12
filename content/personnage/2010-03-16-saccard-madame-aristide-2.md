@@ -8,8 +8,8 @@ excerpt: La Fortune des Rougon, La Curée
 novel:
   - curee
   - fortune
-rm_character_name_main: 'Saccard '
-rm_character_name_secondary: Madame Aristide
+main_name: 'Saccard '
+secondary_name: Madame Aristide
 
 ---
 — Voir <a href="/personnage/sicardot-angele/" target="_self">SICARDOT (Angèle)</a>.

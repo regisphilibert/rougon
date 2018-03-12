@@ -7,8 +7,8 @@ date: 2010-03-11T08:30:19+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Menu '
-rm_character_name_secondary: Fanny
+main_name: 'Menu '
+secondary_name: Fanny
 rm_character_name_precision: dite FIFI
 
 ---

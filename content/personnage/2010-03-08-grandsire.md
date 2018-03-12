@@ -7,7 +7,7 @@ date: 2010-03-08T16:26:11+00:00
 excerpt: Le Rêve
 novel:
   - reve
-rm_character_name_main: Grandsire
+main_name: Grandsire
 
 ---
 — Juge de paix du canton nord de Beaumont, cousin d&rsquo;Hubertine [17]. Il agit auprès de l&rsquo;Assistance publique pour que les Hubert obtiennent la tutelle officieuse d&rsquo;Angélique Marie [47]. _(Le Rêve.)_

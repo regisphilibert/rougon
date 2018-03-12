@@ -7,7 +7,7 @@ date: 2010-03-08T10:25:04+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: Desmarquay
+main_name: Desmarquay
 
 ---
 — Agent de change, rue Saint-Lazare [391]. Trublot est employé chez lui. _(Pot-Bouille.)_

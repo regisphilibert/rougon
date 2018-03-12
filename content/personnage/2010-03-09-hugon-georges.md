@@ -7,9 +7,9 @@ date: 2010-03-09T10:15:30+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Hugon '
-rm_character_name_secondary: Georges
-rm_character_main: 1
+main_name: 'Hugon '
+secondary_name: Georges
+main: 1
 
 ---
 — Fils cadet de madame Hugon. Un jeune homme de dix-sept ans, aux beaux yeux de chérubin. Il est joli, sans un poil de barbe. La vue de Nana presque nue, dans son rôle de la _Blonde Vénus,_ l&rsquo;a enflammé; il se présente chez elle, l&rsquo;amusé par sa figure gamine et son ardeur précoce et _se met à vivre dans l&rsquo;ombre de ta jolie fille. Elle l&rsquo;appelle Zizi. Un jour qu&rsquo;il est venu la rejoindre à la Mignotte et que, trempé jusqu&rsquo;aux os, il a dû revêtir une chemise, un pantalon et un peignoir de l&rsquo;actrice [192], leur jeu ressemble à celui de deux amies qui se taquinent et, sans presque s&rsquo;en apercevoir, Nana devient sa maîtresse. Le hasard malheureux d&rsquo;une rencontre a appris à madame Hugon l&rsquo;inconduite de son fils, elle l&rsquo;a enfermé aux Fondettes, mais quelques mois de réclusion ne font qu&rsquo;exaspérer les sens de Georges; il se soulage chaque semaine dans des pages brûlantes, auxquelles Nana répond par la plume de Fontan [282].

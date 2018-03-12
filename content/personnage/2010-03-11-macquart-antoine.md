@@ -9,9 +9,9 @@ novel:
   - conquete
   - fortune
   - docteur
-rm_character_name_main: 'Macquart '
-rm_character_name_secondary: Antoine
-rm_character_main: 1
+main_name: 'Macquart '
+secondary_name: Antoine
+main: 1
 
 ---
 — Fils d’Adélaïde Fouque et du contrebandier Macquart. Mari de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Macquart. Né à Plassans en 1789, il est élevé en toute liberté, dans l’enclos Fouque, entre son frère Pierre Rougon et sa sœur Ursule, et grandit franchement dans le sens de ses instincts [53]. A seize ans, c’est un grand galopin ayant les traits de son père, mais adoucis, devenus fuyants et mobiles; d’Adélaïde, il n’a que les lèvres charnues. Au moral aussi, le père domine, avec son amour du vagabondage, sa tendance à l’ivrognerie, ses emportements de brute, compliqués, sous l’influence nerveuse de la mère, d’une sournoiserie pleine, d’hypocrisie et de lâcheté. En 1809, Antoine tombe au sort et, dupé par Pierre qui a manœuvré pour empêcher son remplacement [59], il devient soldat.

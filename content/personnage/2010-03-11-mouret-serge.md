@@ -8,9 +8,9 @@ excerpt: La Conquête de Plassans, La Faute de l’abbé Mouret
 novel:
   - conquete
   - faute
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Serge
-rm_character_main: 1
+main_name: 'Mouret '
+secondary_name: Serge
+main: 1
 
 ---
 — Deuxième enfant de François Mouret et de Marthe Rougon. Frère d’Octave et de Désirée. Né en 1841 à Plassans [161]. _(La Fortune des Rougon.)_

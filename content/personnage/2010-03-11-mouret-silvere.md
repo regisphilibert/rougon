@@ -7,9 +7,9 @@ date: 2010-03-11T08:01:02+00:00
 excerpt: La Fortune des Rougon
 novel:
   - fortune
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Silvère
-rm_character_main: 1
+main_name: 'Mouret '
+secondary_name: Silvère
+main: 1
 
 ---
 — Troisième enfant d’Ursule Macquart et du chapelier Mouret. Frère de Francois et d’Hélène. Né à Marseille, en 1834, orphelin à six ans, il vient à Plassans avec François. Accueilli de mauvaise grâce par l’oncle Pierre Rougon, Silvère grandit dans les larmes, comme un malheureux abandonné, jusqu’au jour où sa grand’mère Adélaïde Fouque, ayant pitié de lui, l’emmène en son louis de l’impasse Saint-Mittre. C’est alors une heureuse vie pour l’enfant, en qui la vieille femme, pleine de tendresse contenue, trouve une lointaine ressemblance avec le grand-père Macquart. Silvère la cajole, il invente pour elle le nom caressant de tante Dide; d’abord effrayé des crises nerveuses qui la secouent périodiquement, il s’habitue à ces fureurs incompréhensibles, il est pris de pitié devant la douloureuse aïeule victime de maux inconnus, il la soigne doucement et l’aime d’une affection silencieuse et attendrie [165].

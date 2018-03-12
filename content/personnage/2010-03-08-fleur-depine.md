@@ -7,7 +7,7 @@ date: 2010-03-08T08:37:52+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: "Fleur d'Épine"
+main_name: "Fleur d'Épine"
 
 ---
 — Célèbre chef de brigands; a précédé le beau-François à la tête des chauffeurs d&rsquo;Orgères [67]. (La Terre.)

@@ -7,7 +7,7 @@ date: 2010-03-10T09:00:21+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: Lambourdieu
+main_name: Lambourdieu
 
 ---
 **—** Petit homme court. C&rsquo;est un gros boutiquier de Cloyes, à l&rsquo;enseigne des Nouveautés parisiennes. Il promène tout un bazar de village en village, dans un rayon de cinq ou six lieues [120]._(La Terre.)_

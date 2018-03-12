@@ -7,8 +7,8 @@ date: 2010-02-16T10:01:32+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Corbreuse '
-rm_character_name_secondary: Duc de
+main_name: 'Corbreuse '
+secondary_name: Duc de
 
 ---
 — Propriétaire d&rsquo;une écurie de courses [384]. _(Nana.)_

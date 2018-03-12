@@ -7,8 +7,8 @@ date: 2010-03-11T08:37:29+00:00
 excerpt: La Bête humaine
 novel:
   - bete
-rm_character_name_main: 'Misard '
-rm_character_name_secondary: Madame
+main_name: 'Misard '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/phasie-tante/" target="_self">PHASIE (Tante)</a>.

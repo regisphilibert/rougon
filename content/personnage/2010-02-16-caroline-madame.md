@@ -7,8 +7,8 @@ date: 2010-02-16T08:56:31+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Caroline '
-rm_character_name_secondary: Madame
+main_name: 'Caroline '
+secondary_name: Madame
 
 ---
 — Sœur de l&rsquo;ingénieur Georges Hamelin. Orpheline à dix-huit ans, elle a donné des leçons, soutenant son frère entré à Polytechnique, l&rsquo;adorant, faisant le rêve de ne le quitter jamais. La bonne grâce et l&rsquo;intelligence de la jeune fille ont conquis Durieu, un brasseur millionnaire; il l&rsquo;a épousée, mais au bout de quelques années de mariage, elle a du exiger une séparation pour ne pas être tuée par ce mari qui buvait et la poursuivait, avec un couteau à la main, dans des crises d&rsquo;imbécile jalousie. Elle avait alors vingt-six ans et s&rsquo;est retrouvée pauvre, n&rsquo;ayant voulu recevoir aucune pension de l&rsquo;homme qu&rsquo;elle quittait. Rendue ainsi à son frère, elle est partie avec lui pour l&rsquo;Égypte, et a donné des leçons à Alexandrie pendant qu&rsquo;il parcourait la contrée; ils sont allés de là en Syrie, ont visité les Lieux Saints et sont enfin revenus en France, lui avec un portefeuille débordant d&rsquo;idées et de plans, elle avec des, aquarelles sans prétention où elle avait fixé des vues de là-bas, tous deux frémissants d&rsquo;enthousiasme pour les pays traversés. Et ils se débattent à Paris, victimes d&rsquo;une malchance noire, échoués dans un petit appartement de l&rsquo;hôtel d&rsquo;Orviedo, où ils vont se lier avec Aristide Saccard.

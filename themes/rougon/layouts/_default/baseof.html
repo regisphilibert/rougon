@@ -30,11 +30,9 @@
         <![endif]-->
         <div class="rm-wrapper">
             {{ partial "header.html" . }}
-            <div role="main"
-            >
+            <div role="main">
                 {{ block "main" .}}{{ end }}
             </div>
-            <div rm-footer></div>
         </div>
        <script type="text/javascript" src="{{ .Site.BaseURL | absURL }}js/main.js"></script>
     </body>

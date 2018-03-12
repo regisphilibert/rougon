@@ -7,8 +7,8 @@ date: 2010-03-17T07:35:19+00:00
 excerpt: Le Docteur Pascal
 novel:
   - docteur
-rm_character_name_main: 'Vial '
-rm_character_name_secondary: Mélanie
+main_name: 'Vial '
+secondary_name: Mélanie
 
 ---
 — Seconde femme de Jean Macquart. Fille unique d&rsquo;un paysan aisé; c&rsquo;est une robuste campagnarde. Grosse dès la nuit de noces, elle est accouchée d&rsquo;un superbe garçon, puis de deux autres en trois ans, dans un de ces cas de fécondité pullulante qui ne laissent pas aux mères le temps d&rsquo;allaiter leurs petits [130]. _(Le Docteur Pascal.)_

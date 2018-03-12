@@ -7,8 +7,8 @@ date: 2010-02-15T08:50:59+00:00
 excerpt: "Une Page d'Amour"
 novel:
   - page
-rm_character_name_main: 'Bergeret '
-rm_character_name_secondary: Madame
+main_name: 'Bergeret '
+secondary_name: Madame
 
 ---
 — Concierge de la maison habitée par Hélène Grandjean, à Passy. _(Une Page d&rsquo;Amour.)_

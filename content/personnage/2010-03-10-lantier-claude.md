@@ -11,9 +11,9 @@ novel:
   - fortune
   - joie
   - ventre
-rm_character_name_main: 'Lantier '
-rm_character_name_secondary: Claude
-rm_character_main: 1
+main_name: 'Lantier '
+secondary_name: Claude
+main: 1
 
 ---
 — Fils de Gervaise Macquart et d&rsquo;Auguste Lantier. Père de Jacques-Louis. Né à Plassans en 1842, Claude a, été recueilli par sa grand&rsquo;mère paternelle [151]. Quand celle-ci meurt, en 1851, il est emmené à paris par ses parents [179]. _(La Fortune des Rougon.)_

@@ -7,7 +7,7 @@ date: 2010-03-11T08:10:12+00:00
 excerpt: L’Œuvre
 novel:
   - oeuvre
-rm_character_name_main: Margaillan
+main_name: Margaillan
 
 ---
 — Un gros entrepreneur de maçonnerie, plusieurs fois millionnaire, et qui fait sa fortune dans les grands travaux de Paris, bâtissant à lui seul des boulevards entiers. Gras et court, il a la face cuite d’un sang trop chaud. Lui, sa femme et sa fille ont sur la face, au dire de Claude Lantier, tous les crimes de la bourgeoisie ; ils suent la scrofule et la bêtise [157]. Margaillan possède, au-dessus de Bennecourt, en remontant du côté de La Roche-Guyon, une vaste propriété, la Richaudière, qu’il a payée quinze cent mille francs et où il a fait des embellissements pour plus d’un million, par une vanité d’ancien gâcheur de plâtre. C’est un fier homme dans sa partie, il a une activité du diable, un sens étonnant de la bonne administration, un flair merveilleux des rues à construire et des matériaux à acheter [204].

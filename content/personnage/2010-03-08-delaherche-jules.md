@@ -7,8 +7,8 @@ date: 2010-03-08T10:11:40+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: 'Delaherche '
-rm_character_name_secondary: Jules
+main_name: 'Delaherche '
+secondary_name: Jules
 
 ---
 — Mari de Gilberte de Vineuil, en premières noces madame Maginot. Un des principaux fabricants de drap de Sedan. Possède rue Maqua, presque au coin de la rue au Beurre, une fabrique monumentale construite au XVIII<sup>e</sup> siècle et qui, depuis cent soixante ans, n&rsquo;est point sortie de la famille. Trois générations de Delaherche ont fait là des fortunes considérables. Le père du propriétaire actuel, ayant hérité des biens d&rsquo;un cousin, mort sans enfant, c&rsquo;est maintenant la branche cadette qui trône. Jules, marié à une femme maussade et maigre, a été tenu par sa mère dans une dépendance de grand garçon sage. Puis, devenu veuf à l&rsquo;âge mûr, il s&rsquo;est, par une révolte de la nature, amouraché d&rsquo;une jeune veuve de Charleville, la jolie Gilberte Maginot et l&rsquo;a épousée, dans l&rsquo;automne de 1869, malgré l&rsquo;opposition maternelle. Gilberte est la nièce du colonel de Vineuil, en passe de devenir général, et cette parenté, cette idée qu&rsquo;il entrait dans une famille militaire, a beaucoup flatté le fabricant de drap [181].

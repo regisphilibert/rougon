@@ -7,7 +7,7 @@ date: 2010-03-16T08:55:08+00:00
 excerpt: "L'Assommoir"
 novel:
   - assommoir
-rm_character_name_main: "Sophie Tourne de l'œil"
+main_name: "Sophie Tourne de l'œil"
 
 ---
 **—** La dernière bonne amie des pochards [548]. _(L&rsquo;Assommoir.)_

@@ -1,10 +1,10 @@
 {{ define "main" }}
 {{ $characters := where .Site.Pages.ByTitle ".Params.novel" "intersect" (slice .Params.id)}}
-{{ $main_characters := where $characters "Params.rm_character_main" 1 }}
+{{ $main_characters := where $characters "Params.main" 1 }}
 {{ partial "single/header.html" . }}
 <div class="main rm-container">
     <div class="item-desc">
-       {{ partial "personnage/list.html" (dict "chars" $main_characters "sep" ", ")}}
+       {{ partial "personnage/list.html" (dict "chars" $main_characters "sep" " . ")}}
     </div>
     <div class="rm-content">
         {{ .Content }}
@@ -14,8 +14,8 @@
             <ul>
                 {{/* range $.Scratch.Get "characters" */}}
                 {{ range $characters }}
-                <li class="{{ with .Params.rm_character_main }}bold{{end}}">
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <li class="{{ with .Params.main }}bold{{end}}">
+                    <a href="{{ .Permalink }}">{{ partial "personnage/name" . }}</a>
                 </li>
                 {{ end }}
             </ul>

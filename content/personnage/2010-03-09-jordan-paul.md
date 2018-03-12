@@ -7,8 +7,8 @@ date: 2010-03-09T10:35:44+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Jordan '
-rm_character_name_secondary: Paul
+main_name: 'Jordan '
+secondary_name: Paul
 
 ---
 — Journaliste et homme de lettres. Mari de Marcelle Maugendre. Fils d&rsquo;un banquier de Marseille qui s&rsquo;est autrefois suicidé à la suite d&rsquo;opérations désastreuses, il a battu dix ans le pavé de Paris, enragé de littérature, dans une lutte brave contre la misère noire. Il s&rsquo;est marié avec une petite amie d&rsquo;enfance, dont la famille, riche pourtant, a coupé tout subside pour ne pas aider un sans-le-sou; leur petit ménage est installé à au cinquième de l&rsquo;avenue de Clichy, ils s&rsquo;adorent. Jordan a un projet de roman, ne trouve pas le temps de l&rsquo;écrire et est entré forcément dans le journalisme, où il bâcle tout ce qui concerne son état, depuis des chroniques jusqu&rsquo;à des comptes rendus de tribunaux et même des faits divers [19].

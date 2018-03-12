@@ -7,8 +7,8 @@ date: 2010-03-08T10:39:47+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Durieu '
-rm_character_name_secondary: Madame
+main_name: 'Durieu '
+secondary_name: Madame
 
 ---
 — Voir <a href="personnages/caroline-madame/" target="_self">CAROLINE (Madame)</a>.

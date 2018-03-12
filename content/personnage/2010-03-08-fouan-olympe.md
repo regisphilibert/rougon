@@ -7,8 +7,8 @@ date: 2010-03-08T08:49:57+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Fouan '
-rm_character_name_secondary: Olympe
+main_name: 'Fouan '
+secondary_name: Olympe
 
 ---
 — Voir [TROUILLE (La)][1].

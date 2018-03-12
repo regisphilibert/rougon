@@ -7,8 +7,8 @@ date: 2010-03-16T07:59:32+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Saccard '
-rm_character_name_secondary: Victor
+main_name: 'Saccard '
+secondary_name: Victor
 
 ---
 — Fils naturel d&rsquo;Aristide Rougon, dit Saccard, et de Rosalie Chavaille. Né en 1853. A été élevé dans la cité de Naples, chez la Méchain, petite-cousine de sa mère. Celle-ci se prostituait en sa présence avec des hommes, il vivait sur les fortifications et faisait avec les petites filles ce qu&rsquo;il voyait faire chez lui.

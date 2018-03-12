@@ -7,8 +7,8 @@ date: 2010-02-16T10:12:12+00:00
 excerpt: La Joie de vivre
 novel:
   - joie
-rm_character_name_main: 'Cuche '
-rm_character_name_secondary: Famille
+main_name: 'Cuche '
+secondary_name: Famille
 
 ---
 — Pêcheurs habitant Bonneville et ruinés par une tempête qui a détruit leur maison. Cuche s&rsquo;est réfugié chez ses cousins Gonin où il sera bientôt maître de la maison, la paralysie du mari lui livrant la femme et la barque [128]. Il vit maritalement avec sa cousine, la femme Gonin, rouant de coups le mari infirme, provoquant sans doute sa mort [428].

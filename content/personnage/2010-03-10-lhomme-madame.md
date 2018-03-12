@@ -7,8 +7,8 @@ date: 2010-03-10T09:21:49+00:00
 excerpt: Au Bonheur des Dames
 novel:
   - bonheur
-rm_character_name_main: 'Lhomme '
-rm_character_name_secondary: Madame
+main_name: 'Lhomme '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/aurelie-madame/" target="_self">AURÉLIE (Madame)</a>.

@@ -7,7 +7,7 @@ date: 2010-02-15T08:53:25+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: Berlingot
+main_name: Berlingot
 
 ---
 — Cheval de l&rsquo;écurie Méchain. Gagne le prix d&rsquo;Ispahan. _(Nana.)_

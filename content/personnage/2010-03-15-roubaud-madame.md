@@ -7,8 +7,8 @@ date: 2010-03-15T08:44:29+00:00
 excerpt: La Bête Humaine
 novel:
   - bete
-rm_character_name_main: 'Roubaud '
-rm_character_name_secondary: Madame
+main_name: 'Roubaud '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/aubry-severine/" target="_self">AUBRY (Séverine)</a>.

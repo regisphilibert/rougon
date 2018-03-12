@@ -7,7 +7,7 @@ date: 2010-02-16T09:37:09+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: Chavignat
+main_name: Chavignat
 
 ---
 — Employé au ministère de l&rsquo;instruction publique. Un gros dont la femme est laide. Au dire des Pichon, le ménage Chavignat a beaucoup trop d&rsquo;enfants [144]. _(Pot-Bouille.)_

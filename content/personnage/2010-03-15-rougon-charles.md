@@ -8,8 +8,8 @@ excerpt: La Curée, Le Docteur Pascal
 novel:
   - curee
   - docteur
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Charles
+main_name: 'Rougon '
+secondary_name: Charles
 
 ---
 — Voir <a href="/personnage/saccard-charles/" target="_self">SACCARD (Charles)</a>.

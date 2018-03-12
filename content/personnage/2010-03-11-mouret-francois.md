@@ -8,9 +8,9 @@ excerpt: La Fortune des Rougon, La Conquête de Plassans
 novel:
   - conquete
   - fortune
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: François
-rm_character_main: 1
+main_name: 'Mouret '
+secondary_name: François
+main: 1
 
 ---
 **_—_** Fils aîné d’Ursule Macquart, et du chapelier Mouret. Frère d’Hélène et de Silvère. Père d’Octave, Serge et Désirée. Né à Marseille en 1817. Grande ressemblance physique avec sa mère et avec l’aïeule Adélaïde Fouque ; tient de son père un cerveau étroit et juste, aimant d’instinct la vie réglée. C’est un garçon paisible et méticuleux, un peu lourd de sang. Il a reçu une bonne éducation commerciale et, après la mort de son père, en 1840, a quitté Marseille et est entré, à titre de commis, citez son oncle Pierre Rougon, à Plassans. Trois mois après, François épouse sa cousine, Marthe Rougon, avec qui il a une grande ressemblance physique et une grande dissemblance morale. De 1840 à 18144, les deux époux ont trois enfants; quand Pierre Rougon se retire, en. 1845, ils refusent de prendre le fonds et vont s’établir à Marseille, avec quelques économies [161]. _(La Fortune des Rougon_.)

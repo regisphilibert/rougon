@@ -8,9 +8,9 @@ excerpt: La Fortune des Rougon, La Conquête de Plassans
 novel:
   - conquete
   - fortune
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Marthe
-rm_character_main: 1
+main_name: 'Rougon '
+secondary_name: Marthe
+main: 1
 
 ---
 — Fille de Pierre Rougon et de Félicité Puech. Sœur de Pierre, Pascal, Aristide et Sidonie. Mère d&rsquo;Octave, Serge et Désirée Mouret. Née à Plassans en 1820, cinquième enfant des Rougon, tard venue, a été mal accueillie par ses parents [70]. Elle a vingt ans, son père qui ne possède point de dot pour elle ne sait comment s&rsquo;en défaire; à ce moment, François Mouret, fils d&rsquo;Ursule Macquart et cousin germain de Marthe, devient commis dans la maison. Entre les jeunes gens naît rapidement une tendresse déterminée sans doute par leur ressemblance physique. Comme François, Marthe est le portrait même de l&rsquo;aïeule Adélaïde Fouque, mais tandis que François est un gros garçon laborieux, Marthe atout l&rsquo;effarement, tout le détraquement intérieur de la grand&rsquo;mère [81]. Pierre Rougon les marie en 1840. Ils ont trois enfants et quittent avec eux Plassans en 1845, pour aller s&rsquo;établir à Marseille [161]. _(La Fortune des Rougon.)_

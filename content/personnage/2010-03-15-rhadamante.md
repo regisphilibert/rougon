@@ -7,7 +7,7 @@ date: 2010-03-15T08:30:56+00:00
 excerpt: "L'Oeuvre"
 novel:
   - oeuvre
-rm_character_name_main: Rhadamante
+main_name: Rhadamante
 
 ---
 **—** Surnom d&rsquo;un professeur du collège de Plassans, un maître qui n&rsquo;a jamais ri [37]._(L&rsquo;Oeuvre.)_

@@ -7,8 +7,8 @@ date: 2010-02-15T08:41:12+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Bécu '
-rm_character_name_secondary: Michel
+main_name: 'Bécu '
+secondary_name: Michel
 
 ---
 — Oncle de Delphin. Est mort à Orléans. _(La Terre.)_

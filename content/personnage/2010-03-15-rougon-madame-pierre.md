@@ -9,8 +9,8 @@ novel:
   - conquete
   - fortune
   - docteur
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Madame Pierre
+main_name: 'Rougon '
+secondary_name: Madame Pierre
 
 ---
 — Voir <a href="/personnage/puech-felicite/" target="_self">PUECH (Félicité)</a>.

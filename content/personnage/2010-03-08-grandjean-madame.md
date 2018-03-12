@@ -7,8 +7,8 @@ date: 2010-03-08T16:24:25+00:00
 excerpt: La Fortune des Rougon
 novel:
   - fortune
-rm_character_name_main: 'Grandjean '
-rm_character_name_secondary: Madame
+main_name: 'Grandjean '
+secondary_name: Madame
 
 ---
 — Voir [MOURET (Hélène)][1].

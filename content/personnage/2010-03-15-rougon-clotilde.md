@@ -8,8 +8,8 @@ excerpt: La Curée, Le Docteur Pascal
 novel:
   - curee
   - docteur
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Clotilde
+main_name: 'Rougon '
+secondary_name: Clotilde
 
 ---
 — Voir <a href="/personnage/saccard-clotilde/" target="_self">SACCARD (Clotilde)</a>.

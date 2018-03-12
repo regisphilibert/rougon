@@ -10,9 +10,9 @@ novel:
   - curee
   - fortune
 
-rm_character_name_main: 'Saccard '
-rm_character_name_secondary: Aristide
-rm_character_main: 1
+main_name: 'Saccard '
+secondary_name: Aristide
+main: 1
 
 ---
 — Troisième fils de Pierre Rougon et de Félicité Puech. Frère d&rsquo;Eugène, Pascal, Sidonie et Marthe Rougon. Père de Maxime, Clotilde et Victor Rougon, dits Saccard. Petit, la mine chafouine, il a le visage de sa mère, avec des avidités, un caractère sournois, apte aux intrigues vulgaires, où les instincts de son père dominent [74]. En lui s&rsquo;épanouissent tous les besoins de jouissance matérielle; son appétit se rue à l&rsquo;argent, à la femme, au luxe. Envoyé à Paris pour faire son droit, il mène pendant deux ans une vie paresseuse et débraillée, ne passe pas un seul examen et, rentré à Plassans, se laisse vivre longtemps sans voir clair dans ses ambitions. .Marié en 1836 à Angèle Sicardot, qui lui apporte une dot de dix mille francs, il place habilement ce petit capital dans la maison paternelle et se fait entretenir avec sa femme jusqu&rsquo;au moment lointain où son père peut enfin lui restituer sa commandite. Le ménage s&rsquo;établit alors place Saint-Louis; un fils vient, Maxime, dont la grand&rsquo;mère Félicité paye, par bonheur, la pension; Aristide mène une belle existence de fainéantise, jouant au cercle, cultivant sa paresse avec amour, jusqu&rsquo;à l&rsquo;heure où, toutes ressources épuisées, la pauvre Angèle mourant de faim, il consent à chercher une place et réussit à entrer à la sous-préfecture de Plassans.

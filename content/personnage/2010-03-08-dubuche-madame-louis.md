@@ -7,8 +7,8 @@ date: 2010-03-08T10:35:29+00:00
 excerpt: "L'Œuvre"
 novel:
   - oeuvre
-rm_character_name_main: 'Dubuche '
-rm_character_name_secondary: Madame Louis
+main_name: 'Dubuche '
+secondary_name: Madame Louis
 
 ---
 —Voir <a href="/personnage/margaillan-regine/" target="_self">MARGAILLAN (Régine)</a>.

@@ -14,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: Les Halles - Léon Lhermitte
-rm_novel_year: 1873
+year: 1873
 rm_novel_characters:
   - 75982
   - 75983

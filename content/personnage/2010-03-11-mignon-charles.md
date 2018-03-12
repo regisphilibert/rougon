@@ -7,8 +7,8 @@ date: 2010-03-11T08:34:08+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Mignon '
-rm_character_name_secondary: Charles
+main_name: 'Mignon '
+secondary_name: Charles
 
 ---
 — Fils cadet des Mignon [214]. _(Nana.)_

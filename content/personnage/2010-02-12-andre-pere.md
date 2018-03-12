@@ -7,7 +7,7 @@ date: 2010-02-12T16:34:25+00:00
 excerpt: La Fortune des Rougons
 novel:
   - fortune
-rm_character_name_main: André Père
+main_name: André Père
 
 ---
 — Vieux paysan de Chavanoz, village où Miette a passé son enfance. _(La Fortune des Rougon.)_

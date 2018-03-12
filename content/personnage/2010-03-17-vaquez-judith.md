@@ -7,8 +7,8 @@ date: 2010-03-17T07:27:04+00:00
 excerpt: "L'Œuvre"
 novel:
   - oeuvre
-rm_character_name_main: 'Vaquez '
-rm_character_name_secondary: Judith
+main_name: 'Vaquez '
+secondary_name: Judith
 
 ---
 — Un modèle qui habite 69, rue du Rocher. C&rsquo;est une grande juive assez fraîche, mais trop maigre [55]. _(L&rsquo;Œuvre.)_

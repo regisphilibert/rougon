@@ -7,8 +7,8 @@ date: 2010-02-16T10:11:44+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Cron '
-rm_character_name_secondary: Léonie
+main_name: 'Cron '
+secondary_name: Léonie
 rm_character_name_precision: .
 
 ---

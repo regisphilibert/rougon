@@ -8,8 +8,8 @@ excerpt: La Fortune des Rougon, La Conquête de Plassans
 novel:
   - conquete
   - fortune
-rm_character_name_main: 'Valqueyras '
-rm_character_name_secondary: Comte De
+main_name: 'Valqueyras '
+secondary_name: Comte De
 
 ---
 — Parent du marquis de Carnavant, l&rsquo;a recueilli dans son hôtel du quartier Saint-Marc, à Massans [91]. _(La Fortune des Rougon.)_

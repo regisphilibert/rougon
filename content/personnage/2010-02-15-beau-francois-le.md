@@ -7,8 +7,8 @@ date: 2010-02-15T08:29:37+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'François '
-rm_character_name_secondary: Le
+main_name: 'François '
+secondary_name: Le
 
 ---
 — Chef de la bande des chauffeurs d&rsquo;Orgères, dont les terribles exploits, contés à la veillée, font encore frissonner toute la Beauce. _(La Terre.)_

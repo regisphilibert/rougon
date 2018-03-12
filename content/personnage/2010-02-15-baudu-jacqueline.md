@@ -7,8 +7,8 @@ date: 2010-02-15T08:13:04+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Baudu '
-rm_character_name_secondary: Jacqueline
+main_name: 'Baudu '
+secondary_name: Jacqueline
 
 ---
 — Voir [SIVRY][1] (Blanche de)

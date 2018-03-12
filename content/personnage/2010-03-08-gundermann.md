@@ -7,7 +7,7 @@ date: 2010-03-08T16:35:35+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: Gundermann
+main_name: Gundermann
 
 ---
 — Le roi de la banque juive, le maître de la Bourse et du monde. C&rsquo;est un homme de soixante ans, dont l&rsquo;énorme tête chauve, au nez épais, aux yeux ronds à fleur de tête, exprime un entêtement et une fatigue énormes. Occupe rue de Provence un immense hôtel, tout juste assez grand pour son innombrable famille. Quand sa descendance, enfants et petits-enfants, est réunie au repas du soir, ils sont, en les comptant, sa femme et lui, trente et un a table. En moins d&rsquo;un siècle, la monstrueuse fortune d&rsquo;un milliard est née, a poussé et débordé dans cette famille, par l&rsquo;épargne, par l&rsquo;heureux concours aussi des événements. II y a là comme une prédestination, aidée d&rsquo;une intelligence vive, d&rsquo;un travail acharné, d&rsquo;un effort prudent et invincible, continuellement tendu vers le môme but. Tous les fleuves de l&rsquo;or vont à cette mer [92].

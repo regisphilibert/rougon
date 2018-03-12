@@ -8,8 +8,8 @@ excerpt: La Fortune des Rougon, La Conquête de Plassans
 novel:
   - conquete
   - fortune
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Madame François
+main_name: 'Mouret '
+secondary_name: Madame François
 
 ---
 — Voir <a href="/personnage/rougon-marthe/" target="_self">ROUGON (Marthe)</a>.

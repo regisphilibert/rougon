@@ -7,8 +7,8 @@ date: 2010-03-17T07:43:48+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: 'Vineuil '
-rm_character_name_secondary: Colonel De
+main_name: 'Vineuil '
+secondary_name: Colonel De
 
 ---
 — Frère du commandant. En 1870, il commande le 106<sup>e</sup> de ligne, de la brigade Bourgain-Des-feuilles (7<sup>e</sup> corps). Le colonel a un grand air noble, une longue face jaune coupée de longues moustaches tombantes ; ses yeux sont restés très noirs, dans la blancheur des épais cheveux de neige. Le jour de Frœschwiller, le 106<sup>e</sup> campe à deux kilomètres de Mulhouse, vers le Rhin. Le lendemain, 7 août, avec toute la division, déjà démoralisée, il se replie vers le sud, couche à Dannemarie et rentre le soir du 8 à Belfort, d&rsquo;où il était parti quatre jours auparavant. Après une période d&rsquo;inaction et de malaise, dans l&rsquo;attente d&rsquo;ordres supérieurs, on part le 18 pour rejoindre l&rsquo;armée de Châlons, en passant par Langres et Paris. Le 21 août, le 106<sup>e</sup> est à Reims, il va prendre part à la marche sur Verdun et Metz, qui, bientôt déviée dans là direction dés Ardennes, aboutira au cul-de-sac de Sedan. Cet acheminement de quatre corps d&rsquo;armée vers l&rsquo;abîme sera rendu plus poignant par la présence du souverain qui, n&rsquo;ayant plus de place dans son empire, va être emporté comme un paquet inutile et encombrant, parmi les bagages de ses troupes, condamné à traîner derrière lui l&rsquo;ironie de sa maison impériale [73]. On se met en route dans une extrême confusion.

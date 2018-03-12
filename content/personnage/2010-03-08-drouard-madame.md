@@ -7,8 +7,8 @@ date: 2010-03-08T10:31:40+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Drouard '
-rm_character_name_secondary: Madame
+main_name: 'Drouard '
+secondary_name: Madame
 
 ---
 — Vieille actrice des Variétés. Joue le rôle de Junon dans la _Blonde Vénus_ [167]. _(Nana.)_

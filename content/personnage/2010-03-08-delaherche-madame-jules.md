@@ -6,8 +6,8 @@ type: personnage
 date: 2010-03-08T10:12:15+00:00
 novel:
   - terre
-rm_character_name_main: 'Delaherche '
-rm_character_name_secondary: Madame Jules
+main_name: 'Delaherche '
+secondary_name: Madame Jules
 
 ---
 — Voir [VINEUIL (Gilberte de)][1].

@@ -7,9 +7,9 @@ date: 2010-03-11T08:52:16+00:00
 excerpt: Une Page d’Amour
 novel:
   - page
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Hélène
-rm_character_main: 1
+main_name: 'Mouret '
+secondary_name: Hélène
+main: 1
 
 ---
 — Deuxième enfant du chapelier Mouret et d’Ursule Macquart. Née à Marseille en 1824, devient orpheline en 1840. Sœur de François et de Silvère. _(La Fortune des Rougon.)_

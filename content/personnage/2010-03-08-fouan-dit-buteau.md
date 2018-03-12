@@ -7,7 +7,7 @@ date: 2010-03-08T08:43:21+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: Fouan, dit Buteau
+main_name: Fouan, dit Buteau
 
 ---
 — Voir [BUTEAU][1].

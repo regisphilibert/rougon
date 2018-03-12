@@ -7,8 +7,8 @@ date: 2010-03-08T16:31:11+00:00
 excerpt: La Curée
 novel:
   - curee
-rm_character_name_main: 'Guende '
-rm_character_name_secondary: Madame de
+main_name: 'Guende '
+secondary_name: Madame de
 
 ---
 — Grande mondaine du second Empire. Femme admirablement faite, mais tellement bête qu&rsquo;ayant pour amants trois officiers supérieurs à la fois, elle ne peut, dit-on, les distinguer à cause de leur uniforme identique [240]. C&rsquo;est une amie des Saccard. _(La Curée.)_

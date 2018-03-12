@@ -7,8 +7,8 @@ date: 2010-03-17T07:25:05+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Vandeuvres '
-rm_character_name_secondary: Comte Xavier De
+main_name: 'Vandeuvres '
+secondary_name: Comte Xavier De
 
 ---
 — Le dernier d&rsquo;une grande race, féminin et spirituel. C&rsquo;est, un homme fluet, très soigné, d&rsquo;une rare distinction. Rien n&rsquo;apaise ses appétits; son écurie de courses, une des plus célèbres de Paris, lui coûte un argent fou; ses pertes au Cercle Impérial se chiffrent chaque mois par un nombre de louis inquiétant; ses maîtresses lui dévorent bon an mal an une ferme et quelques arpents de terre ou de forêts, tout un lambeau de ses vastes domaines de Picardie [70]. Et il achève sa fortune avec Nana. C&rsquo;est un coup de fièvre chaude, il a comme une hâte de tout balayer, jusqu&rsquo;aux décombres de la vieille tour bâtie par un Vandeuvres sous Philippe-Auguste, trouvant beau de laisser les derniers besants d&rsquo;or de son blason aux mains de cette fille, que Paris désire [345].

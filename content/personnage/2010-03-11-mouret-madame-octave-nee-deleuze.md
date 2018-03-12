@@ -8,8 +8,8 @@ excerpt: Pot-Bouille, Au Bonheur des Dames
 novel:
   - bonheur
   - pot-bouille
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Madame Octave
+main_name: 'Mouret '
+secondary_name: Madame Octave
 rm_character_name_precision: née DELEUZE
 
 ---

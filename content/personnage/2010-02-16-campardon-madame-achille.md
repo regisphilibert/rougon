@@ -7,8 +7,8 @@ date: 2010-02-16T08:50:43+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Campardon '
-rm_character_name_secondary: Madame Achille
+main_name: 'Campardon '
+secondary_name: Madame Achille
 
 ---
 — Voir D[OMERGUE (Rose)][1]

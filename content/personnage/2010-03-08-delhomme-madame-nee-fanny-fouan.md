@@ -7,8 +7,8 @@ date: 2010-03-08T10:19:29+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Delhomme '
-rm_character_name_secondary: Madame
+main_name: 'Delhomme '
+secondary_name: Madame
 rm_character_name_precision: née Fanny Fouan
 
 ---

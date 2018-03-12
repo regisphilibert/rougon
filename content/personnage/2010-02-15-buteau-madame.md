@@ -7,8 +7,8 @@ date: 2010-02-15T10:14:18+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Buteau '
-rm_character_name_secondary: Madame
+main_name: 'Buteau '
+secondary_name: Madame
 
 ---
 — Voir [MOUCHE (Lise)][1].

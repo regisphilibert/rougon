@@ -7,9 +7,9 @@ date: 2010-03-09T10:44:22+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Josserand '
-rm_character_name_secondary: Hortense
-rm_character_main: 1
+main_name: 'Josserand '
+secondary_name: Hortense
+main: 1
 
 ---
 — De deux ans plus âgée que Berthe, elle a vingt-trois ans, mais en paraît vingt-huit. Hortense a le teint jaune, son visage est gâté par le nez de sa mère, qui lui donne un air d&rsquo;obstination dédaigneuse [29].

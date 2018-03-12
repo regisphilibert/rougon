@@ -7,7 +7,7 @@ date: 2010-03-16T08:18:39+00:00
 excerpt: Germinal
 novel:
   - germinal
-rm_character_name_main: Sauvagnat
+main_name: Sauvagnat
 
 ---
 — Un ami de Pluchart. Habite Marchiennes [273]. _(Germinal)_

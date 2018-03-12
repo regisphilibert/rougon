@@ -7,8 +7,8 @@ date: 2010-03-15T09:06:21+00:00
 excerpt: La Curée
 novel:
   - curee
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Madame Aristide
+main_name: 'Rougon '
+secondary_name: Madame Aristide
 rm_character_name_precision: née BÉRAUD DU CHATEL
 
 ---

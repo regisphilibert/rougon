@@ -13,7 +13,7 @@ resources:
   - src: '**header.*'
     params:
       copy:
-rm_novel_year: 1893
+year: 1893
 rm_novel_characters:
   - 75978
   - 75999

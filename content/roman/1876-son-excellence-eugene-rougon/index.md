@@ -14,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: Portrait de Napoléon III - Alexandre Cabanel
-rm_novel_year: 1876
+year: 1876
 rm_novel_characters:
   - 75962
   - 76047

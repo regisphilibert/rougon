@@ -7,7 +7,7 @@ date: 2010-03-08T10:01:45+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: Dalichamp
+main_name: Dalichamp
 
 ---
 — Médecin à Rancourt, à six kilomètres de Remilly. Homme court, à la grosse tête ronde, dont le collier de barbe et les cheveux grisonnent; sou visage coloré s&rsquo;est durci, pareil à ceux des paysans, dans sa continuelle vie au grand air, toujours en marche pour le soulagement de quelque souffrance; ses yeux vifs, son nez têtu, ses lèvres bonnes disent clairement son existence entière de brave homme charitable, un peu braque parfois, médecin sans génie, dont une longue pratique a fait un excellent guérisseur [484]. S&rsquo;intéressant aux enfants des malheureuses qu&rsquo;il accouche, il a placé la petite SilvineMorangechez lepère Fouchard, pour la sauver de la débauche de l&rsquo;usine.

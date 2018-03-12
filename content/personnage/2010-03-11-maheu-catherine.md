@@ -7,9 +7,9 @@ date: 2010-03-11T07:56:34+00:00
 excerpt: Germinal
 novel:
   - germinal
-rm_character_name_main: 'Maheu '
-rm_character_name_secondary: Catherine
-rm_character_main: 1
+main_name: 'Maheu '
+secondary_name: Catherine
+main: 1
 
 ---
 — Deuxième enfant de Toussaint Maheu et de la Maheude. Hercheuse au Voreux. Fluette pour ses quinze ans, elle est rousse, elle a un visage blême, déjà gâté par les continuels lavages au savon noir, une bouche un peu grande, avec des dents superbes dans la pâleur chlorotique des gencives, de grosses lèvres d’un rosé pâle, de grands yeux d’une limpidité verdâtre d’eau de source [72]. Ses bras délicats sont d’une blancheur de lait, et ses pieds, habitués à courir dans la mine, sont bleuis, comme tatoués de charbon. Dans sa culotte de mineur, sa veste de toile et le béguin qui enserre son chignon, elle a l’air d’un petit homme, rien ne lui reste de son sexe qu’un dandinement léger des hanches [16]. Les promiscuités de la famille lui ont tout appris de l’homme et de la femme, mais elle est vierge de corps, et vierge enfant, retardée dans la maturité de son sexe par le milieu de mauvais air et de fatigue où elle vit [50]. Ses idées héréditaires de subordination et d’obéissance passive lui donnent une allure résignée et douée.

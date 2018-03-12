@@ -9,8 +9,8 @@ novel:
   - faute
   - fortune
   - docteur
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Pascal
+main_name: 'Rougon '
+secondary_name: Pascal
 
 ---
 — Voir <a href="/personnage/pascal-le-docteur/" target="_self">PASCAL (Le Docteur)</a>.

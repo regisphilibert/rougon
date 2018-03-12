@@ -7,8 +7,8 @@ date: 2010-02-16T09:41:20+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Chouard '
-rm_character_name_secondary: Sabine de
+main_name: 'Chouard '
+secondary_name: Sabine de
 
 ---
 — Fille du marquis. Mariée à dix-sept ans avec le comte Muffat de Beuville, elle a mené une existence cloîtrée entre un mari pieux et une belle-mère autoritaire. Les uns la disent d&rsquo;une froideur de dévote, les autres la plaignent, se rappelant ses beaux rires, ses grands yeux de flamme, avant qu&rsquo;on l&rsquo;enfermât au fond du vieil hôtel de la rue Miromesnil. Elle jouit d&rsquo;une réputation parfaite; Fauchery n&rsquo;a que le vague souvenir d&rsquo;une confidence reçue d&rsquo;un officier de ses amis, mort récemment au Mexique, une de ces confidences brutales que les hommes les plus discrets laissent échapper à de certains moments [73]. Sabine n&rsquo;a rien mis d&rsquo;elle dans l&rsquo;ancienne demeure, noire d&rsquo;humidité; c&rsquo;est Muffat qui s&rsquo;impose, qui domine, avec son éducation religieuse, ses pénitences et ses jeûnes [76]. Toutefois, une grande chaise de soie rouge capitonnée, introduite après la mort de la maman Muffat, détonne dans ce milieu enfumé; c&rsquo;est le commencement d&rsquo;un désir et d&rsquo;une jouissance [79].

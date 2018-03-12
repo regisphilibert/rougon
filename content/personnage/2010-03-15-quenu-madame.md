@@ -8,8 +8,8 @@ excerpt: La Fortune des Rougon, La Joie de Vivre
 novel:
   - fortune
   - joie
-rm_character_name_main: 'Quenu '
-rm_character_name_secondary: Madame
+main_name: 'Quenu '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/macquart-lisa/" target="_self">MACQUART (Lisa)</a>.

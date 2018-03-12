@@ -7,8 +7,8 @@ date: 2010-02-15T08:17:22+00:00
 excerpt: Au Bonheur des Dames
 novel:
   - bonheur
-rm_character_name_main: 'Baudu '
-rm_character_name_secondary: Thérèse
+main_name: 'Baudu '
+secondary_name: Thérèse
 
 ---
 — Femme de Jean Baudu. Petite Parisienne d&rsquo;un visage tourmenté et charmant. 

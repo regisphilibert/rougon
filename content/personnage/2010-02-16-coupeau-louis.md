@@ -7,8 +7,8 @@ date: 2010-02-16T10:09:36+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: 'Coupeau '
-rm_character_name_secondary: Louis
+main_name: 'Coupeau '
+secondary_name: Louis
 
 ---
 — Voir LOUISET

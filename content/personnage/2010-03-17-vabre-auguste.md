@@ -7,8 +7,8 @@ date: 2010-03-17T07:10:49+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Vabre '
-rm_character_name_secondary: Auguste
+main_name: 'Vabre '
+secondary_name: Auguste
 
 ---
 — Fils aîné du propriétaire. Grand garçon maussade, au sang pâle, figure de mouton malade, toujours des maux de tête qui lui tirent les yeux et qui l&rsquo;ont empêché autrefois de continuer le latin. Très timoré, il est resté quinze ans petit employé de commerce, sans oser risquer les cent mille francs légués par sa mère, puis il s&rsquo;est établi marchand de soieries au rez-de-chaussée de la maison paternelle. Il épouse Berthe Josserand, tombant dans un véritable traquenard, se laissant duper au contrat, perdant toute lucidité par ses migraines qui le rendent fou; et il est un mari maussade, méticuleux, bonhomme au fond, simplement désagréable et volontiers résigné, tant qu&rsquo;on ne le jette pas hors de lui en dépensant son argent ou en touchant à sa morale [302].

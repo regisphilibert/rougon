@@ -7,8 +7,8 @@ date: 2010-03-09T10:38:54+00:00
 excerpt: "L'Œuvre"
 novel:
   - oeuvre
-rm_character_name_main: 'Jory '
-rm_character_name_secondary: Madame
+main_name: 'Jory '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/jabouille-mathilde/" target="_self">JABOUILLE (Mathilde)</a>.

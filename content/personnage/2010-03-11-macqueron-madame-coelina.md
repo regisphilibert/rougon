@@ -7,8 +7,8 @@ date: 2010-03-11T07:51:22+00:00
 excerpt: La Terre.
 novel:
   - terre
-rm_character_name_main: 'Macqueron '
-rm_character_name_secondary: Madame Cœlina
+main_name: 'Macqueron '
+secondary_name: Madame Cœlina
 
 ---
 — Femme de l’épicier. Sèche, nerveuse et insolente, voix aigre [52]. Elle est d’une âpreté féroce au lucre [55]. _(La Terre.)_

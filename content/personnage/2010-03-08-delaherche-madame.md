@@ -7,8 +7,8 @@ date: 2010-03-08T10:11:10+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: 'Delaherche '
-rm_character_name_secondary: Madame
+main_name: 'Delaherche '
+secondary_name: Madame
 
 ---
 — Mère de Jules Delaherche. Son mari était de mœurs gaillardes et l&rsquo;a rendue très malheureuse. Aussi, devenue veuve, tremblant de voir son fils recommencer les mêmes farces, s&rsquo;est-elle efforcée de lui imposer une tutelle. Elle l&rsquo;a marié avec une dévote et a dirigé le ménage, puis la femme est morte. A cinquante ans, Delaherche, sevré de jeunesse, a voulu épouser une veuve légère et gaie, de réputation douteuse; c&rsquo;est en vain que madame Delaherche a prodigué les remontrances [181]. Maintenant, elle ne vit plus que comme un blâme muet, elle se tient enfermée dans sa chambre. Toujours debout à l&rsquo;aube, malgré ses soixante-dix-huit ans, toute blanche, d&rsquo;une grande rigidité de dévotion, elle a un nez qui s&rsquo;est aminci et une bouche qui ne rit plus, dans une longue face maigre [183].

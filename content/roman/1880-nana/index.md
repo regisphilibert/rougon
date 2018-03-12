@@ -9,7 +9,7 @@ resources:
 - src: "**header.*"
   params:
     copy: Nana (téléfilm) - réal. Maurice Cazeneuve
-rm_novel_year: 1880
+year: 1880
 rm_novel_characters:
 - 75948
 - 75952

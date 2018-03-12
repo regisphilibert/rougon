@@ -7,7 +7,7 @@ date: 2010-03-11T08:03:37+00:00
 excerpt: La Joie de vivre
 novel:
   - joie
-rm_character_name_main: Malivoire
+main_name: Malivoire
 
 ---
 **—** Loueur de voitures à Arromanches. Il a l’entreprise de l’omnibus d’Arromanches à Bayeux [2]. _(La Joie de vivre.)_

@@ -10,9 +10,9 @@ novel:
   - curee
   - fortune
   - excellence
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Eugène
-rm_character_main: 1
+main_name: 'Rougon '
+secondary_name: Eugène
+main: 1
 
 ---
 — Premier fils de Pierre Rougon et de Félicité Puech. Frère de Pascal, Aristide, Sidonie et Marthe. Il a le visage de son père, une tête de structure massive et carrée, aux traits larges. De taille moyenne, il est, à quarante ans, légèrement chauve et tourne déjà à l&rsquo;obésité. Dans ces chairs épaisses, héritées du père, sont enfouies des qualités morales et intellectuelles,, des ambitions hautes, des instincts autoritaires, un mépris singulier pour les petits moyens et les petites fortunes, où l&rsquo;on retrouve, amplifiés, les traits du caractère maternel. Les appétits de jouissance extraordinairement développés dans cette famille sont, ici, épurés; Eugène Rougon jouira par les voluptés de l&rsquo;esprit, en satisfaisant ses besoins de domination [73].

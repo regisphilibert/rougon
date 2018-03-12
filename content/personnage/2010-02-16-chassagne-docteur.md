@@ -7,8 +7,8 @@ date: 2010-02-16T09:34:05+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Chassagne '
-rm_character_name_secondary: Docteur
+main_name: 'Chassagne '
+secondary_name: Docteur
 
 ---
 — Directeur de l&rsquo;Asile des Moulineaux [176]. On lui a confié à deux reprises Saturnin Josserand. _(Pot-Bouille.)_

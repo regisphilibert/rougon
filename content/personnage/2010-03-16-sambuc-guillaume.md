@@ -7,8 +7,8 @@ date: 2010-03-16T08:02:47+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: 'Sambuc '
-rm_character_name_secondary: Guillaume
+main_name: 'Sambuc '
+secondary_name: Guillaume
 
 ---
 — Terrible chenapan, digne fils d&rsquo;une famille de bûcherons qui a mal tourné, le père ivrogne, trouvé un soir la gorge coupée, au coin d&rsquo;un bois, la mère et la fille mendiantes et voleuses, tombées à quelque maison de tolérance; lui braconne et fait la contrebande ; son frère Prosper est le seul petit de cette portée de loups qui ait grandi honnête. Pendant la guerre de 1870, Guillaume appartient à une de ces compagnies franches qui devaient faire la guerre d&rsquo;embuscade, tuer les sentinelles de l&rsquo;ennemi, tenir les bois d&rsquo;où pas un Prussien ne sortirait, et qui devinrent vite la terreur des paysans, qu&rsquo;elles défendirent mal et dont elles ravagèrent les champs. Il est le sergent d&rsquo;un groupe de francs-tireurs dissimulés dans les bois de Dieulet. Grand et maigre, avec une épaisse barbe en broussaille, il porte une blouse grise, serrée à la taille par une ceinture rouge [l39].

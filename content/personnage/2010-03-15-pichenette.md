@@ -7,7 +7,7 @@ date: 2010-03-15T07:28:01+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: Pichenette
+main_name: Pichenette
 
 ---
 — Cheval engagé dans le Grand Prix de Paris [384]. Il est retiré avant la course [405]._(Nana.)_

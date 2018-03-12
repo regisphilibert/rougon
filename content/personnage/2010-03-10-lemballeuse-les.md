@@ -7,8 +7,8 @@ date: 2010-03-10T09:51:57+00:00
 excerpt: Le Rêve
 novel:
   - reve
-rm_character_name_main: 'Lemballeuse '
-rm_character_name_secondary: Les
+main_name: 'Lemballeuse '
+secondary_name: Les
 rm_character_name_precision: .
 
 ---

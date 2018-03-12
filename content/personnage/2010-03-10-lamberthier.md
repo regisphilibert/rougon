@@ -7,7 +7,7 @@ date: 2010-03-10T08:59:21+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: Lamberthier
+main_name: Lamberthier
 
 ---
 **—** Facteur à la Halle. Joséphine Dejoie a été cuisinière chez lui [131]. _(L&rsquo;Argent.)_

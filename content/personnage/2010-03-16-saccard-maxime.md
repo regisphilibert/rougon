@@ -9,9 +9,9 @@ novel:
   - argent
   - curee
   - docteur
-rm_character_name_main: 'Saccard '
-rm_character_name_secondary: Maxime
-rm_character_main: 1
+main_name: 'Saccard '
+secondary_name: Maxime
+main: 1
 
 ---
 — Fils d&rsquo;Aristide Bougon, dit Saccard, et d&rsquo;Angèle Sicardot. Père de Charles. Il est né en 18140 à Plassans. Enfance terne, dans la médiocrité du ménage paternel. Semble avoir été assez mal élevé, car son grand-oncle, Antoine Macquart, se plaint que le mioche lui tire la langue chaque fois qu&rsquo;il le rencontre [176]. Sa grand&rsquo;mère Félicité Rougon le fait entrer au collège et paye secrètement sa pension [78]_. (La Fortune des Rougon.)_

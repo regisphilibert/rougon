@@ -7,8 +7,8 @@ date: 2010-03-09T09:57:02+00:00
 excerpt: Le Rêve
 novel:
   - reve
-rm_character_name_main: 'Hautecœur '
-rm_character_name_secondary: Les
+main_name: 'Hautecœur '
+secondary_name: Les
 
 ---
 —Vieille famille noble, dont l&rsquo;origine remonte au onzième siècle. Le chef de celte maison a été Norbert l&nbsp;&raquo;, cadet de Normandie. Il a reçu en fief une forteresse jadis élevée par un successeur de saint Remy, l&rsquo;archevêque Séverin, pour défendre le pays contre les Normands; c&rsquo;était la forteresse de Hautecœur, à deux lieues en aval de Beaumont, sur le Ligneul, affluent de l&rsquo;Oise. La descendance de Norbert 1<sup>er</sup> emplit l&rsquo;histoire. Hervé IV, excommunié deux fois pour ses vols de biens ecclésiastiques, bandit de grandes roules qui a égorgé de sa main plus de trente bourgeois d&rsquo;un coup, a sa tour rasée par Louis le Gros, auquel il a osé faire la guerre. Raoul 1<sup>er</sup>, qui s&rsquo;est croisé avec Philippe-Auguste, périt devant Saint-Jean-d&rsquo;Acre, d&rsquo;un coup de lance au cœur. Jean V le Grand, en 1225, rebâtit la forteresse-, il élève en moins de cinq années ce redoutable château de Hautecœur, à l&rsquo;abri duquel il rêvera un moment le trône de France; c&rsquo;est lui qui donne les fonds nécessaires pour l&rsquo;achèvement de l&rsquo;église de Beaumont, où une chapelle consacrée à saint Georges se nommera désormais la chapelle Hautecœur et recevra les restes de Jean V et de ses descendants [64]; ce seigneur, devenu beau-frère du roi d&rsquo;Ecosse, meurt dans son lit après avoir échappé aux massacres de vingt batailles. Félicien III, prévenu qu&rsquo;une maladie empêche Philippe le Bel de se rendre en Palestine, y va pour lui, pieds nus, un cierge au poing, ce qui lui fait octroyer un quartier des armes de Jérusalem [88]. Hervé VII revendique ses droits au trône d&rsquo;Ecosse. Jean IX, sous Mazarin, a la douleur d&rsquo;assister au démantèlement du château [62].

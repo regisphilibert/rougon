@@ -7,8 +7,8 @@ date: 2010-02-16T09:44:13+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Chuchu '
-rm_character_name_secondary: Mademoiselle
+main_name: 'Chuchu '
+secondary_name: Mademoiselle
 rm_character_name_precision: .
 
 ---

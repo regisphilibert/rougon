@@ -14,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: La faute de l'abbé Mouret (film) réal. Georges Franju
-rm_novel_year: 1875
+year: 1875
 rm_novel_characters:
   - 75959
   - 76046

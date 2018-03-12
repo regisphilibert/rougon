@@ -7,9 +7,9 @@ date: 2010-03-11T08:00:41+00:00
 excerpt: Germinal
 novel:
   - germinal
-rm_character_name_main: 'Maheude '
-rm_character_name_secondary: La
-rm_character_main: 1
+main_name: 'Maheude '
+secondary_name: La
+main: 1
 
 ---
 — Femme de Toussaint Maheu. Déjà déformée à trente-neuf ans, elle a une figure longue, aux grands traits, d’une beauté lourde [19]. Elle est descendue aux mines jusqu’à vingt ans, le médecin a dit qu’elle y resterait, lorsqu’elle a accouché la seconde fois, parce que ça lui dérangeait quelque chose dans les os [102]. C’est à ce moment qu’elle s’est mariée et dès lors elle est restée au coron; cinq autres enfants sont venus. Dans ce milieu, la misère héréditaire fait de chaque petit un gagne-pain pour plus tard, un fils ne doit se marier que lorsqu’il a rendu à ses parents l’argent qu’il leur a coûté. Aussi la Maheude consent-elle avec peine au mariage de son aîné Zacharie [176]; de même Catherine devenue la maîtresse de Chaval la désole, car c’est encore une brèche aux maigres ressources de la maison. Elle a un grand bon sens dans les questions de travail, elle calme son homme exaspéré par les exigences des chefs, elle déclare qu’on n’a rien à gagner à se buter contre la Compagnie [130].

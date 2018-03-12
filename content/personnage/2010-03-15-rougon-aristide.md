@@ -9,8 +9,8 @@ novel:
   - argent
   - curee
   - fortune
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Aristide
+main_name: 'Rougon '
+secondary_name: Aristide
 
 ---
 — Voir <a href="/personnage/saccard-aristide/" target="_self">SACCARD (Aristide)</a>.

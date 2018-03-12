@@ -8,8 +8,8 @@ excerpt: "La Fortune des Rougon, L'Assommoir"
 novel:
   - assommoir
   - fortune
-rm_character_name_main: 'Lantier '
-rm_character_name_secondary: Auguste
+main_name: 'Lantier '
+secondary_name: Auguste
 
 ---
 — Né en 1824. Ouvrier tanneur à Plassans. Devient à dix-huit ans l&rsquo;amant de Gervaise Macquart et a d&rsquo;elle trois enfants, Claude, Jacques, Étienne, qui sont recueillis par madame Lantier mère. Quand celle-ci meurt, il emmène Gervaise à Paris avec deux des enfants [179]. _(La Fortune des Rougon.)_

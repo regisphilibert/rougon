@@ -7,8 +7,8 @@ date: 2010-03-09T10:32:20+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: Jésus-Christ
-rm_character_main: 1
+main_name: Jésus-Christ
+main: 1
 
 ---
 **—** Fils aîné du père Fouan et de Rose Maliverne. Frère de Buteau et de Fanny Delhomme. Père d&rsquo;Olympe Fouan, dite la Trouille. Un ancien soldat qui a fait les campagnes d&rsquo;Afrique et qui, paresseux et ivrogne, s&rsquo;est mis, dès son retour, à battre les champs, refusant tout travail régulier, vivant de braconnage et de maraude, comme s&rsquo;il rançonnait encore un peuple tremblant de Bédouins. A quarante ans, c&rsquo;est un grand gaillard, d&rsquo;une belle force musculaire, les cheveux bouclés, la barbe en pointe, longue et inculte, avec une face de Christ ravagé, un Christ soûlard, violeur de filles, détrousseur de grandes routes. Au fond de ses beaux yeux noyés d&rsquo;une perpétuelle ivresse, il y a de la goguenardise pas méchante, le cœur ouvert d&rsquo;une bonne crapule [16]. Il habite le château, coin rocheux qui appartient à la commune de Rognes et où il s&rsquo;est réfugié à la suite d&rsquo;une querelle avec son père [40].

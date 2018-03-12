@@ -7,7 +7,7 @@ date: 2010-03-10T10:12:05+00:00
 excerpt: Au Bonheur des Dames
 novel:
   - bonheur
-rm_character_name_main: Levasseur
+main_name: Levasseur
 
 ---
 **—** Employé au Bonheur des Dames. Chef du service des expéditions [50]. 

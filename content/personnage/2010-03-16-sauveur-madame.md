@@ -7,8 +7,8 @@ date: 2010-03-16T08:19:48+00:00
 excerpt: Au Bonheur des Dames
 novel:
   - bonheur
-rm_character_name_main: 'Sauveur '
-rm_character_name_secondary: Madame
+main_name: 'Sauveur '
+secondary_name: Madame
 
 ---
 — grande couturière qui habille madame Desforges. Elle guette les occasions du Bonheur des Dames, fait des provisions considérables à chaque exposition, et les écoule en doublant et en triplant les prix [96]. 

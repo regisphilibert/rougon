@@ -8,9 +8,9 @@ excerpt: La Conquête de Plassans, La Faute de l’abbé Mouret
 novel:
   - conquete
   - faute
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Désirée
-rm_character_main: 1
+main_name: 'Mouret '
+secondary_name: Désirée
+main: 1
 
 ---
 — Troisième enfant de François Mouret et de Marthe Rougon. Sœur d’Octave. et de Serge. Née en 1814 à Plassans [161]. _(La Fortune des Rougon.)_

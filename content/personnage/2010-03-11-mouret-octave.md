@@ -10,9 +10,9 @@ novel:
   - oeuvre
   - conquete
   - pot-bouille
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Octave
-rm_character_main: 1
+main_name: 'Mouret '
+secondary_name: Octave
+main: 1
 
 ---
 — Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Né en 1840 à Plassans [161]. _(La Fortune des Rougon.)_

@@ -7,8 +7,8 @@ date: 2010-03-17T07:29:51+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Vaugelade '
-rm_character_name_secondary: Duc De
+main_name: 'Vaugelade '
+secondary_name: Duc De
 
 ---
 — ancien maître du valet de chambre Gourd [3]. _(Pot-Bouille.)_

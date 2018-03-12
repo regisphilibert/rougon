@@ -7,8 +7,8 @@ date: 2010-02-15T09:40:45+00:00
 excerpt: Germinal
 novel:
   - germinal
-rm_character_name_main: Bonnemort
-rm_character_main: 1
+main_name: Bonnemort
+main: 1
 
 ---
 **—** De son vrai nom Vincent Maheu. Petit-fils de Guillaume, fils de Nicolas, père de Toussaint. Il a aujourd&rsquo;hui cinquante-huit ans et n&rsquo;en avait pas huit lorsqu&rsquo;il est descendu dans la mine. Il a été d&rsquo;abord galibot, puis hercheur quand il a eu la force de rouler, puis haveur jusqu&rsquo;à dix-huit ans ; ensuite, à cause de ses jambes, on l&rsquo;a mis de la coupe à terre, remblayeur, raccommodeur, jusqu&rsquo;au moment où l&rsquo;on a dû le sortir du fond, parce que le médecin a dit qu&rsquo;il allait y rester. Alors, après quarante-cinq années de mine, on a fait de lui un charretier, il travaille de nuit depuis cinq ans à la fosse du Voreux et gagne quarante sous ; encore deux ans, et il pourra prétendre à une pension de cent quatre-vingts francs. C&rsquo;est Guillaume, son grand-père, qui a découvert à Réquillart une mine de charbon gras; son père, deux de ses oncles, trois de ses frères, plus tard, y ont laissé leur peau; son fils Toussaint y crève maintenant, et ses petits-fils, et tout son monde. Cent six ans d&rsquo;abatage dans la famille, les mioches après les vieux, pour le même patron. Lui, on l&rsquo;a retiré trois fois de la mine en morceaux, une fois avec tout le poil roussi une autre avec de la terre jusque dans le gésier, la troisième avec le ventre gonflé d&rsquo;eau comme une grenouille ; alors comme il tic voulait pas crever, on l&rsquo;a appelé Bonnemort, pour rire [8].

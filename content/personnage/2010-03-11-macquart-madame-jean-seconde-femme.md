@@ -7,8 +7,8 @@ date: 2010-03-11T07:47:21+00:00
 excerpt: Le Docteur Pascal
 novel:
   - docteur
-rm_character_name_main: 'Macquart '
-rm_character_name_secondary: Madame Jean, seconde femme
+main_name: 'Macquart '
+secondary_name: Madame Jean, seconde femme
 
 ---
 — Voir <a href="/personnage/vial-melanie/" target="_self">VIAL (Mélanie)</a>.

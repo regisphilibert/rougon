@@ -7,8 +7,8 @@ date: 2010-03-09T10:14:24+00:00
 excerpt: Le Rêve
 novel:
   - reve
-rm_character_name_main: Hubertine
-rm_character_main: 1
+main_name: Hubertine
+main: 1
 
 ---
 — Femme de Hubert. A seize ans, d&rsquo;une beauté merveilleuse, elle a été aimée de lui et, comme sa mère veuve d&rsquo;un magistrat, refusait de la donner, elle s&rsquo;est laissé enlever. Huit mois plus tard, mariée et enceinte, elle est venue au lit de mort de sa mère, celle-ci l&rsquo;a déshéritée et maudite, si bien que l&rsquo;enfant, né avant terme le même soir, est mort. Et depuis, au cimetière, l&rsquo;entêtée bourgeoise n&rsquo;a pas pardonné, car le ménage n&rsquo;a plus eu d&rsquo;enfant, malgré son ardent désir. Après vingt-quatre années, les Hubert pleurent encore le fils qu&rsquo;ils ont perdu, ils désespèrent maintenant de jamais fléchir la morte [7].

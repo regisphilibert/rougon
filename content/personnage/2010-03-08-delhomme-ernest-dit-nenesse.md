@@ -6,8 +6,8 @@ type: personnage
 date: 2010-03-08T10:19:51+00:00
 novel:
   - terre
-rm_character_name_main: 'Delhomme '
-rm_character_name_secondary: Ernest
+main_name: 'Delhomme '
+secondary_name: Ernest
 rm_character_name_precision: dit Nénesse
 
 ---

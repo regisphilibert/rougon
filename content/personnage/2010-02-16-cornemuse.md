@@ -7,7 +7,7 @@ date: 2010-02-16T10:02:26+00:00
 excerpt: Nana
 novel:
   - nana
-rm_character_name_main: Cornemuse
+main_name: Cornemuse
 
 ---
 — Cheval de courses. Gagne le prix de la Ville de Paris [398]. _(Nana.)_

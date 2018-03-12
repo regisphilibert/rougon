@@ -7,8 +7,8 @@ date: 2010-03-10T10:16:28+00:00
 excerpt: La Débâcle
 novel:
   - debacle
-rm_character_name_main: 'Levasseur '
-rm_character_name_secondary: Henriette
+main_name: 'Levasseur '
+secondary_name: Henriette
 
 ---
 — Fille du percepteur. Sœur jumelle de Maurice. Alors qu&rsquo;on faisait de celui-ci un avocat, elle a été élevée en Cendrillon, au logis, sachant au plus lire et écrire. Et plus tard, pour réparer les folies de son fière, elle s&rsquo;est dépouillée généreusement, elle a tout vendu, la maison, les meubles, sans parvenir à combler le déficit. Puis elle a eu la chance de trouver un mari, cet honnête garçon de Weiss, qui est venu lui offrir tout ce qu&rsquo;il possédait, avec ses bras solides, avec son cœur; elle l&rsquo;a épousé, touchée aux larmes de son affection, pleine d&rsquo;estime tendre, sinon de passion amoureuse [188]. Henriette est petite, elle a une figure mince, des traits menus, sous une admirable chevelure blonde, d&rsquo;un blond clair d&rsquo;avoine mûre. Ce qui la différencie surtout de son fière, avec qui elle a une ressemblance frappante, ce sont ses yeux gris, calmes et braves, où revit toute l&rsquo;âme du grand-père. le héros de la grande armée. Parlant peu, marchant sans bruit, elle est d&rsquo;une activité si adroite, d&rsquo;une douceur si riante qu&rsquo;on. la sent comme une caresse dans J&rsquo;air où elle passe [189]; c&rsquo;est une -âme forte, elle est du bois sacré dont on fait les martyrs [ 191].

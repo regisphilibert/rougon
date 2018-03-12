@@ -8,9 +8,9 @@ excerpt: Le Ventre de Paris, La Joie de vivre
 novel:
   - joie
   - ventre
-rm_character_name_main: 'Quenu '
-rm_character_name_secondary: Pauline
-rm_character_main: 1
+main_name: 'Quenu '
+secondary_name: Pauline
+main: 1
 
 ---
 — Fille de Lisa Macquart et de Quenu, née en 1853 [64]. A cinq ans, c&rsquo;est une superbe enfant, ayant une grosse figure ronde. Pauline est la fidèle amie du chien Mouton. Elle écoute avec bonheur les terribles histoires de son oncle Florent [260]. _(Le Ventre de Paris.)_

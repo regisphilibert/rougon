@@ -7,8 +7,8 @@ date: 2010-03-08T10:06:45+00:00
 excerpt: "Une Page d'Amour"
 novel:
   - page
-rm_character_name_main: 'Deberle '
-rm_character_name_secondary: Madame Juliette, née Letellier
+main_name: 'Deberle '
+secondary_name: Madame Juliette, née Letellier
 
 ---
 — Femme du docteur Deberle. Mère de Lucien. Sœur de Pauline Letellier.

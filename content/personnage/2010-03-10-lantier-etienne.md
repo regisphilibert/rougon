@@ -10,9 +10,9 @@ novel:
   - assommoir
   - fortune
   - docteur
-rm_character_name_main: 'Lantier '
-rm_character_name_secondary: Étienne
-rm_character_main: 1
+main_name: 'Lantier '
+secondary_name: Étienne
+main: 1
 
 ---
 — Troisième fils de Gervaise Macquart et d&rsquo;Auguste Lantier.  Né à Plassans, en 1816, Etienne est recueilli par sa grand&rsquo;mère paternelle [151]. Quand celle-ci meurt, en 1851, il est emmené à Paris par ses parents [179]. _(La Fortune des Rougon.)_

@@ -8,8 +8,8 @@ excerpt: La Fortune des Rougon, La Curée
 novel:
   - curee
   - fortune
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Madame Aristide
+main_name: 'Rougon '
+secondary_name: Madame Aristide
 rm_character_name_precision: née SICARDOT.
 
 ---

@@ -8,8 +8,8 @@ excerpt: Pot-Bouille, Au Bonheur des Dames
 novel:
   - bonheur
   - pot-bouille
-rm_character_name_main: 'Hédouin '
-rm_character_name_secondary: Madame
+main_name: 'Hédouin '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/deleuze-caroline" target="_self">DELEUZE (Caroline)</a>.

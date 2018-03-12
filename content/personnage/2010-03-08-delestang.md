@@ -7,8 +7,8 @@ date: 2010-03-08T09:14:26+00:00
 excerpt: Son Excellence Eugène Rougon
 novel:
   - excellence
-rm_character_name_main: Delestang
-rm_character_main: 1
+main_name: Delestang
+main: 1
 
 ---
 — Fils d&rsquo;un marchand de vin de Bercy qui lui a laissé cinq millions. Ancien avoué, conseiller d&rsquo;Etat, propriétaire d&rsquo;une ferme modèle près de Sainte-Menehould. Habite rue du Colisée un hôtel fort élégant [32]. Il a une tête magnifique, très chauve. Sa face rosée, un peu carrée, sans un poil de barbe, rappelle ces faces corrodes et pensives que les peintres d&rsquo;imagination aiment à prêter aux grands hommes politiques [30]. Au point de vue de l&rsquo;intelligence, Du Poizat assure qu&rsquo;il a trop fréquenté les bêtes [165].

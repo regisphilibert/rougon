@@ -7,8 +7,8 @@ date: 2010-02-15T10:04:54+00:00
 excerpt: "La Faute de l'abbé Mouret"
 novel:
   - faute
-rm_character_name_main: 'Brichet '
-rm_character_name_secondary: La Mère
+main_name: 'Brichet '
+secondary_name: La Mère
 
 ---
 — Femme de Brichet. Grande paysanne pleurnicheuse, la seule dévote du village, rôdant autour de la cure quand elle a communié, soutirant à l&rsquo;abbé des aumônes en nature [38]. _(La Faute de l&rsquo;abbé Mouret.)_

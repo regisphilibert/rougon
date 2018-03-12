@@ -8,8 +8,8 @@ excerpt: "L'Assommoir, Nana"
 novel:
   - assommoir
   - nana
-rm_character_name_main: 'Coupeau '
-rm_character_name_secondary: Anna
+main_name: 'Coupeau '
+secondary_name: Anna
 
 ---
 — Voir NANA

@@ -7,8 +7,8 @@ date: 2010-03-08T08:49:22+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Fouan '
-rm_character_name_secondary: Michel
+main_name: 'Fouan '
+secondary_name: Michel
 
 ---
 — Voir [MOUCHE (Le Père)][1].

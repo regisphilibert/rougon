@@ -10,8 +10,8 @@ novel:
   - curee
   - fortune
   - docteur
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Maxime
+main_name: 'Rougon '
+secondary_name: Maxime
 
 ---
 **—** Voir <a href="/personnage/saccard-maxime/" target="_self">SACCARD (Maxime)</a>.

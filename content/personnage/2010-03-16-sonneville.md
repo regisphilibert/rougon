@@ -7,7 +7,7 @@ date: 2010-03-16T08:53:42+00:00
 excerpt: Germinal
 novel:
   - germinal
-rm_character_name_main: Sonneville
+main_name: Sonneville
 
 ---
 — Usinier à Marchiennes. Forte crise pendant la grève des mineurs de Montsou [425]. _(Germinal.)_

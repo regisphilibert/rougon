@@ -7,9 +7,9 @@ date: 2010-03-15T07:07:11+00:00
 excerpt: Germinal
 novel:
   - germinal
-rm_character_name_main: 'Négrel '
-rm_character_name_secondary: Paul
-rm_character_main: 1
+main_name: 'Négrel '
+secondary_name: Paul
+main: 1
 
 ---
 — Fils de madame Négrel. Sorti de l&rsquo;école polytechnique dans un mauvais rang, il a donné sa démission sur le conseil de son oncle Hennebeau, directeur général des mines de Montsou, et il a été attaché au Voreux comme ingénieur. Les ouvriers l&rsquo;appellent le petit Négrel. C&rsquo;est un garçon de vingt-six ans, mince et joli, avec des cheveux frisés et des moustaches brunes; son nez pointu, ses yeux vifs, lui donnent un air de furet aimable, d&rsquo;une intelligence sceptique, qui se change en une autorité cassante avec son personnel. Il se prétend républicain, ce qui ne l&rsquo;empêche pas de conduire les ouvriers avec une rigueur extrême, et de les plaisanter finement, en compagnie des daines [234]. Vêtu comme eux dans la mine, barbouillé comme eux de charbon, il montre un courage à se casser les os, il les réduit au respect en passant par tes endroits les plus difficiles, toujours le premier dans les éboulements et dans les coups de grisou [56].

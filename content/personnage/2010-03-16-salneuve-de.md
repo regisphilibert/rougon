@@ -7,8 +7,8 @@ date: 2010-03-16T08:02:17+00:00
 excerpt: Son Excellence Eugène Rougon
 novel:
   - excellence
-rm_character_name_main: 'Salneuve '
-rm_character_name_secondary: de
+main_name: 'Salneuve '
+secondary_name: de
 
 ---
 — Homme considérable du second Empire; a été gagné par Clorinde à la cause d&rsquo;Eugène Bougon [291]. _(Son Excellence Eugène Rougon)._

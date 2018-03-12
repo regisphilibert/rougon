@@ -7,8 +7,8 @@ date: 2010-02-15T09:44:18+00:00
 excerpt: (La Terre
 novel:
   - terre
-rm_character_name_main: 'Jouy '
-rm_character_name_secondary: Le
+main_name: 'Jouy '
+secondary_name: Le
 
 ---
 Affilié à la bande des chauffeurs d&rsquo;Orgères, commandé par le Beau François. A vendu ses complices [68]. _(La Terre.)_

@@ -15,7 +15,7 @@ menu:
   main:
     weight: 02
     parent: novels
-rm_novel_year: 1872
+year: 1872
 rm_novel_characters:
   - 75994
   - 76020

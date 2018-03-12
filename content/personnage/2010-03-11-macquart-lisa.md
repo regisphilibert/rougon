@@ -7,9 +7,9 @@ date: 2010-03-11T06:48:32+00:00
 excerpt: Le Ventre de Paris
 novel:
   - ventre
-rm_character_name_main: 'Macquart '
-rm_character_name_secondary: Lisa
-rm_character_main: 1
+main_name: 'Macquart '
+secondary_name: Lisa
+main: 1
 
 ---
 — La fille aînée d’Antoine Macquart et de Josépiline Gavaudan. Sœur de Gervaise et de Jean. Femme de Quenu. Elle est née à Plassans en 1827, un an après le mariage de ses parents ; c’est une grosse et belle enfant, très sanguine, qui ressemble beaucoup à sa mère, sera comme elle vaillante à la besogne, mais n’aura pas son dévouement de bêle de somme; elle tient de son père un besoin de bien-être très arrêté. A sept ans, Lisa a été prise en amitié par la directrice des postes; celle-ci en fait une petite bonne et, devenue veuve, l’emmène à Paris [149]. _(La Fortune des Rougon,)_

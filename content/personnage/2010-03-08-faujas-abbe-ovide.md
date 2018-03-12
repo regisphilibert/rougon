@@ -7,9 +7,9 @@ date: 2010-03-08T08:28:39+00:00
 excerpt: La Conquête de Plassans
 novel:
   - conquete
-rm_character_name_main: 'Faujas '
-rm_character_name_secondary: Abbé Ovide
-rm_character_main: 1
+main_name: 'Faujas '
+secondary_name: Abbé Ovide
+main: 1
 
 ---
 — Prêtre ambitieux, intrigant et brutal, renvoyé du diocèse de Besançon où il s&rsquo;est rendu impossible. Réfugié à Paris dans un hôtel garni, l&rsquo;abbé Faujas a offert ses services au ministre qui cherchait justement des prêtres dévoués [307] et qui, pressentant une force dans ce grand corps à la mine noire, l&rsquo;a envoyé faire ses preuves à Plassans, ville passée à l&rsquo;opposition royaliste et que le gouvernement veut reconquérir. Faujas est un homme grand et fort, face carrée, traits larges, teint terreux [10], crâne rude de soldat. Il a le regard clair, des yeux d&rsquo;un gris morne qui s&rsquo;allument parfois d&rsquo;une flamme [17], une voix grave d&rsquo;une grande douceur dans la chute des phrases.

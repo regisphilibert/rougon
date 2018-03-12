@@ -7,8 +7,8 @@ date: 2010-03-10T10:19:06+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Lévêque '
-rm_character_name_secondary: Madame
+main_name: 'Lévêque '
+secondary_name: Madame
 
 ---
 — Belle-sœur du brasseur Durieu [134]._(L&rsquo;Argent.)_

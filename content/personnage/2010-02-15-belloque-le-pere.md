@@ -7,8 +7,8 @@ date: 2010-02-15T08:45:13+00:00
 excerpt: "L'Œuvre"
 novel:
   - oeuvre
-rm_character_name_main: 'Belloque '
-rm_character_name_secondary: Le Père
+main_name: 'Belloque '
+secondary_name: Le Père
 
 ---
 — Le premier maître de Claude Lantier. Un ancien capitaine manchot, qui, depuis un quart de siècle, dans une salle du Musée, enseigne les belles hachures aux gamins de Plassans. _(L&rsquo;Œuvre.)_

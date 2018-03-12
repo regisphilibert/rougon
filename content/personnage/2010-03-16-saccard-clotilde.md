@@ -8,8 +8,8 @@ excerpt: La Curée, Le Docteur Pascal
 novel:
   - curee
   - docteur
-rm_character_name_main: 'Saccard '
-rm_character_name_secondary: Clotilde
+main_name: 'Saccard '
+secondary_name: Clotilde
 
 ---
 — Fille d&rsquo;Aristide Rougon, dit Saccard, et d&rsquo;Angèle Sicardot. Née à Plassans en 1847, elle avait quatre ans, lorsque ses parents l&rsquo;ont emmenée à Paris, Angèle ayant refusé de se séparer de cette enfant [52]. En 1854, la petite Clotilde assiste à la mort de sa mère et, trois jours après, on la confie à une vieille dame qui se rend dans le Midi et qui la ramène à son oncle Pascal [76]. _(La Curée.)_

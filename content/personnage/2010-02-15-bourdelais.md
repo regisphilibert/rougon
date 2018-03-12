@@ -7,7 +7,7 @@ date: 2010-02-15T09:47:44+00:00
 excerpt: Au Bonheur des Daines
 novel:
   - bonheur
-rm_character_name_main: Bourdelais
+main_name: Bourdelais
 
 ---
 **—** Sous-chef de bureau au ministère des finances [72]. _(Au Bonheur des Daines.)_

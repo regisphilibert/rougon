@@ -7,9 +7,9 @@ date: 2010-03-08T10:43:50+00:00
 excerpt: Pot-Bouille
 novel:
   - pot-bouille
-rm_character_name_main: 'Duveyrier '
-rm_character_name_secondary: Alphonse
-rm_character_main: 1
+main_name: 'Duveyrier '
+secondary_name: Alphonse
+main: 1
 
 ---
 —Conseiller à la Cour d&rsquo;appel. Issu d&rsquo;une vieille famille bourgeoise, fils d&rsquo;un président de cour, a été attaché au parquet dès sa sortie de l&rsquo;école, plus tard juge suppléant à Paris, décoré, conseiller avant quarante-cinq ans. Pas plus fort qu&rsquo;un autre, il a été poussé par tout le monde. Duveyrier est grand et maigre. Il a la face rasée, un menton pointu et des yeux obliques ; sa peau est marquée de larges plaques rouges, indiquant un sang mauvais, toute une âcreté brûlant à fleur de peau [104]. Marié à Clotilde Vabre avec qui il habite dans la maison du beau-père, rue de Choiseul, ses gros appétits de mâle ont été déçus parle dégoût physique qu&rsquo;il inspire à sa femme. Aussi a-t-il toujours quelque maîtresse, logée par précaution dans des quartiers lointains, au bout des lignes d&rsquo;omnibus, et chez qui il va une fois par semaine, régulièrement, ainsi qu&rsquo;un employé se rend à son bureau [166].

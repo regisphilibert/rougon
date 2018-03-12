@@ -8,8 +8,8 @@ excerpt: La Curée, Le Docteur Pascal
 novel:
   - curee
   - docteur
-rm_character_name_main: 'Saccard '
-rm_character_name_secondary: Charles
+main_name: 'Saccard '
+secondary_name: Charles
 
 ---
 — Fils de Maxime Rougon, dit Saccard, et de Justine Mégot. Sa mère, femme de chambre de Renée, a été séduite par le jeune Maxime, alors âgé de dix-sept ans. L&rsquo;enfant et la mère sont envoyés à la campagne, avec une petite rente de douze cents francs [119]. _(La Curée.)_

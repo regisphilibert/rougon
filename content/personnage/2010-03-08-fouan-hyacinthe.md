@@ -7,8 +7,8 @@ date: 2010-03-08T08:45:17+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Fouan '
-rm_character_name_secondary: Hyacinthe
+main_name: 'Fouan '
+secondary_name: Hyacinthe
 
 ---
 Voir [JESUS-CHRIST][1].

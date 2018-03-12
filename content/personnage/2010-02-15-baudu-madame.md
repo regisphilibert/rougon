@@ -6,8 +6,8 @@ type: personnage
 date: 2010-02-15T07:56:12+00:00
 novel:
   - bonheur
-rm_character_name_main: 'Baudu '
-rm_character_name_secondary: Madame
+main_name: 'Baudu '
+secondary_name: Madame
 
 ---
 — Voir [HAUCHECORNE][1] (Elisabeth).

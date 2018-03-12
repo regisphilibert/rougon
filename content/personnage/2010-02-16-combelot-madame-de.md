@@ -7,8 +7,8 @@ date: 2010-02-16T09:54:13+00:00
 excerpt: Son Excellence Eugène Rougon
 novel:
   - excellence
-rm_character_name_main: 'Combelot '
-rm_character_name_secondary: Madame de
+main_name: 'Combelot '
+secondary_name: Madame de
 
 ---
 — Voir [DELESTANG (Henriette)][1]

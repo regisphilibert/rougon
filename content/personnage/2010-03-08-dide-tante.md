@@ -9,8 +9,8 @@ novel:
   - conquete
   - fortune
   - docteur
-rm_character_name_main: 'Dide '
-rm_character_name_secondary: Tante
+main_name: 'Dide '
+secondary_name: Tante
 
 ---
 — Voir <a href="/personnage/fouque-adelaide-dite-tante-dide/" target="_self">FOUQUE (Adélaïde)</a>.

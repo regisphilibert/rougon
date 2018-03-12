@@ -7,7 +7,7 @@ date: 2010-03-09T10:31:30+00:00
 excerpt: "La Faute de l'abbé Mouret"
 novel:
   - faute
-rm_character_name_main: Jeanbernat
+main_name: Jeanbernat
 
 ---
 — Intendant du Paradou, où l&rsquo;ont installé jadis les héritiers du comte de Corbière, son frère de lait. Depuis vingt années, le vieux Jeanbernat vit loin de tout, fumant tranquillement sa pipe et regardant pousser ses légumes. C&rsquo;est un solitaire coulure de rides, à la face de brique cuite, aux membres séchés et tordus comme des paquets de cordes; il semble porter ses quatre-vingts ans avec un dédain ironique de la vie [51]. Des milliers de livres sauvés jadis de l&rsquo;incendie du château, un tas de bouquins sur ta religion, tous les philosophes du dix-huitième siècle lus et médités à loisir, ont fait de lui un matérialiste qui nie tranquillement Dieu, se désintéresse de tout et limite l&rsquo;univers à ses carrés de salade.

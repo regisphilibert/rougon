@@ -8,8 +8,8 @@ excerpt: La Curée, Le Docteur Pascal
 novel:
   - curee
   - docteur
-rm_character_name_main: 'Thomas '
-rm_character_name_secondary: Madame Anselme
+main_name: 'Thomas '
+secondary_name: Madame Anselme
 
 ---
 — Voir <a href="/personnage/megot-justine/" target="_self">MÉGOT (Justine)</a>.

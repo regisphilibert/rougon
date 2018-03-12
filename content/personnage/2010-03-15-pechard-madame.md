@@ -7,8 +7,8 @@ date: 2010-03-15T07:19:31+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Péchard '
-rm_character_name_secondary: Madame
+main_name: 'Péchard '
+secondary_name: Madame
 rm_character_name_precision: .
 
 ---

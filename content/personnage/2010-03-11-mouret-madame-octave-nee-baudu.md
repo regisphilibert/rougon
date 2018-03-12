@@ -7,8 +7,8 @@ date: 2010-03-11T08:55:54+00:00
 excerpt: Au Bonheur des Dames
 novel:
   - bonheur
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Madame Octave
+main_name: 'Mouret '
+secondary_name: Madame Octave
 rm_character_name_precision: née BAUDU
 
 ---

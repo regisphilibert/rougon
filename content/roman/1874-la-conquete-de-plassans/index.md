@@ -14,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: La rue des rosier à Trouville - Charles-Louis Mozin
-rm_novel_year: 1874
+year: 1874
 rm_novel_characters:
   - 75979
   - 76000

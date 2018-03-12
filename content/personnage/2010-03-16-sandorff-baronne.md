@@ -7,8 +7,8 @@ date: 2010-03-16T08:04:08+00:00
 excerpt: "L'Argent"
 novel:
   - argent
-rm_character_name_main: 'Sandorff '
-rm_character_name_secondary: Baronne
+main_name: 'Sandorff '
+secondary_name: Baronne
 
 ---
 — Fille du comte de Ladricourt. Celui-ci étant mort ruiné, elle a dû se résoudre à épouser le vieux baron Sandorff. La baronne a une tète brune très étrange, des yeux noirs brûlants sous des paupières meurtries, un visage de passion à la bouche saignante et que gâte seulement un nez trop long. Elle semble fort jolie, d&rsquo;une maturité précoce pour ses vingt-cinq ans, avec son air de bacchante habillée par les grands couturiers. Elle joue à la Bourse, c&rsquo;est une joueuse âpre, enragée. Aux jours de crise, on la voit, dans sa voiture, guettant les cours, prenant fiévreusement des notes sur son carnet, donnant des ordres [22]. Apre au jeu, elle soulève toutes sortes de chicanes lorsqu&rsquo;elle vient payer ses différences à la charge Mazaud [89].

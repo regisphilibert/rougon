@@ -7,8 +7,8 @@ date: 2010-03-15T08:15:16+00:00
 excerpt: Le Docteur Pascal
 novel:
   - docteur
-rm_character_name_main: 'Ramond '
-rm_character_name_secondary: Madame
+main_name: 'Ramond '
+secondary_name: Madame
 
 ---
 — Voir <a href="/personnage/leveque-mademoiselle" target="_self">Lévêque (Mademoiselle)</a>.

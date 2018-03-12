@@ -7,8 +7,8 @@ date: 2010-03-16T08:08:49+00:00
 excerpt: Le Ventre de Paris
 novel:
   - ventre
-rm_character_name_main: 'Sarriet '
-rm_character_name_secondary: Madame
+main_name: 'Sarriet '
+secondary_name: Madame
 
 ---
 — Sœur de madame Lecœur et de madame Gavard. Mère de la Sarriette. Elle a envoyé un jour sa fille à madame Lecœur, sans plus s&rsquo;en occuper [76]. _(Le Ventre de Paris.)_

@@ -7,8 +7,8 @@ date: 2010-02-16T10:00:08+00:00
 excerpt: "L'Assommoir"
 novel:
   - assommoir
-rm_character_name_main: 'Coquet '
-rm_character_name_secondary: Le Ménage
+main_name: 'Coquet '
+secondary_name: Le Ménage
 
 ---
 — Voisins des Lorilleux, rue de la Goutte-d&rsquo;Or. S&rsquo;entêtent à allumer leur fourneau sur le carré, doivent trois termes et se font donner congé [71]. _(L&rsquo;Assommoir.)_

@@ -7,8 +7,8 @@ date: 2010-03-11T08:41:30+00:00
 excerpt: La Terre
 novel:
   - terre
-rm_character_name_main: 'Mouche '
-rm_character_name_secondary: Lise
+main_name: 'Mouche '
+secondary_name: Lise
 rm_character_name_precision: .
 
 ---

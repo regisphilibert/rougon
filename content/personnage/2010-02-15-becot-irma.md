@@ -7,8 +7,8 @@ date: 2010-02-15T08:37:32+00:00
 excerpt: "L'Œuvre"
 novel:
   - oeuvre
-rm_character_name_main: 'Bécot '
-rm_character_name_secondary: Irma
+main_name: 'Bécot '
+secondary_name: Irma
 
 ---
 — Fille de l&rsquo;épicier. A suivi jusqu&rsquo;à seize ans les cours d&rsquo;une école voisine. Faisait ses devoirs entre deux sacs de lentilles, et achevait son éducation de plain-pied avec la rue, vivant sur le trottoir, au milieu des bousculades, apprenant la vie dans les continuels commérages des cuisinières en cheveux, qui déshabillaient les abominations du quartier, pendant qu&rsquo;on leur pesait cinq sous de gruyère. Allait encore à l&rsquo;école, lorsque, un soir, en fermant la boutique, un garçon l&rsquo;a jetée en travers d&rsquo;un panier de figues. Orpheline six mois après, la maison mangée, elle se réfugie chez une tante pauvre qui la bat, se sauvé avec un jeune homme d&rsquo;en face, revient à trois reprises, pour s&rsquo;envoler définitivement un beau jour dans tous les bastringues de Montmartre et des Batignolles. A dix-huit agis, c&rsquo;est une de ces galopines de Paris qui gardent longtemps la maigreur du fruit vert; on dirait un chien coiffé, elle a une pluie de petits cheveux blonds sur un nez délicat, une grande bouche rieuse dans un museau rose. Ayant la passion des artistes, avec le regret qu&rsquo;ils ne soient pas assez riches pour se payer des femmes à eux tout seuls, jetant sa jeunesse aux quatre coins des ateliers, elle éprouve des caprices successifs pour Fagerolles, Gagnière, beaucoup d&rsquo;autres, et s&rsquo;étonne de la bêtise de ce nigaud de Claude Lantier qui ne veut pas d&rsquo;elle.
