@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T09:57:32+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
-rm_character_name_main: 'Hautecœur '
-rm_character_name_secondary: Monseigneur de
+novel:
+  - reve
+main_name: 'Hautecœur '
+secondary_name: Monseigneur de
 
 ---
 —Jean XII de Hautecœur, mari de Paule de Valençay, père de Félicien VII. Il a été capitaine à vingt et un ans, sous Charles X. En 1830, à vingt-quatre ans, il donne sa démission et, jusqu&rsquo;à la quarantaine, il mena une vie dissipée, des voyages, des aventures, des duels. Puis, un soir, chez des amis, il rencontre la fille du comte de Valençay, Paule, qui a dix-neuf ans, vingt-deux de moins que lui; il l&rsquo;aime a en être fou, elle l&rsquo;adore, on doit hâter le mariage. Jean XII rachète alors les ruines de Hautecœur, dans l&rsquo;intention de réparer le château où il rêve de s&rsquo;installer avec sa femme. Pendant neuf mois, ils ont vécu cachés au fond d&rsquo;une vieille propriété de l&rsquo;Anjou, refusant de voir personne, trouvant les heures trop courtes. Paule lui donne un fils, Félicien, et. meurt en couches. Huit jours après, Jean XII entre dans les ordres; plus tard, il devient évêque de Beaumont.

@@ -1,6 +1,7 @@
 ---
 title: La Conquête de Plassans
-id: 75929
+wp_id: 75929
+id: conquete
 author: admin
 type: roman
 date: 2010-03-08T10:49:15+00:00
@@ -9,8 +10,11 @@ menu:
   main:
     weight: 04
     parent: novels
-
-rm_novel_year: 1874
+resources:
+  - src: '**header.*'
+    params:
+      copy: La rue des rosier à Trouville - Charles-Louis Mozin
+year: 1874
 rm_novel_characters:
   - 75979
   - 76000

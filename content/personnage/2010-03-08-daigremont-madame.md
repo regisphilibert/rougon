@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T10:01:08+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
-rm_character_name_main: 'Daigremont '
-rm_character_name_secondary: Madame
+novel:
+  - argent
+main_name: 'Daigremont '
+secondary_name: Madame
 
 ---
 — Femme du financier. Est célèbre par sa beauté; remporte dans le monde de vifs succès de cantatrice [100]._(L&rsquo;Argent.)_

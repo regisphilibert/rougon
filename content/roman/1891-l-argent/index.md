@@ -1,6 +1,7 @@
 ---
 title: L'Argent
-id: 75932
+wp_id: 75932
+id: argent
 author: admin
 type: roman
 date: 2010-02-11T09:41:22+00:00
@@ -9,7 +10,11 @@ menu:
   main:
     weight: 18
     parent: novels
-rm_novel_year: 1891
+resources:
+  - src: '**header.*'
+    params:
+      copy:
+year: 1891
 rm_novel_characters:
   - 76071
   - 76078

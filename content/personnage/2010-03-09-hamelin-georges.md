@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T09:47:58+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
-rm_character_name_main: 'Hamelin '
-rm_character_name_secondary: Georges
+novel:
+  - argent
+main_name: 'Hamelin '
+secondary_name: Georges
 
 ---
 — Fils d&rsquo;un médecin de Montpellier, savant remarquable, catholique pratiquant, et qui n&rsquo;a pas laissé de fortune. Entrait à l&rsquo;Ecole polytechnique lorsque son père est mort; il a pu y rester, grâce à sa sœur Caroline qui l&rsquo;a entretenu d&rsquo;argent de poche, pendant les deux années de cours. Sorti dans un mauvais rang, il a longtemps attendu une situation, est parti enfin pour l&rsquo;Egypte avec la commission chargée des premières éludes du canal de Suez, est allé de là en Syrie, a vu Beyrout et les gorges du Liban, exploré le Carmel, traversé le Taurus. Partout, il était accompagné de sa sœur, animée d&rsquo;un fraternel dévouement pour ce jeune savant, si plein d&rsquo;ardeur et de simplicité. Plus âgé d&rsquo;un an, il ressemble beaucoup physiquement à Caroline, en plus pâle. Hamelin est revenu d&rsquo;Asie Mineure avec tout un monde d&rsquo;idées, mais, trop modeste, peu bavard, il n&rsquo;a pu communiquer sa foi à personne et, pendant quinze mois, la vie a été dure dans le petit appartement de l&rsquo;hôtel d&rsquo;Orviedo où le frère et Ici. sœur se sont installés. Hamelin a des facultés de travail rares, niais il s&rsquo;absorbe dans ses études. Cet ancien piocheur de Polytechnique, aux conceptions savantes, d&rsquo;un zèle si vif pour tout ce qu&rsquo;il entreprend, montre parfois une telle naïveté qu&rsquo;on le jugerait un peu sot.

@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-10T10:20:00+00:00
 excerpt: Le Docteur Pascal
-rm_character_novel:
-  - 75930
-rm_character_name_main: 'Lévêque '
-rm_character_name_secondary: Mademoiselle
+novel:
+  - docteur
+main_name: 'Lévêque '
+secondary_name: Mademoiselle
 
 ---
 — Fille de J&rsquo;avoué. Ancienne amie de Clotilde Rougon, dont elle est la cadette de trois ans [267]. Elle a épousé le docteur Ramond [207]. _(Le Docteur Pascal.)_

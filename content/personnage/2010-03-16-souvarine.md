@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T08:57:55+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: Souvarine
-rm_character_main: 1
+novel:
+  - germinal
+main_name: Souvarine
+main: 1
 
 ---
 — Machineur à la fosse du Voreux, logé chez Rasseneur. Il est Russe. C&rsquo;est le dernier-né d&rsquo;une famille noble du gouvernement de Toula. A Saint-Pétersbourg, où il faisait sa médecine, la passion socialiste l&rsquo;a décidé à apprendre un métier manuel, celui de mécanicien, pour se mêler au peuple, le connaître et l&rsquo;aider en frère. C&rsquo;est de ce métier qu&rsquo;il vit maintenant, après s&rsquo;être enfui à la suite d&rsquo;un attentat contre la vie de l&rsquo;empereur ; pendant un mois, il a vécu dans la cave d&rsquo;un fruitier, creusant une mine au travers de la rue, chargeant des bombes sons la continuelle menace de sauter avec la maison [156]. Une fois déjà, il avait failli être pris dans une autre affaire, une explosion sous la voie ferrée; plusieurs conjurés et sa maîtresse Annouchka avaient été pendus sous ses yeux [509]. Renié par sa famille, sans argent, mis comme étranger à l&rsquo;index des ateliers Français qui voient en lui un espion, il allait mourir de faim lorsque la Compagnie de Montsou l&rsquo;a embauché, dans une heure de presse. Depuis un an, il travaille là en bon ouvrier, sobre, silencieux, faisant une semaine le service de jour et une semaine le service de nuit, si exact que les chefs le citent en exemple [156].

@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T10:37:41+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Jory '
-rm_character_name_secondary: Edouard
+novel:
+  - oeuvre
+main_name: 'Jory '
+secondary_name: Edouard
 
 ---
 — Critique d&rsquo;art. C&rsquo;est un beau garçon blond, avec un grand nez rose et de gros yeux bleus de myope. Fils d&rsquo;un magistrat de Plassans, qu&rsquo;il désespérait par ses aventures de beau mâle, il a comblé la mesure de ses débordements, en se sauvant avec une chanteuse de café-concert, sous le prétexte d&rsquo;aller à Paris faire de la littérature. Pendant six mois, ils ont campé ensemble dans un hôtel borgne du quartier Latin, cette fille l&rsquo;écorchant vif, chaque fois qu&rsquo;il la trahissait pour le premier jupon crotté, suivi sur un trottoir. Il a retrouvé la bande de Plassans, Claude Lantier, Sandoz, Dubuclie, Mahoudeau, et il s&rsquo;est fait critique d&rsquo;art, donnant pour vivre des articles à vingt francs, dans un petit journal tapageur, le _Tambour._ Du premier coup, il a soulevé un scandale énorme, en sacrifiant à Claude les peintres « aimés du public » et en le posant comme chef d&rsquo;une école nouvelle, l&rsquo;école du plein air. Au fond, très pratique, il se moque de tout ce qui n&rsquo;est pas sa jouissance, il répète simplement les théories entendues dans le groupe.

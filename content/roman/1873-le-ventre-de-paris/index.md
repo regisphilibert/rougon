@@ -1,6 +1,7 @@
 ---
 title: Le Ventre de Paris
-id: 75946
+wp_id: 75946
+id: ventre
 author: admin
 type: roman
 date: 2010-02-11T10:37:36+00:00
@@ -9,8 +10,11 @@ menu:
   main:
     weight: 03
     parent: novels
-
-rm_novel_year: 1873
+resources:
+  - src: '**header.*'
+    params:
+      copy: Les Halles - Léon Lhermitte
+year: 1873
 rm_novel_characters:
   - 75982
   - 75983

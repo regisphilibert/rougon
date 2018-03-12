@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T16:35:58+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Gunther '
-rm_character_name_secondary: Otto
+novel:
+  - debacle
+main_name: 'Gunther '
+secondary_name: Otto
 
 ---
 — Capitaine dans la garde prussienne. C&rsquo;est un cousin germain de Weiss, par les femmes. Sa mère, originaire de Mulhouse, s&rsquo;est mariée à Berlin [15]. Et à l&rsquo;heure de la guerre, il vient en France comme un justicier, avec l&rsquo;intolérance et la morgue de l&rsquo;ennemi héréditaire, grandi dans la haine de la race qu&rsquo;il châtie [457]. Le le<sup>r</sup> septembre, près du Fond de Givonne, il s&rsquo;est trouvé en face du soldat français Maurice Levasseur, son allié par Henriette Weiss; la distance était si faible, deux cents mètres à peine, qu&rsquo;on le distinguait très nettement, la taille mince, le visage rose et dur, avec de petites moustaches blondes. Henriette, débordée d&rsquo;horreur par l&rsquo;abomination de celle lutte entre parents, l&rsquo;a sauvé de la mort en empêchant Maurice de tirer sur lui et, plus tard, dans les derniers jours de mai 1871, elfe le retrouve en garnison à Saint-Denis, avec son air sec de bel officier bien tenu. Devant

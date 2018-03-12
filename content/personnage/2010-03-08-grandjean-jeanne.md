@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-08T16:24:59+00:00
 excerpt: "Une Page d'Amour"
-rm_character_novel:
-  - 75942
-rm_character_name_main: 'Grandjean '
-rm_character_name_secondary: Jeanne
-rm_character_main: 1
+novel:
+  - page
+main_name: 'Grandjean '
+secondary_name: Jeanne
+main: 1
 
 ---
 —Fille de Grandjean et d&rsquo;Hélène Mouret. Née en 1842. Petite-fille d&rsquo;Ursule Macquart, morte tout d&rsquo;un coup d&rsquo;une phtisie aiguë après une vie d&rsquo;affolements et de crises nerveuses, arrière-petite-fille d&rsquo;Adélaïde Fouque, enfermée dans une maison d&rsquo;aliénés. Est atteinte d&rsquo;une de ces affections chloro-anémiques qui favorisent le développement de tant de maladies cruelles [207]. Les convulsions de sa première enfance reparaissent à onze ans et demi. C&rsquo;est une enfant délicate, au fin visage d&rsquo;un ovale adorable, un peu allongé, d&rsquo;une grâce et d&rsquo;une finesse de chèvre. Elle a de grandes paupières bleuâtres et transparentes, un nez mince, une bouche un peu grande, des cheveux d&rsquo;un noir d&rsquo;encre [11]. Tellement nerveuse qu&rsquo;il a fallu renoncer à lui apprendre la musique, rendue folle par l&rsquo;éther, adorant se balancer, mais s&rsquo;évanouissant dans la sensation du vide, atteinte d&rsquo;une terrible crise après les émotions d&rsquo;un mois de Marie rempli de fleurs et d&rsquo;encens, elle anime quelquefois la maison d&rsquo;une joie bruyante, puis tout à coup elle a des noirs, des accès de colère aveugle. Par moments, cette enfant de onze ans a des regards où luit toute la vie de passion d&rsquo;une femme.

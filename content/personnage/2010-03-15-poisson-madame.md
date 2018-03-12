@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-15T07:43:42+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
-rm_character_name_main: 'Poisson '
-rm_character_name_secondary: Madame
+novel:
+  - assommoir
+main_name: 'Poisson '
+secondary_name: Madame
 
 ---
-— Voir <a href="#/personnage/virginie-la-grande/" target="_self">VIRGINIE (La Grande)</a>.
+— Voir <a href="/personnage/virginie-la-grande/" target="_self">VIRGINIE (La Grande)</a>.

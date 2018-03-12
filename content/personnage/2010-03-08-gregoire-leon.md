@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T16:29:14+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: 'Grégoire '
-rm_character_name_secondary: Léon
+novel:
+  - germinal
+main_name: 'Grégoire '
+secondary_name: Léon
 
 ---
 — Arrière-petit-fils d&rsquo;Honoré Grégoire. Après trois générations, c&rsquo;est lui qui bénéficie, dans une progression stupéfiante, du placement timide et inquiet de son bisaïeul. Ces pauvres dix mille francs du denier de Montsou grossissent, s&rsquo;élargissent avec la prospérité de la Compagnie. En 1820, ils rapportent cent pour cent, dix mille francs. En 1844. ils en produisent vingt mille; en 1850, quarante mille. Il y a deux ans enfin, le dividende est monté au chiffre prodigieux de cinquante mille francs ; la valeur du denier, coté à la Bourse de Lille un million, a centuplé en un siècle. Aussi, malgré quelques fluctuations dues à une crise industrielle, les Grégoire ont-ils maintenant une foi obstinée en leur mine; à cette croyance religieuse se mêle une profonde gratitude pour une valeur qui, depuis un siècle, nourrit la famille à ne rien faire ; c&rsquo;est comme une divinité à eux, que leur égoïsme entoure d&rsquo;un culte, la bienfaitrice du foyer, ils n&rsquo;ambitionnent aucune spéculation, préférant voir le million du denier dans la terre, d&rsquo;où un peuple de mineurs, des générations d&rsquo;affamés l&rsquo;extraient pour eux, un peu chaque jour, selon leurs besoins [85].

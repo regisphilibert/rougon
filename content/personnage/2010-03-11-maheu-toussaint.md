@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-11T07:59:08+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: 'Maheu '
-rm_character_name_secondary: Toussaint
-rm_character_main: 1
+novel:
+  - germinal
+main_name: 'Maheu '
+secondary_name: Toussaint
+main: 1
 
 ---
 — Fils du vieux Bonnemort. Mari de la Maheude. Père de Zacharie, Catherine, Jeanlin, Alzire, Lénore, Henri et Estelle. Il est haveur à la fosse du Voreux et habite le coron des Deux cent quarante, au numéro 16 du deuxième corps. Tous les enfants logent dans la même chambre, séparée par une porte vitrée du palier où couchent les parents. Petit comme son père, Maheu lui ressemble en gras, la tête forte, la face plate et livide, sous ses cheveux jaunes coupés très courts [18]. A quarante-deux ans, il a la peau blanche, d’une blancheur de fille anémique, ou les éraflures, les entailles du charbon, laissent des tatouages, des « greffes » ; il s’en montre fier, il étale ses gros bras, sa poitrine large, d’un luisant de marbre veiné de bleu [129]. Les salaires sont tellement bas qu’on doit vivre à dix avec neuf francs par jour, et ce maigre gain est disputé rudement dans l’étouffement des ténèbres, dans les crampes des attitudes forcées, dans l’eau qui ruisselle, dans l’air qu’empoisonnent la fumée des lampes, la pestilence des baleines, l’asphyxie du grisou [53], et avec cela, il faut subir l’obsession des mouchards, il faut mesurer ses paroles, comme si la houille des actionnaires, encore dans la veine, avait des oreilles [55].

@@ -4,12 +4,12 @@ id: 76786
 author: admin
 type: personnage
 date: 2010-03-08T10:12:15+00:00
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Delaherche '
-rm_character_name_secondary: Madame Jules
+novel:
+  - terre
+main_name: 'Delaherche '
+secondary_name: Madame Jules
 
 ---
 — Voir [VINEUIL (Gilberte de)][1].
 
- [1]: #/personnage/vineuil-gilberte-de
+ [1]: /personnage/vineuil-gilberte-de

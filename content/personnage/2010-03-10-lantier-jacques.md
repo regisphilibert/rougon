@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-10T09:17:40+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
-rm_character_name_main: 'Lantier '
-rm_character_name_secondary: Jacques
-rm_character_main: 1
+novel:
+  - bete
+main_name: 'Lantier '
+secondary_name: Jacques
+main: 1
 
 ---
 — Second fils de Gervaise Macquart et d&rsquo;Auguste Lantier. Il avait six ans quanti ses parents ont quitté Plassans avec Claude et Étienne, le laissant à sa marraine, tante Phasie, qui lui a fait suivre les cours de l&rsquo;école des Arts et Métiers. Après deux ans passés au chemin de fer d&rsquo;Orléans, il est devenu mécanicien de première classe à la Compagnie de l&rsquo;Ouest, gagnant avec le fixe et les primes plus de quatre mille francs, ne rêvant rien au delà. A vingt-six ans, il est grand, très brun, beau garçon, avec un visage rond et régulier, que gâtent des mâchoires trop fortes ; il a des yeux larges et noirs ; ses cheveux plantés dru frisent, ainsi que ses moustaches, si épaisses, si brunes, qu&rsquo;elles augmentent la pâleur de son teint; on dirait un monsieur, à sa peau fine, bien rosée sur les joues, si l&rsquo;on ne trouvait d&rsquo;autre part l&rsquo;empreinte indélébile du métier, les graisses qui jaunissent déjà ses mains de mécanicien, des mains pourtant restées petites et souples.

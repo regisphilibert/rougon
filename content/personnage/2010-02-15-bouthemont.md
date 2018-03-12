@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-02-15T09:58:35+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-rm_character_name_main: Bouthemont
+novel:
+  - bonheur
+main_name: Bouthemont
 
 ---
 — Fils du marchand de nouveautés. Ayant réussi dans les soies à Paris, il a refusé de retourner auprès de son père, plaisantant la routine commerciale de la province, faisant à chaque passage sonner ses gains, qui bouleversent Montpellier. C&rsquo;est un jeune homme à fortes épaules, il a une face ronde de joyeux compère, avec une barbe d&rsquo;un noir d&rsquo;encre et de beaux yeux marrons [45]. Noceur, braillard, il a une amabilité un peu grosse, un rire bon enfant où il y a un amour brutal de la femme [127]. Entré au Bonheur des Dames comme premier à la soierie, médiocre pour la vente, mais n&rsquo;ayant pas son pareil pour l&rsquo;achat, il jouit d&rsquo;une liberté absolue, et mène son rayon comme il l&rsquo;entend, pourvu que chaque année le chiffre d&rsquo;affaires soit augmenté dans une proportion fixée d&rsquo;avance. Pris en affection par Octave Mouret, devenu le confident du patron et d&rsquo;Henriette Desforges, il sait plaire à celle-ci et, dès qu&rsquo;il se sent miné au magasin, il obtient son concours pour une commandite du baron Hartmann [393].

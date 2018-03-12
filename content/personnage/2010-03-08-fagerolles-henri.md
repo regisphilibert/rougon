@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T08:23:57+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Fagerolles '
-rm_character_name_secondary: Henri
+novel:
+  - oeuvre
+main_name: 'Fagerolles '
+secondary_name: Henri
 
 ---
 — Fils du fabricant de zinc d&rsquo;art. A poussé dans le petit logement paternel, en vraie plante du pavé parisien, au bord du trottoir mangé par les roues, trempé par le ruisseau, en face d&rsquo;une boutique à images, d&rsquo;un tripier et d&rsquo;un coiffeur [74]. C&rsquo;est un garçon mince et pâle, dont la figure de fille est éclairée par des yeux gris, d&rsquo;une câlinerie moqueuse, où passent des éclairs d&rsquo;acier. Il affecte des airs de casseur et de voyou. Élève de l&rsquo;École des Beaux-Arts, mais affilié à Claude Lantier, à Pierre Sandoz et à leur bande, il amuse ses amis révolutionnaires en leur racontant des histoires désobligeantes sur les bonzes de l&rsquo;École; il se fait adorer par sa continuelle lâcheté de gamin flatteur et débineur [91]. Subissant l&rsquo;influence de Claude, il ne parle que de peinture grasse et solide, que de morceaux de nature, jetés sur la toile, vivants, grouillants, tels qu&rsquo;ils sont; mais il continue de peindre avec une adresse d&rsquo;escamoteur et, dans d&rsquo;autres milieux, il blague les peintres du plein air, en les accusant d&rsquo;empaler leurs études avec une cuiller à pot [100]. Très malin, il n&rsquo;expose pas, de peur de mécontenter ses maîtres; il tape sur le Salon, un bazar infect où la bonne peinture tourne à l&rsquo;aigre avec la mauvaise, et en secret il rêve le prix de Rome, qu&rsquo;il plaisante d&rsquo;ailleurs comme le reste [103].

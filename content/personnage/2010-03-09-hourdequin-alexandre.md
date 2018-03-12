@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-09T10:09:41+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Hourdequin '
-rm_character_name_secondary: Alexandre
-rm_character_main: 1
+novel:
+  - terre
+main_name: 'Hourdequin '
+secondary_name: Alexandre
+main: 1
 
 ---
 — Fils unique d&rsquo;Isidore. Né en 1804. Commence d&rsquo;exécrables études au collège de Chateaudun. La terre le passionne. A la mort de son père, il a vingt-sept ans et devient maître de la Borderie. Alexandre est pour les méthodes nouvelles, qui exigent des capitaux. Aussi, en se mariant, cherche-t-il de l&rsquo;argent et non du bien. Il épouse une sœur du notaire Baillehache, qui lui apporte cinquante mille francs. Carré des épaules, large face haute en couleur, n&rsquo;ayant gardé que des mains petites de son affinement de bourgeois, il aime la terre d&rsquo;une passion où n&rsquo;entre pas seulement l&rsquo;âpre avarice du paysan ; c&rsquo;est une passion sentimentale, intellectuelle presque, car cette terre, il la sent la mère commune, qui lui a donné sa vie, sa substance, et où il retournera [99]. Il lui apporte son argent, son existence entière, ainsi qu&rsquo;à une femme bonne et fertile et c&rsquo;est pour la mieux féconder qu&rsquo;il se lance dans les innovations, les machines que ses serviteurs détraquent, les engrais chimiques que fraude le commerce.

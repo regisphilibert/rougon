@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-10T10:18:36+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Levasseur '
-rm_character_name_secondary: Maurice
+novel:
+  - debacle
+main_name: 'Levasseur '
+secondary_name: Maurice
 
 ---
 — Fils du percepteur. Frère jumeau d&rsquo;Henriette. Celle-ci, plus virile que lui, l&rsquo;a élevé; il l&rsquo;aime passionnément. Blond, petit, avec un front très développé, un nez et un menton très menus, le visage fin, il a des yeux gris et caressants, un peu fous parfois. Venu à Paris pour y terminer son droit, il s&rsquo;est livré à mille sottises, à toute une dissipation de tempérament faible et exalté, jetant sans compter l&rsquo;argent au jeu et aux femmes. En juillet 1870, Maurice vient d&rsquo;être reçu avocat. il est pour la guerre, il la croit inévitable, nécessaire à l&rsquo;existence même des nations, la vie est une guerre de chaque seconde, la nature exige le combat continu, elle donne la victoire au plus digne [10].

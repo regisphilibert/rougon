@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-12T16:37:26+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
-rm_character_name_main: Angélique Marie
-rm_character_main: 1
+novel:
+  - reve
+main_name: Angélique Marie
+main: 1
 
 ---
 — Fille non reconnue de Sidonie Rougon. Père inconnu. Elle est née à Paris, le 22 janvier 1851, quinze mois après la mort du mari de Sidonie. La sage-femme Foucart l&rsquo;a déposée le 23 du même mois aux Enfants-Assistés de la Seine; elle y a été inscrite sous le numéro matricule 1634 et, faute de nom, a reçu les prénoms d&rsquo;Angélique Marie. Le 25 janvier, l&rsquo;enfant a été confiée à la nourrice Françoise Hamelin, maman Nini, qui l&rsquo;a emportée dans la Nièvre, où elle a grandi en pleine campagne, conduisant la Rousse aux prés, marchant pieds nus, sur la route plate de Soulanges. Au bout de neuf ans, le 20 juin 1860, comme il fallait lui apprendre un état, elle est passée aux mains d&rsquo;une ouvrière fleuriste, Thérèse Franchomme, née Rabier, cousine par alliance de maman Nini. Thérèse est morte six mois après chez son frère, un tanneur établi à Beaumont, et Angélique Marie, affreusement traitée par les Rabier, s&rsquo;est enfuie, une nuit de décembre, le lendemain de Noël, emportant comme un trésor, cachant avec un soin jaloux le seul bien qu&rsquo;elle possédât, son livret d&rsquo;enfant assisté! Habillée de loques, la tête enveloppée d&rsquo;un lambeau de foulard, les pieds nus dans de gros souliers d&rsquo;homme, elle a passé la nuit sous la neige, adossée à un pilier de la cathédrale et serrée contre la statue de sainte Agnès, la Vierge martyre, fiancée à Jésus. Au matin, la ville est couverte d&rsquo;un grand linceul blanc, toutes les Saintes du portail sont vêtues de neige immaculée, et l&rsquo;enfant misérable, blanche de neige, elle aussi, raidie à croire qu&rsquo;elle devient de pierre, ne se distingue plus des grandes Vierges.

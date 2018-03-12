@@ -5,13 +5,13 @@ author: admin
 type: personnage
 date: 2010-03-15T09:28:04+00:00
 excerpt: "La Fortune des Rougon, La Curée, Le Rêve, L'Œuvre, "
-rm_character_novel:
-  - 75936
-  - 75947
-  - 75928
-  - 75934
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Sidonie
+novel:
+  - oeuvre
+  - curee
+  - fortune
+  - reve
+main_name: 'Rougon '
+secondary_name: Sidonie
 
 ---
 — Fille de Pierre Rougon et de Félicité Puech. Sœur d&rsquo;Eugène, Pascal, Aristide et Marthe. Mère d&rsquo;Angélique Marie. Elle est née en 1818 à Plassans. A vingt ans, elle a épousé un clerc d&rsquo;avoué de Plassans et est allée se fixer avec lui à Paris [81]. _(La Fortune des Rougon.)_

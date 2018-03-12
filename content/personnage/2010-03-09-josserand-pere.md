@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-09T10:41:50+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
-rm_character_name_main: Josserand père
+novel:
+  - pot-bouille
+main_name: Josserand père
 
 ---
 — Grand-père de Léon, Saturnin, Hortense et Berthe Josserand. A été avoué à Clermont. Après avoir vendu son étude, il s&rsquo;est laissé ruiner par une bonne. Courait encore la gueuse à soixante-dix ans passés [36]. Une de ses filles, fixée maintenant, aux Andelys, s&rsquo;est sauvée jadis avec un officier qui, plus tard, l&rsquo;a épousée [37]. _(Pot-Bouille.)_

@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T08:03:13+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Sambuc '
-rm_character_name_secondary: Prosper
+novel:
+  - debacle
+main_name: 'Sambuc '
+secondary_name: Prosper
 
 ---
 — Frère de Guillaume. De nature laborieuse et docile, il a, par haine de la forêt, voulu être garçon de ferme. Puis, tombé au sort, incorporé aux chasseurs d&rsquo;Afrique, il est devenu ordonnance d&rsquo;officier. Prosper a une longue face sèche, des membres souples et forts, d&rsquo;une adresse extraordinaire. Il aime la vie d&rsquo;Afrique, cette existence d&rsquo;imprévu et d&rsquo;aventures, cette guerre d&rsquo;escarmouches, si propre à l&rsquo;éclat de la bravoure personnelle, amusante comme la conquête d&rsquo;une île sauvage, égayée par les razzias, les petits vols des chapardeurs, dont les bons tours légendaires font rire jusqu&rsquo;aux généraux [70]. 11 était là-bas depuis trois ans lorsque éclate la guerre de 1870.

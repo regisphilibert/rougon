@@ -1,6 +1,7 @@
 ---
 title: L'Assommoir
-id: 75943
+wp_id: 75943
+id: assommoir
 author: admin
 type: roman
 date: 2010-02-11T08:39:28+00:00
@@ -9,7 +10,11 @@ menu:
   main:
     weight: 07
     parent: novels
-rm_novel_year: 1877
+resources:
+  - src: '**header.*'
+    params:
+      copy: Gervaise - René Clément
+year: 1877
 rm_novel_characters:
   - 75948
   - 75949

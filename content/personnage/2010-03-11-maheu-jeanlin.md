@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-11T07:58:02+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: 'Maheu '
-rm_character_name_secondary: Jeanlin
+novel:
+  - germinal
+main_name: 'Maheu '
+secondary_name: Jeanlin
 
 ---
 — troisième enfant de Toussaint Maheu et de la Maheude. Onze ans. On l’emploie au Voreux comme galibot. il gagne vingt sous par jour. Il est petit, il a les membres grêles, avec des articulations énormes, grossies par les scrofules, un masque de singe blafard et crépu, avec des yeux verts et de grandes oreilles. Dans sa précocité maladive, il semble avoir l’intelligence obscure et la vive adresse d’un avorton humain qui retourne à l’animalité d’origine [210]. Depuis longtemps, il exploite Bébert Levaque et Lydie Pierron ; avec celle-ci, il essaye, dans les coins noirs, l’amour que tous deux entendent et voient chez leurs parents, derrière les cloisons, par les fentes des portes; ils savent tout, mais ils ne peuvent guère, trop jeunes, tâtonnant, jouant pendant des heures à des jeux de petits chiens vicieux; Jeanlin appelle ça « faire papa et maman » [138].

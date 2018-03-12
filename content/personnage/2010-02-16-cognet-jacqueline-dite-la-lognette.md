@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-16T09:48:28+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Cognet '
-rm_character_name_secondary: Jacqueline dite La Lognette
+novel:
+  - terre
+main_name: 'Cognet '
+secondary_name: Jacqueline dite La Lognette
 
 ---
 —Fille du cantonnier. Est entrée à la Borderie à l&rsquo;âge de douze ans, pour laver la vaisselle. Etait si desséchée, si minable, qu&rsquo;on lui voyait les os du corps, au travers de ses guenilles. Elle s&rsquo;est vite décrassée, tous les valets l&rsquo;ont culbutée sur la paille, depuis le père Mathias, un vieux bossu, jusqu&rsquo;au petit porcher Guillaume ; Buteau, Jean Macquart, tous l&rsquo;ont eue. Mais elle a su faire sa fortune en résistant au maître, Alexandre Hourdequin, en le laissant désirer ses faveurs pendant six mois. Cette habileté l&rsquo;a transformée en servante maîtresse, la Goguette a maintenant une bonne qui la sert et, quand le maître devient veuf, elle finit par obtenir d&rsquo;entrer triomphante dans l&rsquo;ancien lit de Madame Hourdequin [101].

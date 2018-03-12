@@ -1,6 +1,7 @@
 ---
 title: Le Rêve
-id: 75934
+wp_id: 75934
+id: reve
 author: admin
 type: roman
 date: 2010-02-11T09:41:11+00:00
@@ -9,7 +10,11 @@ menu:
   main:
     weight: 16
     parent: novels
-rm_novel_year: 1888
+resources:
+  - src: '**header.*'
+    params:
+      copy:
+year: 1888
 rm_novel_characters:
   - 75960
   - 75961

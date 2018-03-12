@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T09:39:05+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Weiss '
-rm_character_name_secondary: Madame
+novel:
+  - debacle
+main_name: 'Weiss '
+secondary_name: Madame
 
 ---
-— Voir <a href="#/personnage/levasseur-henriette/" target="_self">LEVASSEUR (Henriette)</a>.
+— Voir <a href="/personnage/levasseur-henriette/" target="_self">LEVASSEUR (Henriette)</a>.

@@ -1,6 +1,7 @@
 ---
 title: La Fortune des Rougon
-id: 75928
+wp_id: 75928
+id: fortune
 author: admin
 type: roman
 date: 2010-03-22T09:36:55+00:00
@@ -14,7 +15,7 @@ resources:
       copy: Le député Baudin sur la barricade - Méjanel La Fortune des Rougon 1871
 
 excerpt: "Ce roman sert d'introduction à toute l'oeuvre. Il montre certains membres de la famille dont je veux écrire l'histoire, au début de leur carrière, fondant leur fortune sur le coup d'Etat, comptant sur l'Empire qu'ils prévoient pour contenter leurs appétits. - Émile Zola"
-rm_novel_year: 1871
+year: 1871
 rm_novel_characters:
   - 75949
   - 75955

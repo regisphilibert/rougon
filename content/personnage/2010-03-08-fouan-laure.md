@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T08:46:26+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Fouan '
-rm_character_name_secondary: Laure
+novel:
+  - terre
+main_name: 'Fouan '
+secondary_name: Laure
 
 ---
 — Voir [BADEUIL (Madame Charles)][1].

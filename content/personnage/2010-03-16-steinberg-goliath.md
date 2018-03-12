@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T09:00:49+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Steinberg '
-rm_character_name_secondary: Goliath
+novel:
+  - debacle
+main_name: 'Steinberg '
+secondary_name: Goliath
 
 ---
 — Engagé en 1867, comme garçon de ferme, chez le père Fouchard, à Remilly. C&rsquo;est un grand bon enfant, aux petits cheveux blonds, à la large face rose toujours souriante. Il est le camarade d&rsquo;Honoré Fouchard. Quand celui-ci, désespéré de ne pouvoir épouser Silvine Morange, s&rsquo;engage et part pour l&rsquo;Afrique, Goliath devient l&rsquo;amant de Silvine, sans la forcer d&rsquo;ailleurs, mettant seulement à profit une minute d&rsquo;inconscience. Silvine enceinte, il a promis le mariage, reculant la formalité jusqu&rsquo;à la naissance du petit, puis, brusquement, au septième mois de la grossesse, il a disparu, un raconte qu&rsquo;il est allé servir dans d&rsquo;autres fermes, du côté de Beaumont et de Baucourt. C&rsquo;est un de ces espions dont l&rsquo;Allemagne a peuplé nos provinces de l&rsquo;Est [96].

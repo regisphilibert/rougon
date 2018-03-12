@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T10:27:41+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Jabouille '
-rm_character_name_secondary: Mathilde
+novel:
+  - oeuvre
+main_name: 'Jabouille '
+secondary_name: Mathilde
 
 ---
 — Femme de l&rsquo;herboriste. On la nomme familièrement Mathilde. Elle a trente ans, elle est brune, la figure plate, ravagée de maigreur, avec des yeux de passion, aux paupières violâtres et meurtries. Sou rire montre les trous noirs de sa bouche, où manquent plusieurs dents, et elle est ainsi laide à inquiéter, dévastée déjà, la peau cuite, collée sur les os. Une senteur forte s&rsquo;exhale d&rsquo;elle, la senteur des simples dont sa robe se trouve imprégnée et qu&rsquo;elle apporte dans sa chevelure grasse, défrisée toujours; il semble que son baleine souffle la flamme de la menthe poivrée. Ce sont les prêtres, dit-on, qui l&rsquo;ont mariée au petit Jabouille. On aperçoit parfois de vagues ombres de soutanes, traversant le mystère de la boutique; il y règne une discrétion de cloître, une onction de sacristie, dans la vente des canules ; et les dévotes chuchotent là comme au confessionnal, glissent des injecteurs au fond de leur sac, puis s&rsquo;en vont, les yeux baissés. Par malheur, des bruits d&rsquo;avortement ont couru. Bien que Mathilde ait de la religion, la clientèle pieuse l&rsquo;abandonne peu à peu, trouvent qu&rsquo;elle s&rsquo;affiche trop avec des jeunes gens, maintenant que Jabouille tousse à rendre l&rsquo;âme, réduit à rien, la chair finie [84].

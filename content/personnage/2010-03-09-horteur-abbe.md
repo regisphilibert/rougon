@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T10:08:59+00:00
 excerpt: La Joie de Vivre
-rm_character_novel:
-  - 75938
-rm_character_name_main: 'Horteur '
-rm_character_name_secondary: Abbé
+novel:
+  - joie
+main_name: 'Horteur '
+secondary_name: Abbé
 
 ---
 — Curé de Bonneville. Homme trapu, à grosse encolure, cheveux roux, nuque brûlée du soleil, gros souliers. Payé à peine, sans casuel dans cette petite paroisse perdue, il mourrait de faim s&rsquo;il ne faisait pousser quelques légumes [254]. Il possède, devant l&rsquo;église, sur le terrain du cimetière, un potager qu&rsquo;il cultive lui-même, vêtu d&rsquo;une blouse grise, chaussé de sabots et fumant une grosse pipe. L&rsquo;abbé Horteur dîne tous les samedis chez Chanteau et se livre avec lui à d&rsquo;interminables parties de dames.

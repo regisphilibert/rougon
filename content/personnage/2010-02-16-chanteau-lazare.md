@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-02-16T09:08:03+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
-rm_character_name_main: 'Chanteau '
-rm_character_name_secondary: Lazare
-rm_character_main: 1
+novel:
+  - joie
+main_name: 'Chanteau '
+secondary_name: Lazare
+main: 1
 
 ---
 — Né à Caen. Fils des Chanteau. Filleul du banquier Thibaudier, dont il épouse la fille. Père du petit Paul. Avait quatorze ans lorsque ses parents ont quitté Caen pour se retirer à Bonneville. Est resté au lycée, qu&rsquo;il quitte à dix-huit ans, avec son baccalauréat. Grand garçon, à .front large, aux yeux très clairs, avec un fin duvet de barbe châtaine, qui encadre sa face longue. Lors de l&rsquo;arrivée de sa cousine Pauline Quenu à Bonneville, il bat les falaises depuis huit mois, ne se décidant pas à choisir une occupation [7].

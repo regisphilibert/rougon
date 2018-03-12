@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-16T10:17:42+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
-rm_character_name_main: 'Escorailles '
-rm_character_name_secondary: "Marquise D'"
+novel:
+  - excellence
+main_name: 'Escorailles '
+secondary_name: "Marquise D'"
 
 ---
 — Elle accompagne son mari dans ses visites à Rougon, soulignant ainsi l&rsquo;humilité de cette vieille famille légitimiste devant le gros parvenu de l&rsquo;Empire [257]. _(Son Excellence Eugène Rougon.)_

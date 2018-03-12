@@ -1,13 +1,16 @@
 {{ define "main" }}
     <div class="main rm-container">
         <div class="rm-loop">
-		{{ range where (.Data.Pages.ByParam "Params.rm_novel_year") "Section" "roman"  }}
+		{{ range where (.Data.Pages.ByParam "Params.year") "Section" "roman"  }}
+            {{ $characters := where .Site.Pages.ByTitle ".Params.novel" "intersect" (slice .Params.id)}}
 			<article class="rm-item {{ .Type }}">
                 <a href="{{ .Permalink }}">
-                    <h2 class="item-title">{{ .Title }} <small>{{ .Params.rm_novel_year }}</small></h2>
+                    <h2 class="item-title">{{ .Title }} <small>{{ .Params.year }}</small></h2>
+                    {{ if ge .Hugo.Version 0.34 }}
                     <div class="item-desc tablet-block desktop-block">
-                        {{ len .Params.rm_novel_characters}} personnages.
+                        {{ len $characters}} personnages.
                     </div>
+                    {{ end }}
                 </a>
             </article>
 		{{ end }}

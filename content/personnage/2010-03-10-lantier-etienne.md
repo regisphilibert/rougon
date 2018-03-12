@@ -5,14 +5,14 @@ author: admin
 type: personnage
 date: 2010-03-10T09:13:36+00:00
 excerpt: "La Fortune des Rougon, L'Assommoir, Germinal, Le Docteur Pascal"
-rm_character_novel:
-  - 75937
-  - 75943
-  - 75928
-  - 75930
-rm_character_name_main: 'Lantier '
-rm_character_name_secondary: Étienne
-rm_character_main: 1
+novel:
+  - germinal
+  - assommoir
+  - fortune
+  - docteur
+main_name: 'Lantier '
+secondary_name: Étienne
+main: 1
 
 ---
 — Troisième fils de Gervaise Macquart et d&rsquo;Auguste Lantier.  Né à Plassans, en 1816, Etienne est recueilli par sa grand&rsquo;mère paternelle [151]. Quand celle-ci meurt, en 1851, il est emmené à Paris par ses parents [179]. _(La Fortune des Rougon.)_

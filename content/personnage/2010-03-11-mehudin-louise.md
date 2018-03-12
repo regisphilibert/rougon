@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-11T08:28:16+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
-rm_character_name_main: 'Méhudin '
-rm_character_name_secondary: Louise
+novel:
+  - ventre
+main_name: 'Méhudin '
+secondary_name: Louise
 
 ---
 — Surnommée la belle Normande. Poissonnière superbe, d’une beauté hardie, très blanche et délicate de peau, d’œil effronté et de poitrine vivante [88]. Fille aînée de la mère Méhudin, deviendra plus tard madame Lebigre. Les Méhudin habitent rue Pirouette, dans l’ancienne maison des Quenu, an second. Elles sont une puissance à la poissonnerie, où elles dirigent les cabales et font trembler le personnel. La belle Normande a dû se marier avec un employé de la Halle au blé, mais celui-ci s’est cassé les reins dans une chute. Sept mois plus tard, elle a accouché d’un garçon, le gros Muche, et, dans l’entourage, on la considère comme veuve [138].

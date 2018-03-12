@@ -1,6 +1,7 @@
 ---
 title: La Terre
-id: 75935
+wp_id: 75935
+id: terre
 author: admin
 type: roman
 date: 2010-02-11T10:41:06+00:00
@@ -9,7 +10,11 @@ menu:
   main:
     weight: 15
     parent: novels
-rm_novel_year: 1887
+resources:
+  - src: '**header.*'
+    params:
+      copy:
+year: 1887
 rm_novel_characters:
   - 75969
   - 75973

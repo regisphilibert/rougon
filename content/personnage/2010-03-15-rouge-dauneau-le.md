@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-15T08:47:46+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Auneau '
-rm_character_name_secondary: Le
+novel:
+  - terre
+main_name: 'Auneau '
+secondary_name: Le
 
 ---
 _—_ Lieutenant du Beau-François, chef de la bande d&rsquo;Orgères. A composé une complainte en prison [68]. _(La Terre.)_

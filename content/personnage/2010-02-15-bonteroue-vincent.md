@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-15T09:55:59+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Bonteroue '
-rm_character_name_secondary: Vincent
+novel:
+  - terre
+main_name: 'Bonteroue '
+secondary_name: Vincent
 
 ---
 — Paysan pauvre, que la fille des Péchard s&rsquo;est obstinée à. épouser, malgré 1&rsquo;opposition maternelle. Tous deux meurent de misère, laissant deux enfants, Palmyre et Hilarion [32]. _(La Terre.)_

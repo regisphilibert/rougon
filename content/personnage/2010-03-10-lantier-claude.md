@@ -5,15 +5,15 @@ author: admin
 type: personnage
 date: 2010-03-10T09:09:09+00:00
 excerpt: "La Fortune des Rougon, L'Assommoir, Le Ventre de Paris, La Joie de vivre, L'Œuvre"
-rm_character_novel:
-  - 75943
-  - 75936
-  - 75928
-  - 75938
-  - 75946
-rm_character_name_main: 'Lantier '
-rm_character_name_secondary: Claude
-rm_character_main: 1
+novel:
+  - assommoir
+  - oeuvre
+  - fortune
+  - joie
+  - ventre
+main_name: 'Lantier '
+secondary_name: Claude
+main: 1
 
 ---
 — Fils de Gervaise Macquart et d&rsquo;Auguste Lantier. Père de Jacques-Louis. Né à Plassans en 1842, Claude a, été recueilli par sa grand&rsquo;mère paternelle [151]. Quand celle-ci meurt, en 1851, il est emmené à paris par ses parents [179]. _(La Fortune des Rougon.)_

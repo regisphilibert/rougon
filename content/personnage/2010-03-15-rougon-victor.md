@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-15T09:29:42+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Victor
+novel:
+  - argent
+main_name: 'Rougon '
+secondary_name: Victor
 
 ---
-— Voir <a href="#/personnage/saccard-victor/" target="_self">SACCARD (Victor)</a>.
+— Voir <a href="/personnage/saccard-victor/" target="_self">SACCARD (Victor)</a>.

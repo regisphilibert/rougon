@@ -5,13 +5,13 @@ author: admin
 type: personnage
 date: 2010-03-21T18:00:11+00:00
 excerpt: "L'Assommoir, Nana"
-rm_character_novel:
-  - 75943
-  - 75941
-rm_character_name_main: 'Lerat '
-rm_character_name_secondary: Madame
-rm_character_name_precision: née COUPEAU
-rm_character_main: 1
+novel:
+  - assommoir
+  - nana
+main_name: 'Lerat '
+secondary_name: Madame
+name_suffix: née COUPEAU
+main: 1
 
 ---
 — Sœur aînée de madame Lorilleux et de Coupeau. Grande, sèche, parlant du nez [86]. C&rsquo;est mie veuve de trente-six ans, qui habite la rue des Moines, aux Batignolles, et travaille dans les fleurs [52]. Elle mène une vie d&rsquo;ouvrière cloîtrée dans son train-train et n&rsquo;a jamais vu le nez d&rsquo;un homme chez elle depuis son veuvage, mais elle montre une préoccupation continuelle de l&rsquo;ordure, une manie de mots à double entente et d&rsquo;allusions polissonnes [106]. De meilleure composition que sa sœur, elle vit en bons termes avec Gervaise, et lorsque la petite Nana est en âge d&rsquo;apprendre un métier, elle la fait entrer dans une maison de fleurs de la rue du Caire, chez Titreville, où elle est première. Chargée de surveiller la petite, elle s&rsquo;acquitte mal de la commission, s&rsquo;allumant aux premières aventures de Nana [167]. _(L&rsquo;Assommoir.)_

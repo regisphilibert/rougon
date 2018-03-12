@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T10:22:27+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
-rm_character_name_main: 'Keller '
-rm_character_name_secondary: Les
+novel:
+  - argent
+main_name: 'Keller '
+secondary_name: Les
 
 ---
 — Mondains de Paris, chez qui la baronne Sandorff a parfois rencontré Gundermann [292]. _(L&rsquo;Argent.)_

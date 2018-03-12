@@ -1,19 +1,16 @@
 {{ define "main" }}
-{{ range .Params.rm_character_novel }}
-{{ $.Scratch.Add "novels" (slice (int .)) }}
-{{ end }}
+{{ $novels := where .Site.Pages.ByTitle ".Params.id" "in" .Params.novel }}
 <div class="main rm-container">
     <div class="single-head">
         <div class="item-title-wrapper">
             <h1 class="item-title">
-                {{ .Params.rm_character_name_main }}{{ with .Params.rm_character_name_secondary }}<span>, {{ . }}</span>{{ end }}
+                {{ partial "personnage/name" . }}
             </h1>
         </div>
         <div class="item-desc">
-            {{ range where .Site.Pages.ByTitle "Params.id" "in" ($.Scratch.Get "novels") }}<span><a href="{{ .Permalink }}">{{ .Title }}</a></span>, {{ end }}
+            {{ partial "roman/list" (dict "novels" $novels "sep" " . ") }}
         </div>
     </div>
-
     <div class="rm-content rm-html">
         <div class="item-content">
             {{ .Content }}

@@ -4,11 +4,11 @@ id: 77171
 author: admin
 type: personnage
 date: 2010-02-12T15:55:04+00:00
-rm_character_novel:
-  - 75939
-rm_character_name_main: 'Aurélie '
-rm_character_name_secondary: Madame
-rm_character_main: 1
+novel:
+  - bonheur
+main_name: 'Aurélie '
+secondary_name: Madame
+main: 1
 
 ---
 — Première du rayon de confection, au Bonheur des Dames. Son père, concierge rue Cuvier, était un petit tailleur alsacien. Elle a épousé Lhomme, un locataire de la maison, puis elle a voulu monter un atelier de confection à son compte et s&rsquo;est aigrie, sans cesse traquée par la mauvaise chance, exaspérée de se sentir des épaules à porter la fortune et de n&rsquo;aboutir qu&rsquo;à des catastrophes. Le Bonheur des Dames lui a enfin donné le succès; elle a fondé dans cette maison la dynastie des Lhomme, poussant son mari au poste de premier caissier, obtenant une caisse pour son fils Albert, un être incapable et malfaisant dont on n&rsquo;avait rien pu faire, jusque-là. Et, par fierté, elle renie pour elle-même le nom de Lhomme; le personnel doit l&rsquo;appeler madame Aurélie. Hors du magasin, la femme, le mari, le fils vivent chacun à sa guise.

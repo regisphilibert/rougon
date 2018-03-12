@@ -1,6 +1,7 @@
 ---
 title: Germinal
-id: 75937
+wp_id: 75937
+id: germinal
 author: admin
 type: roman
 date: 2010-02-11T09:40:52+00:00
@@ -8,7 +9,11 @@ weight: 13
 menu:
   main:
     parent: novels
-rm_novel_year: 1885
+resources:
+  - src: '**header.*'
+    params:
+      copy:
+year: 1885
 rm_novel_characters:
   - 75967
   - 75984

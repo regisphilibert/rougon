@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-09T10:00:21+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
-rm_character_name_main: 'Hautecœur '
-rm_character_name_secondary: Félicien VII de
-rm_character_main: 1
+novel:
+  - reve
+main_name: 'Hautecœur '
+secondary_name: Félicien VII de
+main: 1
 
 ---
 — Fils de Jean XII de Hautecœur, depuis évêque de Beaumont, et de Paule de Valençay. il a perdu sa mère en naissant. Un oncle de celle-ci, un vieil abbé, l&rsquo;a recueilli, son père ne voulant pas le voir, faisant tout pour oublier son existence. On l&rsquo;a élevé dans l&rsquo;ignorance de sa famille, durement, comme s&rsquo;il avait été un enfant pauvre. Plus tard, le père a décidé d&rsquo;en faire un prêtre, mais le vieil abbé n&rsquo;a pas voulu, le petit manquant tout à fait de vocation. Et le fils de Paule de Valençay n&rsquo;a su la vérité que très tard, à dix-huit ans. Il a connu alors son ascendance illustre, ce long cortège de seigneurs dont les noms emplissent l&rsquo;histoire et dont il est le dernier rejeton; l&rsquo;obscur neveu du vieil abbé est brusquement devenu Félicien VII de Hautecœur, et ce jeune homme qui, épris d&rsquo;un art manuel, devait gagner sa vie dans les vitraux d&rsquo;église, a vu toute une fortune s&rsquo;écrouler sur lui ; les cinq millions laissés par sa mère ont&rsquo; été décuplés par des placements en achats de terrains à Paris, ils représentent aujourd&rsquo;hui cinquante millions [66]. Un des grands chagrins de l&rsquo;évêque est la fougue du jeune homme, sur laquelle l&rsquo;oncle lui fournit des rapports inquiétants, ce ne sera jamais qu&rsquo;un passionné, un artiste. Et, craignant les sottises du cœur, il l&rsquo;a fait venir près de lui, à Beaumont, réglant à l&rsquo;avance un mariage pour prévenir tout danger [207].

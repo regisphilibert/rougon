@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-11T08:27:09+00:00
 excerpt: La Curée, Le Docteur Pascal
-rm_character_novel:
-  - 75947
-  - 75930
-rm_character_name_main: 'Mégot '
-rm_character_name_secondary: Justine
+novel:
+  - curee
+  - docteur
+main_name: 'Mégot '
+secondary_name: Justine
 
 ---
 — Jeune femme de chambre de Renée Saccard. Séduite par Maxime et devenue enceinte, elle accouche en 1857 d’un fils, Charles Rougon, obtient une petite rente de douze cents francs et est renvoyée dans son pays avec l’enfant [119]. _(La Curée.)_

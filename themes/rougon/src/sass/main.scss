@@ -196,9 +196,6 @@ header{
     @extend.item-desc;
 }
 
-.widget-chars{
-
-}
 /*********************************************
             ADS
 *********************************************/
@@ -210,6 +207,7 @@ header{
     height:90px;
 }
 header{
+    padding-top:20px;
     .rm-ad-leaderboard{
         position: absolute;
         top:0;
@@ -219,7 +217,7 @@ header{
 .brand{
     display: block;
     color:inherit;
-     padding:20px 10px 0 10px;
+     padding:0 10px 0 10px;
     .emile, .brand-name{
         font-weight:normal;
         margin: 0;
@@ -248,8 +246,12 @@ header{
 }
 .search{
     position: relative;
+    .twitter-typeahead{
+        width:100%;
+    }
     input{
         outline: none;
+        width:100%;
     }
     input:focus ~ .icon-search{
         opacity: 1;
@@ -492,7 +494,7 @@ header{
     margin: 0;
     padding:15px;
     small{
-        font-size:20/$fontRem;
+        font-size:20rem/$fontRem;
         font-family: $open;
         font-weight: 300;
         display: block;
@@ -539,6 +541,16 @@ header{
     .chapter-title{
         margin: 0;
         font-family: $helvetica;
+    }
+}
+
+.name-suffix{
+    font-size:0.8em;
+    &:before{
+        content:"("
+    }
+    &:after{
+        content:")"
     }
 }
 /*********************************************

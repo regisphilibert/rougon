@@ -1,15 +1,16 @@
 ---
 title: Béraud Du Châtel (Renée)
 id: 77109
+alias: /2010-03-15-rougon-madame-aristide-nee-beraud-du-chatel/
 author: admin
 type: personnage
 date: 2010-02-15T08:48:46+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
-rm_character_name_main: 'Béraud Du Châtel '
-rm_character_name_secondary: Renée
-rm_character_main: 1
+novel:
+  - curee
+main_name: 'Béraud Du Châtel '
+secondary_name: Renée
+main: 1
 
 ---
 — Fille aînée du président Béraud Du Châtel. Femme d&rsquo;Aristide Rougon, dit Saccard. Née à Paris en 1836, elle avait huit ans lorsque sa mère est morte. Elle reste pendant onze ans pensionnaire chez les Dames de la Visitation, grandissant loin du foyer paternel, se faisant une éducation fantasque, perdant peu à peu les vertus de sa race et glissant à des désirs inavouables, à des curiosités vicieuses qui, vers l&rsquo;âge de dix-neuf ans, pendant des vacances, chez sa bonne amie Adeline, la livreront sans défense à un viol brutal. Elle s&rsquo;éveillera pleine de mépris pour elle-même, perdue au bien et disposée, dans un amour des choses logiques hérité de son père, à aller jusqu&rsquo;au bout d&rsquo;une dépravation beaucoup plus cérébrale que charnelle, à satisfaire toujours un insatiable besoin de savoir et de sentir. Pour dissimuler sa faute, on l&rsquo;a mariée avec Aristide Saccard et elle se trouve bientôt lancée dans le monde interlope du second Empire. Une fausse couche heureuse a supprimé l&rsquo;enfant qu&rsquo;on redoutait.

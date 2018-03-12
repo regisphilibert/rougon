@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-16T09:14:16+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
-rm_character_name_main: 'Charbotel '
-rm_character_name_secondary: Isidore
+novel:
+  - pot-bouille
+main_name: 'Charbotel '
+secondary_name: Isidore
 
 ---
 — Artiste peintre. Son nom se trouve sur les licites du vieux Vabre[238]. _(Pot-Bouille.)_
