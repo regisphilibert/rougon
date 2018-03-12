@@ -10,7 +10,7 @@ novel:
   - fortune
 main_name: 'Rougon '
 secondary_name: Madame Aristide
-rm_character_name_precision: née SICARDOT.
+name_suffix: née Sicardot
 
 ---
 — Voir <a href="/personnage/sicardot-angele" target="_self">SICARDOT (Angèle)</a>.

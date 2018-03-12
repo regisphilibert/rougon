@@ -11,7 +11,7 @@ novel:
   - docteur
 main_name: 'Fouque '
 secondary_name: Adélaïde
-rm_character_name_precision: dite Tante Dide.
+name_suffix: dite Tante Dide.
 main: 1
 
 ---

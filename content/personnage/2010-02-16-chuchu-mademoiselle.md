@@ -9,7 +9,7 @@ novel:
   - argent
 main_name: 'Chuchu '
 secondary_name: Mademoiselle
-rm_character_name_precision: .
+name_suffix: .
 
 ---
 — Figurante des Variétés. Une maigre sauterelle du pavé parisien, la fille ensauvée d&rsquo;une concierge de Montmartre, amusante avec sa figure de papier mâché, où luisent de grands yeux bruns admirables. Sa liaison avec l&rsquo;employé Flory a commencé par quelques parties fines à bon marché [85], puis on s&rsquo;est mis en ménage, rue Condorcet et Chuchu est devenue capricieuse et dévorante [335], poussant Flory a la dépense, l&rsquo;acculant au jeu de Bourse. _(L&rsquo;Argent.)_

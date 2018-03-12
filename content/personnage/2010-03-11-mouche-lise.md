@@ -9,7 +9,7 @@ novel:
   - terre
 main_name: 'Mouche '
 secondary_name: Lise
-rm_character_name_precision: .
+name_suffix: .
 
 ---
 — Sœur aînée de Françoise. Fille de la Vierge, elle est enceinte des œuvres de son cousin Buteau. Grasse et ronde, la mine gaie, Lise est grande, elle a l’air agréable, malgré ses gros traits et la bouffissure commençante de toute sa personne. Plus âgée de dix ans que Françoise, elle apporte à la besogne un tel cœur, tapant, criant, riant, qu’elle réjouit la vue. Le petit Jules a près de trois ans, lorsque Buteau, longtemps réfractaire au mariage, est séduit par une opération de terrains qui avantage les sœurs Mouche; il se décide à épouser Lise.

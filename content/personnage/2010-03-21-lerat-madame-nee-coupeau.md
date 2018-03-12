@@ -10,7 +10,7 @@ novel:
   - nana
 main_name: 'Lerat '
 secondary_name: Madame
-rm_character_name_precision: née COUPEAU
+name_suffix: née COUPEAU
 main: 1
 
 ---

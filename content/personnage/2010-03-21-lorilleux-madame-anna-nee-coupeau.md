@@ -9,7 +9,7 @@ novel:
   - assommoir
 main_name: 'Lorilleux '
 secondary_name: Madame Anna
-rm_character_name_precision: née COUPEAU
+name_suffix: née COUPEAU
 main: 1
 
 ---

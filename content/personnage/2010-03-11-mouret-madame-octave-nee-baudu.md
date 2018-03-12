@@ -9,7 +9,7 @@ novel:
   - bonheur
 main_name: 'Mouret '
 secondary_name: Madame Octave
-rm_character_name_precision: née BAUDU
+name_suffix: née BAUDU
 
 ---
 — Voir <a href="/personnage/baudu-denise/" target="_self">BAUDU (Denise)</a>.

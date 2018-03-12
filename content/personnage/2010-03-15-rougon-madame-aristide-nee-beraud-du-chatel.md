@@ -9,7 +9,7 @@ novel:
   - curee
 main_name: 'Rougon '
 secondary_name: Madame Aristide
-rm_character_name_precision: née BÉRAUD DU CHATEL
+name_suffix: née Béraud du Chatel
 
 ---
 — Voir <a href="/personnage/beraud-du-chatel-renee/" target="_self">BÉRAUD DU CHATEL (Renée)</a>.

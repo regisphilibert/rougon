@@ -9,7 +9,7 @@ novel:
   - terre
 main_name: 'Fouan '
 secondary_name: Louis
-rm_character_name_precision: dit Le Père Fouan
+name_suffix: dit Le Père Fouan
 main: 1
 
 ---

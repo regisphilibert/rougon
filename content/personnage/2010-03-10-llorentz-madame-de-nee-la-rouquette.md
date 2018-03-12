@@ -9,7 +9,7 @@ novel:
   - excellence
 main_name: 'Llorentz '
 secondary_name: Madame de
-rm_character_name_precision: née LA ROUQUETTE
+name_suffix: née LA ROUQUETTE
 
 ---
 — Sœur du député La Rouquette. Veuve d&rsquo;un général d&rsquo;origine espagnole [85]. Belle blonde un peu forte, yeux biens. Elle est dame du palais de l&rsquo;impératrice. A l&rsquo;époque du mariage de Napoléon III, M. de Marsy, amant de madame de Llorentz, lui a écrit, pour l&rsquo;égayer, des lettres pleines de détails piquants sur le couple impérial. Extrêmement jalouse, elle a conservé ces missives et les tient suspendues sur la tête de M. de Marsy, comme une vengeance toujours prête [188]. Clorinde, au courant des faits et pressée de voir un changement de ministère, affole, la dame qui, dans un coup de colère, livre à l&rsquo;empereur les lettres compromettantes [221].****_(Son Excellence Eugène Rougon.)_

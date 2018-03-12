@@ -1,6 +1,7 @@
 ---
 title: Béraud Du Châtel (Renée)
 id: 77109
+alias: /2010-03-15-rougon-madame-aristide-nee-beraud-du-chatel/
 author: admin
 type: personnage
 date: 2010-02-15T08:48:46+00:00

@@ -10,7 +10,7 @@ novel:
   - pot-bouille
 main_name: 'Mouret '
 secondary_name: Madame Octave
-rm_character_name_precision: née DELEUZE
+name_suffix: née DELEUZE
 
 ---
 — Voir <a href="/personnage/deleuze-caroline/" target="_self">DELEUZE (Caroline)</a>.

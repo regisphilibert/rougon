@@ -9,7 +9,7 @@ novel:
   - terre
 main_name: 'Péchard '
 secondary_name: Madame
-rm_character_name_precision: .
+name_suffix: .
 
 ---
 — Voir <a href="/personnage/grande-la/" target="_self">GRANDE (La)</a>.

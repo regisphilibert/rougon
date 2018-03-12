@@ -196,9 +196,6 @@ header{
     @extend.item-desc;
 }
 
-.widget-chars{
-
-}
 /*********************************************
             ADS
 *********************************************/
@@ -544,6 +541,16 @@ header{
     .chapter-title{
         margin: 0;
         font-family: $helvetica;
+    }
+}
+
+.name-suffix{
+    font-size:0.8em;
+    &:before{
+        content:"("
+    }
+    &:after{
+        content:")"
     }
 }
 /*********************************************
