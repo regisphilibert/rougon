@@ -5,13 +5,13 @@ author: admin
 type: personnage
 date: 2010-03-15T07:55:02+00:00
 excerpt: La Fortune des Rougon, La Conquête de Plassans, Le Docteur Pascal
-rm_character_novel:
-  - 75929
-  - 75928
-  - 75930
-rm_character_name_main: 'Puech '
-rm_character_name_secondary: Félicité
-rm_character_main: 1
+novel:
+  - conquete
+  - fortune
+  - docteur
+main_name: 'Puech '
+secondary_name: Félicité
+main: 1
 
 ---
 — Fille du marchand d&rsquo;huile. Née en 1791, elle est à dix-neuf ans une petite femme noire, maigre, la gorge plate, les épaules pointues, le visage en museau de fouine, avec des cheveux superbes. Douée d&rsquo;une intelligence très remarquable, elle a une physionomie de naine futée où se retrouvent les traits d&rsquo;un noble du quartier Saint-Marc, M. de Garnavant, qui, selon la chronique, serait son véritable père [66]. Résignée à n&rsquo;être qu&rsquo;un laideron, Félicité, douée du génie de l&rsquo;intrigue, pleine d&rsquo;une ambition active et envieuse, s&rsquo;est juré d&rsquo;éblouir un jour cette ville où elle végète tristement, au fond d&rsquo;une boutique, dans la plus complète médiocrité. Elle poursuivra ce but jusqu&rsquo;au bout, se servant de son mari, Pierre Rougon, comme d&rsquo;un instrument, luttant avec opiniâtreté contre une persistante malchance, gardant la foi la plus âpre en son étoile, prête à tout pour assouvir son besoin de domination.

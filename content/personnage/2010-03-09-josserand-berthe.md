@@ -5,12 +5,12 @@ author: admin
 type: personnage
 date: 2010-03-09T09:43:42+00:00
 excerpt: Pot-Bouille, Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-  - 75940
-rm_character_name_main: 'Josserand '
-rm_character_name_secondary: Berthe
-rm_character_main: 1
+novel:
+  - bonheur
+  - pot-bouille
+main_name: 'Josserand '
+secondary_name: Berthe
+main: 1
 
 ---
 — La dernière fille des Josserand. Elle garde à vingt et un ans toute une grâce d&rsquo;enfance, avec les mêmes traits que sa sœur, mais plus fins, éclatants de blancheur. Mine chiffonnée, cheveux châtains dorés de reflets blonds, menacée seulement vers la cinquantaine du masque épais de sa mère ; elle a une grâce hardie et un charme facile de Parisienne, avec quelques talents de musicienne et de peintre qui constituent toute sa dot. Pour la marier, c&rsquo;est pendant trois hivers une véritable chasse à l&rsquo;homme, des garçons de tous poils aux bras de qui on la jette, une offre continue de son corps sur les trottoirs autorisés des salons bourgeois; puis, ce que les mères enseignent aux filles sans fortune, tout un cours de prostitution décente et permise, les attouchements de la danse, les mains abandonnées derrière une porte, les impudeurs spéculant sur les appétits des niais ; enfin, le mari levé un beau soir, comme un homme est fait par une gueuse, le mari raccroché sous un rideau, excité et tombant au piège, dans la fièvre de son désir [429].

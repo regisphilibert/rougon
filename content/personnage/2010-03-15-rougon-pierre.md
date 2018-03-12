@@ -5,12 +5,12 @@ author: admin
 type: personnage
 date: 2010-03-15T09:24:40+00:00
 excerpt: La Fortune des Rougon, La Conquête de Plassans
-rm_character_novel:
-  - 75929
-  - 75928
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Pierre
-rm_character_main: 1
+novel:
+  - conquete
+  - fortune
+main_name: 'Rougon '
+secondary_name: Pierre
+main: 1
 
 ---
 — Fils d&rsquo;Adélaïde Fouque et du jardinier Rougon. Père d&rsquo;Eugène, Pascal, Aristide, Sidonie et Marthe. Né en 1787, Pierre n&rsquo;a point connu son père, mort après quinze mois de mariage. Il est élevé dans l&rsquo;enclos Fouque en compagnie d&rsquo;Antoine et d&rsquo;Ursule, les enfants nés des amours de sa mère avec le contrebandier Macquart, ceux que le faubourg de Plassans appelle les louveteaux. De taille moyenne, de face longue et blafarde, un peu grosse, il a les traits de Rougon, avec certaines finesses du visage maternel. Il est un paysan comme son père, mais un paysan à la peau moins rude, au masque moins épais, à l&rsquo;intelligence plus large et plus souple. Ce mélange équilibré se retrouve au moral. Pierre Rougon a une ambition sournoise et rusée, un besoin insatiable d&rsquo;assouvissement, un cœur sec, un fond de sagesse raisonnée, où se sont mêlés les traits du caractère de ses parents [56].

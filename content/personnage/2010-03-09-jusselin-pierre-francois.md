@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T10:48:52+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
-rm_character_name_main: 'Jusselin '
-rm_character_name_secondary: Pierre-François
+novel:
+  - excellence
+main_name: 'Jusselin '
+secondary_name: Pierre-François
 
 ---
 — Créature de M. de Marsy. Rougon refuse de le nommer officier de la Légion d&rsquo;honneur et donne à Béjuin la rosette qui lui était destinée [272]. _(Son Excellence Eugène Rougon.)_

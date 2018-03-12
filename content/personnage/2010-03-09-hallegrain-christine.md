@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-09T09:47:29+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Hallegrain '
-rm_character_name_secondary: Christine
-rm_character_main: 1
+novel:
+  - oeuvre
+main_name: 'Hallegrain '
+secondary_name: Christine
+main: 1
 
 ---
 —Fille du capitaine. Femme de Claude Lantier. Mère de Jacques-Louis. Elle est née a Strasbourg, par hasard, entre deux changements de garnison de son père. Ses parents l&rsquo;ont gâtée, elle a eu des professeurs de tout, mais elle a profité fort peu, n&rsquo;écoutant pas, toujours à rire, le sang à la tête; des crampes lui tordaient les bras au piano; elle n&rsquo;avait de goût que pour les soins bas du ménage. Christine a perdu son père à douze ans, à seize ans et demi, elle a été seule au monde; sans un sou, avec l&rsquo;unique amitié d&rsquo;une religieuse de Clermont, la supérieure des sœurs de la Visitation, qui lui a trouvé, à ses dix-huit ans, une place de lectrice à Paris, chez madame Vanzade. Le soir de son arrivée, perdue au sortir de la gare, terrifiée par un cocher maraudeur, noyée dans la trombe d&rsquo;un gros orage, elle a été recueillie par le peintre Claude Lantier, qui lui a cédé son lit sans rien demander en échange ; au matin, dans l&rsquo;accablante chaleur de juillet, la gorge de la jeune fille s&rsquo;est découverte et le peintre, abdiquant toute curiosité charnelle, s&rsquo;est enthousiasmé en artiste pour cette chair dorée, d&rsquo;une finesse de soie, le printemps de la chair, deux petits seins rigides, gonflés de sève, où pointaient deux roses pâles [12]; l&rsquo;esquisse qu&rsquo;il en a faite a été interrompue par le réveil subit de Christine, par sa révolte éperdue devant ce garçon qui la mangeait des yeux; elle a senti un véritable effroi à la vue de la terrible peinture qui emplissait l&rsquo;atelier, une peinture rugueuse, éclatante, d&rsquo;une extraordinaire violence de tons.

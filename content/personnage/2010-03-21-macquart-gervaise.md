@@ -5,12 +5,12 @@ author: admin
 type: personnage
 date: 2010-03-21T21:00:24+00:00
 excerpt: La Fortune des Rougon, L’Assommoir
-rm_character_novel:
-  - 75943
-  - 75928
-rm_character_name_main: 'Macquart '
-rm_character_name_secondary: Gervaise
-rm_character_main: 1
+novel:
+  - assommoir
+  - fortune
+main_name: 'Macquart '
+secondary_name: Gervaise
+main: 1
 
 ---
 — Seconde Fille d’[Antoine Macquart][1] et de [Joséphine Gavaudan][2]. Sœur de [Lisa][3] et de [Jean][4]. Mère de [Claude][5], [Jacques][6], [Etienne Lantier][7] et d’[Anna Coupeau][8]. Née à Plassans en 1828, conçue dans l’ivresse, Gervaise a la cuisse droite déviée et amaigrie, reproduction héréditaire des brutalités paternelles. Chétive, toute pâle, elle est mise au régime de l’anisette par sa mère, qui adore cette liqueur. Devenue grande fille, elle est restée chétive, fluette, avec une délicieuse tête de poupée, une petite face ronde et blême d’une exquise délicatesse. Son infirmité est presque une grâce, sa taille fléchit doucement à chaque pas, dans une sorte de balancement cadencé [150]. Des huit ans, elle gagnait dix sous par jour en cassant des amandes chez un négociant voisin ; entrée ensuite en apprentissage chez une blanchisseuse, elle reçoit comme ouvrière deux francs par jour ; tout son argent passe dans la poche de son père, qui godaille au dehors. A quatorze ans, Gervaise a de son amant, l’ouvrier tanneur [Lantier][9], un premier fils, [Claude][5], puis deux autres, qui sont recueillis par leur grand’mère paternelle, sans que [Macquart][1] consente à faire une démarche qui réglerait la situation et le priverait du salaire de sa fille. Celle-ci vit ainsi, exploitée par son père, engrossée par son amant, s’habituant à boire avec sa mère des verres de liqueur qui la soûlent à petites doses. Au début de 1851, madame Lantier et [Joséphine Macquart][2] étant mortes, Lantier retire Gervaise des mains de son père et l’emmène à Paris avec deux des enfants. (La Fortune des Rougon)

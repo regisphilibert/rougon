@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-08T08:41:37+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
-rm_character_name_main: 'Fontan '
-rm_character_name_secondary: Achille
-rm_character_main: 1
+novel:
+  - nana
+main_name: 'Fontan '
+secondary_name: Achille
+main: 1
 
 ---
 — Acteur des Variétés. Une tête de faune suant le vice ; c&rsquo;est un comique d&rsquo;un talent canaille et original, un mauvais camarade qui casse toujours du sucre sur la tête des autres. Fontan a joué un Vulcain déhanché dans la Blonde Vénus et le baron de Tardiveau dans la Petite Duchesse. Aux répétitions, il semble soumettre à l&rsquo;auteur des idées dont il doute lui-même et, à la moindre objection, il se vexe et parle de rendre le rôle [331].

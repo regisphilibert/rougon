@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T08:25:03+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
-rm_character_name_main: 'Fauchery '
-rm_character_name_secondary: Léon
+novel:
+  - nana
+main_name: 'Fauchery '
+secondary_name: Léon
 
 ---
 — Journaliste et auteur dramatique. Publie des chroniques dans le Figaro. A écrit une pièce pour les Variétés, la Petite Duchesse. Habite rue Taitbont, au coin de la rue de Provence. Il est grand, avec des moustaches noires. Au dire de Lucy Stewart, c&rsquo;est un monsieur malpropre, qui se colle aux femmes pour faire sa position [117]. Fauchery couche avec des actrices qu&rsquo;il paye en publicité. Encouragé par de vagues confidences reçues d&rsquo;un familier de Sabine Muffat de Beuville, il rêve de devenir l&rsquo;amant de la comtesse et y réussit quand le ménage Muffat se désagrège sous l&rsquo;action de Nana. Par contre-coup, n&rsquo;osant tenir tête au comte, il se laisse imposer l&rsquo;actrice, pour le rôle principal de la Petite Duchesse, qu&rsquo;elle a la folle prétention de jouer.

@@ -1,6 +1,7 @@
 ---
 title: Son Excellence Eugène Rougon
-id: 75944
+wp_id: 75944
+id: excellence
 author: admin
 type: roman
 date: 2010-02-11T10:39:07+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: Portrait de Napoléon III - Alexandre Cabanel
-rm_novel_year: 1876
+year: 1876
 rm_novel_characters:
   - 75962
   - 76047

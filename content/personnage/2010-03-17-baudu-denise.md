@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-17T14:00:59+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-rm_character_name_main: 'Baudu '
-rm_character_name_secondary: Denise
-rm_character_main: 1
+novel:
+  - bonheur
+main_name: 'Baudu '
+secondary_name: Denise
+main: 1
 
 ---
 — Nièce du drapier. Sœur de [Jean][1] et de [Pépé][2]. Tous trois vivaient à Valognes, avec leurs parents, lorsque ceux-ci sont morts, emportés par la même fièvre. Le père avait mangé jusqu&rsquo;au dernier sou dans sa teinturerie. A dix-neuf ans, Denise est restée ainsi le seul soutien, la mère des deux enfants, mais son gain chez [Cornaille][3] ne suffit point à les nourrir tous trois. Au bout d&rsquo;un an, [Jean][1] trouve du travail à Paris et comme Denise, dans sa terreur maternelle, ne veut pas laisser ce grand garçon venir seul à Paris, elle quitte Valognes en un coup de tête et la petite famille débarque un matin chez l&rsquo;oncle [Baudu][4]. La jeune fille est chétive pour ses vingt ans; elle a un visage long à la bouche trop grande, le teint fatigué déjà; sa seule beauté est dans ses cheveux blond cendré, ils lui tombent jusqu&rsquo;aux chevilles et, quand elle se coiffe, ils la gênent au point qu&rsquo;elle se contente de les rouler et de les retenir en un tas, sous les fortes dents d&rsquo;un peigne de corne. Un sourire la transfigure ; il est comme un épanouissement du visage entier, ses yeux gris prennent une flamme tendre, ses joues se creusent d&rsquo;adorables fossettes, ses pâles cheveux eux-mêmes semblent voler, dans la gaieté bonne et courageuse de tout son être. Alors, elle devient jolie. Sous son aspect tranquille et doux, il y a une volonté têtue de Normande.

@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-15T07:13:11+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
-rm_character_name_main: 'Palette '
-rm_character_name_secondary: La Mère
+novel:
+  - ventre
+main_name: 'Palette '
+secondary_name: La Mère
 
 ---
 — Marchande de volailles aux Halles. Vieille femme jaune. A failli tout brûler dans les resserres en éclairant ses poules [232]. _(Le Ventre de Paris.)_

@@ -5,14 +5,14 @@ author: admin
 type: personnage
 date: 2010-03-11T07:54:01+00:00
 excerpt: La Conquête de Plassans, Pot-Bouille, Au Bonheur, des Dames, L’Œuvre
-rm_character_novel:
-  - 75939
-  - 75936
-  - 75929
-  - 75940
-rm_character_name_main: 'Mouret '
-rm_character_name_secondary: Octave
-rm_character_main: 1
+novel:
+  - bonheur
+  - oeuvre
+  - conquete
+  - pot-bouille
+main_name: 'Mouret '
+secondary_name: Octave
+main: 1
 
 ---
 — Fils aîné de François Mouret et de Marthe Rougon. Frère de Serge et de Désirée. Né en 1840 à Plassans [161]. _(La Fortune des Rougon.)_

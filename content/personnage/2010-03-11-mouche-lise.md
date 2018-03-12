@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-11T08:41:30+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Mouche '
-rm_character_name_secondary: Lise
-rm_character_name_precision: .
+novel:
+  - terre
+main_name: 'Mouche '
+secondary_name: Lise
+name_suffix: .
 
 ---
 — Sœur aînée de Françoise. Fille de la Vierge, elle est enceinte des œuvres de son cousin Buteau. Grasse et ronde, la mine gaie, Lise est grande, elle a l’air agréable, malgré ses gros traits et la bouffissure commençante de toute sa personne. Plus âgée de dix ans que Françoise, elle apporte à la besogne un tel cœur, tapant, criant, riant, qu’elle réjouit la vue. Le petit Jules a près de trois ans, lorsque Buteau, longtemps réfractaire au mariage, est séduit par une opération de terrains qui avantage les sœurs Mouche; il se décide à épouser Lise.

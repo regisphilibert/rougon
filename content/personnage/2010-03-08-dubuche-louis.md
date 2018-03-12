@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-08T10:33:56+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Dubuche '
-rm_character_name_secondary: Louis
-rm_character_main: 1
+novel:
+  - oeuvre
+main_name: 'Dubuche '
+secondary_name: Louis
+main: 1
 
 ---
 —Fils aîné d&rsquo;une boulangère de Plassans. Camarade d&rsquo;enfance de Claude Lantier et de Pierre Sandoz. Était pensionnaire au collège; il avait dès cette époque les jambes lourdes, la chair endormie du bon élève piocheur. Sa mère, très âpre, très ambitieuse, l&rsquo;a envoyé à Paris, où il suit les cours de l&rsquo;Ecole comme élève architecte. C&rsquo;est un gros garçon brun, au visage correct et bouffi, les cheveux ras, la moustache déjà forte. Il habite rue Jacob, au sixième étage d&rsquo;une grande maison froide et vit chichement des dernières pièces de cent sous que ses parents ont placées sur lui avec une obstination de juifs qui escomptent l&rsquo;avenir à trois cents pour cent. Malgré quinze mois d&rsquo;apprentissage chez Dequersonnière, malgré son effort de gros travailleur, il a failli être retoqué à l&rsquo;École ; l&rsquo;imagination lui manque, il n&rsquo;est ferré que sur la partie scientifique.

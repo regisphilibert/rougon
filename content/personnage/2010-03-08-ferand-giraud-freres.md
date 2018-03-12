@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-08T08:32:13+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
-rm_character_name_main: Férand-Giraud frères
+novel:
+  - argent
+main_name: Férand-Giraud frères
 
 ---
 — Maison de transports maritimes, pour l&rsquo;Italie, Naples et les villes de l&rsquo;Adriatique, par Civita-Vecchia. Adhère au syndicat de la Compagnie générale des Paquebots réunis [179]. (L&rsquo;Argent.)

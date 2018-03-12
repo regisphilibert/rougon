@@ -1,6 +1,7 @@
 ---
 title: L'Œuvre
-id: 75936
+wp_id: 75936
+id: oeuvre
 author: admin
 type: roman
 date: 2010-02-11T08:41:00+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy:
-rm_novel_year: 1886
+year: 1886
 rm_novel_characters:
   - 75981
   - 75992

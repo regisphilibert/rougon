@@ -1,6 +1,7 @@
 ---
 title: Pot-Bouille
-id: 75940
+wp_id: 75940
+id: pot-bouille
 author: admin
 type: roman
 date: 2010-02-11T09:40:26+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy:
-rm_novel_year: 1882
+year: 1882
 rm_novel_characters:
   - 75956
   - 75957

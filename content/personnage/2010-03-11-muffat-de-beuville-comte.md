@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-11T09:03:18+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
-rm_character_name_main: 'Muffat de Beuville '
-rm_character_name_secondary: Comte
-rm_character_main: 1
+novel:
+  - nana
+main_name: 'Muffat de Beuville '
+secondary_name: Comte
+main: 1
 
 ---
 — Fils du général. Mari de Sabine de Chouard. Père d’Estelle. La maman Muffat lui a donné une éducation sévère : tous les jours à confesse, pas d’escapades, pas de jeunesse d’aucune sorte [74]. Sa chambre d’enfant était toute froide; plus tard, à seize ans, lorsqu’il embrassait sa mère, chaque soir, il emportait jusque dans son sommeil la glace de ce baiser. Un jour, en passant, il a aperçu par une porte entre-bâillée, une servante qui se débarbouillait, et c’est l’unique souvenir qui l’ait troublé, de la puberté au mariage. Entré vierge dans la chambre nuptiale, il a trouvé chez sa femme une stricte obéissance aux devoirs conjugaux ; lui-même éprouvait une sorte de répugnance dévote. Il a grandi, il a vieilli, ignorant de la chair, plié à de rigides pratiques religieuses, ayant réglé sa vie sur des préceptes et des lois [161], avec des crises de foi d’une violence sanguine, pareilles à des accès de fièvre chaude. Grâce au souvenir de son père, il s’est naturellement trouvé en faveur après le Deux-Décembre. Il est maintenant chambellan de l’impératrice.

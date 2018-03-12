@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-15T08:17:20+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: Rasseneur
+novel:
+  - germinal
+main_name: Rasseneur
 
 ---
 — Tient un cabaret entre le coron des Deux cent quarante et la fosse du Voreux, avec cette enseigne : A l&rsquo;Avantage. Très bon ouvrier jadis, parlant bien, il se mettait à la tête de toutes les grèves et avait fini par être le chef des mécontents. La Compagnie l&rsquo;a congédié, il a trouvé de l&rsquo;argent et a planté son cabaret en face du Voreux, comme une provocation. C&rsquo;est un gros homme de trente-huit ans, rasé, à la figure ronde, au sourire débonnaire. Sa maison est en pleine prospérité, il devient un centre, il s&rsquo;enrichit des colères qu&rsquo;il a peu à peu soufflées au cœur de ses anciens camarades [73]. Les théories socialistes lui sont étrangères; il prétend demander seulement le possible aux patrons, sans exiger, comme tant d&rsquo;autres, des choses trop dures à obtenir [75].

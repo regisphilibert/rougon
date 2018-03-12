@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-16T08:06:32+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Sandoz '
-rm_character_name_secondary: Pierre
-rm_character_main: 1
+novel:
+  - oeuvre
+main_name: 'Sandoz '
+secondary_name: Pierre
+main: 1
 
 ---
 — Un grand romancier, dont la jeunesse s&rsquo;est écoulée à Plassans. Au collège, Claude Lantier, Dubuche et lui étaient les trois inséparables; ils ont usé ensemble, en huitième, leur première culotte. Hors du collège, Dubuche, qui était pensionnaire, ne se joignait aux deux autres que les jours de vacances. Claude et Pierre, eux, ont été sauvés de l&rsquo;engourdissement du milieu par leur amour des grandes marches à des lieues de Plassans, par la fringale de lecture qui les a entraînés vers la passion et les larmes de Musset après le décor énorme d&rsquo;Hugo, par leur dédain des joies provinciales, de la partie de dominos sans cesse recommencée, de la même promenade à la même heure sur la même avenue; ils ont même banni la femme, érigeant leurs timidités en une austérité de gamins supérieurs [42]. A Paris, Sandoz, employé à la mairie du cinquième arrondissement, bureau des naissances, gagne cent cinquante francs par mois; il est cloué là par la nécessité de nourrir sa mère, qu&rsquo;il aime tendrement.

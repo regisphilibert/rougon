@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-09T09:52:50+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-rm_character_name_main: Hanchecorne
+novel:
+  - bonheur
+main_name: Hanchecorne
 
 ---
 — Premier commis au Vieil Elbeuf, chez Aristide Finet, rue de la Michodière. A épousé la fille du patron, Désirée, et a succédé à son beau-père. Hauchecorne est originaire de Rambouillet [15]. Il cède plus tard le fonds à son gendre Baudu. 

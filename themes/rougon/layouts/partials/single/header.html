@@ -1,4 +1,8 @@
-{{ $header := .Resources.GetMatch "**header*" }}
+{{ .Scratch.Set "header" false }}
+{{ if ge .Hugo.Version 0.34 }}
+        {{ .Scratch.Set "header" (.Resources.GetMatch "**header*") }}
+{{ end }}
+{{ $header := .Scratch.Get "header" }}
 <div class="single-head">
     <div class="item-navigation">
         {{ if .PrevInSection }}
@@ -16,7 +20,7 @@
                 <div class="background-image-copyrights">{{ . }}</div>
                 {{ end }}
             {{ end }}
-            {{ .Title }} {{ with .Params.rm_novel_year }}<small>{{ . }}</small>{{ end }}
+            {{ .Title }} {{ with .Params.year }}<small>{{ . }}</small>{{ end }}
         </h1>
 
     </div>

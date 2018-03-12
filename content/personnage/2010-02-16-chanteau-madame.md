@@ -4,10 +4,10 @@ id: 76982
 author: admin
 type: personnage
 date: 2010-02-16T09:06:54+00:00
-rm_character_novel:
-  - 75938
-rm_character_name_main: 'Chanteau '
-rm_character_name_secondary: Madame
+novel:
+  - joie
+main_name: 'Chanteau '
+secondary_name: Madame
 
 ---
 — Voir [LA VIGNIERE (Eugénie de)][1]

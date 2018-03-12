@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T10:05:17+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
-rm_character_name_main: 'Dauvergne '
-rm_character_name_secondary: Sophie
+novel:
+  - bete
+main_name: 'Dauvergne '
+secondary_name: Sophie
 
 ---
 — L&rsquo;aînée des deux sœurs. Elle a vingt ans. _(La Bête humaine.)_

@@ -1,6 +1,7 @@
 ---
 title: La Curée
-id: 75947
+wp_id: 75947
+id: curee
 author: admin
 type: roman
 date: 2010-02-11T10:34:25+00:00
@@ -14,7 +15,7 @@ menu:
   main:
     weight: 02
     parent: novels
-rm_novel_year: 1872
+year: 1872
 rm_novel_characters:
   - 75994
   - 76020

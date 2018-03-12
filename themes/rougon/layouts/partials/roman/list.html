@@ -1,0 +1,2 @@
+{{ $sep := .sep }}
+{{ range $index, $element := .novels }}{{ if $index }}{{ $sep }}{{end}}<span><a href="{{ .Permalink }}">{{ .Title }}</a></span>{{ end }}

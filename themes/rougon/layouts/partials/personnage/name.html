@@ -1,0 +1,1 @@
+{{ with .Params.secondary_name }}<span class="secondary-name">{{ trim . " " }}</span> {{ end }}<span class="main-name">{{ .Params.main_name }}</span>{{ with .Params.name_suffix }} <span class="name-suffix">{{ . }}</span>{{ end }}

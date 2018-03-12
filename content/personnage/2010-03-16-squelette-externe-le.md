@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T08:59:23+00:00
 excerpt: L’Œuvre
-rm_character_novel:
-  - 75936
-rm_character_name_main: 'Externe '
-rm_character_name_secondary: Le
+novel:
+  - oeuvre
+main_name: 'Externe '
+secondary_name: Le
 
 ---
 — Voir <a href="/personnage/mimi-la-mort/" target="_self">MIMI-LA-MORT</a>.

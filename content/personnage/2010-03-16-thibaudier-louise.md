@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-16T09:24:37+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
-rm_character_name_main: 'Thibaudier '
-rm_character_name_secondary: Louise
-rm_character_main: 1
+novel:
+  - joie
+main_name: 'Thibaudier '
+secondary_name: Louise
+main: 1
 
 ---
 — Fille du banquier. Madame Thibaudier est morte jeune, entre les bras de madame Chanteau, à qui elle a recommandé sa fille. A onze ans et demi, Louise est mince et fine; elle a le visage irrégulier, mais d&rsquo;un très grand charme, avec de beaux cheveux blonds, noués et frisés comme ceux d&rsquo;une dame. Thibaudier lui donnera cent mille francs de dot, qui s&rsquo;ajouteront aux cent mille francs qu&rsquo;elle tient de sa mère [118]. Madame Chanteau flaire celte fortune pour son fils ; elle poussera plus tard celui-ci dans les bras de Louise [190], espérant, provoquant même une faute qui rendrait le mariage inévitable.

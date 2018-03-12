@@ -1,6 +1,7 @@
 ---
 title: La Faute de l'abbé Mouret
-id: 75945
+wp_id: 75945
+id: faute
 author: admin
 type: roman
 date: 2010-02-11T10:38:34+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: La faute de l'abbé Mouret (film) réal. Georges Franju
-rm_novel_year: 1875
+year: 1875
 rm_novel_characters:
   - 75959
   - 76046

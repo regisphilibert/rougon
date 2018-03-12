@@ -1,6 +1,7 @@
 ---
 title: Au Bonheur des Dames
-id: 75939
+wp_id: 75939
+id: bonheur
 author: admin
 type: roman
 date: 2010-02-11T10:40:39+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy:
-rm_novel_year: 1883
+year: 1883
 rm_novel_characters:
   - 75954
   - 75968

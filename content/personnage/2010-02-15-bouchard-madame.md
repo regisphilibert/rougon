@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-15T09:46:06+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
-rm_character_name_main: 'Bouchard '
-rm_character_name_secondary: Madame
+novel:
+  - excellence
+main_name: 'Bouchard '
+secondary_name: Madame
 
 ---
 — Voir [DESVIGNES (Adèle)][1]

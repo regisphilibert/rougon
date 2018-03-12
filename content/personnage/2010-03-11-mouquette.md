@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-11T08:44:01+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: Mouquette
-rm_character_main: 1
+novel:
+  - germinal
+main_name: Mouquette
+main: 1
 
 ---
 **—** Une hercheuse de dix-huit ans, bonne fille dont la gorge et le derrière énormes crèvent la veste et la culotte. Elle habite avec son père et son frère, dans les ruines de Réquillart. An milieu des blés en été, contre un mur en hiver, elle se donne du plaisir avec son amoureux de la semaine; toute la mine y passe, une vraie tournée de camarades, sans autre conséquence. On ne la fâche qu’en lui attribuant des amours extérieures; elle se respecte trop pour aller avec un autre qu’un charbonnier [29]. Le lundi, lorsqu’elle est lasse des farces du dimanche, elle se donne un violent coup de poing sur le nez, quitte sa taille sous prétexte d’aller chercher de l’eau, et vient se réfugier à l’écurie, dans la litière chaude [62].

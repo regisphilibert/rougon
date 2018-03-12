@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-15T09:50:40+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Desfeuilles '
-rm_character_name_secondary: Général
+novel:
+  - debacle
+main_name: 'Desfeuilles '
+secondary_name: Général
 
 ---
 — Pendant la guerre do 1870, il est à la tète d&rsquo;une brigade d&rsquo;infanterie (7<sup>e</sup> corps, commandé par Félix Douay). Le 106<sup>e</sup>_;_ de ligne, colonel de Vineuil, appartient à cette brigade. Très braillard, le général roule son gros corps sur ses courtes jambes, il a un teint fleuri de bon vivant que son peu de cervelle ne gêne; point [5]. Dans cette campagne, il sera comme tant d&rsquo;autres chefs plus bêtes que méchants, ne sachant rien, ne prévoyant rien, n&rsquo;ayant ni plan, ni idées, ni hasards heureux [110]. D&rsquo;ailleurs, nul souci de la discipline : pour ne pas avoir à sévir, il ferme les yeux devant le pillage d&rsquo;une ferme [90].

@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-08T16:25:25+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
-rm_character_name_main: 'Grandmorin '
-rm_character_name_secondary: Le Président
-rm_character_main: 1
+novel:
+  - bete
+main_name: 'Grandmorin '
+secondary_name: Le Président
+main: 1
 
 ---
 — Membre du conseil d&rsquo;administration de la Compagnie de l&rsquo;Ouest. Né en 1804, substitut à Digne au lendemain de 1830, puis à Fontainebleau, puis à Paris, ensuite procureur à Troyes, avocat général à Rennes, enfin premier président à Rouen, nommé, le jour même de sa retraite, commandeur de la Légion d&rsquo;honneur. Une des plus belles carrières de la magistrature. Riche à plusieurs millions, le président fait partie du conseil général de la Seine-Inférieure depuis 1855. Il possède un hôtel à Paris, rue du Rocher, et réside souvent chez sa sœur, madame Bonnehon, au château de Doinville.

@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T16:14:14+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Godard '
-rm_character_name_secondary: Abbé
+novel:
+  - terre
+main_name: 'Godard '
+secondary_name: Abbé
 
 ---
 — Curé de Bazoches-le-Doyen. Dessert l&rsquo;ancienne paroisse de Rognes qui, plus importante autrefois et réduite aujourd&rsquo;hui à une population de trois cents habitants à peine, n&rsquo;a pas de curé depuis des années. Il fait chaque dimanche à pied les trois kilomètres qui séparent les deux communes. Gros et court, la nuque rouge, il. a une face apoplectique où la graisse a noyé le petit nez camard et les petits yeux gris. Sa tête est embroussaillée d&rsquo;épais cheveux roux grisonnants [47]. L&rsquo;éloquence est son côté faible ; au prône, les mots ne viennent pas, ce qui explique pourquoi monseigneur l&rsquo;oublie depuis vingt-cinq ans dans sa petite cure [52].

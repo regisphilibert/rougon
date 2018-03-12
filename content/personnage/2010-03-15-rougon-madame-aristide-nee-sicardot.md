@@ -5,12 +5,12 @@ author: admin
 type: personnage
 date: 2010-03-15T09:07:36+00:00
 excerpt: La Fortune des Rougon, La Curée
-rm_character_novel:
-  - 75947
-  - 75928
-rm_character_name_main: 'Rougon '
-rm_character_name_secondary: Madame Aristide
-rm_character_name_precision: née SICARDOT.
+novel:
+  - curee
+  - fortune
+main_name: 'Rougon '
+secondary_name: Madame Aristide
+name_suffix: née Sicardot
 
 ---
 — Voir <a href="/personnage/sicardot-angele" target="_self">SICARDOT (Angèle)</a>.

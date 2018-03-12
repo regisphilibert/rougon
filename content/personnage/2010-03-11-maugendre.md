@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-11T08:21:43+00:00
 excerpt: L’Argent
-rm_character_novel:
-  - 75932
-rm_character_name_main: Maugendre
+novel:
+  - argent
+main_name: Maugendre
 
 ---
 — Beau-père de Jordan. Avait à la Villette une manufacture de bâches où il a gagné quinze mille francs de rente. Gros homme calme et chauve, à favoris blancs. S’est retiré avec sa femme en un petit hôtel, avec un beau jardin, rue Legendre. Les deux époux vivent trop grassement, s’ennuyant à ne plus rien faire. C’est à contre-cœur qu’ils ont vu leur fille Marcelle épouser Jordan, jeune écrivain dont le père est mort ruiné. Ils se méfient d’un poète, croient avoir beaucoup fait en consentant au mariage et n’ont rien donné, sous le prétexte que Marcelle, après eux, aura leur fortune intacte, engraissée d’économies [19].

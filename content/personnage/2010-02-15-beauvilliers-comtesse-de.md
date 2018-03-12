@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-15T08:31:51+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
-rm_character_name_main: 'Beauvilliers '
-rm_character_name_secondary: Comtesse de
+novel:
+  - argent
+main_name: 'Beauvilliers '
+secondary_name: Comtesse de
 
 ---
 — Femme du comte. Mère de Ferdinand et d&rsquo;Alice. A beaucoup souffert de son mari, dont elle ne s&rsquo;est jamais plainte. C&rsquo;est une grande femme maigre de soixante ans, toute blanche, au grand nez droit, aux lèvres minces, au cou particulièrement long; elle a l&rsquo;air d&rsquo;un cygne très ancien, d&rsquo;une douceur désolée. Elle occupe avec sa fille, rue Saint-Lazare, une ancienne maison de plaisance, la Folie-Beauvilliers, attenante à l&rsquo;hôtel d&rsquo;Orviedo; c&rsquo;est, avec la ferme des Aublets, près de Vendôme, la dernière épave d&rsquo;une immense fortune. La ferme rapporte environ quinze mille francs de rente, mais la maison de Paris, écrasée d&rsquo;hypothèques, menacée d&rsquo;une mise en vente si l&rsquo;on ne paie pas les intérêts, mange la plus grosse part du revenu. Aussi madame de Beauvilliers doit-elle racheter par de sordides économies le luxe extérieur auquel la condamne l&rsquo;orgueil de sa condition. Soucieuse de se tenir debout à son rang, rêvant de marier sa fille à un homme d&rsquo;égale noblesse et de faire de son fils un soldat, elle vit dans un douloureux et puéril héroïsme quotidien. Mais un grand espoir va lui venir.

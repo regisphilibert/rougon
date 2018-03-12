@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-10T09:36:37+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
-rm_character_name_main: 'La Vignière '
-rm_character_name_secondary: Eugénie de
-rm_character_main: 1
+novel:
+  - joie
+main_name: 'La Vignière '
+secondary_name: Eugénie de
+main: 1
 
 ---
 — Orpheline de hobereaux du Cotentin, complètement ruinés. Était institutrice à Caen, courait, le cachet, quand elle épousa Chanteau.

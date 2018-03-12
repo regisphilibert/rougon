@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-11T08:25:31+00:00
 excerpt: L’Argent
-rm_character_novel:
-  - 75932
-rm_character_name_main: 'Méchain '
-rm_character_name_secondary: Madame
+novel:
+  - argent
+main_name: 'Méchain '
+secondary_name: Madame
 
 ---
 — Petite-cousine de Rosalie Chavaille, dont elle a recueilli le fils, Victor Saccard. Une femme énorme, bien connue des habitués de la Bourse. Son visage de pleine lune, bouffi et rouge, aux minces yeux bleus, au petit nez perdu, à la petite bouche d’où sort une voix flûtée d’enfant, semble déborder d’un vieux chapeau mauve, noué de travers par des brides grenat. La gorge géante et le ventre hydropique crèvent la robe de popeline verte, mangée de boue, tournée au jaune. Se dit veuve, mais personne n’a connu son mari. Elle vient on ne sait d’où et paraît avoir eu toujours cinquante ans.

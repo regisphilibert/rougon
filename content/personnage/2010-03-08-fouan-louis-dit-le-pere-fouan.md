@@ -5,12 +5,12 @@ author: admin
 type: personnage
 date: 2010-03-08T08:48:09+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Fouan '
-rm_character_name_secondary: Louis
-rm_character_name_precision: dit Le Père Fouan
-rm_character_main: 1
+novel:
+  - terre
+main_name: 'Fouan '
+secondary_name: Louis
+name_suffix: dit Le Père Fouan
+main: 1
 
 ---
 —Fils de Joseph-Casimir. Mari de Rose Maliverne. Père de Jésus-Christ, de Buteau et de Fanny Delhomme. Il a eu en partage sept arpents de terre et a épousé Rose, héritière de douze arpents, il a cultivé ces biens avec acharnement, il les a augmentés lopins à lopins, au prix de lapins sordide avarice. Telle parcelle représente des mois de pain et de fromage, des hivers sans feu, des étés de travaux brûlants, sans autre soutien que quelques gorgées d&rsquo;eau. Il a aimé la terre en femme qui tue et pour qui on assassine. Ni épouse, ni enfants, ni personne, rien d&rsquo;humain: la terre! [20] Pendant des années, tous, la femme, les enfants ont tremblé sous lui, sous ce despotisme rude du chef de la famille paysanne [27]. Il a ainsi vécu jusqu&rsquo;à soixante-dix ans. Sauf ses jambes, il est gaillard encore, bien tenu; il a de petits favoris blancs, en pattes de lièvre correctes ; le long nez de la famille aiguise sa face maigre, aux plans de cuir coupés de grands plis. Mais, jadis très robuste, il est maintenant desséché et rapetissé, son corps se courbe, comme pour retourner à cette terre, si violemment désirée et possédée. Et l&rsquo;heure est, venue: comme le père Fouan ne peut plus cultiver lui-même, qu&rsquo;il ne veut pas introduire chez lui des étrangers qui pilleraient, que son cœur se fend de voir la bonne terre se gâter faute de soin, que d&rsquo;autre part, la donation entre vifs offre aux familles une économie sur les droits d&rsquo;héritage, il se décide à céder le bien à ses fils, comme son père le lui a cédé à lui-même, enragé de sa vieillesse impuissante. La maison qu&rsquo;il habite au bas de Rognes vient de sa femme rose; ils garderont cette maison et le jardin, jouiront de redevances en nature, et chacun des enfants leur servira deux cents francs de rente viagère. Fouan pourrait vivre satisfait, car il possède un magot, trois cents francs de rente, que nul ne connaît. Mais quinze jours après le partage, malade de n&rsquo;avoir plus de terre, il fait la sottise de conclure un marché de dupe avec le père Saucisse, celui-ci cédant, après sa mort, un arpent de bien, à la condition de recevoir, sa vie durant, quinze sous chaque matin. Et c&rsquo;est une dernière illusion, où le père Fouan contente vaguement sa passion de la terre.

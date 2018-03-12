@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-17T07:30:10+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
-rm_character_name_main: 'Venot '
-rm_character_name_secondary: Théophile
+novel:
+  - nana
+main_name: 'Venot '
+secondary_name: Théophile
 
 ---
 — Un ancien avoué qui a eu la spécialité des procès ecclésiastiques et a fait sa fortune en servant les Jésuites. Il s&rsquo;est retiré avec de belles rentes et mène une existence assez mystérieuse, reçu partout, salué très bas, même un peu craint, comme s&rsquo;il représentait une grande force, une force occulte qu&rsquo;on sent derrière lui. C&rsquo;est un petit homme de soixante ans, avec des dents mauvaises et un sourire fin. Il se montre très humble, est marguillier à la Madeleine et a simplement accepté, pour occuper ses loisirs, une situation d&rsquo;adjoint à la mairie du neuvième arrondissement [76] ; mais avec sa mine douée et grasse, c&rsquo;est un terrible monsieur, qui trempe dans tous les tripotages de la prêtraille [209]. Installé chez les Muffat comme chez lui, écoutant tout le monde, ne lâchant pas une parole, souriant toujours, il surveille les événements, ayant l&rsquo;unique souci de les faire tourner à la gloire du ciel.

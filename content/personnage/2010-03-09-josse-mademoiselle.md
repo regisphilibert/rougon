@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-09T10:40:54+00:00
 excerpt: "L'Assommoir, Nana"
-rm_character_novel:
-  - 75943
-  - 75941
-rm_character_name_main: 'Josse '
-rm_character_name_secondary: Mademoiselle
+novel:
+  - assommoir
+  - nana
+main_name: 'Josse '
+secondary_name: Mademoiselle
 
 ---
 — tient une petite pension de jeunes enfants rue Polonceau. Anna Coupeau est son élève et se rend si intolérable que, deux fois, mademoiselle Josse la met à la porte, puis la reprend pour ne pas perdre les six francs mensuels [195]. _(L&rsquo;Assommoir.)_

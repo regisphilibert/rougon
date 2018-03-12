@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-11T08:39:22+00:00
 excerpt: La Débâcle.
-rm_character_novel:
-  - 75931
-rm_character_name_main: 'Morange '
-rm_character_name_secondary: Silvine
+novel:
+  - debacle
+main_name: 'Morange '
+secondary_name: Silvine
 
 ---
 — Servante de ferme à Remilly. Elle a perdu toute jeune sa mère, ouvrière séduite, qui travaillait dans une usine de Raucourt. Son parrain d’occasion, le docteur Dalichamp, l’a placée comme petite servante chez le père Fouchard. A seize ans, elle a été aimée du fils du maître et devant l’opposition du vieux, le jeune homme s’est engagé. Alors, dans une minute d’inconscience, malade de chagrin, affaiblie encore par les larmes de la séparation, la malheureuse fille s’est donnée à un valet de ferme, Goliath Steinberg, elle est devenue enceinte, puis l’homme a disparu, le petit Charlot est né. Mais elle n’a jamais cessé d’aimer Honoré Fouchard, elle ose le lui écrire trois ans après, à l’heure de la guerre ; elle ne veut pas qu’il meure sans savoir qu’elle n’a jamais aimé que lui ; c’est un adieu plein d’une infinie tendresse.

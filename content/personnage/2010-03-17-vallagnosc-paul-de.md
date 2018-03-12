@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-17T07:19:27+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-rm_character_name_main: 'Vallagnosc '
-rm_character_name_secondary: Paul De
+novel:
+  - bonheur
+main_name: 'Vallagnosc '
+secondary_name: Paul De
 
 ---
 — Un ancien camarade de collège d&rsquo;Octave Mouret, à Plassans. Grand garçon pâle, d&rsquo;une pauvreté de sang distinguée [75]. Dernier rejeton d&rsquo;une vieille famille parlementaire, de petite noblesse ruinée et boudeuse, il a été un fort en thème, toujours premier, donné en continuel exemple par le professeur, qui lui prédisait le plus bel avenir, tandis qu&rsquo;Octave, à la queue de la classe, pourrissait parmi les cancres, heureux et gras, se dépensant au dehors en plaisirs violents. L&rsquo;histoire de Paul est celle des garçons pauvres, qui croient devoir à leur naissance de rester dans les professions libérales, et qui s&rsquo;enterrent au fond d&rsquo;une médiocrité vaniteuse, heureux encore quand ils ne crèvent pas la faim, avec des diplômes plein leurs tiroirs. Lui, a fait son droit par tradition de famille et est venu occuper une petite place au ministère de l&rsquo;intérieur, où il se tient enfoui, comme une taupe dans un trou; il y gagne trois mille francs [77].

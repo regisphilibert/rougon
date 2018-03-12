@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-08T09:23:50+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-rm_character_name_main: 'Desforges '
-rm_character_name_secondary: Madame Henriette
-rm_character_main: 1
+novel:
+  - bonheur
+main_name: 'Desforges '
+secondary_name: Madame Henriette
+main: 1
 
 ---
 — Fille d&rsquo;un conseiller d&rsquo;Etat. A été mariée à un homme de Bourse, qui utilisait la précieuse amitié du financier Hartmann. Henriette a été reconnaissante au baron, du vivant même de Desforges et, lorsqu&rsquo;elle est devenue veuve, la liaison a continué mais toujours discrètement, sans une imprudence, sans un éclat. Jamais madame Desforges ne s&rsquo;affiche, on la reçoit partout dans la haute bourgeoisie où elle est née. Même lorsque la passion du banquier ne lui suffit plus, et que le baron se borne paternellement à commanditer ses amis, elle apporte dans ses coups de cœur une mesure et un tact si délicats, une science du monde si adroitement appliquée, que les apparences restent sauves et que personne ne se permettrait de mettre tout haut son honnêteté en doute.

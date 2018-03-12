@@ -5,13 +5,13 @@ author: admin
 type: personnage
 date: 2010-03-15T07:15:46+00:00
 excerpt: "La Fortune des Rougon, La Faute de l'abbé Mouret, Le Docteur Pascal"
-rm_character_novel:
-  - 75945
-  - 75928
-  - 75930
-rm_character_name_main: 'Pascal '
-rm_character_name_secondary: Le Docteur
-rm_character_main: 1
+novel:
+  - faute
+  - fortune
+  - docteur
+main_name: 'Pascal '
+secondary_name: Le Docteur
+main: 1
 
 ---
 — Second fils de Pierre Rougon et de Félicité Puech. Frère d&rsquo;Eugène, Aristide, Sidonie et Marthe. Né à Plassans en 1813, il ne parait pas appartenir à la famille. Grand, le visage doux et sévère, il a une droiture d&rsquo;esprit, un amour de l&rsquo;étude, un besoin de modestie, une sobriété, un beau mépris de la fortune qui l&rsquo;isolent complètement, au milieu des appétits désordonnés qui l&rsquo;entourent. Après de brillantes éludes médicales à Paris, il rentre à Plassans, s&rsquo;enferme en une petite maison claire de la ville neuve, s&rsquo;absorbe amoureusement dans des découvertes scientifiques, se contentant des quelques malades que le hasard lui envoie, gagnant juste de quoi vivre. Sans qu&rsquo;on s&rsquo;en doute autour de lui, il adresse d&rsquo;intéressants mémoires à l&rsquo;Académie des Sciences et devient un homme très connu et très écoulé du monde savant [79]. Plein de perspicacité, il a, dès longtemps, entrevu l&rsquo;avenir des Rougon-Macquart et, du fond de son laboratoire, il observe curieusement leurs évolutions. _(La Fortune des Rougon.)_

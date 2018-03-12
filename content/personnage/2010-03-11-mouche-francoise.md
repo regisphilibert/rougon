@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-11T08:41:07+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
-rm_character_name_main: 'Mouche '
-rm_character_name_secondary: Françoise
+novel:
+  - terre
+main_name: 'Mouche '
+secondary_name: Françoise
 
 ---
 — Fille cadette de Michel Fouan, dit Mouche. Orpheline à quinze ans. Elle a une petite gorge dure quise foime, une face allongée aux yeux noirs très profonds, aux lèvres épaisses, d’une chair fraîche et rose de fruit mûrissant. La peau est très brune, hâlée et dorée du soleil [5]. Le grand air et les durs travaux n’ont pas eu le temps de l’enlaidir. Françoise a le renom d’une fameuse tête, l’injustice l’exaspère; quand elle a dit : ça c’est à moi, ça c’est à toi, elle n’en démordrait pas sous le couteau. Raisonnable, très sage, sans vilaines pensées, seulement tourmentée par nu sang hâtif, elle a été élevée par Lise, leur mère étant morte, et c’est une adoration entre les deux sœurs, on les rencontre toujours ensemble.

@@ -1,6 +1,7 @@
 ---
 title: La Débâcle
-id: 75931
+wp_id: 75931
+id: debacle
 author: admin
 type: roman
 date: 2010-02-11T09:41:29+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy:
-rm_novel_year: 1892
+year: 1892
 rm_novel_characters:
   - 75964
   - 75965

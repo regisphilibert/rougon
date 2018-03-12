@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-02-16T10:01:32+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
-rm_character_name_main: 'Corbreuse '
-rm_character_name_secondary: Duc de
+novel:
+  - nana
+main_name: 'Corbreuse '
+secondary_name: Duc de
 
 ---
 — Propriétaire d&rsquo;une écurie de courses [384]. _(Nana.)_

@@ -1,6 +1,7 @@
 ---
 title: Une Page d'Amour
-id: 75942
+wp_id: 75942
+id: page
 author: admin
 type: roman
 date: 2010-02-11T09:40:01+00:00
@@ -13,7 +14,7 @@ resources:
   - src: '**header.*'
     params:
       copy: Rue de Paris et temps de pluie - Gustave Caillebotte
-rm_novel_year: 1878
+year: 1878
 rm_novel_characters:
   - 76036
   - 76074

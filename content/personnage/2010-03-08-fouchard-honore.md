@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-08T08:53:07+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
-rm_character_name_main: 'Fouchard '
-rm_character_name_secondary: Honoré
+novel:
+  - nana
+main_name: 'Fouchard '
+secondary_name: Honoré
 
 ---
 — Fils unique du vieux Fouchard. A vingt ans, en 1867, il a tiré un bon numéro, ravi de pouvoir épouser la petite Silvine Morange, servante chez son père. Mais devant la rude opposition de ce dernier, il s&rsquo;engage et est envoyé en Afrique, dans l&rsquo;artillerie. Quand il a su l&rsquo;aventure de sa chère Silvine, séduite par Steinberg et devenue mère, il est resté trois mois à l&rsquo;hôpital et n&rsquo;a jamais voulu profiter d&rsquo;un congé pour revenir au pays. À l&rsquo;heure de la guerre, c&rsquo;est un maréchal des logis, à l&rsquo;air crâne et d&rsquo;aplomb, avec ses moustaches et sa barbiche brunes [4]. Sur les routes d&rsquo;Alsace, il défile, campé fièrement sur son cheval, à la gauche de sa pièce, soignée, astiquée, éclatante ainsi qu&rsquo;un soleil, admirée de tout le monde, des bêles et des gens, serrés autour d&rsquo;elle, dans une discipline et une tendresse de famille brave [35]. Honoré a reçu de Silvine une lettre disant qu&rsquo;elle l&rsquo;aime toujours, qu&rsquo;elle n&rsquo;a jamais aimé que lui [97], il en tremble de bonheur, et lorsque, de passage à Remilly, il la revoit, c&rsquo;est pour lui pardonner ; il l&rsquo;épousera dès qu&rsquo;il sera rentré du service, on n&rsquo;étranglera pas le petit, d&rsquo;autres pousseront, on finira par ne plus le reconnaître dans le tas [173].

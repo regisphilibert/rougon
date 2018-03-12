@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-09T10:04:01+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
-rm_character_name_main: 'Hennebeau '
-rm_character_name_secondary: Madame
+novel:
+  - germinal
+main_name: 'Hennebeau '
+secondary_name: Madame
 
 ---
 — Femme du directeur des mines de Montsou. C&rsquo;est ta fille d&rsquo;un riche filateur d&rsquo;Arras. Elevée dans le respect de l&rsquo;argent, elle méprise ce mari qui, dans les premières années, gagnait des appointements médiocres et dont elle n&rsquo;a tiré aucune des satisfactions vaniteuses, rêvées en pension. D&rsquo;une sensualité de blonde gourmande, mais froide avec son mari, elle a eu des amants ; les dix ans qu&rsquo;elle a passés à Paris ont été emplis par une grande passion, une liaison publique avec un homme, dont l&rsquo;abandon a failli la tuer [224]. A Montsou, elle tombe en une langueur d&rsquo;ennui et se fait consoler par le neveu de son mari, l&rsquo;ingénieur Paul Négrel, à qui elle se livre et qu&rsquo;elle s&rsquo;amuse à vouloir marier ; dans ses rapports avec lui, elle ne voit qu&rsquo;un joujou de récréation, elle y met ses tendresses dernières de femme oisive et finie [226].

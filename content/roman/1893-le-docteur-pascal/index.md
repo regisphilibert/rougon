@@ -1,6 +1,7 @@
 ---
 title: Le Docteur Pascal
-id: 75930
+wp_id: 75930
+id: docteur
 author: admin
 type: roman
 date: 2010-02-11T09:41:38+00:00
@@ -12,7 +13,7 @@ resources:
   - src: '**header.*'
     params:
       copy:
-rm_novel_year: 1893
+year: 1893
 rm_novel_characters:
   - 75978
   - 75999

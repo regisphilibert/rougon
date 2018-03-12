@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-11T08:01:07+00:00
 excerpt: L’Œuvre
-rm_character_novel:
-  - 75936
-rm_character_name_main: Mahoudeau
+novel:
+  - oeuvre
+main_name: Mahoudeau
 
 ---
 — Un sculpteur ami de Claude Lantier et de Sandoz. Fils, d’un tailleur de pierres de Plassans, il a remporté là-bas de grands succès aux concours du Musée; puis, il est venu à Paris comme lauréat de la ville, avec une pension annuelle de huit cents francs pour quatre années. A Paris, il a vécu dépaysé, sans défense, ratant l’Ecole des Beaux-Arts, mangeant sa pension à ne rien faire ; si bien que, les quatre ans finis, il s’est vu forcé, pour vivre, de se mettre aux gages d’un marchand do bons dieux, où il a gratté dix heures par jour des Saint-Joseph, des Saint-Roch, des Madeleine, tout le calendrier des paroisses.
