@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:48:39+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
+novel:
+  - debacle
 rm_character_name_main: 'Lefèvre '
 rm_character_name_secondary: Madame
 

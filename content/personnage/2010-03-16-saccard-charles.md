@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-16T07:36:43+00:00
 excerpt: La Curée, Le Docteur Pascal
-rm_character_novel:
-  - 75947
-  - 75930
+novel:
+  - curee
+  - docteur
 rm_character_name_main: 'Saccard '
 rm_character_name_secondary: Charles
 

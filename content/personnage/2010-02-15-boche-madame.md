@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-02-15T09:10:05+00:00
 excerpt: "L'Assommoir, Nana"
-rm_character_novel:
-  - 75943
-  - 75941
+novel:
+  - assommoir
+  - nana
 rm_character_name_main: 'Boche '
 rm_character_name_secondary: Madame
 

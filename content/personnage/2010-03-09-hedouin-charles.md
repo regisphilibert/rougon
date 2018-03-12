@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:01:02+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: 'Hédouin '
 rm_character_name_secondary: Charles
 

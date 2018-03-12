@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:17:50+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Mascart '
 rm_character_name_secondary: Le Père
 

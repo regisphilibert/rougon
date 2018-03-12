@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T07:46:40+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Baquet '
 rm_character_name_secondary: la mère
 

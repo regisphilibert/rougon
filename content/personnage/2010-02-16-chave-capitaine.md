@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:36:49+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Chave '
 rm_character_name_secondary: Capitaine
 

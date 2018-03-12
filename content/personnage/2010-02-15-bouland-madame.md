@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:46:32+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'Bouland '
 rm_character_name_secondary: Madame
 

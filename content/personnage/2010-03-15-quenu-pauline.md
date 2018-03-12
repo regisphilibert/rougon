@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-15T08:01:56+00:00
 excerpt: Le Ventre de Paris, La Joie de vivre
-rm_character_novel:
-  - 75938
-  - 75946
+novel:
+  - joie
+  - ventre
 rm_character_name_main: 'Quenu '
 rm_character_name_secondary: Pauline
 rm_character_main: 1

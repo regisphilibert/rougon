@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T08:55:52+00:00
 excerpt: Le Docteur Pascal
-rm_character_novel:
-  - 75930
+novel:
+  - docteur
 rm_character_name_main: Lafouasse
 
 ---

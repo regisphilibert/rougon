@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-10T09:04:30+00:00
 excerpt: "La Fortune des Rougon, L'Assommoir"
-rm_character_novel:
-  - 75943
-  - 75928
+novel:
+  - assommoir
+  - fortune
 rm_character_name_main: 'Lantier '
 rm_character_name_secondary: Auguste
 

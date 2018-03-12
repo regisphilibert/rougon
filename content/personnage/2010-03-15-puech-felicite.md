@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-15T07:55:02+00:00
 excerpt: La Fortune des Rougon, La Conquête de Plassans, Le Docteur Pascal
-rm_character_novel:
-  - 75929
-  - 75928
-  - 75930
+novel:
+  - conquete
+  - fortune
+  - docteur
 rm_character_name_main: 'Puech '
 rm_character_name_secondary: Félicité
 rm_character_main: 1

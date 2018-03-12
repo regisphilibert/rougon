@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:58:39+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Besnus '
 rm_character_name_secondary: Clarisse
 

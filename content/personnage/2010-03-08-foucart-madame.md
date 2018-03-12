@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:52:11+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Foucart '
 rm_character_name_secondary: Madame
 

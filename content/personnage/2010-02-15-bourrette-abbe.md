@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:52:42+00:00
 excerpt: La Conquête de Plassans
-rm_character_novel:
-  - 75929
+novel:
+  - conquete
 rm_character_name_main: 'Bourrette '
 rm_character_name_secondary: Abbé
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T08:02:36+00:00
 excerpt: La Débacle
-rm_character_novel:
-  - 75931
+novel:
+  - debacle
 rm_character_name_main: 'Quittard '
 rm_character_name_secondary: Auguste
 

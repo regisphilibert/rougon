@@ -4,8 +4,8 @@ id: 77207
 author: admin
 type: personnage
 date: 2010-02-11T12:42:24+00:00
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: Bachelard Eléonore
 
 ---

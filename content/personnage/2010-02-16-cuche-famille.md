@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T10:12:12+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'Cuche '
 rm_character_name_secondary: Famille
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:43:47+00:00
 excerpt: "La Faute de l'abbé Mouret"
-rm_character_novel:
-  - 75945
+novel:
+  - faute
 rm_character_name_main: 'Archangias '
 rm_character_name_secondary: Frère
 rm_character_main: 1

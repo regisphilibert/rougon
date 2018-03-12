@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:13:28+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
+novel:
+  - excellence
 rm_character_name_main: 'Gilquin '
 rm_character_name_secondary: Théodore
 

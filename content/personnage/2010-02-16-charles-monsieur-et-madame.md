@@ -4,8 +4,8 @@ id: 76962
 author: admin
 type: personnage
 date: 2010-02-16T09:24:34+00:00
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Charles '
 rm_character_name_secondary: Monsieur et Madame
 

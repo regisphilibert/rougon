@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:04:05+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Maloir '
 rm_character_name_secondary: Madame
 

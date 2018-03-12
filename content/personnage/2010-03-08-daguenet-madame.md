@@ -4,8 +4,8 @@ id: 76810
 author: admin
 type: personnage
 date: 2010-03-08T10:00:14+00:00
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Daguenet '
 rm_character_name_secondary: Madame
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T07:32:17+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: 'Bachelard '
 rm_character_name_secondary: Narcisse
 rm_character_main: 1

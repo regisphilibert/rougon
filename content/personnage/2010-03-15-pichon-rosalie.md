@@ -4,8 +4,8 @@ id: 76243
 author: admin
 type: personnage
 date: 2010-03-15T07:31:39+00:00
-rm_character_novel:
-  - 75942
+novel:
+  - page
 rm_character_name_main: 'Pichon '
 rm_character_name_secondary: Rosalie
 

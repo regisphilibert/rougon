@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:41:54+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Vigouroux '
 rm_character_name_secondary: Madame
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:09:05+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Blond '
 rm_character_name_secondary: Marla
 

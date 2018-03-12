@@ -1,6 +1,7 @@
 ---
 title: La Débâcle
-id: 75931
+wp_id: 75931
+id: debacle
 author: admin
 type: roman
 date: 2010-02-11T09:41:29+00:00

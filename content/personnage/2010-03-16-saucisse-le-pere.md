@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T08:18:14+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Saucisse '
 rm_character_name_secondary: Le Père
 

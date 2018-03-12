@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:57:06+00:00
 excerpt: "Une Page d'Amour"
-rm_character_novel:
-  - 75942
+novel:
+  - page
 rm_character_name_main: 'Berthier '
 rm_character_name_secondary: Les
 

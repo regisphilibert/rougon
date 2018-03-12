@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:34:40+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
+novel:
+  - germinal
 rm_character_name_main: 'Joire '
 rm_character_name_secondary: Abbé
 

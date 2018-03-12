@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-09T10:40:54+00:00
 excerpt: "L'Assommoir, Nana"
-rm_character_novel:
-  - 75943
-  - 75941
+novel:
+  - assommoir
+  - nana
 rm_character_name_main: 'Josse '
 rm_character_name_secondary: Mademoiselle
 

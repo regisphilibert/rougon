@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T10:32:59+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: 'Dubuche '
 rm_character_name_secondary: Alice
 

@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T07:39:27+00:00
 excerpt: "La Fortune des Rougon, La Curée, L'Argent, Le Docteur Pascal"
-rm_character_novel:
-  - 75932
-  - 75947
-  - 75930
+novel:
+  - argent
+  - curee
+  - docteur
 rm_character_name_main: 'Saccard '
 rm_character_name_secondary: Maxime
 rm_character_main: 1

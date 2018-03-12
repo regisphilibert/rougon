@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:41:37+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Fontan '
 rm_character_name_secondary: Achille
 rm_character_main: 1

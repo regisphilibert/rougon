@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:17:27+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Valençay '
 rm_character_name_secondary: Baron De
 

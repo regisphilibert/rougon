@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-11T09:00:19+00:00
 excerpt: La Conquête de Plassans, La Faute de l’abbé Mouret
-rm_character_novel:
-  - 75929
-  - 75945
+novel:
+  - conquete
+  - faute
 rm_character_name_main: 'Mouret '
 rm_character_name_secondary: Serge
 rm_character_main: 1

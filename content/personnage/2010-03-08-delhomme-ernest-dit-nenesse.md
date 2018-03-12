@@ -4,8 +4,8 @@ id: 76773
 author: admin
 type: personnage
 date: 2010-03-08T10:19:51+00:00
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Delhomme '
 rm_character_name_secondary: Ernest
 rm_character_name_precision: dit Nénesse

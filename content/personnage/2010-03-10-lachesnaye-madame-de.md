@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T08:51:56+00:00
 excerpt: La Bête Humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Lachesnaye '
 rm_character_name_secondary: Madame de
 

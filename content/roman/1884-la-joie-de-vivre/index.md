@@ -1,6 +1,7 @@
 ---
 title: La Joie de Vivre
-id: 75938
+wp_id: 75938
+id: joie
 author: admin
 type: roman
 date: 2010-02-11T08:40:46+00:00

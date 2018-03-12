@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:01:07+00:00
 excerpt: L’Œuvre
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: Mahoudeau
 
 ---

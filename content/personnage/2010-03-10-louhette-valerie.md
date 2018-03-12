@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T10:37:51+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: 'Louhette '
 rm_character_name_secondary: Valérie
 rm_character_main: 1

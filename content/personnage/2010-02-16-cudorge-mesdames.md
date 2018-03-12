@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T10:12:35+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Cudorge '
 rm_character_name_secondary: Mesdames
 

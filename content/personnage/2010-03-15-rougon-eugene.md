@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-15T09:13:11+00:00
 excerpt: "La Fortune des Rougon, La Curée, Son Excellence Eugène Rougon, L'Argent"
-rm_character_novel:
-  - 75932
-  - 75947
-  - 75928
-  - 75944
+novel:
+  - argent
+  - curee
+  - fortune
+  - excellence
 rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Eugène
 rm_character_main: 1

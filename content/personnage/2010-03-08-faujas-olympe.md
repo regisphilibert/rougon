@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:29:47+00:00
 excerpt: La Conquête de Plassans
-rm_character_novel:
-  - 75929
+novel:
+  - conquete
 rm_character_name_main: 'Faujas '
 rm_character_name_secondary: Olympe
 

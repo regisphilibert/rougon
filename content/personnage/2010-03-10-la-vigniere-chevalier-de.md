@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:35:40+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'La Vignière '
 rm_character_name_secondary: Chevalier de
 

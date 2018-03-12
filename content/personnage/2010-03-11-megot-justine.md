@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-11T08:27:09+00:00
 excerpt: La Curée, Le Docteur Pascal
-rm_character_novel:
-  - 75947
-  - 75930
+novel:
+  - curee
+  - docteur
 rm_character_name_main: 'Mégot '
 rm_character_name_secondary: Justine
 

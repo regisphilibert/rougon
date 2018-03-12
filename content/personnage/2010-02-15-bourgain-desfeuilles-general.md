@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:50:40+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
+novel:
+  - debacle
 rm_character_name_main: 'Desfeuilles '
 rm_character_name_secondary: Général
 

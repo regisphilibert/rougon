@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:35:38+00:00
 excerpt: "L'Oeuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: 'Angèle '
 rm_character_name_secondary: Soeur
 

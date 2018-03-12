@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:58:30+00:00
 excerpt: La Ventre de Paris
-rm_character_novel:
-  - 75946
+novel:
+  - ventre
 rm_character_name_main: 'Léonce '
 rm_character_name_secondary: Madame
 

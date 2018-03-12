@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:34:25+00:00
 excerpt: La Fortune des Rougons
-rm_character_novel:
-  - 75928
+novel:
+  - fortune
 rm_character_name_main: André Père
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: La Terre
-id: 75935
+wp_id: 75935
+id: terre
 author: admin
 type: roman
 date: 2010-02-11T10:41:06+00:00

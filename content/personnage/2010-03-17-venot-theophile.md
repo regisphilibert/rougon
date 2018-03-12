@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:30:10+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Venot '
 rm_character_name_secondary: Théophile
 

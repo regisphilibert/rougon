@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T09:35:12+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Trouille '
 rm_character_name_secondary: La
 

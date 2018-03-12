@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:37:29+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Misard '
 rm_character_name_secondary: Madame
 

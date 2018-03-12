@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T07:47:08+00:00
 excerpt: Le docteur Pascal
-rm_character_novel:
-  - 75930
+novel:
+  - docteur
 rm_character_name_main: 'Porquier '
 rm_character_name_secondary: Docteur
 

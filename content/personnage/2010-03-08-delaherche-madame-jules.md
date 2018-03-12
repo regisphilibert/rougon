@@ -4,8 +4,8 @@ id: 76786
 author: admin
 type: personnage
 date: 2010-03-08T10:12:15+00:00
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Delaherche '
 rm_character_name_secondary: Madame Jules
 

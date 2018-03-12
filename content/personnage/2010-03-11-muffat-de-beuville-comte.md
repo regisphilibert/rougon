@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T09:03:18+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Muffat de Beuville '
 rm_character_name_secondary: Comte
 rm_character_main: 1

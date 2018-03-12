@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:39:55+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Anglars '
 rm_character_name_secondary: "Irma d'"
 

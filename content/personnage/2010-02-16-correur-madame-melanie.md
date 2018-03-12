@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T10:03:57+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
+novel:
+  - excellence
 rm_character_name_main: 'Correur '
 rm_character_name_secondary: Madame Mélanie
 

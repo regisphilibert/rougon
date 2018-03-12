@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T07:10:29+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Orviedo '
 rm_character_name_secondary: "Princesse d'"
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:29:51+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: 'Vaugelade '
 rm_character_name_secondary: Duc De
 

@@ -1,7 +1,4 @@
 {{ define "main" }}
-{{ range .Params.rm_character_novel }}
-{{ $.Scratch.Add "novels" (slice (int .)) }}
-{{ end }}
 <div class="main rm-container">
     <div class="single-head">
         <div class="item-title-wrapper">
@@ -10,10 +7,9 @@
             </h1>
         </div>
         <div class="item-desc">
-            {{ range where .Site.Pages.ByTitle "Params.id" "in" ($.Scratch.Get "novels") }}<span><a href="{{ .Permalink }}">{{ .Title }}</a></span>, {{ end }}
+            {{ range where .Site.Pages.ByTitle ".Params.id" "in" .Params.novel }}<span><a href="{{ .Permalink }}">{{ .Title }}</a></span>, {{ end }}
         </div>
     </div>
-
     <div class="rm-content rm-html">
         <div class="item-content">
             {{ .Content }}

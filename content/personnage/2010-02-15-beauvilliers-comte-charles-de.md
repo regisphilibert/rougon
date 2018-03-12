@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:30:46+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Beauvilliers '
 rm_character_name_secondary: Comte Charles de
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T08:30:56+00:00
 excerpt: "L'Oeuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: Rhadamante
 
 ---

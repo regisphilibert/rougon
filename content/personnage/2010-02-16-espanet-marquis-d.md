@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T10:19:26+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Espanet '
 rm_character_name_secondary: "Marquis D'"
 

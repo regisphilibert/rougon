@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T10:40:00+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Louis '
 rm_character_name_secondary: La Mère
 

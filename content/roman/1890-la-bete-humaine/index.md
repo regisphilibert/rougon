@@ -1,6 +1,7 @@
 ---
 title: La Bête Humaine
-id: 75933
+wp_id: 75933
+id: bete
 author: admin
 type: roman
 date: 2010-02-11T08:41:17+00:00

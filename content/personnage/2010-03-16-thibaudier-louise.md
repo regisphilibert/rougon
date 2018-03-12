@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T09:24:37+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'Thibaudier '
 rm_character_name_secondary: Louise
 rm_character_main: 1

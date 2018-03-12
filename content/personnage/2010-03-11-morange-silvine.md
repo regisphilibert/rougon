@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:39:22+00:00
 excerpt: La Débâcle.
-rm_character_novel:
-  - 75931
+novel:
+  - debacle
 rm_character_name_main: 'Morange '
 rm_character_name_secondary: Silvine
 

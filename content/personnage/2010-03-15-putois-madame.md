@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T07:55:35+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Putois '
 rm_character_name_secondary: Madame
 

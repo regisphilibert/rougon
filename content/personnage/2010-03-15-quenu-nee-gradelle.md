@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T07:58:06+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
+novel:
+  - ventre
 rm_character_name_main: Quenu, née GRADELLE
 
 ---

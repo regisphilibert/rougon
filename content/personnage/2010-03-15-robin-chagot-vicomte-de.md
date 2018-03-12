@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T08:33:32+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Chagot '
 rm_character_name_secondary: Vicomte de
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:17:14+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
+novel:
+  - bonheur
 rm_character_name_main: 'Marty '
 rm_character_name_secondary: Valentine
 

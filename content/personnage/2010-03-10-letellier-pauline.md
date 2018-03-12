@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T10:07:02+00:00
 excerpt: "Une Page d'Amour"
-rm_character_novel:
-  - 75942
+novel:
+  - page
 rm_character_name_main: 'Letellier '
 rm_character_name_secondary: Pauline
 

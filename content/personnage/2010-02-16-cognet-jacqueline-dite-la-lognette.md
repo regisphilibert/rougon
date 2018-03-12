@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:48:28+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Cognet '
 rm_character_name_secondary: Jacqueline dite La Lognette
 

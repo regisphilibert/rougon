@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:16:57+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: Hupel de La Noue
 
 ---

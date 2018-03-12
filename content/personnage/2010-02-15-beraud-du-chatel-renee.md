@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:48:46+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Béraud Du Châtel '
 rm_character_name_secondary: Renée
 rm_character_main: 1

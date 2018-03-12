@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:55:57+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
+novel:
+  - germinal
 rm_character_name_main: 'Berloque '
 rm_character_name_secondary: dit Chicot
 

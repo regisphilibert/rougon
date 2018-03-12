@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:41:43+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Chouteau '
 rm_character_name_secondary: Les
 

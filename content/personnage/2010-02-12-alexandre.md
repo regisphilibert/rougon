@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:25:21+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
+novel:
+  - ventre
 rm_character_name_main: Alexandre
 
 ---

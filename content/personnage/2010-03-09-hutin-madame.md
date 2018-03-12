@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:18:10+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
+novel:
+  - ventre
 rm_character_name_main: 'Hutin '
 rm_character_name_secondary: Madame
 

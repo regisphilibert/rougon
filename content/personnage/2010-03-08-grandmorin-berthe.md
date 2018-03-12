@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:25:49+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Grandmorin '
 rm_character_name_secondary: Berthe
 

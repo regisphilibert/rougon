@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:27:06+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Fauconnier '
 rm_character_name_secondary: Victor
 

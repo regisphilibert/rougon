@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:26:06+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Vanska '
 rm_character_name_secondary: Comtesse
 

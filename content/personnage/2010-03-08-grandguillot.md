@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:21:26+00:00
 excerpt: Le Docteur Pascal
-rm_character_novel:
-  - 75930
+novel:
+  - docteur
 rm_character_name_main: Grandguillot
 
 ---

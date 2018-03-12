@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T10:07:39+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
+novel:
+  - excellence
 rm_character_name_main: 'Leturc '
 rm_character_name_secondary: Madame
 

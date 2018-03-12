@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T10:03:22+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Cornille '
 rm_character_name_secondary: Abbé
 

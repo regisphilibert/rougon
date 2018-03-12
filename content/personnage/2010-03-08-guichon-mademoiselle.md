@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:32:36+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Guichon '
 rm_character_name_secondary: Mademoiselle
 

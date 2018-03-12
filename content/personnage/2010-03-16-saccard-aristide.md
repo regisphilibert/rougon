@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-16T07:30:21+00:00
 excerpt: "La Fortune des Rougon, La Curée, L'Argent"
-rm_character_novel:
-  - 75932
-  - 75947
-  - 75928
+novel:
+  - argent
+  - curee
+  - fortune
 
 rm_character_name_main: 'Saccard '
 rm_character_name_secondary: Aristide

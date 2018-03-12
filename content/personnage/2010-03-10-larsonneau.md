@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-10T09:29:43+00:00
 excerpt: "La Curée, L'Argent"
-rm_character_novel:
-  - 75932
-  - 75947
+novel:
+  - argent
+  - curee
 rm_character_name_main: Larsonneau
 
 ---

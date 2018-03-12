@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T10:18:36+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
+novel:
+  - debacle
 rm_character_name_main: 'Levasseur '
 rm_character_name_secondary: Maurice
 

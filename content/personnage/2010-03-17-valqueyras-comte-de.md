@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-17T07:23:33+00:00
 excerpt: La Fortune des Rougon, La Conquête de Plassans
-rm_character_novel:
-  - 75929
-  - 75928
+novel:
+  - conquete
+  - fortune
 rm_character_name_main: 'Valqueyras '
 rm_character_name_secondary: Comte De
 

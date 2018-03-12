@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T10:07:11+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Bron '
 rm_character_name_secondary: Madame
 

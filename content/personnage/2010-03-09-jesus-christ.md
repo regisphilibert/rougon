@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:32:20+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: Jésus-Christ
 rm_character_main: 1
 

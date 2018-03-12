@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T10:17:22+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
+novel:
+  - excellence
 rm_character_name_main: 'Escorailles '
 rm_character_name_secondary: "Marquis D'"
 

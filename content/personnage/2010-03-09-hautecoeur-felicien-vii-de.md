@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:00:21+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Hautecœur '
 rm_character_name_secondary: Félicien VII de
 rm_character_main: 1

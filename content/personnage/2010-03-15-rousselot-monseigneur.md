@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T09:32:32+00:00
 excerpt: La Conquête de Plassans
-rm_character_novel:
-  - 75929
+novel:
+  - conquete
 rm_character_name_main: 'Rousselot '
 rm_character_name_secondary: Monseigneur
 

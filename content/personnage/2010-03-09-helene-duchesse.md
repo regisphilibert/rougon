@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:02:43+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Hélène '
 rm_character_name_secondary: Duchesse
 

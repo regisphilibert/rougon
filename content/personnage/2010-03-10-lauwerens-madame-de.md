@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:34:37+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Lauwerens '
 rm_character_name_secondary: Madame de
 

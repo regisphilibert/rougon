@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:24:59+00:00
 excerpt: "Une Page d'Amour"
-rm_character_novel:
-  - 75942
+novel:
+  - page
 rm_character_name_main: 'Grandjean '
 rm_character_name_secondary: Jeanne
 rm_character_main: 1

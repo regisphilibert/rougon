@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:47:46+00:00
 excerpt: La Bête Humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Aubry '
 rm_character_name_secondary: Séverine
 rm_character_main: 1

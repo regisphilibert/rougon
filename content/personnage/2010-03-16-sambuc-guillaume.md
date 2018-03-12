@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T08:02:47+00:00
 excerpt: La Débâcle
-rm_character_novel:
-  - 75931
+novel:
+  - debacle
 rm_character_name_main: 'Sambuc '
 rm_character_name_secondary: Guillaume
 

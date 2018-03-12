@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:51:14+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: Lelorrain
 
 ---

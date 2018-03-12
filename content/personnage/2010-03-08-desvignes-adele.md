@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T10:26:48+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
+novel:
+  - excellence
 rm_character_name_main: 'Desvignes '
 rm_character_name_secondary: Adèle
 

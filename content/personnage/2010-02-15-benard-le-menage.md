@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:45:47+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Bénard '
 rm_character_name_secondary: Le Ménage
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:33:30+00:00
 excerpt: "Une Page d'Amour"
-rm_character_novel:
-  - 75942
+novel:
+  - page
 rm_character_name_main: 'Fétu '
 rm_character_name_secondary: La Mère
 

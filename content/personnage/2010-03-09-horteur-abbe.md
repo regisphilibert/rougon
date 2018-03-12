@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:08:59+00:00
 excerpt: La Joie de Vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'Horteur '
 rm_character_name_secondary: Abbé
 

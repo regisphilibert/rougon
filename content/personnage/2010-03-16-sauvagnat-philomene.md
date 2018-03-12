@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T08:19:26+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Sauvagnat '
 rm_character_name_secondary: Philomène
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:10:21+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'Chanteau '
 rm_character_name_secondary: Paul
 

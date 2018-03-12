@@ -4,8 +4,8 @@ id: 77201
 author: admin
 type: personnage
 date: 2010-02-11T13:46:52+00:00
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: Hugon Madame
 
 ---

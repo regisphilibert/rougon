@@ -5,10 +5,10 @@ author: admin
 type: personnage
 date: 2010-03-15T07:15:46+00:00
 excerpt: "La Fortune des Rougon, La Faute de l'abbé Mouret, Le Docteur Pascal"
-rm_character_novel:
-  - 75945
-  - 75928
-  - 75930
+novel:
+  - faute
+  - fortune
+  - docteur
 rm_character_name_main: 'Pascal '
 rm_character_name_secondary: Le Docteur
 rm_character_main: 1

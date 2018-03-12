@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:03:37+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: Malivoire
 
 ---

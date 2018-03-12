@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T10:43:50+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: 'Duveyrier '
 rm_character_name_secondary: Alphonse
 rm_character_main: 1

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T10:01:08+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Daigremont '
 rm_character_name_secondary: Madame
 

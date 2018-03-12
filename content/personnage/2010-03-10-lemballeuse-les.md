@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:51:57+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Lemballeuse '
 rm_character_name_secondary: Les
 rm_character_name_precision: .

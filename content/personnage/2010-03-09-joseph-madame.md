@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:40:22+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: 'Joseph '
 rm_character_name_secondary: Madame
 

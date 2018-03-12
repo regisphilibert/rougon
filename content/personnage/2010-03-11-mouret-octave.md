@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-11T07:54:01+00:00
 excerpt: La Conquête de Plassans, Pot-Bouille, Au Bonheur, des Dames, L’Œuvre
-rm_character_novel:
-  - 75939
-  - 75936
-  - 75929
-  - 75940
+novel:
+  - bonheur
+  - oeuvre
+  - conquete
+  - pot-bouille
 rm_character_name_main: 'Mouret '
 rm_character_name_secondary: Octave
 rm_character_main: 1

@@ -4,8 +4,8 @@ id: 77171
 author: admin
 type: personnage
 date: 2010-02-12T15:55:04+00:00
-rm_character_novel:
-  - 75939
+novel:
+  - bonheur
 rm_character_name_main: 'Aurélie '
 rm_character_name_secondary: Madame
 rm_character_main: 1

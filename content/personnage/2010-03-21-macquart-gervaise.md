@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-21T21:00:24+00:00
 excerpt: La Fortune des Rougon, L’Assommoir
-rm_character_novel:
-  - 75943
-  - 75928
+novel:
+  - assommoir
+  - fortune
 rm_character_name_main: 'Macquart '
 rm_character_name_secondary: Gervaise
 rm_character_main: 1

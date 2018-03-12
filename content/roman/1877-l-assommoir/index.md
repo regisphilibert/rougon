@@ -1,6 +1,7 @@
 ---
 title: L'Assommoir
-id: 75943
+wp_id: 75943
+id: assommoir
 author: admin
 type: roman
 date: 2010-02-11T08:39:28+00:00

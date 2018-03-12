@@ -4,8 +4,8 @@ id: 76619
 author: admin
 type: personnage
 date: 2010-03-09T10:10:46+00:00
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Hourdequin '
 rm_character_name_secondary: Madame
 

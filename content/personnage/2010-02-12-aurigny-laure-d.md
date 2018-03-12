@@ -4,8 +4,8 @@ id: 77170
 author: admin
 type: personnage
 date: 2010-02-12T16:56:49+00:00
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Aurigny '
 rm_character_name_secondary: "Laure d'"
 

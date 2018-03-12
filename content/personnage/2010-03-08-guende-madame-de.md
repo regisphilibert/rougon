@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:31:11+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Guende '
 rm_character_name_secondary: Madame de
 

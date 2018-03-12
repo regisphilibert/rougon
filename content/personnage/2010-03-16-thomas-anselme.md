@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T09:25:11+00:00
 excerpt: Le Docteur Pascal
-rm_character_novel:
-  - 75930
+novel:
+  - docteur
 rm_character_name_main: 'Thomas '
 rm_character_name_secondary: Anselme
 

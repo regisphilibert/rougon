@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:11:26+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: 'Lantier '
 rm_character_name_secondary: Madame Claude
 

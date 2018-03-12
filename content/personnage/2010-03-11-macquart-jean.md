@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-11T07:43:18+00:00
 excerpt: La Fortune des Rougon, La Terre, La Débâcle, Le Docteur Pascal
-rm_character_novel:
-  - 75931
-  - 75928
-  - 75935
-  - 75930
+novel:
+  - debacle
+  - fortune
+  - terre
+  - docteur
 rm_character_name_main: 'Macquart '
 rm_character_name_secondary: Jean
 rm_character_main: 1

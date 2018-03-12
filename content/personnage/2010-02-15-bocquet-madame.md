@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:11:47+00:00
 excerpt: Pot-Bouille
-rm_character_novel:
-  - 75940
+novel:
+  - pot-bouille
 rm_character_name_main: 'Bocquet '
 rm_character_name_secondary: Madame
 

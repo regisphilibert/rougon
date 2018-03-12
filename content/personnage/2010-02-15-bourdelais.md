@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:47:44+00:00
 excerpt: Au Bonheur des Daines
-rm_character_novel:
-  - 75939
+novel:
+  - bonheur
 rm_character_name_main: Bourdelais
 
 ---

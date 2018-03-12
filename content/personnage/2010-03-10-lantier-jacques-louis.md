@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:19:08+00:00
 excerpt: "L'Oeuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: 'Lantier '
 rm_character_name_secondary: Jacques-Louis
 

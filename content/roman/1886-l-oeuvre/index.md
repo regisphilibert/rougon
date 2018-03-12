@@ -1,6 +1,7 @@
 ---
 title: L'Œuvre
-id: 75936
+wp_id: 75936
+id: oeuvre
 author: admin
 type: roman
 date: 2010-02-11T08:41:00+00:00

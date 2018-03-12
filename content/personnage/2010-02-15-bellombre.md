@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:44:25+00:00
 excerpt: Le Docteur Pascal
-rm_character_novel:
-  - 75930
+novel:
+  - docteur
 rm_character_name_main: Bellombre
 
 ---

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:35:19+00:00
 excerpt: Le Docteur Pascal
-rm_character_novel:
-  - 75930
+novel:
+  - docteur
 rm_character_name_main: 'Vial '
 rm_character_name_secondary: Mélanie
 

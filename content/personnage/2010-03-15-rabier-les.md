@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T08:07:58+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Rabier '
 rm_character_name_secondary: Les
 

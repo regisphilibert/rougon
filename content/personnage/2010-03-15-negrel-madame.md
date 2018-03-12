@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T07:06:48+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Négrel '
 rm_character_name_secondary: Madame
 

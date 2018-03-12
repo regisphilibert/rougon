@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T09:15:36+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Teissière '
 rm_character_name_secondary: Madame
 

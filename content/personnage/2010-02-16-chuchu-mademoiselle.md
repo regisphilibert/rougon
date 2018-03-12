@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:44:13+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Chuchu '
 rm_character_name_secondary: Mademoiselle
 rm_character_name_precision: .

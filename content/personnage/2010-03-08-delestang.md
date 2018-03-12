@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T09:14:26+00:00
 excerpt: Son Excellence Eugène Rougon
-rm_character_novel:
-  - 75944
+novel:
+  - excellence
 rm_character_name_main: Delestang
 rm_character_main: 1
 

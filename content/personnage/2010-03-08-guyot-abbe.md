@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T16:37:11+00:00
 excerpt: "La Faute de l'abbé Mouret"
-rm_character_novel:
-  - 75945
+novel:
+  - faute
 rm_character_name_main: 'Guyot '
 rm_character_name_secondary: Abbé
 

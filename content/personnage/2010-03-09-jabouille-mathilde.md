@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T10:27:41+00:00
 excerpt: "L'Œuvre"
-rm_character_novel:
-  - 75936
+novel:
+  - oeuvre
 rm_character_name_main: 'Jabouille '
 rm_character_name_secondary: Mathilde
 

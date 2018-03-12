@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T10:25:59+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Liotard '
 rm_character_name_secondary: Veuve Henri
 

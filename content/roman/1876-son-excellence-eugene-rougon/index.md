@@ -1,6 +1,7 @@
 ---
 title: Son Excellence Eugène Rougon
-id: 75944
+wp_id: 75944
+id: excellence
 author: admin
 type: roman
 date: 2010-02-11T10:39:07+00:00

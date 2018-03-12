@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-10T09:54:11+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Lengaigne '
 rm_character_name_secondary: Suzanne
 

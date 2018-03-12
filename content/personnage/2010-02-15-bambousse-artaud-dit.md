@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T07:42:58+00:00
 excerpt: "La Faute de l'abbé Mouret"
-rm_character_novel:
-  - 75945
+novel:
+  - faute
 rm_character_name_main: 'Bambousse '
 rm_character_name_secondary: Artaud, dit
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T10:03:27+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Brétigny '
 rm_character_name_secondary: Comtesse de
 

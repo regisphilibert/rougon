@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:37:26+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: Angélique Marie
 rm_character_main: 1
 

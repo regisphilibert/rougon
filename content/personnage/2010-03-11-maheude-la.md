@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:00:41+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
+novel:
+  - germinal
 rm_character_name_main: 'Maheude '
 rm_character_name_secondary: La
 rm_character_main: 1

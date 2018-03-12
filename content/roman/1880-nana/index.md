@@ -1,6 +1,7 @@
 ---
 title: Nana
-id: 75941
+wp_id: 75941
+id: nana
 author: admin
 date: 2010-02-11 08:40:20 +0000
 weight: 9

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T09:06:09+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Müller '
 rm_character_name_secondary: Blanche
 

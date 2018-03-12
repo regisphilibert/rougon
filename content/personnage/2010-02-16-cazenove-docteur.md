@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:00:09+00:00
 excerpt: La Joie de vivre
-rm_character_novel:
-  - 75938
+novel:
+  - joie
 rm_character_name_main: 'Cazenove '
 rm_character_name_secondary: Docteur
 

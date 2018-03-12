@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:27:52+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
+novel:
+  - ventre
 rm_character_name_main: 'Méhudin '
 rm_character_name_secondary: Claire
 rm_character_main: 1

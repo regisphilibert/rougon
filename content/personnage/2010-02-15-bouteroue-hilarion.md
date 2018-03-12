@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:54:54+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Bouteroue '
 rm_character_name_secondary: Hilarion
 

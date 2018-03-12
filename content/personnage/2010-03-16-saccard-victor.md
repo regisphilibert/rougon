@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T07:59:32+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Saccard '
 rm_character_name_secondary: Victor
 

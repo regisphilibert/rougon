@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T08:29:11+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Remanjou '
 rm_character_name_secondary: Mademoiselle
 

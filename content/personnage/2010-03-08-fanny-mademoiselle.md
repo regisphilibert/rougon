@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:24:33+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
+novel:
+  - bonheur
 rm_character_name_main: 'Fanny '
 rm_character_name_secondary: Mademoiselle
 

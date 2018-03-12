@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T09:01:27+00:00
 excerpt: La Conquête de Plassans
-rm_character_novel:
-  - 75929
+novel:
+  - conquete
 rm_character_name_main: 'Mousseau '
 rm_character_name_secondary: Abbé
 

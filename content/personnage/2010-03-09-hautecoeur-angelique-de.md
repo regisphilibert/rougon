@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T09:59:41+00:00
 excerpt: Le Rêve
-rm_character_novel:
-  - 75934
+novel:
+  - reve
 rm_character_name_main: 'Hautecœur '
 rm_character_name_secondary: Angélique de
 

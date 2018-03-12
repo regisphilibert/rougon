@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-15T07:26:23+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Phasie '
 rm_character_name_secondary: Tante
 rm_character_main: 1

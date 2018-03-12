@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:47:09+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Béraud Du Châtel '
 rm_character_name_secondary: Christine
 

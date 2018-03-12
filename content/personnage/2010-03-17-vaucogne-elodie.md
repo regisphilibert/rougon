@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T07:29:25+00:00
 excerpt: La Terre
-rm_character_novel:
-  - 75935
+novel:
+  - terre
 rm_character_name_main: 'Vaucogne '
 rm_character_name_secondary: Élodie
 

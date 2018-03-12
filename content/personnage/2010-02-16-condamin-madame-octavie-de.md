@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:58:26+00:00
 excerpt: La Conquête de Plassans
-rm_character_novel:
-  - 75929
+novel:
+  - conquete
 rm_character_name_main: 'Condamin '
 rm_character_name_secondary: Madame Octavie de
 

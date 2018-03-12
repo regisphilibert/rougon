@@ -5,12 +5,12 @@ author: admin
 type: personnage
 date: 2010-03-10T09:09:09+00:00
 excerpt: "La Fortune des Rougon, L'Assommoir, Le Ventre de Paris, La Joie de vivre, L'Œuvre"
-rm_character_novel:
-  - 75943
-  - 75936
-  - 75928
-  - 75938
-  - 75946
+novel:
+  - assommoir
+  - oeuvre
+  - fortune
+  - joie
+  - ventre
 rm_character_name_main: 'Lantier '
 rm_character_name_secondary: Claude
 rm_character_main: 1

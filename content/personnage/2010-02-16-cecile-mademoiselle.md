@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:00:56+00:00
 excerpt: Le Ventre de Paris
-rm_character_novel:
-  - 75946
+novel:
+  - ventre
 rm_character_name_main: 'Cécile '
 rm_character_name_secondary: Mademoiselle
 

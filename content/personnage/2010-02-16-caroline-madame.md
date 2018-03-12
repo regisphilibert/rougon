@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T08:56:31+00:00
 excerpt: "L'Argent"
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Caroline '
 rm_character_name_secondary: Madame
 

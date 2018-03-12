@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T08:38:24+00:00
 excerpt: "L'Assommoir"
-rm_character_novel:
-  - 75943
+novel:
+  - assommoir
 rm_character_name_main: 'Bec Salé '
 rm_character_name_secondary: dit Boit-Sans-Soif
 

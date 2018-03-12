@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-09T09:52:10+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
+novel:
+  - bonheur
 rm_character_name_main: 'Hartmann '
 rm_character_name_secondary: Baron
 

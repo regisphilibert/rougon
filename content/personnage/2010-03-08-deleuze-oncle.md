@@ -5,9 +5,9 @@ author: admin
 type: personnage
 date: 2010-03-08T10:17:03+00:00
 excerpt: Pot-Bouille, Au Bonheur des Dames
-rm_character_novel:
-  - 75939
-  - 75940
+novel:
+  - bonheur
+  - pot-bouille
 rm_character_name_main: 'Deleuze '
 rm_character_name_secondary: Oncle
 

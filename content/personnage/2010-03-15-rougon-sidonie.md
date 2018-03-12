@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-15T09:28:04+00:00
 excerpt: "La Fortune des Rougon, La Curée, Le Rêve, L'Œuvre, "
-rm_character_novel:
-  - 75936
-  - 75947
-  - 75928
-  - 75934
+novel:
+  - oeuvre
+  - curee
+  - fortune
+  - reve
 rm_character_name_main: 'Rougon '
 rm_character_name_secondary: Sidonie
 

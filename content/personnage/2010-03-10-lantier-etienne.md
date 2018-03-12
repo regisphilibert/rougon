@@ -5,11 +5,11 @@ author: admin
 type: personnage
 date: 2010-03-10T09:13:36+00:00
 excerpt: "La Fortune des Rougon, L'Assommoir, Germinal, Le Docteur Pascal"
-rm_character_novel:
-  - 75937
-  - 75943
-  - 75928
-  - 75930
+novel:
+  - germinal
+  - assommoir
+  - fortune
+  - docteur
 rm_character_name_main: 'Lantier '
 rm_character_name_secondary: Étienne
 rm_character_main: 1

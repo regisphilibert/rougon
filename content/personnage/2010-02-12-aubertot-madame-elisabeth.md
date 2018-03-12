@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-12T16:45:20+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Aubertot '
 rm_character_name_secondary: Madame Elisabeth
 

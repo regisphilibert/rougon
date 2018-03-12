@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:04:32+00:00
 excerpt: Une Page d’Amour
-rm_character_novel:
-  - 75942
+novel:
+  - page
 rm_character_name_main: 'Manguelin '
 rm_character_name_secondary: Madame
 

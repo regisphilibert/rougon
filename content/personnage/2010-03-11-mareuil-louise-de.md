@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T07:09:14+00:00
 excerpt: La Curée
-rm_character_novel:
-  - 75947
+novel:
+  - curee
 rm_character_name_main: 'Mareuil '
 rm_character_name_secondary: Louise de
 rm_character_main: 1

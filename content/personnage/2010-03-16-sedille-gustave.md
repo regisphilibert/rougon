@@ -4,8 +4,8 @@ id: 76080
 author: admin
 type: personnage
 date: 2010-03-16T08:29:10+00:00
-rm_character_novel:
-  - 75932
+novel:
+  - argent
 rm_character_name_main: 'Sédille '
 rm_character_name_secondary: Gustave
 

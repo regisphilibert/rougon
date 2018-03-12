@@ -1,6 +1,7 @@
 ---
 title: Une Page d'Amour
-id: 75942
+wp_id: 75942
+id: page
 author: admin
 type: roman
 date: 2010-02-11T09:40:01+00:00

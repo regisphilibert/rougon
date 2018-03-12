@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-15T09:40:03+00:00
 excerpt: La Bête humaine
-rm_character_novel:
-  - 75933
+novel:
+  - bete
 rm_character_name_main: 'Bonnehon '
 rm_character_name_secondary: Madame
 

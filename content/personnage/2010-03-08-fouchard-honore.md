@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T08:53:07+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Fouchard '
 rm_character_name_secondary: Honoré
 

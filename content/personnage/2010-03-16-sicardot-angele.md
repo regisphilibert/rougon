@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-16T08:37:57+00:00
 excerpt: La Fortune des Rougon
-rm_character_novel:
-  - 75928
+novel:
+  - fortune
 rm_character_name_main: 'Sicardot '
 rm_character_name_secondary: Angèle
 

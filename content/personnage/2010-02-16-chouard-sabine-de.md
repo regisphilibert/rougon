@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-02-16T09:41:20+00:00
 excerpt: Nana
-rm_character_novel:
-  - 75941
+novel:
+  - nana
 rm_character_name_main: 'Chouard '
 rm_character_name_secondary: Sabine de
 

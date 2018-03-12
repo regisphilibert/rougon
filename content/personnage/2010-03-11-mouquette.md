@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-11T08:44:01+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
+novel:
+  - germinal
 rm_character_name_main: Mouquette
 rm_character_main: 1
 

@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-17T14:00:59+00:00
 excerpt: Au Bonheur des Dames
-rm_character_novel:
-  - 75939
+novel:
+  - bonheur
 rm_character_name_main: 'Baudu '
 rm_character_name_secondary: Denise
 rm_character_main: 1

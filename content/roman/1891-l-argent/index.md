@@ -1,6 +1,7 @@
 ---
 title: L'Argent
-id: 75932
+wp_id: 75932
+id: argent
 author: admin
 type: roman
 date: 2010-02-11T09:41:22+00:00

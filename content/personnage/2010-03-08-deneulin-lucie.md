@@ -5,8 +5,8 @@ author: admin
 type: personnage
 date: 2010-03-08T10:21:58+00:00
 excerpt: Germinal
-rm_character_novel:
-  - 75937
+novel:
+  - germinal
 rm_character_name_main: 'Deneulin '
 rm_character_name_secondary: Lucie
 
