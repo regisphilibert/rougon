@@ -1,0 +1,24 @@
+{
+  "name": "rougon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "atomic-algolia": "^0.3.12",
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regisphilibert/rougon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regisphilibert/rougon/issues"
+  },
+  "homepage": "https://github.com/regisphilibert/rougon#readme"
+}
