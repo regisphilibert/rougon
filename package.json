@@ -1,0 +1,21 @@
+{
+  "name": "hugo-rougon",
+  "version": "1.0.0",
+  "description": "A Hugo Theme for the Rougon Macquart website",
+  "author": "Regis Philibert",
+  "license": "ISC",
+  "scripts": {
+    "rougon": "grunt; hugo"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "cssnano": "^3.6.2",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
