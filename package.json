@@ -1,11 +1,11 @@
 {
-  "name": "hugo-rougon",
+  "name": "rougon",
   "version": "1.0.0",
-  "description": "A Hugo Theme for the Rougon Macquart website",
-  "author": "Regis Philibert",
-  "license": "ISC",
-  "scripts": {
-    "rougon": "grunt; hugo"
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "atomic-algolia": "^0.3.12",
+    "grunt-cli": "^1.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
@@ -17,5 +17,18 @@
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "load-grunt-tasks": "^3.5.0"
-  }
+  },
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regisphilibert/rougon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regisphilibert/rougon/issues"
+  },
+  "homepage": "https://github.com/regisphilibert/rougon#readme"
 }

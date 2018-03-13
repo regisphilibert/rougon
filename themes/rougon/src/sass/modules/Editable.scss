@@ -1,0 +1,23 @@
+.rm-html{
+    a{
+        color:inherit;
+        display: inline-block;
+        position: relative;
+        &:after{
+            content:"";
+            position: absolute;
+            width:100%;
+            height:1px;
+            background:$black;
+            bottom:2px;
+            left:0;
+            transition:100ms;
+        }
+        &:hover{
+            &:after{
+                width:90%;
+                left:5%;
+            }
+        }
+    }
+}

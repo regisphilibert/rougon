@@ -1,0 +1,12 @@
+.rm-widget{
+    .widget-title{
+        font-weight: bold;
+        font-variant: italic;
+        margin: 0;
+    }
+    ul{
+        list-style: none;
+        padding: 0;
+    }
+    @extend.item-desc;
+}

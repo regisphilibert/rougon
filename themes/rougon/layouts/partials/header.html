@@ -9,10 +9,8 @@
             </h1>
         </a>
         <img class="header-image" src="{{ .Site.BaseURL }}images/header_image.jpg" alt="">
-        <div class="search">
-            <input type="text" class="main-autocomplete" placeholder="Rechercher">
-            <i class="fas fa-search icon-search"></i>
-        </div>
+        <!-- Algolia Search Box -->
+        <div id="search-box" class="search"></div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -35,5 +33,10 @@
                 </ul>
             </div>
         </div>
+    </div>
+    <div class="bm-Search__results">
+        <div id="novels"></div>
+        <div class="bm-Search__pagination" id="pagination"></div>
+        <div id="hits"></div>
     </div>
 </header>
