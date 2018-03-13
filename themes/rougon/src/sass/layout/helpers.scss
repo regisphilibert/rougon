@@ -1,0 +1,18 @@
+i[class*='icon']{
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:18px;
+    height:18px;
+}
+
+.clearfix{
+    *zoom:1;
+    &:before, &:after{
+        content:"";
+        display: table;
+    }
+    &:after{
+        clear:both;
+    }
+}

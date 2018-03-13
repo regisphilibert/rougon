@@ -1,0 +1,107 @@
+.pre{
+    white-space: pre-wrap;
+    word-wrap: break-word
+}
+pre{
+    font-size:14px;
+}
+$fontRem:18;
+body, html{
+    height:100%;
+}
+a{
+ text-decoration: none;
+}
+body{
+    font-family: $time;
+    *{
+        box-sizing:border-box;
+    }
+}
+html{
+    font-size:18px;
+    @media screen and (min-width:$tablet){
+        font-size:21px;
+    }
+    @media screen and (min-width:$xl){
+        font-size:25px;
+    }
+}
+.rm-wrapper{
+    padding-left:20px;
+    @media screen and (min-width:$tablet){
+        position: relative;
+        min-height: 100%;
+        height:auto !important;
+        &:after{
+            content:"";
+            display: block;
+            height:132px;
+        }
+    }
+}
+.rm-container{
+    max-width:1300px;
+    margin:0 auto;
+    clear:both;
+}
+.main{
+    padding:15px;
+    @media screen and (min-width:1300px){
+        padding:15px 0;
+    }
+}
+header{
+    background: #fff;
+    border-bottom:2px solid $black;
+    position: relative;
+    .rm-container{
+        max-width:1300px;
+    }
+    .header-main{
+        position: relative;
+    }
+}
+.rm-footer{
+    border-top:2px solid $black;
+    text-align: center;
+    padding:30px;
+    a{
+        text-decoration: underline;
+        color:inherit;
+    }
+    @media screen and (min-width:$tablet){
+        position: absolute;
+        bottom:0;
+        width:100%;
+        left:0;
+    }
+
+}
+
+.rm-content{
+    @media screen and (min-width:$tablet){}
+}
+.rm-sidebar{
+
+}
+@media screen and (min-width:$tablet){
+    .rm-content, .rm-sidebar{
+        float:left;
+    }
+    .rm-content{
+        width:70%;
+    }
+    .rm-sidebar{
+        width:calc(30% - 30px);
+        margin-left:30px;
+    }
+    .rm.page{
+        .rm-content{
+            max-width:960px;
+            margin: 0 auto;
+            float:none;
+            width: auto;
+        }
+    }
+}
