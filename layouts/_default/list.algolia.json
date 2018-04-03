@@ -36,6 +36,14 @@
     {{- .Scratch.SetInMap "temp" "weight" $hit.Weight -}}
     {{- .Scratch.SetInMap "temp" "wordcount" $hit.WordCount -}}
     {{- .Scratch.SetInMap "temp" "section" $hit.Section -}}
+    {{- .Scratch.SetInMap "temp" "human_title" ( partial "personnage/name_raw" . ) -}}
+    {{ with $hit.Params.novel }}
+        {{ range . }}
+            {{ $novels := where $.Site.RegularPages "Params.id" . }}
+            {{ $dot.Scratch.Add "beauty_novels" (slice (index $novels 0).Title) }}
+        {{ end }}
+        {{- $dot.Scratch.SetInMap "temp" "novels" ($dot.Scratch.Get "beauty_novels") -}}
+    {{ end }}
     {{- with $hit.Parent -}}
     {{- $dot.Scratch.SetInMap "temp" "area" .Title -}}
     {{- else -}}

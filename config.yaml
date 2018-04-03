@@ -18,7 +18,7 @@ blackfriday:
 
 params:
   algolia:
-    vars: ["title", "relpermalink"]
+    vars: ["title", "relpermalink", "novels", "human_title"]
     params: ["main_name", "secondary_name", "name_suffix", "novel"]
 
 

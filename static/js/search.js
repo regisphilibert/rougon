@@ -27,7 +27,7 @@ search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-box',
     placeholder: 'Recherchez',
-    //poweredBy: true,
+    poweredBy: false,
     reset: false,
     cssClasses: {
       root: 'rm-Search__box',
@@ -38,7 +38,7 @@ search.addWidget(
 
 var hitTemplate =
   '<a href="{{ relpermalink }}" class="rm-List__item">' +
-        '<div class="rm-List__title">{{{_highlightResult.title.value}}}</div>' +
+        '<div class="rm-List__title">{{{_highlightResult.human_title.value}}}</div>' +
   '</a>';
 
 search.addWidget(
@@ -87,8 +87,8 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#novels',
-    attributeName: 'novel',
-    operator: 'or',
+    attributeName: 'novels',
+    operator: 'and',
     limit: 10,
     autoHideContainer: true,
     sortBy: ['name:asc'],
