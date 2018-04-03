@@ -3,51 +3,60 @@
 }
 .rm-Search__box{
   position: relative;
+  padding-right:3rem;
+  padding-left:10px;
+  .ais-search-box--magnifier{
+    font-size:0;
+  }
+  .ais-search-box--magnifier svg[width]{
+    width:1rem !important;
+    height:auto !important;
+  }
 }
 .rm-Search__box .ais-search-box--magnifier-wrapper{
   position: absolute;
-  right:0;
-  top:0;
+  right:1rem;
+  top:50%;
+  transform:translateY(-50%);
 }
 .rm-Search__box__input{
   width:100%;
   display: block;
+  border:0;
   font-size:1.66rem;
   font-family: var(--ffTime);
 }
-.bm-Search__results{
+.rm-Search__results{
   position: absolute;
   background-color:white;
   width:100%;
-  top:calc(100% + 1px);
+  top:calc(100% + 2px);
   left:0;
   z-index:10;
 }
-.bm-Search__results a{
+.rm-Search__results a{
   color:inherit;
 }
-.bm-Search__hits--empty{
+.rm-Search__hits--empty{
   padding:10px;
   border-bottom:1px solid;
 }
-.bm-List__item{
+.rm-List__item{
   padding:10px;
   line-height:1.3;
   border-bottom:1px solid ;
 }
-a.bm-List__item{
+a.rm-List__item{
   display: block;
   text-decoration: none;
 }
-.bm-List__meta{
+.rm-List__meta{
   font-size:0.7em;
 }
-
-.ais-search-box--magnifier{
-  margin-top: -7px;
-  width: 1em;
+.rm-Search__pagination{
+  padding:18px 10px;
+  border-bottom:1px solid;
 }
-
 .rm-Search__pagination__list{
   margin:0;
   padding:0;

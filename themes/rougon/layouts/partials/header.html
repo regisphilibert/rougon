@@ -1,16 +1,19 @@
 <header>
-    <div class="header-main rm-container">
-        <a href="/" class="brand">
-            <h2 class="emile">
-                Émile Zola
-            </h2>
-            <h1 class="brand-name">
-                {{.Site.Title}}
-            </h1>
-        </a>
-        <img class="header-image" src="{{ .Site.BaseURL }}images/header_image.jpg" alt="">
-        <!-- Algolia Search Box -->
-        <div id="search-box" class="search"></div>
+    <div class="rm-header rm-container">
+        <div class="rm-header__main">
+            <a href="/" class="brand">
+                <h2 class="emile">
+                    Émile Zola
+                </h2>
+                <h1 class="brand-name">
+                    {{.Site.Title}}
+                </h1>
+            </a>
+            <!-- Algolia Search Box -->
+            <div id="search-box" class="search"></div>
+        </div>
+        <div class="rm-header__aside">
+        </div>
     </div>
     <div class="main-nav-wrapper">
         <div class="scroll-wrapper">
@@ -34,9 +37,9 @@
             </div>
         </div>
     </div>
-    <div class="bm-Search__results">
+    <div class="rm-Search__results">
         <div id="novels"></div>
-        <div class="bm-Search__pagination" id="pagination"></div>
+        <div class="rm-Search__pagination" id="pagination"></div>
         <div id="hits"></div>
     </div>
 </header>

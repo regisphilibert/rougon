@@ -9,7 +9,7 @@ const options = {
 }
 if(!showOnLoad){
   options.searchFunction = function(helper) {
-    var searchResults = $('.bm-Search__results');
+    var searchResults = $('.rm-Search__results');
     if (helper.state.query === '') {
       searchResults.hide();
       return;
@@ -18,7 +18,7 @@ if(!showOnLoad){
     searchResults.show();
   }
 } else {
-    $('.bm-Search').show();
+    $('.rm-Search').show();
 }
 const search = instantsearch(options);
 
@@ -27,7 +27,7 @@ search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-box',
     placeholder: 'Recherchez',
-    //poweredBy: true,
+    poweredBy: false,
     reset: false,
     cssClasses: {
       root: 'rm-Search__box',
@@ -37,16 +37,16 @@ search.addWidget(
 );
 
 var hitTemplate =
-  '<a href="{{ relpermalink }}" class="bm-List__item">' +
-        '<div class="bm-List__title">{{{_highlightResult.title.value}}}</div>' +
+  '<a href="{{ relpermalink }}" class="rm-List__item">' +
+        '<div class="rm-List__title">{{{_highlightResult.human_title.value}}}</div>' +
   '</a>';
 
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
     cssClasses: {
-      root:'bm-Search__hits',
-      empty:'bm-Search__hits--empty'
+      root:'rm-Search__hits',
+      empty:'rm-Search__hits--empty'
     },
     templates: {
       empty: 'On a rien trouvé là, rien.',
@@ -87,8 +87,8 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#novels',
-    attributeName: 'novel',
-    operator: 'or',
+    attributeName: 'novels',
+    operator: 'and',
     limit: 10,
     autoHideContainer: true,
     sortBy: ['name:asc'],
