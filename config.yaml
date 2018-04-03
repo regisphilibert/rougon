@@ -14,3 +14,9 @@ outputs:
 blackfriday:
   extensions: ["hardLineBreak"]
   hrefTargetBlank: true
+
+related:
+  includeNewer: true
+  indices:
+    - name: novel
+      weight: 100

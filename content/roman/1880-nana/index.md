@@ -1,7 +1,7 @@
 ---
 title: Nana
 wp_id: 75941
-id: nana
+novel: nana
 author: admin
 date: 2010-02-11 08:40:20 +0000
 weight: 9

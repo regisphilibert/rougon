@@ -2,7 +2,7 @@
     <div class="main rm-container">
         <div class="rm-loop">
 		{{ range .Data.Pages.ByParam "Params.year" }}
-            {{ $characters := where .Site.Pages.ByTitle ".Params.novel" "intersect" (slice .Params.id)}}
+            {{ $characters := where (.Site.RegularPages.RelatedIndices . "novel" ) "Type" "personnage" }}
             {{ $main_chars := where $characters "Params.main" 1 }}
 			<article class="rm-item roman">
                 <a href="{{ .Permalink }}">

@@ -1,7 +1,7 @@
 ---
 title: La Joie de Vivre
 wp_id: 75938
-id: joie
+novel: joie
 author: admin
 type: roman
 date: 2010-02-11T08:40:46+00:00

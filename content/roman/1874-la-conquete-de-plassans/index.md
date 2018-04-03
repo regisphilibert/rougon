@@ -1,7 +1,7 @@
 ---
 title: La Conquête de Plassans
 wp_id: 75929
-id: conquete
+novel: conquete
 author: admin
 type: roman
 date: 2010-03-08T10:49:15+00:00

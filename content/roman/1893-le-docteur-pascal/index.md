@@ -1,7 +1,7 @@
 ---
 title: Le Docteur Pascal
 wp_id: 75930
-id: docteur
+novel: docteur
 author: admin
 type: roman
 date: 2010-02-11T09:41:38+00:00

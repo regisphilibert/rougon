@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $novels := where .Site.Pages.ByTitle ".Params.id" "in" .Params.novel }}
+{{ $novels := where (.Site.RegularPages.RelatedIndices . "novel" ) "Type" "roman" }}
 <div class="main rm-container">
     <div class="single-head">
         <div class="item-title-wrapper">

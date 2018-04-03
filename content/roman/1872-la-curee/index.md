@@ -1,7 +1,7 @@
 ---
 title: La Curée
 wp_id: 75947
-id: curee
+novel: curee
 author: admin
 type: roman
 date: 2010-02-11T10:34:25+00:00
