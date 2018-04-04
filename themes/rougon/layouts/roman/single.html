@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $characters := where .Site.Pages.ByTitle ".Params.novel" "intersect" (slice .Params.id)}}
+{{ $characters := where (.Site.RegularPages.RelatedIndices . "novel") "Type" "personnage" }}
 {{ $main_characters := where $characters "Params.main" 1 }}
 {{ partial "single/header.html" . }}
 <div class="main rm-container">

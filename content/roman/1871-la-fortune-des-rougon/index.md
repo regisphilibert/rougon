@@ -1,7 +1,7 @@
 ---
 title: La Fortune des Rougon
 wp_id: 75928
-id: fortune
+novel: fortune
 author: admin
 type: roman
 date: 2010-03-22T09:36:55+00:00

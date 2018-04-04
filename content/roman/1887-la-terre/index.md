@@ -1,7 +1,7 @@
 ---
 title: La Terre
 wp_id: 75935
-id: terre
+novel: terre
 author: admin
 type: roman
 date: 2010-02-11T10:41:06+00:00

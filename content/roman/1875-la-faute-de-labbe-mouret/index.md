@@ -1,7 +1,7 @@
 ---
 title: La Faute de l'abbé Mouret
 wp_id: 75945
-id: faute
+novel: faute
 author: admin
 type: roman
 date: 2010-02-11T10:38:34+00:00

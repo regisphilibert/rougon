@@ -1,7 +1,7 @@
 ---
 title: L'Argent
 wp_id: 75932
-id: argent
+novel: argent
 author: admin
 type: roman
 date: 2010-02-11T09:41:22+00:00

@@ -1,7 +1,7 @@
 ---
 title: Son Excellence Eugène Rougon
 wp_id: 75944
-id: excellence
+novel: excellence
 author: admin
 type: roman
 date: 2010-02-11T10:39:07+00:00

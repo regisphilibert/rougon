@@ -14,3 +14,9 @@ outputs:
 blackfriday:
   extensions: ["hardLineBreak"]
   hrefTargetBlank: true
+
+related:
+  includeNewer: true # Hugo ignores newer posts by default, we want them.
+  indices:
+    - name: novel # The name of the indice, and the page's .Param to use here.
+      weight: 1 # We don't really need this, but omitting it would disable the indice.

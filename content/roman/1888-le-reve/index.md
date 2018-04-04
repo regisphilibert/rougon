@@ -1,7 +1,7 @@
 ---
 title: Le Rêve
 wp_id: 75934
-id: reve
+novel: reve
 author: admin
 type: roman
 date: 2010-02-11T09:41:11+00:00

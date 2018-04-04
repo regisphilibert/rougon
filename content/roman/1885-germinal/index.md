@@ -1,7 +1,7 @@
 ---
 title: Germinal
 wp_id: 75937
-id: germinal
+novel: germinal
 author: admin
 type: roman
 date: 2010-02-11T09:40:52+00:00

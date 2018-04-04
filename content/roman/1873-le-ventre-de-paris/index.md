@@ -1,7 +1,7 @@
 ---
 title: Le Ventre de Paris
 wp_id: 75946
-id: ventre
+novel: ventre
 author: admin
 type: roman
 date: 2010-02-11T10:37:36+00:00

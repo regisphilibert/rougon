@@ -1,7 +1,8 @@
 ---
 title: L'Œuvre
 wp_id: 75936
-id: oeuvre
+novel:
+  - oeuvre
 author: admin
 type: roman
 date: 2010-02-11T08:41:00+00:00
