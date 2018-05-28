@@ -16,7 +16,3 @@ Cela dit j'aime drôlement les Rougon Macquart.
 
 ----
 Tous les articles des personnages sont tirés de l'oeuvre immense de F.C. Ramond paru en 1901.
-
-
-
-
