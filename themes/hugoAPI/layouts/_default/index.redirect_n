@@ -1,0 +1,6 @@
+# Every endpoint redirect to its /index.json
+{{ with .Param "apiUrl" -}}
+	/{{ . }}/* /:splat/index.json 200
+{{- else -}}
+	/* /:splat/index.json 200
+{{- end -}}

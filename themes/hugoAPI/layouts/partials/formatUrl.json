@@ -1,0 +1,5 @@
+{{- if .context.Site.Params.apiurl -}}
+{{ absURL (add .context.Site.Params.apiurl (replace .url "index.json" "")) -}}
+{{- else -}}
+{{- absURL (printf "%s/index.json" .url) -}}
+{{- end -}}

@@ -1,0 +1,7 @@
+{{- .Scratch.SetInMap "item" "title" .Title -}}
+{{- .Scratch.SetInMap "item" "created" .Date -}}
+{{- with .Params.lastMod -}}
+{{- $.Scratch.SetInMap "item" "updated" . -}}
+{{- end -}}
+{{- .Scratch.SetInMap "item" "permalink" (partial "formatUrl.json" (dict "context" . "url" .RelPermalink)) -}}
+{{- .Scratch.SetInMap "item" "type" .Type -}}

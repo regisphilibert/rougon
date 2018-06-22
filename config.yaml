@@ -1,22 +1,32 @@
-baseURL: /
+baseURL: http://localhost:1313
 relativeURLs: true
 languageCode: fr-FR
 title: Les Rougon-Macquart
-theme: "rougon"
+theme:
+  - hugoAPI
+  - rougon
 
 enableRobotsTXT: true
+
+paginate: 5
 
 outputs:
   home:
     - html
     - json
-    - Algolia
+  page: 
+    - html
+    - json
+  section:
+    - html
+    - json
 
 blackfriday:
   extensions: ["hardLineBreak"]
   hrefTargetBlank: true
 
 params:
+  apiurl: false
   algolia:
     vars: ["title", "relpermalink", "novels", "human_title"]
     params: ["main_name", "secondary_name", "name_suffix", "novel"]

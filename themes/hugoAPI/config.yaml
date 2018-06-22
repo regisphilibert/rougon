@@ -1,0 +1,18 @@
+params:
+  apiUrl: "api"
+
+mediaTypes:
+  "text/netlify":
+    suffix: ""
+    delimiter: ""
+  "text/hta":
+    suffix: "htaccess"
+    delimiter: "."
+
+outputFormats:
+  redirect_n:
+    mediatype: "text/netlify"
+    baseName: "_redirects"
+  redirect_h:
+    mediatype: "text/hta"
+    baseName: ""
