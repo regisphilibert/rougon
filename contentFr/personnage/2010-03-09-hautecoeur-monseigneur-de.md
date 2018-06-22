@@ -1,0 +1,18 @@
+---
+title: Hautecœur (Monseigneur de)
+id: 76641
+author: admin
+type: personnage
+date: 2010-03-09T09:57:32+00:00
+excerpt: Le Rêve
+novel:
+  - reve
+main_name: 'Hautecœur '
+secondary_name: Monseigneur de
+
+---
+—Jean XII de Hautecœur, mari de Paule de Valençay, père de Félicien VII. Il a été capitaine à vingt et un ans, sous Charles X. En 1830, à vingt-quatre ans, il donne sa démission et, jusqu&rsquo;à la quarantaine, il mena une vie dissipée, des voyages, des aventures, des duels. Puis, un soir, chez des amis, il rencontre la fille du comte de Valençay, Paule, qui a dix-neuf ans, vingt-deux de moins que lui; il l&rsquo;aime a en être fou, elle l&rsquo;adore, on doit hâter le mariage. Jean XII rachète alors les ruines de Hautecœur, dans l&rsquo;intention de réparer le château où il rêve de s&rsquo;installer avec sa femme. Pendant neuf mois, ils ont vécu cachés au fond d&rsquo;une vieille propriété de l&rsquo;Anjou, refusant de voir personne, trouvant les heures trop courtes. Paule lui donne un fils, Félicien, et. meurt en couches. Huit jours après, Jean XII entre dans les ordres; plus tard, il devient évêque de Beaumont.
+
+A soixante ans, il a la taille haute, mince et noble, d&rsquo;une jeunesse superbe. Ses yeux d&rsquo;aigle luisent, son nez un peu fort accentue l&rsquo;autorité souveraine de sa face, atténuée par sa chevelure blanche, en boucles épaisses [178]. Inconsolé, il a longtemps refusé de voir Félicien, l&rsquo;enfant qui en naissant a coûté la vie à sa mère; il l&rsquo;a confié à un oncle de celle-ci, s&rsquo;obstinant à n&rsquo;en pas recevoir de nouvelles, tâchant d&rsquo;oublier son existence. Le jeune homme a vingt ans quand son père, soucieux de la fougue qu&rsquo;il montre et craignant des sottises de cœur, se décide enfin à l&rsquo;appeler à lui, après avoir réglé à l&rsquo;avance un mariage avec Claire de Voincourt. Mais, depuis que Félicien est là, revenue vit dans le trouble. Cet enfant est le vivant portrait de celle qu&rsquo;il pleure; il a son âge, ta grâce blonde de sa beauté. Vingt ans de prières n&rsquo;ont pas tué l&rsquo;homme ancien et il suffit que ce fils de sa chair, cette chair de la femme, adorée, se dresse, avec le rire de ses yeux bleus, pour que son cœur batte à se rompre, en croyant que la morte ressuscite. Il passe des nuits de combat, ce sont des larmes, des plaintes, dont la violence, étouffée par les tentures, effraye l&rsquo;Évêché. La torture a recommencé, saignante comme au lendemain de la mort de la femme à jamais pleurée. Aussi, lorsque Félicien lui avoue l&rsquo;ardent amour qui l&rsquo;emporte vers la petite brodeuse Angélique, le père crucifié sent-il en lui l&rsquo;absolue volonté, le devoir rude de soustraire ce fils au mal dont lui-même souffre tant. Il veut, tuer la passion dans son fils comme il veut la tuer en lui-même et, à l&rsquo;ardente prière de l&rsquo;amant, il répond d&rsquo;un seul mot : Jamais ! [210].
+
+Angélique, éloquente et pure, n&rsquo;obtient, elle aussi, qu&rsquo;une réponse inexorable [230], mais sans qu&rsquo;il veuille l&rsquo;admettre, celte jeune fille l&rsquo;a louché, une nouvelle lutte le déchire et, la grâce entrant en lui comme un remords, il se rappelle, devant Angélique agonisante, les miracles qui ont illustré les siens, ce pouvoir que le ciel leur a donné de guérir. Pareil à son ancêtre Jean V, allant prier au chevet des pestiférés ut leur donnant un baiser qui les ressuscite, il prie le ciel, baise la mourante sur la bouche et, dit : « Si Dieu veut, je veux » [290]. Et devant le prodige accompli, monseigneur permet enfin la réalisation du rêve d&rsquo;Angélique, ce merveilleux mariage qui va donner à l&rsquo;illustre famille de Hautecœur une Morte heureuse de plus. _(Le Rêve.)_

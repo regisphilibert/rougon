@@ -1,0 +1,24 @@
+---
+title: Fouque (Adélaïde), dite Tante Dide.
+id: 76826
+author: admin
+type: personnage
+date: 2010-03-08T08:54:41+00:00
+excerpt: La Fortune des Rougon, La Conquête de Plassans, Le Docteur Pascal
+novel:
+  - conquete
+  - fortune
+  - docteur
+main_name: 'Fouque '
+secondary_name: Adélaïde
+name_suffix: dite Tante Dide.
+main: 1
+
+---
+— Mère et aïeule des Rougon-Macquart. Elle a donné naissance à la branche légitime, par Pierre Rougon, et aux deux branches bâtardes, par Ursule et Antoine Macquart. Adélaïde, née en 1768, est orpheline à dix-huit ans. Père mort fou. Elle est une grande créature mince, pâle, aux regards effarés, aux lèvres charnues, bizarre d&rsquo;allures, on lui croit le cerveau fêlé. Héritière des plus riches maraîchers du pays, elle épouse un lourd jardinier, Rougon, qui meurt quinze mois après, lui laissant un fils, Pierre. Avant la fin de son deuil, elle est la maîtresse du contrebandier Macquart, qu&rsquo;elle aime d&rsquo;un amour de louve, et elle en a deux enfants, Antoine et Ursule, élevés côte à côte avec Pierre. Dès les premières couches, elle a subi des crises nerveuses qui s&rsquo;aggravent lorsque son amant, surpris à la frontière pendant qu&rsquo;il introduisait de la marchandise en fraude, est tué par le fusil d&rsquo;un douanier. Les troubles hystériques d&rsquo;Adélaïde la jettent dans des convulsions terribles, la détraquent complètement en peu d&rsquo;années [51] et la livrent sans défense aux duretés de son fils légitime. Dès quarante-deux ans, elle a des airs vagues de vieille femme tombée en enfance. Elle s&rsquo;est retirée ans la masure de Macquart et vit d&rsquo;une pension de six cents francs, que Pierre lui a consentie lorsqu&rsquo;il l&rsquo;a dépouillée de sa fortune [64] ; elle vieillit dans une existence monacale, en un renoncement absolu, avec des accidents nerveux périodiques. A soixante-quinze ans, Adélaïde a la face blême, un masque vague, les regards éteints, les mains agitées d&rsquo;un tremblement sénile [162]. Elle recueille son petit-fils Silvère Mouret, âge de six ans, qui l&rsquo;appelle tante Dide et pour qui elle se prend d&rsquo;une tendresse ineffable [163]. L&rsquo;enfant grandit avec elle, la soignant, l&rsquo;aimant, et lorsqu&rsquo;au coup d&rsquo;Etat, il meurt sous ses yeux, victime des haines et des luttes sanglantes de la famille, tué par un gendarme comme l&rsquo;a été le grand-père Macquart, tante Dide, maudissant ses fils criminels, achève de devenir folle et est enfermée dans l&rsquo;Asile d&rsquo;aliénés des Tulettes. _(La Fortune des Rougon.)_
+
+Elle est toujours internée comme folle et reste une des laies vives de la famille. La petite propriété de son fils Antoine Macquart est voisine de l&rsquo;Asile. Pierre Rougon semble avoir posté là le vieux drôle pour veiller sur l&rsquo;aïeule [57]. Adélaïde n&rsquo;a jamais donné de l&rsquo;ennui à la maison : elle reste assise, à regarder devant elle; depuis douze ans, elle n&rsquo;a as bougé [364]. _(La Conquête de Plassans.)_
+
+A cent quatre ans, elle vit toujours, ainsi qu&rsquo;une oubliée, une démente calme, au cerveau ossifié, chez qui la folie peut rester indéfiniment stationnaire, sans amener la mort. C&rsquo;est un squelette jauni, desséché, tel qu&rsquo;un arbre séculaire, dont il ne reste que l&rsquo;écorce [73]. Dans son mince et long visage, il n&rsquo;y a plus que les yeux de vivants, des yeux d&rsquo;eau de source, vides et clairs, sans pensée. Immuable en son fauteuil, tante Dide est là, comme le témoin gênant du passé, comme un spectre de l&rsquo;attente et de l&rsquo;expiation qui évoque, vivantes, les abominations de la famille [224] et fait peur à Félicité Rougon. Un accident soudain, le petit Charles Saccard atteint d&rsquo;une hémorragie nasale, le filet de sang venant former une flaque aux pieds de la folle, réveille ce cerveau endormi depuis vingt et un ans. La vieille aïeule revoit dans un éclair le gendarme qui, d&rsquo;un coup de pistolet, a cassé la tête de Silvère, elle revoit aussi l&rsquo;homme qui a fusillé, comme un chien, le contrebandier Macquart; ce troisième choc sanglant achève de l&rsquo;abattre et elle meurt le lendemain, âgée de cent cinq ans trois mois et sept jours, enlevée par une congestion pulmonaire [244]. _(Le Docteur Pascal.)_
+
+_(l) Adélaïde Fouque, dite tante Dide. Née en_ 1768; _mariée en_ 1786, à _Rougon, lourd et placide jardinier; en a un fils en_ 1787; _perd son mari en_ 1788; _prend, en_ 1789, _un amant, Macquart, déséquilibré et ivrogne, contrebandier: en_ a _un fils en_ 1789 _et une fille en_ 1791;_devient folle et entre à l&rsquo;Asile d&rsquo;aliénés des Tulettes, en_ 1851 ; _y meurt d&rsquo;une congestion cérébrale en_ 1873, a _l&rsquo;âge de_ 105 _ans._ [Névrose originelle]. _(Arbre généalogique des Rougon-Macquart.)_

@@ -1,0 +1,17 @@
+---
+title: Bachelard (Narcisse)
+id: 77166
+author: admin
+type: personnage
+date: 2010-02-15T07:32:17+00:00
+excerpt: Pot-Bouille
+novel:
+  - pot-bouille
+main_name: 'Bachelard '
+secondary_name: Narcisse
+main: 1
+
+---
+— Frère d&rsquo;Éléonore. C&rsquo;est l&rsquo;oncle Bachelard, un homme sans mœurs, qui gagne quatre-vingt mille francs par an dans la commission. Couvert de bijoux, dégingandé, il est énorme, avec sa carrure de commerçant noceur et braillard, qui a roulé dans tous les vices. Il a des fausses dents trop éclatantes, une face ravagée, un grand nez rouge qui flambe, des yeux pâles a brouillés, des cheveux blancs coupés ras. Sa maison de commission occupe le sous-sol et le rez-de-chaussée d&rsquo;un vaste immeuble de la rue d&rsquo;Enghien. Dans les occasions de plaisir, Bachelard agit avec la prodigalité enragée d&rsquo;un homme qui ne compte plus ; il est connu sur toute la ligne des grands boulevards pour ses dîners fastueux, des dîners à trois cents francs par tête qu&rsquo;il offre à ses clients de l&rsquo;Inde ou du Brésil et dans lesquels il soutient noblement l&rsquo;honneur de la commission française. Mais cette ostentation ne l&rsquo;empêche pas de compter ; dans les cafés, il emporte le sucre; en famille, il est d&rsquo;une avarice féroce. Comme les Josserand sont à genoux devant sa fortune, il les exploite pendant quinze ans, emmenant chaque semaine le mari passer deux heures dans son bureau et lui faisant vérifier gratis ses écritures pour économiser cent sous. Il accepte les invitations à dîner, laisse entendre à sa sœur qu&rsquo;il sera généreux plus tard, impose aux Josserand ses habitudes répugnantes, se fait tripoter par ses nièces qui lui arrachent parfois vingt francs de haute lutte, mais il n&rsquo;offre jamais un cadeau. Gavé de boisson et de nourriture, Bachelard a beau n&rsquo;avoir jamais sa raison, il ouvre l&rsquo;œil dès qu&rsquo;on lui parle d&rsquo;argent et, serré de près, sait. se dérober en exagérant son air de noceur gâteux [150]. Il n&rsquo;est prodigue que de conseils, s&rsquo;entendant à demi-mot avec sa sœur, pour marier Berthe grâce à l&rsquo;appât d&rsquo;une dot imaginaire.
+
+Au fond, ce jouisseur égoïste a toujours été pour l&rsquo;idéal ; fatigué des gueuses qui le grugent, Narcisse Bachelard a cherché un cœur qui le comprît et il s&rsquo;est mis à aimer Fanny Menu, la jeune Fifi, une innocence en chambre, de la chair en bouton qu&rsquo;il salit de ses anciens vices et qui ne lui coûte pas plus de cinq louis par mois. Quand une noce l&rsquo;attendrit, il ne peut se tenir de mener les gens chez Fifi, partagé entre la vanité de montrer son trésor et la crainte de se le faire voler. Dans ces moments-là, sa voix de vieil ivrogne tremble, des larmes gonflent ses paupières lourdes ; il donne des détails sur sa maîtresse, une peau de fleur, des cuisses rondes et fermes comme des pêches. Et l&rsquo;inévitable se produit : Bachelard est trompé au profit de Gueulin, son neveu et son compagnon de plaisir; mais cette infortune achève d&rsquo;exciter sa sensibilité : il régularise la situation en mariant Gueulin et Fifi, et il leur donne généreusement, en bon oncle, les cinquante mille francs promis depuis si longtemps pour la dot de sa nièce Berthe. _(Pot-Bouille.)_

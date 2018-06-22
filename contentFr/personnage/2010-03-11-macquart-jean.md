@@ -1,0 +1,36 @@
+---
+title: Macquart (Jean)
+id: 76426
+author: admin
+type: personnage
+date: 2010-03-11T07:43:18+00:00
+excerpt: La Fortune des Rougon, La Terre, La Débâcle, Le Docteur Pascal
+novel:
+  - debacle
+  - fortune
+  - terre
+  - docteur
+main_name: 'Macquart '
+secondary_name: Jean
+main: 1
+
+---
+— Troisième enfant d’Antoine Macquart et de Joséphine Gavaudan. Frère de Lisa et de Gervaise. Né à Plassans en 1831, c’est un fort gaillard, tenant de sa mère, sans avoir sa ressemblance physique. Visage aux traits réguliers, avec la froideur grasse d’une nature sérieuse et peu intelligente. Grandit avec la volonté tenace de se faire un jour une position indépendante [150]. Il apprend le métier de menuisier et, dès les premières payes, est dépouille par son père qui le traite en jeune fille et ne lui laisse pas un centime [153]. Quand on s’assomme dans le ménage, Jean se lève pour séparer son père et sa mère [155]. Lorsque celte dernière meurt, le jeune homme, las d’être exploité, quitte la maison [179]. _(La Fortune des Rougon.)_
+
+Tombé au sort, il a été sept ans soldat et, en 1859, s’étant battu à Solferino et n’ayant gardé de cette journée que le souvenir d’une pluie diluvienne tombée pendant l’action [71], il est revenu d’Italie avec son congé. Un camarade, libéré comme lui, l’a emmené à Bazoches-le-Doyen; il a d’abord repris sou métier, mais les années de service l’avaient rouillé, dévoyé, dégoûté de la scie et du rabot, avaient tait de lui un autre homme, avec des habitudes de flânerie et un grand besoin de repos. Installé à la Borderie pour des réparations, il y reste comme valet de ferme, unissant par mordre à la culture, satisfaisant ainsi le tempérament de bœuf de labour qu’il tient de sa mère [91].
+
+A vingt-neuf ans, c’est un gros garçon châtain, aux cheveux ras, à la face pleine et régulière, annonçant un mâle solide : on l’appelle Caporal, en souvenir de son métier de soldat. Il n’est pas seulement aux prises avec la terre dure qui fait payer chaque grain de blé d’une goutte de sueur, il lutte surtout avec le peuple des campagnes, que l’âpre désir, la longue et rude conquête du sol brûle du besoin sans cesse irrité de la possession. Les paysans exècrent Jean, d’abord parce qu’il a été un ouvrier, travaillant le bois au lieu de. cultiver la terre, ensuite parce qu’il s’est mis à la charrue et qu’il vient manger le pain des autres dans un pays qui n’est pas le sien. Il a fait connaissance à Rognes des sœurs Mouche, Lise et Françoise, il épouse celle-ci malgré les fureurs de Buteau et croit avoir fixé sa vie en ce coin de la Beauce. Mais jusqu’au bout, Jean reste un étranger, même pour sa femme qui ne l’aime guère et qui, assassinée par les siens, leur laisse tout, ne voulant pas qu’une moite de terre sorte de la famille et aille à l’intrus.
+
+L’heure de la guerre va sonner. Dégoûté de la vie, n’ayant plus de courage à travailler la vieille terre de France, Jean saura du moins la défendre ; il se rengage pour aller cogner sur les Prussiens [501]. _(La Terre.)_
+
+Il a été incorporé au 106<sup>e</sup> de ligne (colonel de Vineuil) et, sachant tout juste lire et écrire, n’ambitionnant même pas le grade de sergent, il fera la campagne avec les galons de caporal. Gros garçon sérieux, à la figure pleine et régulière, à la cervelle épaisse et lente, il reste calme et têtu, solide en son, espoir, devant la défaite. Les horreurs de Sedan n’ébranlent pas son optimisme : on n’est pas tous morts, après tout, il en reste, et ceux-là suffiront bien à rebâtir la maison, s’ils sont de bons bougres, travaillant dur, ne buvant pas ce qu’ils gagnent; lorsqu’on prend de la peine, on parvient toujours à se tirer d’affaire, au milieu des pires malchances; même, il n’est pas mauvais, parfois, de recevoir une bonne gifle, ça fait réfléchir et s’il y a quelque pari de la pourriture, des membres gâtés, mieux vaut les voir par terre, abattus d’un coup de hache, que d’en crever comme d’un choléra [392].
+
+Jean a deviné en Maurice Levasseur une inimitié, une répugnance de classe et d’éducation, il voudrait échapper à ce mépris hostile [20]. Il gagne Maurice peu à peu, lui donnant d’abord une rude leçon de courage moral [33], puis le soutenant de son exemple, le soignant avec une douceur d’homme expérimenté dont les gros doigts savent être délicats à l’occasion. Le tutoiement arrive bientôt [100]. Jean s’attendrit devant la souffrance physique de Maurice, il se prive démanger pour lui et, plus tard, de même qu’il lui a sauvé la vie pendant la marche vers Sedan, Maurice le sauvez sur le champ de bataille. Puis, dans la presqu’île d’Iges, où plane la mort, Jean paye sa dette au centuple; c’est le don entier de sa personne, l’oubli total de lui-même pour l’amour de l’autre [445].
+
+Évadé de la colonne de prisonniers, blessé dans la fuite, encore une fois sauvé par Maurice et réfugié à Remilly, où Henriette Weiss le soigne, Jean rêve un moment une femme comme elle, si tendre, si douée, si active; il se voit confusément remarié en ce pays, propriétaire d’un champ qui suffit à nourrir un ménage de braves gens sans ambition [511]. Mais comme il faut aller jusqu’au bout du désastre, la guerre civile va anéantir ce rêve.
+
+Les cœurs de Jean et de Maurice s’étaient fondus l’un dans l’autre, pendant quelques semaines d’héroïque vie commune. Aujourd’hui, Maurice est plein de la démence qui emporte Paris, un mal venu de loin, des ferments mauvais du dernier règne; Jean, lui, est resté fort de son bon sens et de son ignorance, sain encore d’avoir poussé à part, dans la terre du travail et de l’épargne. Un arrachement sépare brusquement les deux hommes[586]. Et l’abomination s’accomplit. Maurice, le fils détraqué de la bourgeoisie, meurt sur une barricade, des mains de Jean choisi par l’inexorable destin pour accomplir l’holocauste, pour abattre ce membre gâté, dont l’amputation est devenue nécessaire. L’heureuse vie que Jean avait entrevue s’en va avec le flot de sang qui emporte le frère d’Henriette. Désormais, l’œuvre de destruction est achevée, Jean se remet en marche, retournant à la terre qui l’attend, à la grande et rade besogne de toute une France à refaire [636]. _(La Débâcle.)_
+
+Licencié après la semaine sanglante, Jean est venu se fixer près de Plassans, à Valqueyras, où il a eu la chance d’épouser une forte fille, Mélanie Vial, unique enfant d’un paysan aisé, dont il fait valoir la terre [129]. Calme et raisonnable, toujours à sa charrue, il crée rapidement toute une petite famille, un enfant d’abord, puis deux autres en trois années, toute une nichée qui pousse gaillardement au soleil [385]. _(Le Docteur Pascal.)_
+
+(1) _Jean Macquart, né en 1831 ; épouse, en 1867, Françoise Mouche, qu’il perd en 1870, sans en avoir eu d’enfants; se remarie en 1871, avec Mélanie Vial, paysanne forte et saine, dont il a un garçon et qui est grosse de nouveau,_ [Innéité. Combinaison où se confondent les caractères physiques et moraux des parents, sans que rien d’eux semble se retrouver dans le nouvel être]. _Paysan, soldat, puis paysan. Vit encore à Valqueyras. (Arbre généalogique des Rougon-Macquart,)_

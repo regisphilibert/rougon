@@ -1,0 +1,20 @@
+---
+title: Levasseur (Henriette)
+id: 76470
+author: admin
+type: personnage
+date: 2010-03-10T10:16:28+00:00
+excerpt: La Débâcle
+novel:
+  - debacle
+main_name: 'Levasseur '
+secondary_name: Henriette
+
+---
+— Fille du percepteur. Sœur jumelle de Maurice. Alors qu&rsquo;on faisait de celui-ci un avocat, elle a été élevée en Cendrillon, au logis, sachant au plus lire et écrire. Et plus tard, pour réparer les folies de son fière, elle s&rsquo;est dépouillée généreusement, elle a tout vendu, la maison, les meubles, sans parvenir à combler le déficit. Puis elle a eu la chance de trouver un mari, cet honnête garçon de Weiss, qui est venu lui offrir tout ce qu&rsquo;il possédait, avec ses bras solides, avec son cœur; elle l&rsquo;a épousé, touchée aux larmes de son affection, pleine d&rsquo;estime tendre, sinon de passion amoureuse [188]. Henriette est petite, elle a une figure mince, des traits menus, sous une admirable chevelure blonde, d&rsquo;un blond clair d&rsquo;avoine mûre. Ce qui la différencie surtout de son fière, avec qui elle a une ressemblance frappante, ce sont ses yeux gris, calmes et braves, où revit toute l&rsquo;âme du grand-père. le héros de la grande armée. Parlant peu, marchant sans bruit, elle est d&rsquo;une activité si adroite, d&rsquo;une douceur si riante qu&rsquo;on. la sent comme une caresse dans J&rsquo;air où elle passe [189]; c&rsquo;est une -âme forte, elle est du bois sacré dont on fait les martyrs [ 191].
+
+Le matin de la bataille de Sedan, apprenant ce qui se passe à Bazeilles, elle décide d&rsquo;y rejoindre soit mari, la témérité de l&rsquo;entreprise lui paraît naturelle, sans héroïsme déplacé, rentrant dans son rôle de femme active : où son m ri est, elle doit être, simplement [258]. Arrêtée par l&rsquo;infanterie de marine devant Balan, elle continue sa route en franchissant des clôtures, elle garde sous les obus, dans la folle ardeur de cette course, un grand sang-froid, toute la tranquillité brave dont sa petite âme de bonne ménagère est capable. Elle veut ne pas être tuée, retrouver son mari, le reprendre, vivre ensemble, heureux encore [231]. Marchant sous les balles, meurtrie par un ricochet, elle ne parvient à Bazeilles que pour voir Weiss collé au mur en -face de soldats allemands qui préparent leurs armes ; alors, en créature qui ne raisonne plus, qui donne sa vie, elle s&rsquo;enlace à lui, elle veut qu&rsquo;on les fusille ensemble, il faut que le Bavarois Gutmann la saisisse violemment et lui fasse lâcher prise; et elle na même pas la consolation d&rsquo;ensevelir son cher mort, que les Prussiens jetteront dans la fournaise et dont les cendres seront dispersées au vent [393].
+
+Réfugiée à Remilly, soignant maternellement les blessés, elle retrouve chez l&rsquo;oncle Fouchard deux soldats de Sedan échappés à la captivité, son frère Maurice qui va repartir au combat, et Jean Macquart qu&rsquo;elle cachera, qu&rsquo;elle guérira, vivant avec lui pendant quatre mois en une intimité familiale. Le cœur broyé par la perte qu&rsquo;elle a faite, elle est pleine de gratitude pour ce Jean qui a sauvé son frère, elle l&rsquo;aime d&rsquo;une affection qui grandit, à mesure qu&rsquo;elle le connaît mieux, simple et sage, de cerveau solide [491]. Près de lui, elle se sent consolée et elle caresse parfois le rêve d&rsquo;une intimité à trois, dans un avenir de bonheur encore possible, qui ne se précise pas à ses yeux.
+
+Mais le destin ne lui fera pas grâce, la guerre va achever de lui broyer le cœur. Maurice, son frère Maurice adoré par delà la naissance, qui était un autre elle-même, qu&rsquo;elle avait élevé, sauvé, son unique tendresse depuis qu&rsquo;elle a vu à Bazeilles le corps du pauvre Weiss troué par les balles, Maurice est tué à Paris, il reçoit la mort des mains mêmes de Jean, jeté au fratricide par l&rsquo;affreuse guerre civile. Et Henriette s&rsquo;arrache du cœur l&rsquo;amour qui y germait ; héroïne obscure, victime pitoyable, elle restera seule au monde, veuve et dépareillée, sans personne qui l&rsquo;aime [632]. _(La Débâcle.)_

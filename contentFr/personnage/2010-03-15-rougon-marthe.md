@@ -1,0 +1,22 @@
+---
+title: Rougon (Marthe)
+id: 76137
+author: admin
+type: personnage
+date: 2010-03-15T09:16:06+00:00
+excerpt: La Fortune des Rougon, La Conquête de Plassans
+novel:
+  - conquete
+  - fortune
+main_name: 'Rougon '
+secondary_name: Marthe
+main: 1
+
+---
+— Fille de Pierre Rougon et de Félicité Puech. Sœur de Pierre, Pascal, Aristide et Sidonie. Mère d&rsquo;Octave, Serge et Désirée Mouret. Née à Plassans en 1820, cinquième enfant des Rougon, tard venue, a été mal accueillie par ses parents [70]. Elle a vingt ans, son père qui ne possède point de dot pour elle ne sait comment s&rsquo;en défaire; à ce moment, François Mouret, fils d&rsquo;Ursule Macquart et cousin germain de Marthe, devient commis dans la maison. Entre les jeunes gens naît rapidement une tendresse déterminée sans doute par leur ressemblance physique. Comme François, Marthe est le portrait même de l&rsquo;aïeule Adélaïde Fouque, mais tandis que François est un gros garçon laborieux, Marthe atout l&rsquo;effarement, tout le détraquement intérieur de la grand&rsquo;mère [81]. Pierre Rougon les marie en 1840. Ils ont trois enfants et quittent avec eux Plassans en 1845, pour aller s&rsquo;établir à Marseille [161]. _(La Fortune des Rougon.)_
+
+A quarante ans, madame Mouret est parfaitement heureuse entre ses enfants et son mari, la fortune est venue, les Mouret se sont retirés à Plassans. Une vie réglée, les soucis quotidiens du commerce, ont assoupi en Marthe l&rsquo;antagonisme de nature qui la séparait de François. Sa nature nerveuse a subi un amollissement qui serait sans doute définitif, si l&rsquo;entrée de l&rsquo;ardent abbé Faujas dans cette existence douce et comme résignée ne réveillait brusquement la névrose endormie. Le prêtre, qui a besoin de Marthe pour s&rsquo;imposer au inonde féminin de Plassans, a vite fait de s&rsquo;emparer de son faible esprit. Comme elle n&rsquo;est pas dévote, ne fréquentant même pas l&rsquo;église, Faujas la prend par des idées de charité, elle se laisse entraîner à une fondation pieuse et devient présidente de l&rsquo;Œuvre de la Vierge [112]. Amusée d&rsquo;abord par les détails matériels de l&rsquo;organisation, elle s&rsquo;habitue à l&rsquo;église [118], se désintéresse des siens et s&rsquo;abandonne à une vague extase qui met dans sa vie un intérêt inconnu; puis le détraquement s&rsquo;aggrave, elle arrive aux pratiques religieuses, glisse à la dévotion, s&rsquo;abîme en des confessions interminables, goûtant des joies naïves de communiante, se détachant de tout, laissant sa maison à vauleau, regardant d&rsquo;un œil sec le départ successif de ses enfants qu&rsquo;elle avait adorés, éprouvant enfin une véritable haine pour ce mari silencieux, qui rôde sans cesse autour d&rsquo;elle, pareil à un remords [236].
+
+C&rsquo;est un affolement de l&rsquo;être entier, la terrible crise de la quarantaine, où Marthe, toute brûlante d&rsquo;ardeurs, confond dans un même culte la religion et son ministre, Dieu et l&rsquo;abbé Faujas, se prenant peu à peu pour celui-ci d&rsquo;une adoration charnelle. L&rsquo;indifférence, la brutalité de Faujas, qui dans cette détraquée ne voit qu&rsquo;un obstacle à briser, déterminent des crises nerveuses de plus en plus graves, des attaques de catalepsie qui anéantissent Marthe et lui donnent l&rsquo;apparence d&rsquo;une femme rouée de coups. C&rsquo;est alors que s&rsquo;établit la légende des brutalités de Mouret, soigneusement répandue par les Trouche et confirmée par les silences approbateurs de Marthe. La crise finale a lieu après une affreuse explication avec Faujas, où l&rsquo;hystérique, écrasée sous les duretés du prêtre, violemment chassée par lui du paradis entrevu, court à l&rsquo;Asile des Tulettes pour délivrer son mari, le trouve en état de folie complète et, frappée de terreur, se sauve chez sa mère, où elle meurt le même soir, dans la rouge clarté de l&rsquo;incendie allumé par le fou [402]_. (La Conquête de Plassans.)_
+
+_(1) Marthe Rougon, née en 1820 ; épouse, en 1840, son cousin François Mouret, dont elle a trois enfants ; meurt, en 1864, dans une crise nerveuse._ [Hérédité en retour sautant une génération. Hystérique. Ressemblance morale et physique d&rsquo;Adélaïde Fouque. Marthe et François, les deux époux, se ressemblent. _(Arbre généalogique des Rougon-Macquart.)_

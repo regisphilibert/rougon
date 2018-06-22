@@ -1,0 +1,16 @@
+---
+title: Bécot (Irma)
+id: 77123
+author: admin
+type: personnage
+date: 2010-02-15T08:37:32+00:00
+excerpt: "L'Œuvre"
+novel:
+  - oeuvre
+main_name: 'Bécot '
+secondary_name: Irma
+
+---
+— Fille de l&rsquo;épicier. A suivi jusqu&rsquo;à seize ans les cours d&rsquo;une école voisine. Faisait ses devoirs entre deux sacs de lentilles, et achevait son éducation de plain-pied avec la rue, vivant sur le trottoir, au milieu des bousculades, apprenant la vie dans les continuels commérages des cuisinières en cheveux, qui déshabillaient les abominations du quartier, pendant qu&rsquo;on leur pesait cinq sous de gruyère. Allait encore à l&rsquo;école, lorsque, un soir, en fermant la boutique, un garçon l&rsquo;a jetée en travers d&rsquo;un panier de figues. Orpheline six mois après, la maison mangée, elle se réfugie chez une tante pauvre qui la bat, se sauvé avec un jeune homme d&rsquo;en face, revient à trois reprises, pour s&rsquo;envoler définitivement un beau jour dans tous les bastringues de Montmartre et des Batignolles. A dix-huit agis, c&rsquo;est une de ces galopines de Paris qui gardent longtemps la maigreur du fruit vert; on dirait un chien coiffé, elle a une pluie de petits cheveux blonds sur un nez délicat, une grande bouche rieuse dans un museau rose. Ayant la passion des artistes, avec le regret qu&rsquo;ils ne soient pas assez riches pour se payer des femmes à eux tout seuls, jetant sa jeunesse aux quatre coins des ateliers, elle éprouve des caprices successifs pour Fagerolles, Gagnière, beaucoup d&rsquo;autres, et s&rsquo;étonne de la bêtise de ce nigaud de Claude Lantier qui ne veut pas d&rsquo;elle.
+
+D&rsquo;ailleurs, fine, intelligente, elle porte déjà sa fortune, dans le débraillé de sa jeunesse. Un jeune crétin de marquis lui a meublé un appartement très chic, elle occupe ensuite un petit hôtel rue de Moscou, avec vingt mille francs de loyer. Quatre ans ont suffi pour la transformer, elle est devenue autre, la tête faite avec un art de cabotine, le front diminué par la frisure des cheveux, la face tirée en longueur, grâce à un effort de sa volonté sans doute, rousse ardente de blond pâle qu&rsquo;elle était, si bien qu&rsquo;une courtisane du Titien semble maintenant s&rsquo;être levée du petit voyou de jadis; c&rsquo;est ce qu&rsquo;elle appelle sa tète pour les jobards. On fait là des déjeuners corrects, où il n&rsquo;est question que du prix des terrains. Et Irma finit par réaliser son rêve d&rsquo;un hôtel à elle, une demeure princière, sur l&rsquo;avenue de Villiers : le terrain a été acheté par un amant, puis les cinq cent mille francs de la bâtisse, les trois cent mille francs des meubles ont été fournis par d&rsquo;autres, au petit bonheur, des coups de passion. C&rsquo;est là qu&rsquo;elle contente un jour son désir d&rsquo;autrefois et qu&rsquo;elle possède Claude, presque malgré lui. La fortune. n&rsquo;a pas modifié ses goûts ; derrière le dos des messieurs sérieux, payant en maris, elle s&rsquo;offre la distraction d&rsquo;aimer encore la peinture, dans la personne d&rsquo;Henri Fagerolles un gamin de Paris comme elle, d&rsquo;égale perversité, et dont elle vide les poches pour s&rsquo;amuser. _(L&rsquo;Œuvre.)_

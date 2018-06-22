@@ -1,0 +1,19 @@
+---
+title: Duveyrier (Alphonse)
+id: 76732
+author: admin
+type: personnage
+date: 2010-03-08T10:43:50+00:00
+excerpt: Pot-Bouille
+novel:
+  - pot-bouille
+main_name: 'Duveyrier '
+secondary_name: Alphonse
+main: 1
+
+---
+—Conseiller à la Cour d&rsquo;appel. Issu d&rsquo;une vieille famille bourgeoise, fils d&rsquo;un président de cour, a été attaché au parquet dès sa sortie de l&rsquo;école, plus tard juge suppléant à Paris, décoré, conseiller avant quarante-cinq ans. Pas plus fort qu&rsquo;un autre, il a été poussé par tout le monde. Duveyrier est grand et maigre. Il a la face rasée, un menton pointu et des yeux obliques ; sa peau est marquée de larges plaques rouges, indiquant un sang mauvais, toute une âcreté brûlant à fleur de peau [104]. Marié à Clotilde Vabre avec qui il habite dans la maison du beau-père, rue de Choiseul, ses gros appétits de mâle ont été déçus parle dégoût physique qu&rsquo;il inspire à sa femme. Aussi a-t-il toujours quelque maîtresse, logée par précaution dans des quartiers lointains, au bout des lignes d&rsquo;omnibus, et chez qui il va une fois par semaine, régulièrement, ainsi qu&rsquo;un employé se rend à son bureau [166].
+
+La dernière en date est Clarisse Bocquet, qui répond sans doute à un idéal longtemps cherché, car il s&rsquo;est violemment épris d&rsquo;elle; il pleure en lui baisant les paupières, tout secoué dans ses ardeurs charnelles par un besoin de cultiver la petite fleur bleue des romances. C&rsquo;est chez Clarisse qu&rsquo;il reçoit ses amis et, dans ce salon de la rue de la Cerisaie, le sentencieux Duveyrier, si morne chez sa femme, retrouve un air de jeunesse, les taches saignantes de son front tournent au rose, ses yeux obliques luisent d&rsquo;une gaieté d&rsquo;enfant [169]. Les visites hebdomadaires ne lui suffisent plus; il s&rsquo;échappe entre deux suspensions d&rsquo;audience, faisant seulement à la dignité de la magistrature la concession de retirer son ruban rouge quand il arrive chez sa maîtresse. Il croit d&rsquo;ailleurs à la parfaite vertu de Clarisse qui, pourtant, le trompe sans scrupule, et il reste pétrifié te jour où elle le lâche brutalement. C&rsquo;est pour Duveyrier une immense amertume, dont il est à peine distrait parla mort du vieux Vabre et les manœuvres à accomplir, de connivence avec Clotilde, pour spolier ses deux beaux-frères. Dans son désarroi de mâle abandonné, il couche avec Adèle, la bonne des Josserand, mais rien ne remplace Clarisse et, lorsqu&rsquo;un jour le hasard la lui fait rencontrer sous une porte, il est trop heureux de la reprendre, de la réinstaller rue d&rsquo;Assas dans un bel appartement, acceptant ses nouvelles conditions, renonçant à l&rsquo;amusant intérieur d&rsquo;autrefois, se résignant, lui que la musique horripile, à subir la torture d&rsquo;un piano, retrouvant chez sa maîtresse un coin de bourgeoisie féroce où se répètent tous les ennuis de son ménage, dans de l&rsquo;ordure et du vacarme [397].
+
+Mais cette secousse l&rsquo;a profondément atteint; des embarras d&rsquo;argent lui sont venus, il baisse, les jeunes avocats le regardent d&rsquo;un air polisson, ce qui le gêne pour rendre la justice [450]. Jeté dans l&rsquo;escalier par la famille de Clarisse, il a essayé de se suicider et cette tentative ratée l&rsquo;a laissé, la mâchoire de travers, déviée à gauche. Il va d&rsquo;ailleurs devenir président de chambre et officier de la Légion d&rsquo;honneur, juste récompense de sa férocité de magistrat. Et Duveyrier remplacera Clarisse par une nouvelle maîtresse un peu mûre, mais romanesque, l&rsquo;âme élargie par cet idéal dont il a besoin pour épurer l&rsquo;amour [488]. _(Pot-Bouille.)_

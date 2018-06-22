@@ -1,0 +1,20 @@
+---
+title: Morange (Silvine)
+id: 76317
+author: admin
+type: personnage
+date: 2010-03-11T08:39:22+00:00
+excerpt: La Débâcle.
+novel:
+  - debacle
+main_name: 'Morange '
+secondary_name: Silvine
+
+---
+— Servante de ferme à Remilly. Elle a perdu toute jeune sa mère, ouvrière séduite, qui travaillait dans une usine de Raucourt. Son parrain d’occasion, le docteur Dalichamp, l’a placée comme petite servante chez le père Fouchard. A seize ans, elle a été aimée du fils du maître et devant l’opposition du vieux, le jeune homme s’est engagé. Alors, dans une minute d’inconscience, malade de chagrin, affaiblie encore par les larmes de la séparation, la malheureuse fille s’est donnée à un valet de ferme, Goliath Steinberg, elle est devenue enceinte, puis l’homme a disparu, le petit Charlot est né. Mais elle n’a jamais cessé d’aimer Honoré Fouchard, elle ose le lui écrire trois ans après, à l’heure de la guerre ; elle ne veut pas qu’il meure sans savoir qu’elle n’a jamais aimé que lui ; c’est un adieu plein d’une infinie tendresse.
+
+Très brune, Silvine a d’épais cheveux noirs et de grands beaux yeux qui suffisent à sa beauté, dans son visage ovale, d’une tranquillité forte de soumission [165]. Elle est toute saignante de l’invasion ; à Raucourt, elle a vu les Bavarois ivres de fureur ; près de Villers, elle a rencontré une femme de Beaumont, qui fuyait devant eux et qui, sur la grande route du village, a assisté au terrible passage de l’artillerie ennemie, menée d’un train d’enfer, se hâtant dans la diabolique poursuite des troupes françaises [170]. Silvine adore son enfant, elle étreint sur son cœur le fils du Steinberg qui, à cette heure même, guide les colonnes prussiennes à travers les bois. Une félicité survient : Honoré a pardonné sa faute, il est de non-veau à elle, lui qu’elle avait perdu; maintenant, elle mourra plutôt que de se le laisser reprendre [173]. Et quand, le lendemain de Sedan, elle apprend qu’il a été tué, c’est un écroulement, un besoin fou de le revoir.
+
+Avec Prosper Sambac, elle va chercher Je corps au calvaire d’Illy; elle traverse la Meuse où des cadavres passent au fil de l’eau ; elle parcourt Bazeilles effondré [416] ; devant Montivilliers, elle rencontre des tombereaux débordants de morts [118] ; elle voit à l’Ermitage les petits soldats français, tués la veille et rangés par les Prussiens dans des poses ridicules, en dérision de la vieille gaieté française [419] ; elle traverse le bois de la Garenne, la forêt bombardée, où tarit d’hommes sont tombés fraternellement avec les arbres [421] ; et elle aboutit enfin au vrai champ de bataille, au plateau d’Ely, plein d’horreur, où d’immondes rôdeurs détroussent les morts, où des chevaux errants, libres et affamés, les naseaux couverts d’écume, se livrent à des charges furieuses, au travers de la campagne vide et muette [424]. Elle retrouve le cher mort, cet homme’ si bon qui lui a pardonné et qui, entre ses doigts crispés, tient encore la lettre où elle lui disait son amour [430]. Elle ramène le corps à Remilly, en passant par Sedan, la ville devenue immonde, le cloaque où, depuis trois jours, s’entassent les déjections et les excréments de cent mille hommes [432].
+
+Et Silvine, très belle dans sa pâleur, avec les grands yeux superbes qui éclairent tout son visage, pleure le seul homme qu’elle ait aimé; ses lourds cheveux noirs la coiffent comme d’un casque de deuil éternel [526]. Aussi repousse-t-elle farouchement les avances de Goliath, revenu avec les armées allemandes; les menaces du Prussien l’affolent, elle le livre aux francs-tireurs [531], et, la face rigide, absente d’elle-même, en proie à l’idée fixe qui la pousse, elle assiste à l’affreuse mort de l’espion [537]. Après cette scène tragique, elle redevient la fille courageuse et soumise de jadis, dirigeant la ferme en l’absence du maître, pendant que Charlot saute et rit autour d’elle [542]. _(La Débâcle.)_

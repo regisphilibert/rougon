@@ -1,0 +1,35 @@
+---
+title: Macquart (Antoine)
+id: 76428
+author: admin
+type: personnage
+date: 2010-03-11T07:32:29+00:00
+excerpt: La Fortune des Rougon, La Conquête de Plassans, Le Docteur Pascal
+novel:
+  - conquete
+  - fortune
+  - docteur
+main_name: 'Macquart '
+secondary_name: Antoine
+main: 1
+
+---
+— Fils d’Adélaïde Fouque et du contrebandier Macquart. Mari de Joséphine Gavaudan. Père de Lisa, Gervaise et Jean Macquart. Né à Plassans en 1789, il est élevé en toute liberté, dans l’enclos Fouque, entre son frère Pierre Rougon et sa sœur Ursule, et grandit franchement dans le sens de ses instincts [53]. A seize ans, c’est un grand galopin ayant les traits de son père, mais adoucis, devenus fuyants et mobiles; d’Adélaïde, il n’a que les lèvres charnues. Au moral aussi, le père domine, avec son amour du vagabondage, sa tendance à l’ivrognerie, ses emportements de brute, compliqués, sous l’influence nerveuse de la mère, d’une sournoiserie pleine, d’hypocrisie et de lâcheté. En 1809, Antoine tombe au sort et, dupé par Pierre qui a manœuvré pour empêcher son remplacement [59], il devient soldat.
+
+Rentré à Plassans en 1815, après la chute de Napoléon, il rapporte tous ses vices naturels, développés par la vie militaire. Paresseux et ivrogne, devenu le pire des garnements [136], ruiné par Pierre qui s’est emparé du patrimoine maternel, il est décidé à ne jamais travailler, se livre à des chantages contre son frère, tire de lui quelques subsides [143], s’installe dans une chambre du vieux quartier, apprend à fabriquer la vannerie, exerce mollement ce métier en s’approvisionnant la nuit dans les oseraies de la Viorne, ce qui lui vaut quelques jours de prison [145] et se répand en imprécations contre les riches, par haine des Rougon; il commence dès lors à se poser dans la ville en républicain farouche [146].
+
+En 1829 Antoine épouse une vendeuse de la halle, Joséphine Gavaudan, robuste et courageuse commère qui habite un logement rue Civadière et chez qui il s’installe le soir même de ses noces, s’arrangeant aussitôt une existence d’oisiveté absolue [148], exploitant cyniquement le travail de sa femme, puis celui de ses enfants, Gervaise et Jean. Il vit dans un égoïsme féroce, passe sa vie au café, s’habille chez un bon tailleur de Plassans, se vante hautement de ses escapades amoureuses, pille la maison et festoie au dehors quand te buffet est vide [154].
+
+Rongé d’envie et de haine, terriblement bavard, étrange théoricien qui voit dans la république un moyen d’emplir ses poches, il réunit facilement autour de lui tin petit groupe d’ouvriers qui prennent naïvement ses fureurs jalouses peur des indignations honnêtes et convaincues [155]. En 1848, il croit que Plassans va lui appartenir, il rêve de terribles représailles contre les Rougon, rangés du côté de la réaction, animés d’ailleurs autant que lui d’une rage d’appétits brutaux [157].
+
+Cherchant un allié dans la famille, il a circonvenu son neveu Silvère Mouret, jeune démocrate idéaliste, l’a exaspéré contre l’oncle Pierre en exploitant la tendresse du brave enfant pour son aïeule Adélaïde Fouque [176], n’est pas parvenu à l’associer à ses projets de vengeance personnelle, mais l’a exalté au point de le jeter, tout vibrant, dans une sanglante échauffourée.
+
+Au moment du Deux-Décembre, Macquart est aux abois. La mort de sa femme, le départ de Gervaise et de Jean l’ont réduit à une profonde misère, sa fureur contre les riches est au paroxysme. L’abstention des libéraux honorables a fait de lui un des agents les plus en vue de l’insurrection, il se voit tenant les Rougon à la gorge, commence par perquisitionner en vain chez eux [182] et s’empare de la mairie où il se laissera bientôt prendre par son frère ennemi; puis, lorsque le coup d’état triomphe, il ne songe plus qu’à sauver sa peau et à vendre les camarades. Lâchement, il maquignonne avec sa belle-sœur Félicité un guet-apens [335] où, moyennant salaire, il mènera à la mort les ouvriers républicains qui ont cru en lui. Le crime accompli, Macquart reçoit le prix du sang et quitte la France pour quelque temps avec promesse d’un bon emploi [366]. _(La Fortune des Rougon.)_
+
+Après un court exil dans le Piémont, il est rentré en France, grâce à Pierre Rougon qui, depuis le forfait perpétré ensemble, ne peut rien lui refuser. Il mène alors une existence de bourgeois gras et rente, buvant de bonnes bouteilles, cachant sous son attitude ironique des menaces de chantage qui obligent son frère à l’entretenir, comme l’entretenaient jadis sa femme et ses enfants. Il a renoncé à la place promise et vit aux Tulettes, à trois lieues de Plassans; les Rougon lui ont acheté un petit domaine [56], à deux pas de l’Asile où est enfermée tante Dide, placée ainsi sous sa surveillance.
+
+Toujours ricanant, il suit les manœuvres de Pierre et de Félicité, devenus les maîtres de la ville; il garde sournoisement contre eux une haine de loup, multipliant ses exigences quand il sent une nouvelle intrigue à expliquer. Abouché avec l’abbé Fenil qui rêve une vengeance contre Faujas, irrité d’autre part contre Pierre qui fait la sourde oreille à un nouvel appel de fonds [258], il lâche le fou François Mouret contre les conquérants de Plassans. Mais, quand la maison de la rue Balaude est en flammes, Macquart a la rancœur d’apprendre qu’en supprimant Faujas, loin de nuire aux Rougon, il a fait leur jeu [401]. _(La Conquête de Plassans.)_
+
+Il vit longtemps, à l’aise dans une terrible légende de fainéant et de bandit. Avec les Rougon, il reste correct, d’une diplomatie finaude, n’ayant gardé que son rire goguenard, exécré d’ailleurs de Félicité, à cause du linge sale d’autrefois. A quatre-vingt-quatre ans, l’oncle Macquart est encore aux Tulettes, en vieil ivrogne, salure de boisson et que l’alcool semble conserver. Sa face est comme bouillie et flambée, d’un rouge ardent de brasier; il boit de tels coups d’eau-de-vie qu’il eu reste plein, la chair baignée, imbibée ainsi qu’une éponge. L’alcool suinte de sa peau [69], et, un beau jour de juillet, le vieillard, fumant sa pipe, s’allume lui-même comme un feu de la Saint-Jean et se perd en fumée, jusqu’au dernier os [233]. Cette combustion spontanée, à laquelle Félicité assiste silencieuse [228], a tout détruit et ne laisse rien à enterrer; la famille se contente de faire dire des messes pour le repos de l’âme du mort [235]. Quand on ouvre le testament, on constate que Macquart a disposé de tout ce qu’il pouvait distraire de sa petite fortune, pour se faire élever un tombeau superbe, en marbre, avec deux anges monumentaux, les ailes repliées, et qui pleureront [236]. _(Le Docteur Pascal.)_
+
+_(2) Antoine Macquart, né en 1789 ; soldat en 1809 ; se marie, en 1829, avec Joséphine Gavaudan, marchande à la Halle, vigoureuse, travailleuse, mais intempérante; en a trois enfants ; la perd en 1851 ; meurt en 1873, alcoolique, de combustion spontanée._ [Mélangé fusion. Prédominance morale et ressemblance physique du père]_. Soldat, puis vannier, puis rentier et fainéant. (Arbre généalogique des Rougon-Macquart.)_

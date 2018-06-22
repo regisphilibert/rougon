@@ -1,0 +1,17 @@
+---
+title: Maheu (Toussaint)
+id: 76402
+author: admin
+type: personnage
+date: 2010-03-11T07:59:08+00:00
+excerpt: Germinal
+novel:
+  - germinal
+main_name: 'Maheu '
+secondary_name: Toussaint
+main: 1
+
+---
+— Fils du vieux Bonnemort. Mari de la Maheude. Père de Zacharie, Catherine, Jeanlin, Alzire, Lénore, Henri et Estelle. Il est haveur à la fosse du Voreux et habite le coron des Deux cent quarante, au numéro 16 du deuxième corps. Tous les enfants logent dans la même chambre, séparée par une porte vitrée du palier où couchent les parents. Petit comme son père, Maheu lui ressemble en gras, la tête forte, la face plate et livide, sous ses cheveux jaunes coupés très courts [18]. A quarante-deux ans, il a la peau blanche, d’une blancheur de fille anémique, ou les éraflures, les entailles du charbon, laissent des tatouages, des « greffes » ; il s’en montre fier, il étale ses gros bras, sa poitrine large, d’un luisant de marbre veiné de bleu [129]. Les salaires sont tellement bas qu’on doit vivre à dix avec neuf francs par jour, et ce maigre gain est disputé rudement dans l’étouffement des ténèbres, dans les crampes des attitudes forcées, dans l’eau qui ruisselle, dans l’air qu’empoisonnent la fumée des lampes, la pestilence des baleines, l’asphyxie du grisou [53], et avec cela, il faut subir l’obsession des mouchards, il faut mesurer ses paroles, comme si la houille des actionnaires, encore dans la veine, avait des oreilles [55].
+
+Maheu est un bon ouvrier, il ne boit pas, il adore ses petits et fait gentiment la dînette avec eux [162]. C’est le meilleur travailleur de la fosse, le plus aimé, le plus respecté, celui qu’on cite pour son bon sens. Aussi a-t-il été désigné pour présenter à la direction les réclamations de ses camarades; elles prendront, dans sa bouche, un poids décisif [240]. Depuis longtemps, Etienne Lantier l’a endoctriné; Maheu commence à se demander pourquoi l’on vit parqués, les uns contre les autres, comme des bêtes, si entassés qu’on ne peut changer de chemise sans montrer son derrière au voisin, pourquoi on est condamné à un travail qui était la punition des galériens autrefois, un travail de vraies brutes, qui ne vous donne même pas de viande à manger [185] ; c’est en sa cervelle une lente germination, l’aspiration vers une société plus humaine, et ce sentiment lui donne le courage de parler au directeur Hennebeau. Il dit les choses amassées au fond de sa poitrine, leur misère à tous, le travail dur, la femme et les petits criant la faim à la maison, il cite les dernières payes désastreuses, les quinzaines dérisoires mangées par les amendes et les chômages, rapportées aux familles en larmes. Mais Hennebeau n’est qu’un simple agent d’exécution, derrière lui il y a une Régie sourde et muette, les mineurs sont acculés à la grève. Crever pour crever, ils préfèrent crever à ne rien faire; ce sera la fatigue de moins [244]. Et c’est alors la triste grève de Montsou, qui, après de longues semaines de famine, de froid, de sourdes révoltes, va être noyée dans le sang. Maheu s’est vu rendre son livret [421], la Compagnie ne veut plus de lui, elle a fait venir des Borains pour remplacer les grévistes [443] et comme ceux-ci s’enragent devant les fosses occupées militairement, des briques sont jetées aux soldats et ceux-ci répondent par une décharge qui étend devant le Voreux triomphant vingt-cinq blessés et quatorze morts, dont deux enfants et trois femmes. Toussaint Maheu est frappé en plein cœur [488]. _(Germinal.)_

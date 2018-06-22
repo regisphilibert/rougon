@@ -1,0 +1,16 @@
+---
+title: Chouard (Sabine de)
+id: 76945
+author: admin
+type: personnage
+date: 2010-02-16T09:41:20+00:00
+excerpt: Nana
+novel:
+  - nana
+main_name: 'Chouard '
+secondary_name: Sabine de
+
+---
+— Fille du marquis. Mariée à dix-sept ans avec le comte Muffat de Beuville, elle a mené une existence cloîtrée entre un mari pieux et une belle-mère autoritaire. Les uns la disent d&rsquo;une froideur de dévote, les autres la plaignent, se rappelant ses beaux rires, ses grands yeux de flamme, avant qu&rsquo;on l&rsquo;enfermât au fond du vieil hôtel de la rue Miromesnil. Elle jouit d&rsquo;une réputation parfaite; Fauchery n&rsquo;a que le vague souvenir d&rsquo;une confidence reçue d&rsquo;un officier de ses amis, mort récemment au Mexique, une de ces confidences brutales que les hommes les plus discrets laissent échapper à de certains moments [73]. Sabine n&rsquo;a rien mis d&rsquo;elle dans l&rsquo;ancienne demeure, noire d&rsquo;humidité; c&rsquo;est Muffat qui s&rsquo;impose, qui domine, avec son éducation religieuse, ses pénitences et ses jeûnes [76]. Toutefois, une grande chaise de soie rouge capitonnée, introduite après la mort de la maman Muffat, détonne dans ce milieu enfumé; c&rsquo;est le commencement d&rsquo;un désir et d&rsquo;une jouissance [79].
+
+A trente-quatre ans, la comtesse a un fin profil de brune potelée où la bouche seule, un peu épaisse, met une sorte de sensualité impérieuse; elle ne paraît pas son âge, elle semble être la sœur aînée de sa fille Estelle, on lui donnerait au plus vingt-huit ans; ses yeux noirs gardent une flamme de jeunesse, que de longues paupières noient d&rsquo;une ombre bleue. A la joue gauche, elle a un signe près de la bouche, absolument le même signe que Nana, avec de petits poils frisés [75]. Dans son salon collet monté, refroidi par la continuelle présence d&rsquo;un saint homme, Théophile Venot, elle semble une chatte qui dort, les griffes rentrées, les pattes agitées d&rsquo;un frisson nerveux [92]. Elle s&rsquo;éveille soudain, lorsque le comte Muffat, pris par Nana, se dérangé et néglige le foyer. Sabine accepte alors les assiduités de Fauchery, elle devient sa maîtresse, puis c&rsquo;est un gâchis de dépenses extraordinaires. La comtesse a brusquement montré un goût de luxe, un appétit de jouissances mondaines qui achèvent de compromettre la fortune des Muffat. Ce sont des caprices ruineux, tout un nouveau train de maison, cinq cent mille francs gaspillés à transformer le vieil hôtel, des toilettes excessives, des sommes considérables disparues, fondues, données peut-être sans que Sabine se soucie d&rsquo;en rendre compte. Après Fauchery, elle s&rsquo;étourdit à d&rsquo;autres amours, dans le coup de fièvre inquiet de la quarantaine [476]. Enfin, c&rsquo;est le détraquement suprême, elle s&rsquo;enfuit avec un chef de rayon d&rsquo;un grand magasin de nouveautés, puis, après des aventures, elle revient, pardonnée par le comte qui a perdu toute sa dignité d&rsquo;homme. La comtesse mange à présent les restes dédaignés de Nana. Gâtée par la promiscuité de cette fille, poussée à tout, elle est devenue l&rsquo;effondrement final, fa moisissure même du foyer [497]. _(Nana.)_

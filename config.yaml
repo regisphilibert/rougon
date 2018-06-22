@@ -4,6 +4,18 @@ languageCode: fr-FR
 title: Les Rougon-Macquart
 theme: "rougon"
 
+defaultContentLanguage: fr
+
+languages:
+  fr:
+    weight: 10
+    languageName: Français
+    contentDir: "contentFr"
+  en:
+    weight: 10
+    languageName: English
+    contentDir: "contentEn"
+
 enableRobotsTXT: true
 
 outputs:

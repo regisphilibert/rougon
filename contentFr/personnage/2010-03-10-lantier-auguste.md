@@ -1,0 +1,19 @@
+---
+title: Lantier (Auguste)
+id: 76536
+author: admin
+type: personnage
+date: 2010-03-10T09:04:30+00:00
+excerpt: "La Fortune des Rougon, L'Assommoir"
+novel:
+  - assommoir
+  - fortune
+main_name: 'Lantier '
+secondary_name: Auguste
+
+---
+— Né en 1824. Ouvrier tanneur à Plassans. Devient à dix-huit ans l&rsquo;amant de Gervaise Macquart et a d&rsquo;elle trois enfants, Claude, Jacques, Étienne, qui sont recueillis par madame Lantier mère. Quand celle-ci meurt, il emmène Gervaise à Paris avec deux des enfants [179]. _(La Fortune des Rougon.)_
+
+C&rsquo;est un garçon de vingt-six ans, petit, très brun, d&rsquo;une jolie figure, avec de menues moustaches, qu&rsquo;il frise toujours d&rsquo;un mouvement machinal de la main. Il porte une cotte d&rsquo;ouvrier, une vieille redingote tachée qu&rsquo;il pince à la taille ; il a, en parlant, un accent provençal très accentué [8]. Sa mère lui avait laissé un petit héritage de dix sept cents francs. Il mange cet argent en deux mois, au lieu de s&rsquo;établir comme il l&rsquo;avait promis [10]. Le ménage, descendu d&rsquo;abord à l&rsquo;hôtel Montmartre, rue Montmartre, se réfugie à l&rsquo;hôtel Boncœur, barrière des Poissonniers, où, quinze jours après, toutes les ressources étant épuisées, Lantier délaisse Gervaise et les enfants. Il est allé se fixer à la Glacière, avec une brunisseuse, la petite Adèle, et il vit à ses crochets, la battant quand elle ne marche pas droit [235]. Pendant sept ans, on ne le revoit pas et, brusquement, il reparaît à la Chapelle, on l&rsquo;aperçoit autour de la boutique de Gervaise, ramené sans doute par la grande Virginie. Coupeau, déjà alcoolique, fait de lui son ami et l&rsquo;introduit à la maison [293]. A cette époque, Lantier s&rsquo;est épaissi, il est gras et rond, les jambes et les bras lourds, à cause de sa petite taille ; mais sa figure garde de jolis traits, sous la bouffissure d&rsquo;une vie de fainéantise et, comme il soigne beaucoup ses moustaches, on ne lui donne pas plus que son âge. Il porte un pantalon gris, un paletot gros bleu et un chapeau rond [300]. Si on l&rsquo;en croit, il a dirigé longtemps une fabrique de chapeaux et s&rsquo;est retiré parce que son associé mangeait la maison avec des femmes. Aussi se donne-t-il des allures de patron, sans cesse sur le point de conclure des affaires superbes, mais en réalité, il ne fait rien. Sa grande préoccupation est de s&rsquo;insinuer dans le ménage des Coupeau où il va bientôt faire la loi, prenant Possession de la maison, ne donnant plus ni, sol, empruntant même de l&rsquo;argent à la femme pour faire la noce avec le mari. Toujours poli, beau parleur et de bonnes manières, il a commencé par conquérir le quartier, il a même séduit les Lorilleux [303]. A présent, il désigne lui-même les fournisseurs, exige qu&rsquo;on respecte son goût de Provençal pour la cuisine à l&rsquo;huile, joue le rôle de grand arbitre dans la famille, se charge de l&rsquo;éducation de Nana, et, finalement, redevient l&rsquo;amant de Gervaise qu&rsquo;il mène au doigt et à l&rsquo;œil [367]. Lorsque, plus tard, il flaire la panne, il tourne ses batteries vers les Poisson, amène Virginie à reprendre la boutique des Coupeau, règne entre la petite blonde et la grande brune, se bourre de sucreries et nettoie tranquillement le petit commerce de Virginie comme il avait nettoyé celui de Gervaise. Il tourne alors autour de la fille du restaurant d&rsquo;à côté, une femme magnifique, qui a parlé de s&rsquo;établir tripière [560]._(L&rsquo;Assommoir.)_
+
+_(1) Lantier, dont l&rsquo;ascendance compte des paralytiques, est l&rsquo;amant de Gervaise Macquart, l&rsquo;emmène à Paris et l&rsquo;y abandonne. (Arbre généalogique des Rougon-Macquart.)_
