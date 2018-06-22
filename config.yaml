@@ -12,7 +12,6 @@ languages:
     languageName: Français
     contentDir: "contentFr"
   en:
-    weight: 10
     languageName: English
     contentDir: "contentEn"
 
