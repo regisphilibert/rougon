@@ -1,4 +1,4 @@
-# Les Rougon Macquart
+# Les Rougon Macquart (asset branch)
 ### Some Zola with Hugo
 
 👉 http://rougon-macquart.com/
