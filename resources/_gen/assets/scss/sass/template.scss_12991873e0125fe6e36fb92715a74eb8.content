@@ -1,0 +1,4 @@
+$thing: "Les Rougon-Macquart";
+body{
+	color:inherit;
+}

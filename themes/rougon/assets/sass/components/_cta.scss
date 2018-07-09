@@ -1,0 +1,37 @@
+.rm-cta{
+    padding:10px 25px;
+    margin-top:1em;
+    display: inline-block;
+    border:1px solid $black;
+    color:$black;
+    position: relative;
+    box-sizing: border-box;
+    &:hover{
+        &:before, &:after{
+            width:13px;
+        }
+    }
+    &:before, &:after{
+        content:"";
+        position: absolute;
+        display: block;
+        height:100%;
+        width:3px;
+        background: $black;
+        top:0;
+        z-index: -1;
+        box-sizing: border-box;
+        transition:.10s;
+    }
+    &:before{
+        left:0;
+    }
+    &:after{
+        right:0;
+    }
+    &:active{
+        &:before, &:after{
+            width:50%;
+        }
+    }
+}

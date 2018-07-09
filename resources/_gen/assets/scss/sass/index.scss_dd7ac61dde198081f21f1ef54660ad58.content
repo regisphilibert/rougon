@@ -18,16 +18,16 @@ body {
 
 html {
   font-size: 18px; }
-  @media (min-width: 700px) {
+  @media screen and (min-width: 700px) {
     html {
       font-size: 21px; } }
-  @media (min-width: 1200px) {
+  @media screen and (min-width: 1200px) {
     html {
       font-size: 25px; } }
 
 .rm-wrapper {
   padding-left: 20px; }
-  @media (min-width: 700px) {
+  @media screen and (min-width: 700px) {
     .rm-wrapper {
       position: relative;
       min-height: 100%;
@@ -44,9 +44,32 @@ html {
 
 .main {
   padding: 15px; }
-  @media (min-width: 1300px) {
+  @media screen and (min-width: 1300px) {
     .main {
       padding: 15px 0; } }
+
+header {
+  background: #fff;
+  border-bottom: 2px solid #000000;
+  position: relative; }
+  header .rm-container, header .single-head .item-title, .single-head header .item-title, header .single-head .item-desc, .single-head header .item-desc, header .single-head .rm-widget, .single-head header .rm-widget {
+    max-width: 1300px; }
+  header .header-main {
+    position: relative; }
+
+.rm-footer {
+  border-top: 2px solid #000000;
+  text-align: center;
+  padding: 30px; }
+  .rm-footer a {
+    text-decoration: underline;
+    color: inherit; }
+  @media screen and (min-width: 700px) {
+    .rm-footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      left: 0; } }
 
 .rm-html a {
   color: inherit;
@@ -65,7 +88,10 @@ html {
     width: 90%;
     left: 5%; }
 
-@media (min-width: 700px) {
+/*********************************************
+            SIDEBARS
+*********************************************/
+@media screen and (min-width: 700px) {
   .rm-content, .rm-sidebar {
     float: left; }
   .rm-content {
@@ -78,75 +104,6 @@ html {
     margin: 0 auto;
     float: none;
     width: auto; } }
-
-header {
-  background: #fff;
-  border-bottom: 2px solid #000000;
-  position: relative; }
-  header .rm-container, header .single-head .item-title, .single-head header .item-title, header .single-head .item-desc, .single-head header .item-desc, header .single-head .rm-widget, .single-head header .rm-widget {
-    max-width: 1300px; }
-  header .header-main {
-    position: relative; }
-
-.main-nav-wrapper {
-  position: fixed;
-  background-color: #000000;
-  overflow: scroll;
-  top: 0;
-  z-index: 1000;
-  width: 188px;
-  left: -168px;
-  height: 100%;
-  transition: 150ms; }
-  .main-nav-wrapper .rm-menu-icon {
-    position: absolute;
-    top: 1px;
-    right: 3px;
-    font-size: 16px;
-    color: white;
-    transition: .15s; }
-  .main-nav-wrapper .scroll-wrapper {
-    overflow: auto;
-    height: 100%;
-    padding: 40px 25px; }
-  .main-nav-wrapper:hover {
-    left: 0;
-    opacity: .7; }
-    .main-nav-wrapper:hover .rm-menu-icon {
-      top: 2px;
-      right: 9px;
-      font-size: 25px; }
-    .main-nav-wrapper:hover.hide {
-      left: -25%; }
-  .main-nav-wrapper ul {
-    list-style: none;
-    padding: 0; }
-    .main-nav-wrapper ul li.child {
-      font-size: 0.8em;
-      font-family: "Helvetica", "Helvetica Neue", sans-serif;
-      padding-left: 1em; }
-    .main-nav-wrapper ul a {
-      color: white; }
-      .main-nav-wrapper ul a:hover {
-        text-decoration: underline; }
-  @media (min-width: 700px) {
-    .main-nav-wrapper {
-      width: calc(25% + 20px);
-      left: -25%; } }
-
-.rm-footer {
-  border-top: 2px solid #000000;
-  text-align: center;
-  padding: 30px; }
-  .rm-footer a {
-    text-decoration: underline;
-    color: inherit; }
-  @media (min-width: 700px) {
-    .rm-footer {
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-      left: 0; } }
 
 .rm-cta {
   padding: 10px 25px;
@@ -185,6 +142,9 @@ header {
   list-style: none;
   padding: 0; }
 
+/*********************************************
+            ADS
+*********************************************/
 .rm-ad {
   display: none; }
 
@@ -215,7 +175,7 @@ header {
 
 .header-image {
   display: none; }
-  @media (min-width: 1100px) {
+  @media screen and (min-width: 1100px) {
     .header-image {
       display: block;
       width: 100%;
@@ -264,7 +224,7 @@ header {
       .search .dropdown-menu li .related, .search .dropdown-menu .tt-suggestion .related, .search .tt-menu li .related, .search .tt-menu .tt-suggestion .related {
         font-size: 15px;
         font-family: "Open Sans", sans-serif; }
-  @media (min-width: 1100px) {
+  @media screen and (min-width: 1100px) {
     .search {
       width: calc(100% - 670px); } }
 
@@ -279,6 +239,55 @@ header {
   font-family: "Time New Roman", "Time", serif;
   font-size: 30px; }
 
+.main-nav-wrapper {
+  position: fixed;
+  background-color: #000000;
+  overflow: scroll;
+  top: 0;
+  z-index: 1000;
+  width: 188px;
+  left: -168px;
+  height: 100%;
+  transition: 150ms; }
+  .main-nav-wrapper .rm-menu-icon {
+    position: absolute;
+    top: 1px;
+    right: 3px;
+    font-size: 16px;
+    color: white;
+    transition: .15s; }
+  .main-nav-wrapper .scroll-wrapper {
+    overflow: auto;
+    height: 100%;
+    padding: 40px 25px; }
+  .main-nav-wrapper:hover {
+    left: 0;
+    opacity: .7; }
+    .main-nav-wrapper:hover .rm-menu-icon {
+      top: 2px;
+      right: 9px;
+      font-size: 25px; }
+    .main-nav-wrapper:hover.hide {
+      left: -25%; }
+  .main-nav-wrapper ul {
+    list-style: none;
+    padding: 0; }
+    .main-nav-wrapper ul li.child {
+      font-size: 0.8em;
+      font-family: "Helvetica", "Helvetica Neue", sans-serif;
+      padding-left: 1em; }
+    .main-nav-wrapper ul a {
+      color: white; }
+      .main-nav-wrapper ul a:hover {
+        text-decoration: underline; }
+  @media screen and (min-width: 700px) {
+    .main-nav-wrapper {
+      width: calc(25% + 20px);
+      left: -25%; } }
+
+/*********************************************
+            LOOP
+*********************************************/
 .rm-loop .rm-item {
   color: #000000;
   padding: 20px 30px 30px 30px;
@@ -292,6 +301,9 @@ header {
     display: block;
     color: #000; }
 
+/*********************************************
+            SINGLES
+*********************************************/
 .single-head {
   overflow: hidden;
   position: relative; }
@@ -323,12 +335,12 @@ header {
       background-position: bottom center; }
       .single-head .item-title.with-image.image-loaded img.background-image {
         bottom: 0; }
-    @media (min-width: 700px) {
+    @media screen and (min-width: 700px) {
       .single-head .item-title.with-image {
         padding-bottom: 0; }
         .single-head .item-title.with-image img.background-image {
           width: 100%; } }
-    @media (min-width: 960px) {
+    @media screen and (min-width: 960px) {
       .single-head .item-title.with-image.image-loaded {
         padding-top: 90px; } }
 
@@ -371,7 +383,7 @@ header {
     font-weight: 300;
     display: block;
     line-height: 1.2em; }
-  @media (min-width: 700px) {
+  @media screen and (min-width: 700px) {
     .item-title small {
       display: inline; } }
 
@@ -410,6 +422,9 @@ header {
   .name-suffix:after {
     content: ")"; }
 
+/*********************************************
+            ICONS
+*********************************************/
 i[class*='icon'] {
   display: inline-block;
   background-repeat: no-repeat;

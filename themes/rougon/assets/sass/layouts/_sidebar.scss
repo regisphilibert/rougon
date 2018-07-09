@@ -1,0 +1,20 @@
+@media (min-width:$tablet){
+    .rm-content, .rm-sidebar{
+        float:left;
+    }
+    .rm-content{
+        width:70%;
+    }
+    .rm-sidebar{
+        width:calc(30% - 30px);
+        margin-left:30px;
+    }
+    .rm.page{
+        .rm-content{
+            max-width:960px;
+            margin: 0 auto;
+            float:none;
+            width: auto;
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.header-image{
+    display: none;
+    @media (min-width:1100px){
+        display: block;
+        width:100%;
+        border-bottom:2px solid $black;
+        position: absolute;
+        right:0;
+        bottom:0;
+        border:0;
+        width:auto;
+    }
+}

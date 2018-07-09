@@ -15,15 +15,14 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        {{ $cssOpts := (dict "targetPath" "styles/main.css" "enableSourceMap" true ) }}
-        {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ $style.Permalink }}">
+        {{ $styleOptions := (dict "enableSourceMap" true) }}
+        {{ $main := resources.Get "sass/main.scss" | toCSS $styleOptions }}
+        <link rel="stylesheet" href="{{ $main.Permalink }}">
         <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
-        <script
-          src="//code.jquery.com/jquery-2.2.4.min.js"
-          integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-          crossorigin="anonymous"></script>
-        <script type="text/javascript" src="{{ .Site.BaseURL | absURL }}js/typeahead.bundle.min.js"></script>
+        {{ $jQuery := resources.Get "js/jquery.min.js" }}
+        {{ $ta := resources.Get "js/typeahead.bundle.min.js" }}
+        {{ $mainJS := resources.Concat "js/bundle.js" (slice $jQuery $ta)  | fingerprint }}
+        <script type="text/javascript" src="{{ $mainJS.Permalink }}" integrity="{{ $mainJS.Data.Integrity }}"></script>
         
     </head>
     <body>
@@ -36,6 +35,7 @@
                 {{ block "main" .}}{{ end }}
             </div>
         </div>
-       <script type="text/javascript" src="{{ .Site.BaseURL | absURL }}js/main.js"></script>
+        {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+       <script type="text/javascript" src="{{ $js.Permalink }}"></script>
     </body>
 </html>

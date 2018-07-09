@@ -1,0 +1,15 @@
+.rm-ad{
+    display: none;
+}
+.rm-ad-leaderboard{
+    width: 728px;
+    height:90px;
+}
+header{
+    padding-top:20px;
+    .rm-ad-leaderboard{
+        position: absolute;
+        top:0;
+        right:0;
+    }
+}

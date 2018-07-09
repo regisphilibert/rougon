@@ -1,0 +1,19 @@
+
+.rm-loop{
+    .rm-item{
+        color:$black;
+        padding:20px 30px 30px 30px;
+        margin-bottom:1.5em;
+        .item-title{
+            padding-left:0;
+            padding-right:0;
+        }
+        &:hover{
+            background-color:$gray;
+        }
+        & > a:first-child{
+            display: block;
+            color:#000;
+        }
+    }
+}

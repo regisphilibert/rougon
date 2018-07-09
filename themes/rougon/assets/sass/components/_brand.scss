@@ -1,0 +1,17 @@
+.brand{
+    display: block;
+    color:inherit;
+     padding:0 10px 0 10px;
+    .emile, .brand-name{
+        font-weight:normal;
+        margin: 0;
+        line-height: 1.2em;
+    }
+    .emile{
+        font-size:34px;
+    }
+    .brand-name{
+        font-size:42px;
+    }
+    margin-bottom:10px;
+}

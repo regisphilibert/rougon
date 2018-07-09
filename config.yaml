@@ -2,7 +2,8 @@ baseURL: /
 relativeURLs: true
 languageCode: fr-FR
 title: Les Rougon-Macquart
-theme: "rougon"
+theme: 
+  - rougon
 
 enableRobotsTXT: true
 
@@ -20,3 +21,6 @@ related:
   indices:
     - name: novel # The name of the indice, and the page's .Param to use here.
       weight: 1 # We don't really need this, but omitting it would disable the indice.
+
+params:
+  black: red

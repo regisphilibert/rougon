@@ -1,0 +1,16 @@
+.rm-footer{
+    border-top:2px solid $black;
+    text-align: center;
+    padding:30px;
+    a{
+        text-decoration: underline;
+        color:inherit;
+    }
+    @media (min-width:$tablet){
+        position: absolute;
+        bottom:0;
+        width:100%;
+        left:0;
+    }
+
+}

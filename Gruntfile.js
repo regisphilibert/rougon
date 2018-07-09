@@ -20,11 +20,11 @@ module.exports = function (grunt) {
 
     config: {
       src: {
-        root: 'themes/rougon/src',
+        root: 'themes/rougon/assets',
         //fonts: '<%= config.src.root %>/fonts/{,*/}*.{woff,woff2,ttf,eot,svg}',
         //html: '<%= config.src.root %>/pug',
         images: '<%= config.src.root %>/images/',
-        scripts: '<%= config.src.root %>/assets/js/{,*/}*.js',
+        scripts: '<%= config.src.root %>/js/{,*/}*.js',
         styles: '<%= config.src.root %>/sass'
       },
       dist: {
@@ -33,7 +33,7 @@ module.exports = function (grunt) {
         html: '../../production',
         //images: '<%= config.dist.root %>/img',
         scripts: '<%= config.dist.root %>/js',
-        styles: '<%= config.dist.root %>/css',
+        styles: '<%= config.dist.root %>',
         //assets: '<%= config.dist.root %>/assets'
       }
     },
@@ -54,7 +54,7 @@ module.exports = function (grunt) {
       dist: {
         options: {
           sourcemap: 'none',
-          style: 'compressed', // nested, compact, compressed, expanded
+          style: 'nested', // nested, compact, compressed, expanded
           quiet: true,
         },
         files: [{
