@@ -1,0 +1,1 @@
+header{background:#fff;border-bottom:2px solid #000;position:relative}header .rm-container{max-width:1300px}header .header-main{position:relative}.header-image{display:none}@media(min-width:1100px){.header-image{display:block;width:100%;border-bottom:2px solid #000;position:absolute;right:0;bottom:0;border:0;width:auto}}

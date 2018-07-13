@@ -1,0 +1,12 @@
+{{ if index .Site.Data "critical" }}
+	{{ $page := . }}
+	/* 
+		title: {{ .Title }}
+		Kind: {{ .Kind }}
+		Components: {{ delimit (index .Site.Data.critical .Kind) ", " }}
+	 */
+	{{ $critical := default (index .Site.Data.critical "default") (index .Site.Data.critical .Kind) }}
+	{{ range $critical }}
+	@import "../{{ . }}";
+	{{ end }}
+{{ end }}

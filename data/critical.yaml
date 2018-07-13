@@ -1,0 +1,15 @@
+default:
+  - "vars"
+  - "components/header"
+home:
+  - "vars"
+  # - "layout/scaffold"
+  - "components/header"
+  - "components/ad"
+  # - "components/hero"
+page:
+  - "vars"
+  # - "layout/scaffold"
+  - "components/header"
+  # - "components/page-head"
+  - "components/header-image"

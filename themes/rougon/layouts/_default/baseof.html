@@ -15,6 +15,10 @@
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <link rel="shortcut icon" href="favicon.ico">
         <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        {{ $critical := resources.Get "sass/tpl/critical.scss" | resources.ExecuteAsTemplate "sass/critical.scss" . | toCSS }}
+        <style type="text/css">
+            {{ $critical.Content | safeCSS }}
+        </style>
         {{ $styleOptions := (dict "enableSourceMap" true) }}
         {{ $main := resources.Get "sass/main.scss" | toCSS $styleOptions }}
         <link rel="stylesheet" href="{{ $main.Permalink }}">
