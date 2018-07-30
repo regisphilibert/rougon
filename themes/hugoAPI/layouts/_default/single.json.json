@@ -1,3 +1,4 @@
 {{- .Render "transformer" -}}
 {{- .Scratch.SetInMap "output" "data" (.Scratch.Get "item") -}}
+{{- .Scratch.Delete "item" -}}
 {{- .Scratch.Get "output" | jsonify -}}

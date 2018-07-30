@@ -3,5 +3,6 @@
 {{- with .Params.lastMod -}}
 {{- $.Scratch.SetInMap "item" "updated" . -}}
 {{- end -}}
-{{- .Scratch.SetInMap "item" "permalink" (partial "formatUrl.json" (dict "context" . "url" .RelPermalink)) -}}
+{{- .Scratch.SetInMap "item" "test" "test" -}}
+{{- .Scratch.SetInMap "item" "permalink" (partial "formatUrl.json" (dict "context" . "url" (.OutputFormats.Get "json").RelPermalink)) -}}
 {{- .Scratch.SetInMap "item" "type" .Type -}}

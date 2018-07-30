@@ -1,0 +1,5 @@
+{{- .Scratch.SetInMap "item" "title" .Title -}}
+{{- .Scratch.SetInMap "item" "test" "test" -}}
+{{- .Scratch.SetInMap "item" "year" .Params.year -}}
+{{- .Scratch.SetInMap "item" "permalink" (partial "formatUrl.json" (dict "context" . "url" (.OutputFormats.Get "json").RelPermalink)) -}}
+{{- .Scratch.SetInMap "item" "type" .Type -}}

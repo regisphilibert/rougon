@@ -18,8 +18,14 @@
 	{{- $.Scratch.Set "pages" .Pages -}}
 {{ end }}
 {{- range (.Scratch.Get "pages") -}}
-	{{- .Render "transformer" -}}
+	{{ $partial := printf "%s/transformer.tmpl" .Type }}
+	{{ if fileExists (printf "layouts/partials/%s" $partial) }}
+		{{ partial $partial . }}
+	{{ else }}
+		{{ partial "transformer.tmpl" . }}
+	{{ end }}
 	{{- $.Scratch.Add "items" (slice (.Scratch.Get "item")) -}}
+	{{- .Scratch.Delete "item" -}}
 {{- end -}}
 {{- with eq .Kind "section" -}}
 {{- $.Scratch.SetInMap "data" "section" $.Section -}}
@@ -32,4 +38,4 @@
 {{- .Scratch.SetInMap "data" "items" (.Scratch.Get "items") -}}
 {{- .Scratch.SetInMap "output" "data" (.Scratch.Get "data") -}}
 {{- .Scratch.Get "output" | jsonify -}}
-{{- .Scratch.Delete "items" -}}
+{{- .Scratch.SetInMap "data" "items" (slice) -}}

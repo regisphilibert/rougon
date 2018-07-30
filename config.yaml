@@ -6,6 +6,7 @@ theme:
   - hugoAPI
   - rougon
 
+
 enableRobotsTXT: true
 
 paginate: 5
@@ -27,6 +28,7 @@ blackfriday:
 
 params:
   apiurl: false
+  pagination: 5
   algolia:
     vars: ["title", "relpermalink", "novels", "human_title"]
     params: ["main_name", "secondary_name", "name_suffix", "novel"]
