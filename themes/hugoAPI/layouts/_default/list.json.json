@@ -19,7 +19,7 @@
 {{ end }}
 {{- range (.Scratch.Get "pages") -}}
 	{{ $partial := printf "%s/transformer.tmpl" .Type }}
-	{{ if fileExists (printf "layouts/partials/%s" $partial) }}
+	{{ if templates.Exists (printf "partials/%s" $partial) }}
 		{{ partial $partial . }}
 	{{ else }}
 		{{ partial "transformer.tmpl" . }}
@@ -27,6 +27,7 @@
 	{{- $.Scratch.Add "items" (slice (.Scratch.Get "item")) -}}
 	{{- .Scratch.Delete "item" -}}
 {{- end -}}
+{{- $.Scratch.SetInMap "data" "permalink" (absURL $.Permalink) -}}
 {{- with eq .Kind "section" -}}
 {{- $.Scratch.SetInMap "data" "section" $.Section -}}
 {{- end -}}
@@ -39,3 +40,4 @@
 {{- .Scratch.SetInMap "output" "data" (.Scratch.Get "data") -}}
 {{- .Scratch.Get "output" | jsonify -}}
 {{- .Scratch.SetInMap "data" "items" (slice) -}}
+{{- .Scratch.Delete "items" -}}

@@ -13,22 +13,22 @@ paginate: 5
 
 outputs:
   home:
-    - html
     - json
+    - html
   page: 
-    - html
     - json
+    - html
   section:
-    - html
     - json
+    - html
 
 blackfriday:
   extensions: ["hardLineBreak"]
   hrefTargetBlank: true
 
 params:
-  apiurl: false
   pagination: 5
+  apiurl: false
   algolia:
     vars: ["title", "relpermalink", "novels", "human_title"]
     params: ["main_name", "secondary_name", "name_suffix", "novel"]

@@ -1,5 +1,9 @@
 {{- if .context.Site.Params.apiurl -}}
 {{ absURL (add .context.Site.Params.apiurl (replace .url "index.json" "")) -}}
 {{- else -}}
-{{- absURL .url -}}
+	{{- if strings.Contains .url "index.json" -}}
+		{{- absURL .url -}}
+	{{- else -}}
+		{{ .url | absURL }}index.json
+	{{- end -}}
 {{- end -}}
