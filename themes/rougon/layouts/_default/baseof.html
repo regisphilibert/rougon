@@ -39,7 +39,7 @@
                 {{ block "main" .}}{{ end }}
             </div>
         </div>
-        {{ $script := resources.Get "js/search.js" }}
+        {{ $script := (slice (resources.Get "js/algolia.config.js") (resources.Get "js/search.js")) | resources.Concat "js/main.js" }}
         {{- if .Site.IsServer -}}
         <script type="text/javascript" src="{{- $script.Permalink -}}"></script>
         {{- else -}}

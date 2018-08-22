@@ -1,14 +1,7 @@
 const showOnLoad = false;
 
-const options = {
-  appId: 'XPQBESYJG4',
-  apiKey: '91f9083f4b06468db78ef818f65e3433',
-  indexName: 'rougon-macquart.com',
-  hitsPerPage: 10,
-  urlSync: false
-}
 if(!showOnLoad){
-  options.searchFunction = function(helper) {
+  algoliaOptions.searchFunction = function(helper) {
     var searchResults = $('.rm-Search__results');
     if (helper.state.query === '') {
       searchResults.hide();
@@ -20,7 +13,7 @@ if(!showOnLoad){
 } else {
     $('.rm-Search').show();
 }
-const search = instantsearch(options);
+const search = instantsearch(algoliaOptions);
 
 // initialize SearchBox
 search.addWidget(

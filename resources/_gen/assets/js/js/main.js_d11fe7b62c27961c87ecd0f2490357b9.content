@@ -1,7 +1,6 @@
-const showOnLoad=false;const options={appId:'XPQBESYJG4',apiKey:'91f9083f4b06468db78ef818f65e3433',indexName:'rougon-macquart.com',hitsPerPage:10,urlSync:false}
-if(!showOnLoad){options.searchFunction=function(helper){var searchResults=$('.rm-Search__results');if(helper.state.query===''){searchResults.hide();return;}
+const algoliaOptions={appId:'XPQBESYJG4',apiKey:'91f9083f4b06468db78ef818f65e3433',indexName:'rougon-macquart.com',hitsPerPage:10,urlSync:false};const showOnLoad=false;if(!showOnLoad){algoliaOptions.searchFunction=function(helper){var searchResults=$('.rm-Search__results');if(helper.state.query===''){searchResults.hide();return;}
 helper.search();searchResults.show();}}else{$('.rm-Search').show();}
-const search=instantsearch(options);search.addWidget(instantsearch.widgets.searchBox({container:'#search-box',placeholder:'Recherchez',reset:false,autofocus:false,cssClasses:{root:'rm-Search__box',input:'rm-Search__box__input',}}));var hitTemplate='<a href="{{ relpermalink }}" class="rm-List__item">'+
+const search=instantsearch(algoliaOptions);search.addWidget(instantsearch.widgets.searchBox({container:'#search-box',placeholder:'Recherchez',reset:false,autofocus:false,cssClasses:{root:'rm-Search__box',input:'rm-Search__box__input',}}));var hitTemplate='<a href="{{ relpermalink }}" class="rm-List__item">'+
 '<div class="rm-List__title">{{{_highlightResult.title.value}}}</div>'+
 '</a>';search.addWidget(instantsearch.widgets.hits({container:'#hits',cssClasses:{root:'rm-Search__hits',empty:'rm-Search__hits--empty'},templates:{empty:'On a rien trouvé là, rien.',item:hitTemplate}}));var hidePaginationWhenNoResults={render:function(data){if(data.results.nbPages<2){document.querySelector('#pagination').classList.add('hide');}else{document.querySelector('#pagination').classList.remove('hide');}}}
 search.addWidget(hidePaginationWhenNoResults)
