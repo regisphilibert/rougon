@@ -29,6 +29,7 @@ search.addWidget(
     placeholder: 'Recherchez',
     //poweredBy: true,
     reset: false,
+    autofocus: false,
     cssClasses: {
       root: 'rm-Search__box',
       input: 'rm-Search__box__input',

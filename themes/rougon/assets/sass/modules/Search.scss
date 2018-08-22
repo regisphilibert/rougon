@@ -23,6 +23,9 @@
     .ais-search-box--magnifier svg[width]{
       fill:$black;
     }
+    .rm-Search__sponsor{
+      opacity:1;
+    }
   }
 }
 .rm-Search__sponsor{
@@ -34,6 +37,8 @@
   color:$grayDark;
   font-family:$helvetica;
   z-index: 50;
+  opacity:0;
+  transition: opacity 300ms;
   & > span, svg{
     display: inline-block;
     vertical-align: middle;
