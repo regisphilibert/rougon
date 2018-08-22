@@ -9,14 +9,28 @@ enableRobotsTXT: true
 outputs:
   home:
     - html
-    - json
+    - Algolia
 
 blackfriday:
   extensions: ["hardLineBreak"]
   hrefTargetBlank: true
+
+params:
+  algolia:
+    vars: ["title", "relpermalink"]
+    params: ["main_name", "secondary_name", "name_suffix", "novel"]
+
 
 related:
   includeNewer: true # Hugo ignores newer posts by default, we want them.
   indices:
     - name: novel # The name of the indice, and the page's .Param to use here.
       weight: 1 # We don't really need this, but omitting it would disable the indice.
+
+outputFormats:
+  Algolia:
+    baseName: algolia
+    isPlainText: true
+    mediaType: "application/json"
+    notAlternative: true
+

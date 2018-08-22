@@ -1,0 +1,57 @@
+.main-nav-wrapper{
+    position: fixed;
+    background-color:$black;
+    overflow: scroll;
+    top:0;
+    z-index:1000;
+    width: 168px + 20px;
+    left:-168px;
+    height:100%;
+    transition:150ms;
+    .rm-menu-icon{
+        position: absolute;
+        top: 1px;
+        right: 3px;
+        font-size: 16px;
+        color:white;
+        transition:.15s;
+    }
+    .scroll-wrapper{
+        overflow: auto;
+        height:100%;
+        padding:40px 25px;
+    }
+    &:hover{
+        left:0;
+        opacity:.7;
+        .rm-menu-icon{
+            top: 2px;
+            right: 9px;
+            font-size:25px;
+        }
+        &.hide{
+            left:-25%;
+        }
+    }
+    ul{
+        list-style: none;
+        padding: 0;
+        li{
+            &.child{
+                font-size: 0.8em;
+                font-family: $helvetica;
+                padding-left:1em;
+            }
+        }
+        a{
+            color:white;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+    @media screen and (min-width:$tablet){
+        width: calc(25% + 20px);
+        left:-25%;
+    }
+}
