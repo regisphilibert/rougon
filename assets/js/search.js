@@ -1,3 +1,11 @@
+const algoliaOptions = {
+  appId: 'XPQBESYJG4',
+  apiKey: '65264f58b2cf279ca5b0cabb880fdde5',
+  indexName: 'rougon-macquart.com',
+  hitsPerPage: 10,
+  urlSync: false
+};
+
 const showOnLoad = false;
 
 if(!showOnLoad){
