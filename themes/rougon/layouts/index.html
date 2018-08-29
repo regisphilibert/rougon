@@ -6,11 +6,9 @@
 			<article class="rm-item {{ .Type }}">
                 <a href="{{ .Permalink }}">
                     <h2 class="item-title">{{ .Title }} <small>{{ .Params.year }}</small></h2>
-                    {{ if ge .Hugo.Version 0.34 }}
                     <div class="item-desc tablet-block desktop-block">
                         {{ len $characters}} personnages.
                     </div>
-                    {{ end }}
                 </a>
             </article>
 		{{ end }}

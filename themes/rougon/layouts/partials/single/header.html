@@ -1,8 +1,6 @@
 {{ .Scratch.Set "header" false }}
-{{ if ge .Hugo.Version 0.34 }}
-        {{ .Scratch.Set "header" (.Resources.GetMatch "**header*") }}
-{{ end }}
-{{ $header := .Scratch.Get "header" }}
+{{ $header := false }}
+{{ $header = .Resources.GetMatch "**header*" }}
 <div class="single-head">
     <div class="item-navigation">
         {{ if .PrevInSection }}
@@ -22,6 +20,5 @@
             {{ end }}
             {{ .Title }} {{ with .Params.year }}<small>{{ . }}</small>{{ end }}
         </h1>
-
     </div>
 </div>
