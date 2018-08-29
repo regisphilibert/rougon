@@ -13,7 +13,8 @@
     <div class="item-title-wrapper">
         <h1 class="item-title {{ with $header }}with-image image-loaded{{ end }}">
             {{ with $header }}
-                <img class="background-image" src="{{ .Permalink }}" alt="">
+                {{ $img := $header.Resize "1300x" }}
+                <img class="background-image" src="{{ $img.Permalink }}" alt="">
                 {{ with .Params.copy }}
                 <div class="background-image-copyrights">{{ . }}</div>
                 {{ end }}

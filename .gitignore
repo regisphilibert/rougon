@@ -4,3 +4,9 @@ themes/rougon/static
 themes/rougon/node_modules
 assets/js/algolia.config.js
 .sass-cache/
+
+resources/*
+!resources/_gen/
+
+resources/_gen/*
+!resources/_gen/assets/
