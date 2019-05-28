@@ -12,6 +12,7 @@ outputs:
     - html
     - json
     - Algolia
+    - redirect_netlify
   section:
    - html
    - json
