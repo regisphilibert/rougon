@@ -1,0 +1,3 @@
+[submodule "themes/juliette-hugo-component"]
+	path = themes/juliette-hugo-component
+	url = git@github.com:regisphilibert/juliette-hugo-component.git
