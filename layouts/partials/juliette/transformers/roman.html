@@ -1,0 +1,17 @@
+{{/* Each custom transformers can use "transformers/default" as a base of key/values */}}
+{{ $return := newScratch }}
+{{ $return.Set "item" (partial "juliette/transformers/default" .) }}
+{{/* Each subsequentextra field must be added to `$return.SetInMap`:  */}}
+{{ with .Params.year }}
+    {{- $return.SetInMap "item" "year" . -}}
+{{ end }}
+{{ with where (.Site.RegularPages.RelatedIndices . "novel") "Type" "personnage" }}
+    {{ $return.Set "characters" slice }}
+    {{ range . }}
+        {{ $return.Add "characters" .RelPermalink }}
+    {{ end }}
+    {{ with $return.Get "characters" }}
+    {{ $return.SetInMap "item" "characters" . }}
+    {{ end }}
+{{ end }}
+{{ return $return.Get "item" }}

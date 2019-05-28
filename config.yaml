@@ -2,14 +2,23 @@ baseURL: /
 relativeURLs: true
 languageCode: fr-FR
 title: Les Rougon-Macquart
-theme: "rougon"
-
+theme: 
+  - rougon
+  - juliette-hugo-component
 enableRobotsTXT: true
 
 outputs:
   home:
     - html
+    - json
     - Algolia
+  section:
+   - html
+   - json
+   - xml
+  page:
+   - html
+   - json
 
 blackfriday:
   extensions: ["hardLineBreak"]
@@ -19,7 +28,10 @@ params:
   algolia:
     vars: ["title", "relpermalink"]
     params: ["main_name", "secondary_name", "name_suffix", "novel"]
-
+  juliette:
+    pagination: 10
+    slug: api
+    beautify: true
 
 related:
   includeNewer: true # Hugo ignores newer posts by default, we want them.
