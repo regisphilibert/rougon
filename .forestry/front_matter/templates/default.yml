@@ -1,6 +1,5 @@
 ---
-pages:
-- roman/canada/nouveau/index.md.md
+label: default
 hide_body: false
 fields:
 - name: title
@@ -18,3 +17,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/roman/canada/nouveau/index.md.md
