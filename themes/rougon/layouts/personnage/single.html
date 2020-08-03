@@ -8,7 +8,8 @@
             </h1>
         </div>
         <div class="item-desc">
-            {{ partialCached "roman/list" (dict "novels" $novels "sep" " . ") (printf "%x" $novels) }}
+            {{ $c := dict "novels" $novels "sep" " . " }}
+            {{ partialCached "roman/list" $c $c }}
         </div>
     </div>
     <div class="rm-content rm-html">
